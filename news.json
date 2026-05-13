@@ -1,0 +1,101 @@
+{
+  "updated_at": "2026-05-13T14:00:00+02:00",
+  "items": [
+    {
+      "id": "fr-case-bichat-2026-05-12",
+      "date": "2026-05-12",
+      "date_label": "12 mai 2026",
+      "tag": "gov",
+      "title": "Premier cas confirmé en France : passagère du Hondius à Bichat",
+      "title_en": "First confirmed case in France: Hondius passenger at Bichat",
+      "body": "La passagère, symptomatique durant son rapatriement, est suivie en réanimation à l'hôpital Bichat. Diagnostic confirmé par la Cellule d'intervention biologique d'urgence de l'Institut Pasteur. 27 cas contacts français placés à l'isolement.",
+      "body_en": "The passenger, symptomatic during repatriation, is being treated in intensive care at Bichat hospital. Diagnosis confirmed by the Institut Pasteur emergency biology unit. 27 French contacts placed in isolation.",
+      "source": "Ministère de la Santé",
+      "source_url": "https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france"
+    },
+    {
+      "id": "decret-isolement-2026-05-11",
+      "date": "2026-05-11",
+      "date_label": "11 mai 2026",
+      "tag": "gov",
+      "title": "Décret renforçant les mesures d'isolement (jusqu'à 42 jours)",
+      "title_en": "Decree strengthens isolation measures (up to 42 days)",
+      "body": "Le gouvernement français publie un décret encadrant la quarantaine et l'isolement des personnes exposées. La ministre de la Santé déclare que la France est « prête en termes de masques, de tests PCR, et de médicaments ».",
+      "body_en": "The French government issues a decree governing quarantine and isolation for exposed individuals. The Health Minister states France is prepared in terms of masks, PCR tests, and medication.",
+      "source": "info.gouv.fr",
+      "source_url": "https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france"
+    },
+    {
+      "id": "hondius-tenerife-2026-05-10",
+      "date": "2026-05-10",
+      "date_label": "10 mai 2026",
+      "tag": "ship",
+      "title": "Le MV Hondius accoste à Tenerife",
+      "title_en": "MV Hondius docks at Tenerife",
+      "body": "Après le refus d'accostage au Cap-Vert le 3 mai, le navire est finalement accueilli au port de Tenerife (Canaries) afin de poursuivre l'examen, la prise en charge et le transfert des passagers et de l'équipage.",
+      "body_en": "After being refused docking at Cape Verde on May 3rd, the ship is finally welcomed at the port of Tenerife (Canary Islands) for the ongoing examination, treatment and transfer of passengers and crew.",
+      "source": "ANRS MIE",
+      "source_url": "https://anrs.fr/crises-emergences/cellules-emergences/hantavirus/"
+    },
+    {
+      "id": "oms-risk-low-2026-05-08",
+      "date": "2026-05-08",
+      "date_label": "8 mai 2026",
+      "tag": "who",
+      "title": "L'OMS qualifie le risque global de « faible »",
+      "title_en": "WHO classifies global risk as low",
+      "body": "Le directeur général de l'OMS, Tedros Adhanom Ghebreyesus, déclare la situation « sans commune mesure avec la situation observée lors de la pandémie de Covid-19 ». Le risque est jugé faible en population générale et modéré pour les croisiéristes.",
+      "body_en": "WHO Director-General Tedros Adhanom Ghebreyesus declares the situation in no way comparable to the Covid-19 pandemic. Risk assessed as low in the general population and moderate for cruise travelers.",
+      "source": "ONU Info",
+      "source_url": "https://news.un.org/fr/story/2026/05/1158801"
+    },
+    {
+      "id": "anrs-cellule-2026-05-07",
+      "date": "2026-05-07",
+      "date_label": "7 mai 2026",
+      "tag": "research",
+      "title": "L'ANRS MIE active une cellule Émergence de niveau 1",
+      "title_en": "ANRS MIE activates a Level 1 Emergence cell",
+      "body": "L'Agence nationale de recherche sur les maladies infectieuses émergentes met en place une veille scientifique renforcée et définit des priorités de recherche en lien avec les communautés scientifiques.",
+      "body_en": "The French National Agency for Emerging Infectious Diseases Research sets up enhanced scientific monitoring and defines research priorities in coordination with scientific communities.",
+      "source": "ANRS MIE",
+      "source_url": "https://anrs.fr/crises-emergences/cellules-emergences/hantavirus/"
+    },
+    {
+      "id": "andes-seq-2026-05-06",
+      "date": "2026-05-06",
+      "date_label": "6 mai 2026",
+      "tag": "who",
+      "title": "Séquençage confirmé : souche Andes",
+      "title_en": "Sequencing confirmed: Andes strain",
+      "body": "L'analyse de biologie moléculaire réalisée par les autorités sanitaires sud-africaines identifie une souche d'hantavirus de type Andes — la seule des 38 souches connues capable d'une transmission interhumaine limitée.",
+      "body_en": "Molecular biology analysis by South African health authorities identifies an Andes-type hantavirus strain — the only one of 38 known strains capable of limited human-to-human transmission.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06/"
+    },
+    {
+      "id": "oms-alert-2026-05-03",
+      "date": "2026-05-03",
+      "date_label": "3 mai 2026",
+      "tag": "alert",
+      "title": "L'OMS alerte sur un foyer à bord du MV Hondius",
+      "title_en": "WHO alerts on outbreak aboard MV Hondius",
+      "body": "L'Organisation mondiale de la santé signale un possible foyer d'infection à hantavirus à bord du navire de croisière néerlandais reliant Ushuaïa au Cap-Vert. 147 passagers et membres d'équipage à bord. Trois décès rapportés.",
+      "body_en": "The World Health Organization signals a possible hantavirus infection cluster aboard the Dutch cruise ship sailing from Ushuaia to Cape Verde. 147 passengers and crew aboard. Three deaths reported.",
+      "source": "OMS — Disease Outbreak News",
+      "source_url": "https://www.who.int/emergencies/disease-outbreak-news"
+    },
+    {
+      "id": "hondius-departure-2026-04-01",
+      "date": "2026-04-01",
+      "date_label": "1 avril 2026",
+      "tag": "ship",
+      "title": "Départ d'Ushuaïa, Argentine",
+      "title_en": "Departure from Ushuaia, Argentina",
+      "body": "Le MV Hondius quitte Ushuaïa pour une croisière à destination du Cap-Vert. Plusieurs escales prévues sur l'itinéraire atlantique, dont Sainte-Hélène.",
+      "body_en": "The MV Hondius leaves Ushuaia for a cruise bound for Cape Verde. Several stops planned along the Atlantic route, including Saint Helena.",
+      "source": "ANRS MIE",
+      "source_url": "https://anrs.fr/crises-emergences/cellules-emergences/hantavirus/"
+    }
+  ]
+}

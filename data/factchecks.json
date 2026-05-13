@@ -1,55 +1,70 @@
 {
-  "updated_at": "2026-05-13T16:29:23.992733+00:00",
+  "updated_at": "2026-05-13T14:00:00+02:00",
   "items": [
     {
       "id": "manual-new-virus",
       "manual": true,
-      "verdict": "false",
-      "claim": "L'hantavirus est un nouveau virus, sorti de nulle part",
-      "claim_en": "Hantavirus is a brand new virus, out of nowhere",
-      "fact": "Identifié dans les années 1950 lors de la guerre de Corée. Son nom vient de la rivière Hantaan. Plus de 20 espèces pathogènes sont connues, présentes sur tous les continents.",
-      "fact_en": "Identified during the Korean War in the 1950s. Named after the Hantaan river. More than 20 pathogenic species are known across all continents.",
-      "source": "Inserm, Institut Pasteur"
+      "date": "2026-05-13",
+      "date_label": "13 mai 2026",
+      "tag": "alert",
+      "title": "Faux : « L'hantavirus est un nouveau virus »",
+      "title_en": "False: \"Hantavirus is a brand new virus\"",
+      "body": "L'hantavirus a été identifié dans les années 1950 lors de la guerre de Corée. Son nom vient de la rivière Hantaan. Plus de 20 espèces pathogènes sont connues, présentes sur tous les continents depuis des décennies.",
+      "body_en": "Hantavirus was identified during the Korean War in the 1950s. Named after the Hantaan river. More than 20 pathogenic species are known across all continents, documented for decades.",
+      "source": "Inserm / Institut Pasteur",
+      "source_url": "https://www.pasteur.fr/fr/centre-medical/fiches-maladies/hantaviroses"
     },
     {
       "id": "manual-covid-2",
       "manual": true,
-      "verdict": "false",
-      "claim": "C'est Covid 2.0, ça va se propager partout",
-      "claim_en": "It's Covid 2.0, it's going to spread everywhere",
-      "fact": "L'OMS qualifie le risque de « faible » en population générale et « sans commune mesure avec la situation observée lors de la pandémie de Covid-19 ». Seule la souche Andes peut se transmettre entre humains, et uniquement par contacts étroits et prolongés.",
-      "fact_en": "The WHO classifies the risk as low in the general population and explicitly states the situation is in no way comparable to the Covid-19 pandemic. Only the Andes strain can transmit between humans, and only through close, prolonged contact.",
-      "source": "OMS, ECDC, 8 mai 2026"
+      "date": "2026-05-13",
+      "date_label": "13 mai 2026",
+      "tag": "alert",
+      "title": "Faux : « C'est Covid 2.0, ça va se propager partout »",
+      "title_en": "False: \"It's Covid 2.0, it's going to spread everywhere\"",
+      "body": "L'OMS qualifie le risque de « faible » en population générale et « sans commune mesure avec la situation observée lors de la pandémie de Covid-19 ». Seule la souche Andes peut se transmettre entre humains, et uniquement par contacts étroits et prolongés.",
+      "body_en": "The WHO classifies the risk as low in the general population and explicitly states the situation is in no way comparable to the Covid-19 pandemic. Only the Andes strain can transmit between humans, and only through close, prolonged contact.",
+      "source": "OMS / ECDC",
+      "source_url": "https://www.who.int/news/item/08-05-2026-statement-on-hantavirus-outbreak"
     },
     {
       "id": "manual-ivermectine",
       "manual": true,
-      "verdict": "false",
-      "claim": "L'ivermectine soigne l'hantavirus",
-      "claim_en": "Ivermectin treats hantavirus",
-      "fact": "L'OMS a explicitement déclaré n'avoir « vu aucune étude démontrant que l'ivermectine est un traitement efficace contre l'hantavirus ». Ce médicament antiparasitaire n'agit pas sur les infections virales.",
-      "fact_en": "The WHO has explicitly declared it has seen no studies showing that ivermectin is an effective treatment against hantavirus. This antiparasitic drug does not act on viral infections.",
-      "source": "OMS, John Lednicky (virologue, Univ. de Floride)"
+      "date": "2026-05-13",
+      "date_label": "13 mai 2026",
+      "tag": "alert",
+      "title": "Faux : « L'ivermectine soigne l'hantavirus »",
+      "title_en": "False: \"Ivermectin treats hantavirus\"",
+      "body": "L'OMS a déclaré n'avoir vu aucune étude démontrant que l'ivermectine est efficace contre l'hantavirus. Ce médicament antiparasitaire n'agit pas sur les infections virales.",
+      "body_en": "The WHO has stated it has seen no studies showing that ivermectin is an effective treatment against hantavirus. This antiparasitic drug does not act on viral infections.",
+      "source": "OMS",
+      "source_url": "https://www.who.int/news/item/08-05-2026-statement-on-hantavirus-outbreak"
     },
     {
       "id": "manual-lab-leak",
       "manual": true,
-      "verdict": "false",
-      "claim": "L'hantavirus s'est échappé d'un laboratoire",
-      "claim_en": "Hantavirus escaped from a laboratory",
-      "fact": "Les hantavirus sont zoonotiques : ils circulent depuis toujours chez les rongeurs sauvages (campagnols, mulots). Le foyer actuel est lié à l'environnement du navire MV Hondius en zone d'endémie sud-américaine.",
-      "fact_en": "Hantaviruses are zoonotic: they have always circulated among wild rodents (voles, field mice). The current outbreak is linked to the MV Hondius environment in a South American endemic zone.",
-      "source": "Institut Pasteur, CNR Hantavirus"
+      "date": "2026-05-13",
+      "date_label": "13 mai 2026",
+      "tag": "alert",
+      "title": "Faux : « L'hantavirus s'est échappé d'un laboratoire »",
+      "title_en": "False: \"Hantavirus escaped from a laboratory\"",
+      "body": "Les hantavirus sont zoonotiques : ils circulent depuis toujours chez les rongeurs sauvages (campagnols, mulots). Le foyer actuel est lié à l'environnement du MV Hondius en zone d'endémie sud-américaine.",
+      "body_en": "Hantaviruses are zoonotic: they have always circulated among wild rodents (voles, field mice). The current outbreak is linked to the MV Hondius environment in a South American endemic zone.",
+      "source": "Institut Pasteur / CNR Hantavirus",
+      "source_url": "https://www.pasteur.fr/fr/centre-medical/fiches-maladies/hantaviroses"
     },
     {
       "id": "manual-vaccine-side",
       "manual": true,
-      "verdict": "false",
-      "claim": "C'est un effet secondaire du vaccin Covid",
-      "claim_en": "It's a side effect of the Covid vaccine",
-      "fact": "Biologiquement infondé. L'hantavirus est connu et documenté depuis 75 ans. Les vaccins à ARNm contre le SARS-CoV-2 ne contiennent aucun matériel viral d'hantavirus et ne peuvent en provoquer l'infection.",
-      "fact_en": "Biologically unfounded. Hantavirus has been known and documented for 75 years. mRNA SARS-CoV-2 vaccines contain no hantavirus genetic material and cannot cause infection.",
-      "source": "Agence de vérification Radio France, AFP Factuel"
+      "date": "2026-05-13",
+      "date_label": "13 mai 2026",
+      "tag": "alert",
+      "title": "Faux : « C'est un effet secondaire du vaccin Covid »",
+      "title_en": "False: \"It's a side effect of the Covid vaccine\"",
+      "body": "Biologiquement infondé. L'hantavirus est connu depuis 75 ans. Les vaccins à ARNm contre le SARS-CoV-2 ne contiennent aucun matériel viral d'hantavirus et ne peuvent en provoquer l'infection.",
+      "body_en": "Biologically unfounded. Hantavirus has been known for 75 years. mRNA SARS-CoV-2 vaccines contain no hantavirus genetic material and cannot cause infection.",
+      "source": "AFP Factuel / Radio France Vrai du Faux",
+      "source_url": "https://factuel.afp.com/"
     }
   ]
 }

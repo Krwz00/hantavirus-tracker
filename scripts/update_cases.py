@@ -239,6 +239,9 @@ def build_user_prompt(current: dict, articles: list[dict]) -> str:
 
 
 def call_claude(api_key: str, prompt: str) -> str:
+    """Appelle Claude avec un assistant prefill `{` pour forcer la sortie à
+    démarrer par un objet JSON, même si le modèle a tendance à écrire de la
+    prose en préambule."""
     # Import paresseux pour permettre --dry-run sans dépendance installée.
     from anthropic import Anthropic
 
@@ -247,18 +250,55 @@ def call_claude(api_key: str, prompt: str) -> str:
         model=MODEL,
         max_tokens=MAX_TOKENS,
         system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": prompt}],
+        messages=[
+            {"role": "user", "content": prompt},
+            # Prefill : on force la réponse à commencer par `{`. Claude
+            # continue à partir de là et le JSON est la seule continuation
+            # cohérente.
+            {"role": "assistant", "content": "{"},
+        ],
     )
     parts = []
     for block in resp.content:
         if getattr(block, "type", None) == "text":
             parts.append(block.text)
-    text = "".join(parts).strip()
-    # Robustesse : si le LLM enveloppe quand même en ```json, on l'enlève.
-    if text.startswith("```"):
-        text = re.sub(r"^```(?:json)?\s*", "", text)
-        text = re.sub(r"\s*```$", "", text)
-    return text.strip()
+    text = "{" + "".join(parts)
+    # Le prefill garantit qu'on a un `{` au début. Mais le modèle peut
+    # encore écrire de la prose APRÈS le JSON. On extrait le premier objet
+    # équilibré (balanced braces, conscient des strings).
+    return extract_first_json_object(text)
+
+
+def extract_first_json_object(text: str) -> str:
+    """Retourne le premier objet JSON top-level balanced trouvé dans text.
+    Indispensable quand le modèle ajoute de la prose autour du JSON malgré
+    les instructions strictes."""
+    start = text.find("{")
+    if start < 0:
+        return text  # rien à extraire, laisse json.loads échouer
+    depth = 0
+    in_str = False
+    escape = False
+    for i in range(start, len(text)):
+        c = text[i]
+        if escape:
+            escape = False
+            continue
+        if c == "\\":
+            escape = True
+            continue
+        if c == '"':
+            in_str = not in_str
+            continue
+        if in_str:
+            continue
+        if c == "{":
+            depth += 1
+        elif c == "}":
+            depth -= 1
+            if depth == 0:
+                return text[start:i + 1]
+    return text  # objet non fermé : laisse json.loads échouer avec une erreur claire
 
 
 # -----------------------------------------------------------------------------

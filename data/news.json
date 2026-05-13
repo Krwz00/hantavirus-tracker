@@ -74,8 +74,8 @@
       "tag": "who",
       "title": "Séquençage confirmé : souche Andes",
       "title_en": "Sequencing confirmed: Andes strain",
-      "body": "L'analyse de biologie moléculaire réalisée par les autorités sanitaires sud-africaines identifie une souche d'hantavirus de type Andes — la seule des 38 souches connues capable d'une transmission interhumaine limitée.",
-      "body_en": "Molecular biology analysis by South African health authorities identifies an Andes-type hantavirus strain — the only one of 38 known strains capable of limited human-to-human transmission.",
+      "body": "L'analyse de biologie moléculaire réalisée par les autorités sanitaires sud-africaines identifie une souche d'hantavirus de type Andes : la seule des 38 souches connues capable d'une transmission interhumaine limitée.",
+      "body_en": "Molecular biology analysis by South African health authorities identifies an Andes-type hantavirus strain : the only one of 38 known strains capable of limited human-to-human transmission.",
       "source": "Reuters",
       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06/"
     },
@@ -89,7 +89,7 @@
       "title_en": "WHO alerts on outbreak aboard MV Hondius",
       "body": "L'Organisation mondiale de la santé signale un possible foyer d'infection à hantavirus à bord du navire de croisière néerlandais reliant Ushuaïa au Cap-Vert. 147 passagers et membres d'équipage à bord. Trois décès rapportés.",
       "body_en": "The World Health Organization signals a possible hantavirus infection cluster aboard the Dutch cruise ship sailing from Ushuaia to Cape Verde. 147 passengers and crew aboard. Three deaths reported.",
-      "source": "OMS — Disease Outbreak News",
+      "source": "OMS : Disease Outbreak News",
       "source_url": "https://www.who.int/emergencies/disease-outbreak-news"
     },
     {

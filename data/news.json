@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T18:26:10.654708+00:00",
+  "updated_at": "2026-05-13T18:55:32.369045+00:00",
   "items": [
     {
       "id": "feed-6711993b34",
@@ -7,12 +7,90 @@
       "date": "2026-05-13T20:22:01+02:00",
       "date_label": "13 mai 2026",
       "tag": "media",
-      "title": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été testés négatifs",
-      "title_en": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été testés négatifs",
+      "title": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été diagnostiqués négatifs",
+      "title_en": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été diagnostiqués négatifs",
       "body": "La ministre de la santé, Stéphanie Rist, a affirmé plus tôt dans la journée que seraient connus mercredi les résultats des tests des 22 cas contacts français n’ayant pas été passagers du navire « Hondius ».",
       "body_en": "La ministre de la santé, Stéphanie Rist, a affirmé plus tôt dans la journée que seraient connus mercredi les résultats des tests des 22 cas contacts français n’ayant pas été passagers du navire « Hondius ».",
       "source": "Le Monde — Planète",
       "source_url": "https://www.lemonde.fr/sante/live/2026/05/13/en-direct-hantavirus-parmi-les-26-cas-contacts-francais-les-quatre-enfants-ont-tous-ete-testes-negatifs_6688609_1651302.html"
+    },
+    {
+      "id": "feed-ca83083573",
+      "manual": false,
+      "date": "2026-05-13T18:46:00+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Albany doctor breaks down hantavirus concerns after cruise ship exposure - WALB",
+      "title_en": "Albany doctor breaks down hantavirus concerns after cruise ship exposure - WALB",
+      "body": "Albany doctor breaks down hantavirus concerns after cruise ship exposure &nbsp;&nbsp; WALB",
+      "body_en": "Albany doctor breaks down hantavirus concerns after cruise ship exposure &nbsp;&nbsp; WALB",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0JmLWtleE9UYVRJNktLMEdSMDUtZkRxVmh5M2FNWjB6bnVILW9UWUxweVM3QXdId0FLS2lfRWg0ZTRZVDJCMUZGbTlZbkZsY3FHc1JOSUVpN1BBX3BQWUdTcURaZks2T3FQYUR1eFV1MFdnYWpwbmNtbzk2TWZDWTI4bUliZ3hwVmVfZUJFeTJRNF9ONEhUd09uazI4S1pwcm9nQ3ZyMGk?oc=5"
+    },
+    {
+      "id": "feed-2d38ca46ce",
+      "manual": false,
+      "date": "2026-05-13T18:44:28+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus : Emmanuel Macron peut-il cette fois revendiquer une gestion sanitaire rigoureuse - Libération",
+      "title_en": "Hantavirus : Emmanuel Macron peut-il cette fois revendiquer une gestion sanitaire rigoureuse - Libération",
+      "body": "Hantavirus : Emmanuel Macron peut-il cette fois revendiquer une gestion sanitaire rigoureuse &nbsp;&nbsp; Libération",
+      "body_en": "Hantavirus : Emmanuel Macron peut-il cette fois revendiquer une gestion sanitaire rigoureuse &nbsp;&nbsp; Libération",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWmk3ejc0bDNCcG51V1FSbFkwbVBTR2UwVEo5aS1UdFhESlJHeE5PZElJaWdkSE5ZTjVHVU9sUV9URmxoMHpneFlVTDdzcjBqSEh4REh5VGpPMldoZ2hHNnhLTUNFTnBlcGlZRjhGNTlKZzdMZVpQZVJWOEVkMHB4ZFBFQjJjLVBmdDdneWZKWjBNZEdBOVREM0hrdVcxRXZIWldLMW0tLUhTS081T0tZQW1zSUlhWmNzSnFSUmh6cWFhZnd1aHFlcHk1SHNMbUJIWUdBUUlhdksxYzV2UWlOdHBOUm5iN0ZyUS1WandwQ3g5U2QwNUV5MUlVbw?oc=5"
+    },
+    {
+      "id": "feed-ce5340340a",
+      "manual": false,
+      "date": "2026-05-13T18:38:43+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus : Emmanuel Macron peut-il cette fois revendiquer une gestion sanitaire rigoureuse ?",
+      "title_en": "Hantavirus : Emmanuel Macron peut-il cette fois revendiquer une gestion sanitaire rigoureuse ?",
+      "body": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il s’interroge sur la prise de «bonnes décisions» de la France sur la souche des Andes et son protocole devenu l’un des plus stricts du monde.",
+      "body_en": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il s’interroge sur la prise de «bonnes décisions» de la France sur la souche des Andes et son protocole devenu l’un des plus stricts du monde.",
+      "source": "Libération",
+      "source_url": "https://www.liberation.fr/societe/sante/hantavirus-emmanuel-macron-peut-il-cette-fois-revendiquer-une-gestion-sanitaire-rigoureuse-20260513_26LOUUEN3VA2DM63EQEATDNXR4/"
+    },
+    {
+      "id": "feed-448708d23f",
+      "manual": false,
+      "date": "2026-05-13T18:27:45+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus : les vingt-deux cas contacts ont débuté leur quarantaine, \"ils ne présentent aucun symptômes\" - lanouvellerepublique.fr",
+      "title_en": "Hantavirus : les vingt-deux cas contacts ont débuté leur quarantaine, \"ils ne présentent aucun symptômes\" - lanouvellerepublique.fr",
+      "body": "Hantavirus : les vingt-deux cas contacts ont débuté leur quarantaine, \"ils ne présentent aucun symptômes\" &nbsp;&nbsp; lanouvellerepublique.fr",
+      "body_en": "Hantavirus : les vingt-deux cas contacts ont débuté leur quarantaine, \"ils ne présentent aucun symptômes\" &nbsp;&nbsp; lanouvellerepublique.fr",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSFZoOHkwWHlVNjhWaEZMQlZaQzhpVENocHVsUXlkZGNQR2hjR1ptYXFiNlBIVjFMbmV0NTFvN192OUJibE1VVERDRnd5dEJPQk5MQVVGbUh3VGJUUUQxUVBYNGZmX0hzSHd5T2llMXdidXRCaW44NE85aEQ0MEg5MEFYNjNFZl9RY1BkbzViUGZ6QVFuREdBUGdCNjNzaXlWbkh4YkdWU1Foc3F2VEV0TFNsNXRqVzlKYXFuWGx1cXRiWkoxdjE4aFVfbWNLNnBpS21KNEFSVERpT2N3eVBLYmFhNG1GVkl2ZFA5cw?oc=5"
+    },
+    {
+      "id": "feed-93fa6e4689",
+      "manual": false,
+      "date": "2026-05-13T18:26:54+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "How Worried Should We Be About Hantavirus?",
+      "title_en": "How Worried Should We Be About Hantavirus?",
+      "body": "Our global health reporter, Apoorva Mandavilli, explains that there is no indication the hantavirus outbreak could turn into a pandemic — but also that the public might not be getting all of the details.",
+      "body_en": "Our global health reporter, Apoorva Mandavilli, explains that there is no indication the hantavirus outbreak could turn into a pandemic — but also that the public might not be getting all of the details.",
+      "source": "The New York Times — Health",
+      "source_url": "https://www.nytimes.com/video/health/100000010896688/how-worried-should-we-be-about-hantavirus.html"
+    },
+    {
+      "id": "feed-8436eb0122",
+      "manual": false,
+      "date": "2026-05-13T18:24:33+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus : le CHU d’Angers prêt à déployer sa cellule d’isolement - Ouest-France",
+      "title_en": "Hantavirus : le CHU d’Angers prêt à déployer sa cellule d’isolement - Ouest-France",
+      "body": "Hantavirus : le CHU d’Angers prêt à déployer sa cellule d’isolement &nbsp;&nbsp; Ouest-France",
+      "body_en": "Hantavirus : le CHU d’Angers prêt à déployer sa cellule d’isolement &nbsp;&nbsp; Ouest-France",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlJ1RGJyQ1d3TnZ4dFVtSzRObGRIRDZrOGdZWk1lcUkyVXA5aVpvMUxhcUtIQXdib1ZYZ3lVdDhRUEpBdmZjU0pBVEpDX0h1dWdTUnZjNS1YRndUS0IyRlhmakdJYW9qWERXb3l6allkekdSMml1RUQ4SXVwNVJhZXROaHdlOVhsVW5pelF1WjZlVThXajZXMnB1OS1ycFkxYmxzVkdOVGw2ajY0T3lrYUU2OE5xTEx6NWJPeEJZVWswaG03SGMwX2NMUjFiaVozRnpZdklFMHVuWVJVMmVhYW1kUGhITTM2NjB3Z1RTUW9Mdw?oc=5"
     },
     {
       "id": "feed-9d03c66e26",
@@ -41,6 +119,45 @@
       "source_url": "http://www.lequotidiendumedecin.fr/actu-medicale/sante-publique/hantavirus-lappel-du-ministere-les-medecins-liberaux-sur-le-pont-pour-rassurer-la-population"
     },
     {
+      "id": "feed-7a59715e37",
+      "manual": false,
+      "date": "2026-05-13T18:17:27+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus Scientists Were Close to Vaccine But Ran Out of Money - Bloomberg.com",
+      "title_en": "Hantavirus Scientists Were Close to Vaccine But Ran Out of Money - Bloomberg.com",
+      "body": "Hantavirus Scientists Were Close to Vaccine But Ran Out of Money &nbsp;&nbsp; Bloomberg.com",
+      "body_en": "Hantavirus Scientists Were Close to Vaccine But Ran Out of Money &nbsp;&nbsp; Bloomberg.com",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM0E2aUV1T29yT0M3NjVXY3Y3c2kzS0xOV0JuY3g2bW1kTnJLbXN0Nkhwc0pxUTd1eW5GRDY0ZnQzSEx1NjJ4blpsdWRiNkxYdFBfbG1rYzZQQ2RENGNCTXBQbENINE81R2MxaGpFTExIOVpGQXlsWFhGY2lOLUhIMDNlb2Z5d05BeTlMZG1Sdlp1VGN6TENOSk1RcEttMXBqelVJeFRQYWJMR1B6enQ5LXBBSXJMUQ?oc=5"
+    },
+    {
+      "id": "feed-003c698921",
+      "manual": false,
+      "date": "2026-05-13T18:15:54+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Public Health Officials Believe The Hantavirus Outbreak Is Under Control - Forbes",
+      "title_en": "Public Health Officials Believe The Hantavirus Outbreak Is Under Control - Forbes",
+      "body": "Public Health Officials Believe The Hantavirus Outbreak Is Under Control &nbsp;&nbsp; Forbes",
+      "body_en": "Public Health Officials Believe The Hantavirus Outbreak Is Under Control &nbsp;&nbsp; Forbes",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2JJank1Wm9WUm9UdGpzRVZqVWZZSm15b19YampubEM1RFZCVUJWY1pmTG41S2ItNTZvSndwN1NKMWdoV1Q5eFlMbU5JRVR1U2ZWVmlXTmVtb3FFam52dGJTMUtPQ1Y3eE9aTktpVjBRTmxlMTN3TWVJaFVVbXVKbTYzeW85ZGxCWUk0NERJRVR3N1dpR3NjWENoSl83WGJSSTUwZWNsY1RSREhLZ21rYzJoTjlHMzNIU2phd2EyLWs4bFlR?oc=5"
+    },
+    {
+      "id": "feed-c4a712c5ac",
+      "manual": false,
+      "date": "2026-05-13T18:12:09+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été testés négatifs - Le Monde.fr",
+      "title_en": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été testés négatifs - Le Monde.fr",
+      "body": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été testés négatifs &nbsp;&nbsp; Le Monde.fr Les 26 cas contacts ne présentent toujours aucun symptôme, les tests de quatre d'entre eux négatifs &nbsp;&nbsp; Libération DIRECT. Hantavirus: les cas contacts français ne présentent…",
+      "body_en": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été testés négatifs &nbsp;&nbsp; Le Monde.fr Les 26 cas contacts ne présentent toujours aucun symptôme, les tests de quatre d'entre eux négatifs &nbsp;&nbsp; Libération DIRECT. Hantavirus: les cas contacts français ne présentent…",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSWEyZmF0QTM2MzZQbDB0blFQalJvZWdtMXB5M29udGUxbVRTMG9SYXMwbDBsVmxtQkNLenZySE1JUXRTOUpzQkpOc2lQcmwxdFBEUEd4d2xWSGY2dFpTMkxmZEZuWS1sXzJ6TDY2Ulg4UmFId2xXb2l0eExVeWRUellDTWlBd19UYnRfd3dnby1iajhWWkNkVk5zME5FZUJMcHJ6NWR2RE9KY3FudnVWc19qcDlYOWtTTWNfRE05eU5IZG1qY1YxbUpEY1J5ZVdIR2E3NDMyQUNiMzFfbWVuRUl3R1c2TDNGTXNDel9RRFkwNkE2OHd2T1lWcGlQZw?oc=5"
+    },
+    {
       "id": "feed-15669cbc60",
       "manual": false,
       "date": "2026-05-13T18:05:39+00:00",
@@ -59,10 +176,10 @@
       "date": "2026-05-13T18:00:14+02:00",
       "date_label": "13 mai 2026",
       "tag": "media",
-      "title": "Hantavirus : ce que l’on sait sur les traitements à l’essai et les candidats vaccins",
-      "title_en": "Hantavirus : ce que l’on sait sur les traitements à l’essai et les candidats vaccins",
-      "body": "Des candidats vaccins et médicaments sont en cours de développement, mais cette famille de virus n’avait, jusqu’au foyer épidémique apparu à bord du « Hondius », jamais été considérée comme une priorité de santé publique.",
-      "body_en": "Des candidats vaccins et médicaments sont en cours de développement, mais cette famille de virus n’avait, jusqu’au foyer épidémique apparu à bord du « Hondius », jamais été considérée comme une priorité de santé publique.",
+      "title": "Hantavirus : ce que l’on sait sur les traitements à l’essai et les candidats-vaccins",
+      "title_en": "Hantavirus : ce que l’on sait sur les traitements à l’essai et les candidats-vaccins",
+      "body": "Des candidats-vaccins et médicaments sont en cours de développement, mais cette famille de virus n’avait, jusqu’au foyer épidémique apparu à bord du « Hondius », jamais été considérée comme une priorité de santé publique.",
+      "body_en": "Des candidats-vaccins et médicaments sont en cours de développement, mais cette famille de virus n’avait, jusqu’au foyer épidémique apparu à bord du « Hondius », jamais été considérée comme une priorité de santé publique.",
       "source": "Le Monde — Planète",
       "source_url": "https://www.lemonde.fr/planete/article/2026/05/13/hantavirus-existe-t-il-des-traitements-et-vaccins_6688730_3244.html"
     },
@@ -80,19 +197,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0p1alQ1VDNCSGlCQjFXYjh6TXZTWGl1aWlFSG1VdTlxYVY3c21BVGllcW1KcnVOOEhQcWF4U1FsdHBDc1oxQkVmanFHQU5adnBPeU42NXkxNHo4TGpFU0l0dU0wYzdhRDQ0ZnJTa2JIZm00SzAxU05EV3Rkd09HQU9PMjd6blJRR21sYnVidUNNSkFNQVppcTRQQzNEQkJIRDR3T0RfTDZ5Rzl3NlE?oc=5"
     },
     {
-      "id": "feed-389bef3a7c",
-      "manual": false,
-      "date": "2026-05-13T17:56:00+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "Dutch hospital quarantines 12 staffers following Hantavirus protocol breach - New York Post",
-      "title_en": "Dutch hospital quarantines 12 staffers following Hantavirus protocol breach - New York Post",
-      "body": "Dutch hospital quarantines 12 staffers following Hantavirus protocol breach &nbsp;&nbsp; New York Post",
-      "body_en": "Dutch hospital quarantines 12 staffers following Hantavirus protocol breach &nbsp;&nbsp; New York Post",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnVhWENUeHFOcU1ZS2ZSRzFoV1gwdmhiWHBqZHUxM0FqTm1RZk83WkJwQm9tUV9fSnRlc29XNzdqQTk5bDhIbWhZS0ozeXpDLWMwZlZ1RzhrRXRVeU44LXBlbl9GS2gzWXpkVUdSYTRka1VFRGt4cHdjWE5hR3ZGWFZrbC1kcHJLQkZOWXpCWjZwSXJIcG5aMEI5TjczVDAzZzdCelB5clVkTDBiUEkydG5KX0hTMDVG?oc=5"
-    },
-    {
       "id": "feed-a51cbb668f",
       "manual": false,
       "date": "2026-05-13T17:54:24+02:00",
@@ -104,6 +208,19 @@
       "body_en": "La souche des Andes à l'origine du foyer de contamination sur le \"MV Hondius\", de la famille des hantavirus, a été découverte pour la première fois en 1995 en Argentine, où environ 100 cas sont signalés chaque année.",
       "source": "France Info — Santé",
       "source_url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-quand-l-hantavirus-a-t-il-ete-decouvert-et-a-t-il-deja-cause-des-epidemies_8001731.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "feed-4420d47ba4",
+      "manual": false,
+      "date": "2026-05-13T17:52:08+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Un homme cas contact d'hantavirus aurait été admis au CHU de Rouen - France 3 Régions",
+      "title_en": "Un homme cas contact d'hantavirus aurait été admis au CHU de Rouen - France 3 Régions",
+      "body": "Un homme cas contact d'hantavirus aurait été admis au CHU de Rouen &nbsp;&nbsp; France 3 Régions",
+      "body_en": "Un homme cas contact d'hantavirus aurait été admis au CHU de Rouen &nbsp;&nbsp; France 3 Régions",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNWtyWkJBcVhoOExMUzRqMlJ6RjBidldOTDB5ZHdvTm42QXctWllic1dWUG93S2ZvRTVuaUlyODE3ZXQzMjJFUWttZWpieUZVVy1fU0RjcVhYc0FOVXN3RFFncDhEVmpMa1QxRGtSZHVUT3JjTGNJSFJJSDNBWG1mV2djX0xfSDhpb09uVE1PSmRWV0VWdDJMTDJHTEVaTUVhREowb2dzYVRtT0txRlVMOVJQcDZDMnp0d2I2a18zUkNaV2Nvb0FfVjhhaXNSUWEya3NwZk81MUVkX19OWDJzc3Rn?oc=5"
     },
     {
       "id": "feed-2f2692ec40",
@@ -132,19 +249,6 @@
       "source_url": "http://www.lequotidiendumedecin.fr/specialites/infectiologie/infections-hantavirus-des-andes-la-prise-en-charge-et-la-recherche-sorganisent"
     },
     {
-      "id": "feed-6cc54a0c90",
-      "manual": false,
-      "date": "2026-05-13T17:33:40+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "Hantavirus : les 26 Français cas contacts sont sans symptôme, annonce le gouvernement - Actu.fr",
-      "title_en": "Hantavirus : les 26 Français cas contacts sont sans symptôme, annonce le gouvernement - Actu.fr",
-      "body": "Hantavirus : les 26 Français cas contacts sont sans symptôme, annonce le gouvernement &nbsp;&nbsp; Actu.fr",
-      "body_en": "Hantavirus : les 26 Français cas contacts sont sans symptôme, annonce le gouvernement &nbsp;&nbsp; Actu.fr",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXFSVXBGeHdZQUNfdVd6T2dOU3ZBMjByNDlpWlN5eUVITTU1TlQ3LU5DczNQNnJoaEZoLVkyeEN3dE9wV2tNR3Zkd09rU2dyclRiWmVOWUFhNXp2R3MweU5XUmx2WTJ0bTNNTHJPR1lCLVNGbnBDZEZ1em1JaTdTSHlPSDAzUS03VzQ2WEpXN0hlNndLRFdUWG1DbmR2LVRsOGJpX2xaSk1FVk9vS1dIYkRLWWUzdngzTnBYckxHWnNRSEIzZ2hub01RMA?oc=5"
-    },
-    {
       "id": "feed-1f89a0a000",
       "manual": false,
       "date": "2026-05-13T17:29:02+00:00",
@@ -171,16 +275,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3ZEU2LTUtYmdSV1FmQ1p5XzNrSWcwakFNU2FDeW0yRTExYmR1WkUyRlI1MlJFLTl1c28zc3BhOHJnUmRqQzBPWkl0YlMtdXVmVDRpaGd5cGpYZ0VxSWhUaEdmdkxfMHp1WDBIb0R4ZWVsN1VJYVhKc0F4SVNsdw?oc=5"
     },
     {
-      "id": "feed-8c8e9e3f1d",
+      "id": "feed-ae11dc2a1b",
       "manual": false,
       "date": "2026-05-13T17:23:29+00:00",
       "date_label": "13 mai 2026",
       "tag": "media",
       "title": "Six from hantavirus cruise ship leave Arrowe Park hospital to isolate at home",
       "title_en": "Six from hantavirus cruise ship leave Arrowe Park hospital to isolate at home",
-      "body": "Passengers will now continue their 45 days of isolation at home, with health officials confirming they remain asymptomatic Six people who were on the cruise ship linked to an outbreak of hantavirus have left Arrowe Park hospital in Wirral to isolate at home, health officials have said. Passengers from the MV Hondius…",
-      "body_en": "Passengers will now continue their 45 days of isolation at home, with health officials confirming they remain asymptomatic Six people who were on the cruise ship linked to an outbreak of hantavirus have left Arrowe Park hospital in Wirral to isolate at home, health officials have said. Passengers from the MV Hondius…",
-      "source": "The Guardian — World",
+      "body": "Passengers will remain in isolation for 45 days of isolation, with health officials confirming they remain asymptomatic Six people who were evacuated from the cruise ship affected by a hantavirus outbreak have left Arrowe Park hospital in Wirral to complete their isolation at home, health officials have said. The…",
+      "body_en": "Passengers will remain in isolation for 45 days of isolation, with health officials confirming they remain asymptomatic Six people who were evacuated from the cruise ship affected by a hantavirus outbreak have left Arrowe Park hospital in Wirral to complete their isolation at home, health officials have said. The…",
+      "source": "The Guardian — Health",
       "source_url": "https://www.theguardian.com/world/2026/may/13/six-from-hantavirus-cruise-ship-leave-arrowe-park-hospital-to-isolate-at-home"
     },
     {
@@ -223,6 +327,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdzlvZ2NmREpKNmxXa21hZTlwTERNUTNLZFEwRE5hM29HWlpaNEhoQVVlcmI1M0ZTVVVqX1UtX3BhLWJUSlRYVllwZVVRazh4NGRFQVJCNm9SX2JPckZkZzhneVpnN2JBWEhCQjNTR2JOdVpTMVRVdWJFdWRxTEdfdnlTVWlfUzQ4UktIWkp4ZWNqaHVaVEhvTk0zSDdZNFhLa2xoRVpxOWxKR0ppTFFrVDN6MEoydnl5Y1ZyRzJWNUlteUhmanEtTjVvSHJzUkE?oc=5"
     },
     {
+      "id": "feed-4bab1da284",
+      "manual": false,
+      "date": "2026-05-13T17:13:40+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril - Libération",
+      "title_en": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril - Libération",
+      "body": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril &nbsp;&nbsp; Libération",
+      "body_en": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril &nbsp;&nbsp; Libération",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOb3VHbVNhTXZiYnhrWHJXRjd2Sl9ObC1JLVhERi1ReUlHa2E3cGxudFFxRWxHdC00b05PR0VIbDllQWk3TnVwb29ObmRWWVQ2MmdiRVdTM3doN1lpUjVNSkFUWVdsaS1QRUFuWEt4LTVPa1pKVGZOVGN4ZHZjb0g2Sk1BY0ItcWMxbnZaMUtpS2lDYi1SZjFzbGxyUExKTlhuSG9zb0pvaWptM2pVQ010QnJ6d3J0Z1ZVUGZpMURaaXZZRG85RTVyRHV5RzE1ZFdCQ0VhMU9RVzZGb0tXVE9telAtWkQxTm1ROE14blA3ZHJlVVF1M29uSkd0d0pHd29aN0JBek9aSHRvRjF0a01NNzVqRFVidndITHdhSnRwOHUtSGpIQnc?oc=5"
+    },
+    {
       "id": "feed-851a8c6c1b",
       "manual": false,
       "date": "2026-05-13T17:11:22+00:00",
@@ -234,32 +351,6 @@
       "body_en": "Trente passagers avaient quitté le navire lors d’une escale, alors qu’on ignorait encore tout de la présence du virus à bord. Depuis, la majorité d’entre eux est à l’isolement, mais plusieurs ont continué à voyager.",
       "source": "Libération",
       "source_url": "https://www.liberation.fr/checknews/hantavirus-a-lisolement-ou-encore-en-voyage-que-sont-devenus-les-passagers-du-mv-hondius-debarques-a-sainte-helene-le-24-avril-20260513_OV7R6YXN7BCZJGVMY62CACI2EE/"
-    },
-    {
-      "id": "feed-4bab1da284",
-      "manual": false,
-      "date": "2026-05-13T17:11:00+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril - Libération",
-      "title_en": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril - Libération",
-      "body": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril &nbsp;&nbsp; Libération",
-      "body_en": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril &nbsp;&nbsp; Libération",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOb3VHbVNhTXZiYnhrWHJXRjd2Sl9ObC1JLVhERi1ReUlHa2E3cGxudFFxRWxHdC00b05PR0VIbDllQWk3TnVwb29ObmRWWVQ2MmdiRVdTM3doN1lpUjVNSkFUWVdsaS1QRUFuWEt4LTVPa1pKVGZOVGN4ZHZjb0g2Sk1BY0ItcWMxbnZaMUtpS2lDYi1SZjFzbGxyUExKTlhuSG9zb0pvaWptM2pVQ010QnJ6d3J0Z1ZVUGZpMURaaXZZRG85RTVyRHV5RzE1ZFdCQ0VhMU9RVzZGb0tXVE9telAtWkQxTm1ROE14blA3ZHJlVVF1M29uSkd0d0pHd29aN0JBek9aSHRvRjF0a01NNzVqRFVidndITHdhSnRwOHUtSGpIQnc?oc=5"
-    },
-    {
-      "id": "feed-78d6fdc827",
-      "manual": false,
-      "date": "2026-05-13T17:10:27+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "What parents should know about talking to kids about hantavirus - ABC News - Breaking News, Latest News and Videos",
-      "title_en": "What parents should know about talking to kids about hantavirus - ABC News - Breaking News, Latest News and Videos",
-      "body": "What parents should know about talking to kids about hantavirus &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "body_en": "What parents should know about talking to kids about hantavirus &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQenlYMGhldmpaMzQ2c1VPWDNHcGs2aE5rZ0VGbDNVS1FaZmlVWmlxSDI0VVdXcU15UTE2M21sS2t4aGJoNUVpS1hIUEg4c1BGUnVuVUNTTU9ISzN6ZEM3dFU0RHJ5RWQzMkNMUWtOdm8xaGFhYnY2eHgwV1VQMnQyMDA2cU41RGVERVpr0gGQAUFVX3lxTE8zS2tsNENXaHlzX2NLQlV3Z2JqNHYtd3laajY2QzJ2MU9FeHRIVEt6U1l1YlloZzhXZHNyVkhOTjNQcER4bzI4ZWtJcFQzMGI2bzg2dDZVeFJkbWJWemRlZUowdXdwSFYxZXQ1NHBWY2lfcGFHR2wyRVpFQXI2UHNZTTZtYlhuZ2ZLRzMydlg3aw?oc=5"
     },
     {
       "id": "feed-48d055274f",
@@ -277,7 +368,7 @@
     {
       "id": "feed-7e67a2b2f0",
       "manual": false,
-      "date": "2026-05-13T17:06:00+00:00",
+      "date": "2026-05-13T17:08:00+00:00",
       "date_label": "13 mai 2026",
       "tag": "media",
       "title": "Oregon doctor on hantavirus cruise speaks from containment unit after positive test - The Independent",
@@ -299,97 +390,6 @@
       "body_en": "Hantavirus outbreak grows to 11 cases &nbsp;&nbsp; The Hill",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORXdkaGJxM2VkRWNDWGZxdnU0RXZsMHV1U0J5Q0gxQkMzaDFSSkU5VXh1V2ZHUnhqdjNJSVRZMDZVbnR5bjViYlFKUmZpNF9SOFE3SEVZNUdXNk9uR2RKS3ZyVEpQcVRjOGpvMldQRWM5YUJya19qWWZyTGNVWnV2LTc0RzI5enB1ZkHSAY8BQVVfeXFMT1dwWWFGZ01pQjM1dGFrOFRFRGNzR3RVVEhQdms3Q240aXF3RzdOYjVzX2dqNWZaZ29xY1k5Z3p2UTZOZy1vc0tGUDBOMjNmYzJHWWFFeGRrSWF3SXNzR1dnckd5NDI4NkJ3cnhERjNodFpvdjkwRDBtZGlZUlFnTUo0S2h1ckxpQjFsUV9fSm8?oc=5"
-    },
-    {
-      "id": "feed-65b216c164",
-      "manual": false,
-      "date": "2026-05-13T17:02:23+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home - TODAY.com",
-      "title_en": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home - TODAY.com",
-      "body": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home &nbsp;&nbsp; TODAY.com",
-      "body_en": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home &nbsp;&nbsp; TODAY.com",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3VCd2dmNUFxNjl5NEM5cV9sUVJNbDRfTFdidS12Q2pyZGRoOG1yaXdUYkJHMDN1WlN5a1BuZTB1amk2bEtmME9ydGkwclkyWnNmcDFBSTVTOXpfRTdPUkg3VEtGOHFiWHRkTnQxT2c3NzhlRnVRX1VvSmdOcWRRdnFKak1ybG1LSG50SjVhdHR4Z3doVmxkT3BsT2dKQzdzUEhN?oc=5"
-    },
-    {
-      "id": "feed-1df5f90c32",
-      "manual": false,
-      "date": "2026-05-13T17:00:30+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "Hantavirus : \"Éviter les chaînes de contamination\", une médecin répond aux interrogations sur la crise - TF1 Info",
-      "title_en": "Hantavirus : \"Éviter les chaînes de contamination\", une médecin répond aux interrogations sur la crise - TF1 Info",
-      "body": "Hantavirus : \"Éviter les chaînes de contamination\", une médecin répond aux interrogations sur la crise &nbsp;&nbsp; TF1 Info",
-      "body_en": "Hantavirus : \"Éviter les chaînes de contamination\", une médecin répond aux interrogations sur la crise &nbsp;&nbsp; TF1 Info",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUEtna1F1em9meGRZNFVXcjBjVGtUWmdSOFNrcER1MFlhVmJtZHFydC1Lcm5Ua0gxZHUzUEhQcU9yX0x4LTAwcnNVdjBWUVB3amJJNjhyRXRrQ2VtMzk2SkdCeFNhWGdnVnB5S0FUa2ZvTEloZHctMkwyM09jSElGWlRHc2g1Uk1idUFTTFV1cTRIaUNVbGFxSDVhbkwySFhvbTVoRGROT2syUEx1cmgwNWhUVWpwQVFEZ053c1d2Ujg1Q1Uxa0NnajN5TzBRMmk0M1F3Q21B?oc=5"
-    },
-    {
-      "id": "feed-078623e85c",
-      "manual": false,
-      "date": "2026-05-13T17:00:00+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "IDPH is investigating a potential Hantavirus case in Winnebago County - IPM Newsroom",
-      "title_en": "IDPH is investigating a potential Hantavirus case in Winnebago County - IPM Newsroom",
-      "body": "IDPH is investigating a potential Hantavirus case in Winnebago County &nbsp;&nbsp; IPM Newsroom",
-      "body_en": "IDPH is investigating a potential Hantavirus case in Winnebago County &nbsp;&nbsp; IPM Newsroom",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekx6Y05YVnRPZlN0RGNMX2k0YTk4b1NjekpUdzhzYURQcWtHMmR0bXFobGtPVXNqYzRUR3F6WlN6dTRQVGVTZHhNTUZLOGl3VmtSdzVMaHI4d1J3NnBYVnVBTHpNUDQ0amdjWVpWd05FeGFPc1NTeUw0OEl1VF83RGZ6TEVVRFdnYUlDV0MtZ20zWlFYVzhaMTVR?oc=5"
-    },
-    {
-      "id": "feed-b1f920f37b",
-      "manual": false,
-      "date": "2026-05-13T16:58:49+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "What is hantavirus? What to know as cases raise concern - Loma Linda University",
-      "title_en": "What is hantavirus? What to know as cases raise concern - Loma Linda University",
-      "body": "What is hantavirus? What to know as cases raise concern &nbsp;&nbsp; Loma Linda University",
-      "body_en": "What is hantavirus? What to know as cases raise concern &nbsp;&nbsp; Loma Linda University",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEdvY3JEa3pTandJZloxdVp2b3VVSkNZWGhWbl9NTnRYUkhDUGpwaDRiSXNhRWtMUGdENjBpUmNqcS1HNEczQjFNeUd0N01aYzlnNC1tZE1QRWNpMzVFa2liOTdMYWpQdmZDU3RVYlVNOTBST0NzRDlqalB1aDlEWGkwd1dEaTJuYWc?oc=5"
-    },
-    {
-      "id": "feed-55f89df85b",
-      "manual": false,
-      "date": "2026-05-13T16:55:00+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "Hantavirus : une Française dans un état critique, les 22 cas contacts hospitalisés... le point sur la situation en France - La République du Centre",
-      "title_en": "Hantavirus : une Française dans un état critique, les 22 cas contacts hospitalisés... le point sur la situation en France - La République du Centre",
-      "body": "Hantavirus : une Française dans un état critique, les 22 cas contacts hospitalisés... le point sur la situation en France &nbsp;&nbsp; La République du Centre",
-      "body_en": "Hantavirus : une Française dans un état critique, les 22 cas contacts hospitalisés... le point sur la situation en France &nbsp;&nbsp; La République du Centre",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObmhfOEZUazVNMEpBYmVOTU5XaVFxM0dObkNGOGg4OHJmSXBWVFVLdk1jN2hXZ1NnZWlmU3VlSGphX0lENkNFcEhhSmEyOFg1OWp6MExIaWNDWHplMGlZNkx0YmxCLU1DWURNMUFRQWdEekdZMFNsN3BtVWZJa2wxWk5lMVpaeU1TNWF2ZnFxZDMtUGNMT1lwS3BTc0hSUDVCSnh5aUpYMWVfLU1LR2tCNXREcDR2TFpmRS1vQUs2TzFfcFV5akR5Q3NkdzZ1NTJKdDRUeF81azhDWXdlcllVYjF1Z002eWtzU2dBRGhveFI0ZjBRWkQwOWc4VGlldlE?oc=5"
-    },
-    {
-      "id": "feed-adb521e990",
-      "manual": false,
-      "date": "2026-05-13T16:52:53+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "‘Everyone just started hugging’ after hantavirus ship cleared: WHO - NewsNation",
-      "title_en": "‘Everyone just started hugging’ after hantavirus ship cleared: WHO - NewsNation",
-      "body": "‘Everyone just started hugging’ after hantavirus ship cleared: WHO &nbsp;&nbsp; NewsNation",
-      "body_en": "‘Everyone just started hugging’ after hantavirus ship cleared: WHO &nbsp;&nbsp; NewsNation",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2R2dTdoWVd2a1JKaUJCTjE4TUVjdFZyaXdiUVAzcl9aZWM0WmVZblRNSTdpd0V3NmJKckFLcFFpRlR0OURhLTZ4RklnMmRiMTY3M195YmhtWGdpMVE4cjlMNzJGZXJSUERDcldXWVRQT3E1VHVoUlVrNWFUVXJOT1FHclnSAYoBQVVfeXFMT0R5N1pEckpTTnhlWXp6OEtqclVUYm9saHl1dzJFYVRRTFNGQ0ZKRHM5SlNrdWNpN2JVN1c0SjFmSVNlLVBIdVk5QUE5STZzT2QyLTNyOFFYc3JGQnNlQmRGZDd6Y0hiUV9aSTA2MU1ELWJrSTB1dF9sMXlMeW01UXh6QzRYSUNNem93?oc=5"
-    },
-    {
-      "id": "feed-76a9398262",
-      "manual": false,
-      "date": "2026-05-13T16:51:49+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "media",
-      "title": "These States Are Watching for Potential Hantavirus Cases - MedPage Today",
-      "title_en": "These States Are Watching for Potential Hantavirus Cases - MedPage Today",
-      "body": "These States Are Watching for Potential Hantavirus Cases &nbsp;&nbsp; MedPage Today",
-      "body_en": "These States Are Watching for Potential Hantavirus Cases &nbsp;&nbsp; MedPage Today",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfUTU2YlF1clA2MlYzUnVxS0N2UVVjLW05ZHpZVlpkYWxtNHpscmpXbVQ1VTFaWk1RTE1vbDgySVlGRU5vYlpFV2wxTmNhZkx5TXNHbFVGclJ5d0h5aVhONWNsMmYwRi1yWFJWelFKWkJ4XzN5?oc=5"
     }
   ]
 }

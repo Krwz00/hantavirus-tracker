@@ -110,9 +110,23 @@ def parse_date(raw) -> datetime | None:
     if not raw:
         return None
     try:
-        return dateparser.parse(raw)
+        dt = dateparser.parse(raw)
     except (ValueError, TypeError):
         return None
+    # Clamp future-dated items (typically broken pubDate fields) to "now" so
+    # they don't artificially float to the top of the list.
+    now = datetime.now(timezone.utc)
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    if dt > now:
+        return now
+    return dt
+
+
+def sort_key(item: dict) -> str:
+    """Sort key for descending date sort. Items without a parseable date
+    fall to the bottom (empty string sorts smallest, then reversed -> last)."""
+    return item.get("date") or ""
 
 
 def format_date_fr(dt: datetime) -> str:
@@ -194,12 +208,13 @@ def main() -> int:
         seen.add(key)
         deduped.append(it)
 
-    deduped.sort(key=lambda x: x["date"] or "0000", reverse=True)
-
     manual = load_existing_manual()
     print(f"Preserving {len(manual)} manual entry(ies); adding {len(deduped)} auto-detected")
 
+    # Sort the full merged list by date desc so manual + auto entries are
+    # interleaved purely by recency. Items without a parseable date fall last.
     all_items = manual + deduped
+    all_items.sort(key=sort_key, reverse=True)
     all_items = all_items[:MAX_ITEMS]
 
     output = {

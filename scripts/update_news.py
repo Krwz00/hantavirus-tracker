@@ -127,9 +127,23 @@ def parse_date(raw) -> datetime | None:
     if not raw:
         return None
     try:
-        return dateparser.parse(raw)
+        dt = dateparser.parse(raw)
     except (ValueError, TypeError):
         return None
+    # Clamp obviously-broken future dates to "now" so they don't float to the
+    # top of the feed when a publisher misformats pubDate.
+    now = datetime.now(timezone.utc)
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    if dt > now:
+        return now
+    return dt
+
+
+def sort_key(item: dict) -> str:
+    """Sort key for descending date sort. Items without a parseable date
+    fall to the bottom (empty string sorts smallest, then reversed -> last)."""
+    return item.get("date") or ""
 
 
 def format_date_fr(dt: datetime) -> str:
@@ -216,15 +230,15 @@ def main() -> int:
         seen.add(key)
         deduped.append(it)
 
-    # Sort auto-fetched by date descending; fall back to today for items without a parseable date
-    deduped.sort(key=lambda x: x["date"] or "0000", reverse=True)
-
     # Preserve curated seed entries (manual: true) from previous run
     manual = load_existing_manual()
     print(f"Preserving {len(manual)} manual entry(ies); adding {len(deduped)} auto-detected")
 
-    # Manual entries first (Hondius timeline), then auto-fetched
+    # Sort the full merged list by date desc. Manual + auto are interleaved
+    # purely by recency so a 12 May article never sits below an 8 May one.
+    # Items without a parseable date fall to the bottom.
     all_items = manual + deduped
+    all_items.sort(key=sort_key, reverse=True)
     all_items = all_items[:MAX_ITEMS]
 
     output = {

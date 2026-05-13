@@ -1158,35 +1158,30 @@ function renderClaims(data) {
   const items = data.items || [];
 
   if (!items.length) {
-    container.innerHTML = `<div class="loading-state">${lang === 'fr' ? 'Aucune désinfox détectée.' : 'No disinfo detected.'}</div>`;
+    container.innerHTML = `<div class="loading-state">${lang === 'fr' ? 'Aucun factcheck récent.' : 'No recent fact-check.'}</div>`;
     return;
   }
 
   document.getElementById('claims-updated').textContent = formatRelativeUpdate(data.updated_at);
 
-  const verdictMap = {
-    fr: { false: 'Faux', misleading: 'Trompeur', factual: 'Factuel' },
-    en: { false: 'False', misleading: 'Misleading', factual: 'Factual' }
-  };
-
   container.innerHTML = items.map(item => {
-    const claimText = (lang === 'en' && item.claim_en) ? item.claim_en : item.claim;
-    const factText = (lang === 'en' && item.fact_en) ? item.fact_en : item.fact;
-    const verdict = (verdictMap[lang] || verdictMap.fr)[item.verdict] || item.verdict;
-    const autoClass = item.manual ? '' : 'auto-generated';
-    const spottedHtml = item.spotted_on ? `
-      <div class="claim-spotted">
-        ${lang === 'fr' ? 'Repéré sur' : 'Spotted on'} : ${escapeHtml(item.spotted_on)}${item.spotted_url ? ` · <a href="${escapeHtml(item.spotted_url)}" target="_blank" rel="noopener">${lang === 'fr' ? 'lien' : 'link'}</a>` : ''}
-      </div>
-    ` : '';
-
+    const title = (lang === 'en' && item.title_en) ? item.title_en : item.title;
+    const body = (lang === 'en' && item.body_en) ? item.body_en : item.body;
+    const tagLabel = ({
+      gov: lang === 'fr' ? 'Gouvernement' : 'Government',
+      who: lang === 'fr' ? 'OMS' : 'WHO',
+      ship: 'Hondius',
+      research: lang === 'fr' ? 'Recherche' : 'Research',
+      alert: lang === 'fr' ? 'Factcheck' : 'Fact-check',
+      media: lang === 'fr' ? 'Médias' : 'Media'
+    }[item.tag]) || item.tag;
+    const dateLabel = item.date_label || item.date || '';
     return `
-      <div class="claim ${autoClass}">
-        <div class="claim-text">${escapeHtml(claimText)}</div>
-        <div class="claim-verdict">${escapeHtml(verdict)}</div>
-        <div class="claim-fact">${escapeHtml(factText)}</div>
-        <div class="claim-source">Source : ${escapeHtml(item.source)}</div>
-        ${spottedHtml}
+      <div class="news-item">
+        <div class="news-date"><span class="news-tag ${escapeHtml(item.tag)}">${escapeHtml(tagLabel)}</span> ${escapeHtml(dateLabel)}</div>
+        <div class="news-title">${escapeHtml(title)}</div>
+        <div class="news-body">${escapeHtml(body)}</div>
+        <div class="news-source">Source : <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noopener">${escapeHtml(item.source)} →</a></div>
       </div>
     `;
   }).join('');

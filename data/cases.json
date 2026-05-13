@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T18:00:00+02:00",
+  "updated_at": "2026-05-13T20:00:00+02:00",
   "stats": {
     "suspected": 3,
     "contacts_monitored": 27,
@@ -11,7 +11,7 @@
       "id": "fr-001",
       "type": "confirmed",
       "count": 1,
-      "lat": 48.8970,
+      "lat": 48.897,
       "lng": 2.3389,
       "location": "Hôpital Bichat, Paris, France",
       "location_en": "Bichat Hospital, Paris, France",
@@ -27,7 +27,7 @@
       "id": "ch-001",
       "type": "confirmed",
       "count": 1,
-      "lat": 46.9480,
+      "lat": 46.948,
       "lng": 7.4474,
       "location": "Suisse",
       "location_en": "Switzerland",
@@ -118,21 +118,104 @@
       "date": "2026-05-10",
       "source": "Agence de la santé publique du Canada",
       "source_url": "https://www.canada.ca/fr/sante-publique/services/mesures-interventions-urgence/evaluations-rapides-risques-professionnels-sante-publique/eclosion-hantavirus-virus-andes-bord-paquebot-croisiere-international.html"
+    },
+    {
+      "id": "es-001",
+      "type": "monitoring",
+      "count": 1,
+      "lat": 28.1248,
+      "lng": -15.43,
+      "location": "Granadilla, Tenerife, Espagne",
+      "location_en": "Granadilla, Tenerife, Spain",
+      "title": "Escale MV Hondius à Tenerife",
+      "title_en": "MV Hondius stopover at Tenerife",
+      "detail": "Le MV Hondius est arrivé au port de Granadilla, Tenerife, le 10 mai 2026. Les passagers et l'équipage ont débarqué via un corridor sécurisé et ont été rapatriés vers leurs pays d'origine par vols non commerciaux.",
+      "detail_en": "The MV Hondius arrived at the port of Granadilla, Tenerife, on 10 May 2026. Passengers and crew disembarked through a secure corridor and were repatriated to their home countries via non-commercial flights.",
+      "date": "2026-05-10",
+      "source": "ECDC, OMS",
+      "source_url": "https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states"
     }
   ],
   "endemic_zones": [
-    {"lat": 36.5, "lng": 127.8, "radius_km": 350, "name": "Corée du Sud", "name_en": "South Korea", "detail": "Zone endémique historique. 300 à 400 cas graves par an. Origine de l'identification du virus en 1950 (rivière Hantaan).", "detail_en": "Historical endemic zone. 300 to 400 severe cases per year. Where the virus was first identified in 1950 (Hantaan river)."},
-    {"lat": -41.0, "lng": -71.0, "radius_km": 600, "name": "Patagonie (Argentine / Chili)", "name_en": "Patagonia (Argentina / Chile)", "detail": "Zone endémique du virus Andes, seul hantavirus à transmission interhumaine documentée.", "detail_en": "Endemic zone of the Andes virus, the only hantavirus with documented human-to-human transmission."},
-    {"lat": 50.1, "lng": 4.0, "radius_km": 200, "name": "Hauts-de-France (Avesnois)", "name_en": "Hauts-de-France (Avesnois)", "detail": "Zone endémique française du virus Puumala (campagnol roussâtre). Quelques cas par an.", "detail_en": "French endemic zone of the Puumala virus (bank vole). A few cases per year."},
-    {"lat": 4.0, "lng": -53.0, "radius_km": 250, "name": "Guyane française", "name_en": "French Guiana", "detail": "Virus Maripa. 11 cas détectés depuis 2008, dont 6 mortels.", "detail_en": "Maripa virus. 11 cases detected since 2008, 6 fatal."},
-    {"lat": 36.5, "lng": -109.0, "radius_km": 400, "name": "Sud-Ouest américain", "name_en": "American Southwest", "detail": "Virus Sin Nombre, identifié en 1993 (région des Four Corners). Cas sporadiques chaque année.", "detail_en": "Sin Nombre virus, identified in 1993 (Four Corners region). Sporadic cases every year."},
-    {"lat": 60.0, "lng": 18.0, "radius_km": 500, "name": "Scandinavie", "name_en": "Scandinavia", "detail": "Virus Puumala endémique. Centaines de cas annuels en Finlande et Suède.", "detail_en": "Endemic Puumala virus. Hundreds of annual cases in Finland and Sweden."}
+    {
+      "lat": 36.5,
+      "lng": 127.8,
+      "radius_km": 350,
+      "name": "Corée du Sud",
+      "name_en": "South Korea",
+      "detail": "Zone endémique historique. 300 à 400 cas graves par an. Origine de l'identification du virus en 1950 (rivière Hantaan).",
+      "detail_en": "Historical endemic zone. 300 to 400 severe cases per year. Where the virus was first identified in 1950 (Hantaan river)."
+    },
+    {
+      "lat": -41.0,
+      "lng": -71.0,
+      "radius_km": 600,
+      "name": "Patagonie (Argentine / Chili)",
+      "name_en": "Patagonia (Argentina / Chile)",
+      "detail": "Zone endémique du virus Andes, seul hantavirus à transmission interhumaine documentée.",
+      "detail_en": "Endemic zone of the Andes virus, the only hantavirus with documented human-to-human transmission."
+    },
+    {
+      "lat": 50.1,
+      "lng": 4.0,
+      "radius_km": 200,
+      "name": "Hauts-de-France (Avesnois)",
+      "name_en": "Hauts-de-France (Avesnois)",
+      "detail": "Zone endémique française du virus Puumala (campagnol roussâtre). Quelques cas par an.",
+      "detail_en": "French endemic zone of the Puumala virus (bank vole). A few cases per year."
+    },
+    {
+      "lat": 4.0,
+      "lng": -53.0,
+      "radius_km": 250,
+      "name": "Guyane française",
+      "name_en": "French Guiana",
+      "detail": "Virus Maripa. 11 cas détectés depuis 2008, dont 6 mortels.",
+      "detail_en": "Maripa virus. 11 cases detected since 2008, 6 fatal."
+    },
+    {
+      "lat": 36.5,
+      "lng": -109.0,
+      "radius_km": 400,
+      "name": "Sud-Ouest américain",
+      "name_en": "American Southwest",
+      "detail": "Virus Sin Nombre, identifié en 1993 (région des Four Corners). Cas sporadiques chaque année.",
+      "detail_en": "Sin Nombre virus, identified in 1993 (Four Corners region). Sporadic cases every year."
+    },
+    {
+      "lat": 60.0,
+      "lng": 18.0,
+      "radius_km": 500,
+      "name": "Scandinavie",
+      "name_en": "Scandinavia",
+      "detail": "Virus Puumala endémique. Centaines de cas annuels en Finlande et Suède.",
+      "detail_en": "Endemic Puumala virus. Hundreds of annual cases in Finland and Sweden."
+    }
   ],
   "hondius_route": [
-    [-54.8019, -68.3030],
-    [-15.9650, -5.7089],
-    [-25.0, -15.0],
-    [14.9333, -23.5133],
-    [28.2916, -16.6291]
+    [
+      -54.8019,
+      -68.303
+    ],
+    [
+      -15.965,
+      -5.7089
+    ],
+    [
+      -25.0,
+      -15.0
+    ],
+    [
+      14.9333,
+      -23.5133
+    ],
+    [
+      28.2916,
+      -16.6291
+    ],
+    [
+      28.1248,
+      -15.43
+    ]
   ]
 }

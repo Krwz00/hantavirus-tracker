@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hantavirus — Tracker mondial</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;6..72,700;6..72,800&family=Hanken+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  :root {
+    --paper: #f3ede2;
+    --paper-deep: #ebe3d3;
+    --ink: #0d0c0a;
+    --ink-soft: #3a3631;
+    --ink-faint: #756e62;
+    --rule: #1a1814;
+    --rule-soft: #c9c0ae;
+    --confirmed: #8b1a1a;
+    --death: #2a0808;
+    --monitoring: #a06b1a;
+    --endemic: #2c3e5c;
+    --debunk: #4a6741;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(0,0,0,0.015) 0%, transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(0,0,0,0.02) 0%, transparent 50%);
+    min-height: 100vh;
+  }
+
+  .masthead {
+    border-bottom: 3px double var(--rule);
+    padding: 18px 48px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 32px;
+  }
+
+  .masthead-left {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--ink-faint);
+    margin-bottom: 8px;
+  }
+
+  h1.title {
+    font-family: 'Newsreader', serif;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "opsz" 72;
+    font-size: 52px;
+    line-height: 0.95;
+    letter-spacing: -0.025em;
+    color: var(--ink);
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+
+  h1.title .title-text {
+    display: inline-block;
+  }
+
+  h1.title .title-stamp {
+    font-family: 'JetBrains Mono', monospace;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.24em;
+    color: var(--paper);
+    background: var(--ink);
+    padding: 6px 11px 5px;
+    text-transform: uppercase;
+    align-self: center;
+    transform: translateY(-8px);
+  }
+
+  .deck {
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 14px;
+    color: var(--ink-soft);
+    max-width: 700px;
+    line-height: 1.5;
+  }
+
+  .deck-q {
+    font-family: 'Newsreader', serif;
+    font-style: italic;
+    font-variation-settings: "opsz" 48;
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--ink);
+    margin-top: 6px;
+    margin-bottom: 2px;
+    line-height: 1.15;
+  }
+
+  .deck-a {
+    margin-top: 0;
+    font-size: 13.5px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-style: normal;
+    color: var(--ink-soft);
+    line-height: 1.45;
+    max-width: 640px;
+  }
+
+  .masthead-right {
+    text-align: right;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    color: var(--ink-faint);
+    line-height: 1.7;
+    flex-shrink: 0;
+  }
+
+  .masthead-right strong {
+    color: var(--ink);
+    font-weight: 500;
+  }
+
+  .stats-strip {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 1.4fr;
+    border-bottom: 1px solid var(--rule);
+    background: var(--paper-deep);
+  }
+
+  .stat {
+    padding: 14px 24px 16px;
+    border-right: 1px solid var(--rule-soft);
+    position: relative;
+  }
+
+  .stat:last-child { border-right: none; }
+
+  .stat-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--ink-faint);
+    margin-bottom: 4px;
+  }
+
+  .stat-number {
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 1;
+    color: var(--ink);
+    letter-spacing: -0.04em;
+  }
+
+  .stat.headline .stat-number {
+    font-size: 60px;
+    color: var(--ink);
+    font-weight: 700;
+  }
+
+  .stat.deaths .stat-number { color: var(--death); }
+  .stat.confirmed .stat-number { color: var(--confirmed); }
+  .stat.monitoring .stat-number { color: var(--monitoring); }
+
+  .stat-meta {
+    font-size: 11px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+    font-style: italic;
+  }
+
+  .main {
+    display: grid;
+    grid-template-columns: 1fr 360px;
+    min-height: calc(100vh - 250px);
+  }
+
+  .map-container {
+    position: relative;
+    border-right: 1px solid var(--rule);
+  }
+
+  #map {
+    height: calc(100vh - 250px);
+    min-height: 560px;
+    background: var(--paper-deep);
+  }
+
+  .map-legend {
+    position: absolute;
+    bottom: 22px;
+    right: 22px;
+    background: var(--paper);
+    border: 1px solid var(--ink);
+    box-shadow: 4px 4px 0 var(--ink);
+    padding: 14px 18px;
+    z-index: 500;
+    max-width: 240px;
+  }
+
+  .map-legend .section-title {
+    font-family: 'Newsreader', serif;
+    font-weight: 700;
+    font-size: 14px;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 6px;
+    margin-bottom: 10px;
+    letter-spacing: 0;
+  }
+
+  .sidebar {
+    padding: 0;
+    background: var(--paper);
+    border-left: 1px solid var(--rule);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 250px);
+    min-height: 560px;
+  }
+
+  .sidebar-tabs {
+    display: flex;
+    border-bottom: 1px solid var(--rule);
+    background: var(--paper-deep);
+  }
+
+  .sidebar-tab {
+    flex: 1;
+    background: transparent;
+    border: none;
+    border-right: 1px solid var(--rule-soft);
+    padding: 14px 10px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--ink-faint);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .sidebar-tab:last-child { border-right: none; }
+
+  .sidebar-tab.active {
+    background: var(--paper);
+    color: var(--ink);
+    font-weight: 600;
+    border-bottom: 2px solid var(--ink);
+    margin-bottom: -1px;
+  }
+
+  .sidebar-panel {
+    display: none;
+    flex: 1;
+    overflow-y: auto;
+    padding: 20px 22px 28px;
+  }
+
+  .sidebar-panel.active {
+    display: block;
+  }
+
+  .news-item {
+    padding: 14px 0 16px;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+
+  .news-item:last-child { border-bottom: none; }
+
+  .news-date {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--ink-faint);
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .news-tag {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 1px 6px;
+    font-size: 9px;
+    letter-spacing: 0.12em;
+  }
+
+  .news-tag.alert { background: var(--confirmed); }
+  .news-tag.gov { background: var(--endemic); }
+  .news-tag.who { background: var(--debunk); }
+
+  .news-title {
+    font-family: 'Newsreader', serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.25;
+    color: var(--ink);
+    margin-bottom: 6px;
+    letter-spacing: -0.005em;
+  }
+
+  .news-body {
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+    margin-bottom: 6px;
+  }
+
+  .news-source {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-faint);
+  }
+
+  .news-source a {
+    color: var(--endemic);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  .news-source a:hover {
+    border-bottom-color: var(--ink);
+  }
+
+  .panel-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 0 12px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid var(--rule-soft);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--ink-faint);
+  }
+
+  .panel-meta .panel-updated {
+    color: var(--ink-soft);
+  }
+
+  .panel-meta .panel-updated::before {
+    content: "● ";
+    color: var(--debunk);
+    margin-right: 2px;
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  .loading-state {
+    padding: 40px 0;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-faint);
+    text-align: center;
+    letter-spacing: 0.1em;
+  }
+
+  .error-state {
+    padding: 24px 16px;
+    font-size: 12.5px;
+    color: var(--confirmed);
+    background: rgba(139, 26, 26, 0.06);
+    border-left: 3px solid var(--confirmed);
+    margin: 12px 0;
+  }
+
+  .claim-spotted {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-faint);
+    margin-top: 6px;
+    padding-top: 6px;
+    border-top: 1px dashed var(--rule-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  .claim-spotted a {
+    color: var(--ink-faint);
+    text-decoration: underline;
+    text-decoration-color: var(--rule-soft);
+  }
+
+  .claim-spotted a:hover {
+    color: var(--ink);
+  }
+
+  .claim.auto-generated {
+    border-left-color: var(--monitoring);
+  }
+
+  .claim.auto-generated .claim-verdict {
+    color: var(--monitoring);
+  }
+
+  .sidebar-section {
+    margin-bottom: 32px;
+  }
+
+  .section-title {
+    font-family: 'Newsreader', serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.01em;
+    border-bottom: 2px solid var(--rule);
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+
+  .claim {
+    border-left: 3px solid var(--confirmed);
+    padding: 10px 0 12px 14px;
+    margin-bottom: 14px;
+  }
+
+  .claim-text {
+    font-family: 'Newsreader', serif;
+    font-style: italic;
+    font-size: 14px;
+    color: var(--ink-soft);
+    margin-bottom: 6px;
+  }
+
+  .claim-text::before { content: "« "; }
+  .claim-text::after { content: " »"; }
+
+  .claim-verdict {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--confirmed);
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+
+  .claim-fact {
+    font-size: 13px;
+    color: var(--ink);
+    line-height: 1.5;
+  }
+
+  .claim-source {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-faint);
+    margin-top: 4px;
+  }
+
+  .legend {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 12.5px;
+    color: var(--ink-soft);
+  }
+
+  .legend-dot {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1.5px solid var(--ink);
+    flex-shrink: 0;
+  }
+
+  .legend-dot.confirmed { background: var(--confirmed); }
+  .legend-dot.death { background: var(--death); }
+  .legend-dot.monitoring { background: var(--monitoring); }
+  .legend-dot.endemic {
+    background: transparent;
+    border: 1.5px dashed var(--endemic);
+  }
+  .legend-line {
+    width: 24px;
+    height: 2px;
+    background: var(--ink);
+    border-top: 1px dashed var(--ink-soft);
+    background: transparent;
+    border-bottom: none;
+  }
+
+  /* Leaflet overrides */
+  .leaflet-popup-content-wrapper {
+    background: var(--paper);
+    border-radius: 0;
+    border: 1px solid var(--ink);
+    box-shadow: 4px 4px 0 var(--ink);
+    font-family: 'Hanken Grotesk', sans-serif;
+  }
+  .leaflet-popup-tip {
+    background: var(--paper);
+    border: 1px solid var(--ink);
+  }
+  .leaflet-popup-content {
+    margin: 14px 18px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .leaflet-popup-content .pop-title {
+    font-family: 'Newsreader', serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+  .leaflet-popup-content .pop-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-faint);
+    margin-bottom: 8px;
+  }
+  .leaflet-popup-content .pop-source {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-faint);
+    margin-top: 8px;
+    padding-top: 6px;
+    border-top: 1px solid var(--rule-soft);
+  }
+  .leaflet-popup-content a {
+    color: var(--endemic);
+    text-decoration: underline;
+  }
+
+  .footer {
+    border-top: 3px double var(--rule);
+    padding: 24px 48px;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 32px;
+    background: var(--paper-deep);
+    font-size: 12px;
+    color: var(--ink-soft);
+    line-height: 1.6;
+  }
+
+  .footer-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--ink);
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+
+  .footer a {
+    color: var(--ink);
+    text-decoration: underline;
+    text-decoration-color: var(--rule-soft);
+    text-underline-offset: 2px;
+  }
+  .footer a:hover {
+    text-decoration-color: var(--ink);
+  }
+
+  .lang-switch {
+    display: inline-flex;
+    gap: 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+  }
+  .lang-switch button {
+    background: transparent;
+    border: 1px solid var(--rule-soft);
+    color: var(--ink-faint);
+    padding: 4px 8px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: inherit;
+    font-size: inherit;
+    letter-spacing: inherit;
+  }
+  .lang-switch button.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+
+  @media (max-width: 1100px) {
+    .main { grid-template-columns: 1fr; }
+    .sidebar {
+      border-left: none;
+      border-top: 1px solid var(--rule);
+      max-height: none;
+      min-height: 400px;
+    }
+    .sidebar-panel { max-height: 500px; }
+    #map { height: 60vh; min-height: 380px; }
+    .map-container { border-right: none; }
+    .map-legend {
+      bottom: 12px;
+      right: 12px;
+      padding: 10px 12px;
+      max-width: 200px;
+    }
+    .map-legend .section-title { font-size: 12px; }
+    .legend-item { font-size: 11px; }
+    .stats-strip { grid-template-columns: 1fr 1fr; }
+    .stat { border-right: none; border-bottom: 1px solid var(--rule-soft); padding: 12px 16px 14px; }
+    .stat.headline .stat-number { font-size: 46px; }
+    .stat-number { font-size: 30px; }
+    h1.title { font-size: 32px; gap: 10px; }
+    h1.title .title-stamp { font-size: 11px; padding: 4px 7px 3px; }
+    .deck-q { font-size: 18px; }
+    .deck-a { font-size: 14px; }
+    .masthead { padding: 20px 24px; flex-direction: column; align-items: flex-start; }
+    .footer { grid-template-columns: 1fr; padding: 20px 24px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-left">
+    <div class="eyebrow">Independent global situation tracker · Updated daily · Sourced</div>
+    <h1 class="title">
+      <span class="title-text" data-i18n="title">Hantavirus</span>
+      <span class="title-stamp">Tracker</span>
+    </h1>
+    <p class="deck deck-q" data-i18n="deck-q">Combien de cas dans le monde ?</p>
+    <p class="deck deck-a" data-i18n="deck-a">Une réponse factuelle, sourcée, mise à jour tous les jours pour couper court à la panique morale en cours sur les réseaux sociaux.</p>
+  </div>
+  <div class="masthead-right">
+    <div class="lang-switch">
+      <button class="active" data-lang="fr">FR</button>
+      <button data-lang="en">EN</button>
+    </div>
+    <div style="margin-top: 12px;">
+      <strong>Last update</strong><br>
+      <span id="last-update">13 May 2026 · 14:00 CEST</span>
+    </div>
+  </div>
+</header>
+
+<section class="stats-strip">
+  <div class="stat headline">
+    <div class="stat-label" data-i18n="confirmed_label">Cas confirmés dans le monde</div>
+    <div class="stat-number" id="total-confirmed">5</div>
+    <div class="stat-meta" data-i18n="confirmed_meta">tous liés au foyer du MV Hondius</div>
+  </div>
+  <div class="stat deaths">
+    <div class="stat-label" data-i18n="deaths_label">Décès</div>
+    <div class="stat-number" id="total-deaths">3</div>
+    <div class="stat-meta" data-i18n="deaths_meta">à bord du navire</div>
+  </div>
+  <div class="stat confirmed">
+    <div class="stat-label" data-i18n="suspected_label">Cas suspects</div>
+    <div class="stat-number" id="total-suspected">3</div>
+    <div class="stat-meta" data-i18n="suspected_meta">en attente de confirmation</div>
+  </div>
+  <div class="stat monitoring">
+    <div class="stat-label" data-i18n="contacts_label">Contacts surveillés</div>
+    <div class="stat-number" id="total-contacts">27</div>
+    <div class="stat-meta" data-i18n="contacts_meta">Français en quarantaine</div>
+  </div>
+  <div class="stat">
+    <div class="stat-label" data-i18n="r0_label">Transmission interhumaine</div>
+    <div class="stat-number" style="font-family: 'Newsreader', serif; font-size: 36px; font-style: italic; font-weight: 400; color: var(--debunk); letter-spacing: -0.01em;" data-i18n="r0_value">limitée</div>
+    <div class="stat-meta" data-i18n="r0_meta">contacts étroits et prolongés uniquement (OMS)</div>
+  </div>
+</section>
+
+<main class="main">
+  <div class="map-container">
+    <div id="map"></div>
+
+    <div class="map-legend">
+      <div class="section-title" data-i18n="legend_title">Légende</div>
+      <div class="legend">
+        <div class="legend-item"><span class="legend-dot death"></span><span data-i18n="legend_death">Décès confirmé</span></div>
+        <div class="legend-item"><span class="legend-dot confirmed"></span><span data-i18n="legend_confirmed">Cas confirmé en laboratoire</span></div>
+        <div class="legend-item"><span class="legend-dot monitoring"></span><span data-i18n="legend_monitoring">Cas contact surveillé</span></div>
+        <div class="legend-item"><span class="legend-dot endemic"></span><span data-i18n="legend_endemic">Zone endémique historique</span></div>
+      </div>
+    </div>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-tabs">
+      <button class="sidebar-tab active" data-tab="news" data-i18n="tab_news">Actualité</button>
+      <button class="sidebar-tab" data-tab="claims" data-i18n="tab_claims">Désinfox</button>
+    </div>
+
+    <div class="sidebar-panel active" data-panel="news">
+      <div class="panel-meta">
+        <span data-i18n="feed_label">Mise à jour automatique toutes les heures</span>
+        <span class="panel-updated" id="news-updated"></span>
+      </div>
+      <div id="news-list">
+        <div class="loading-state" data-i18n="loading">Chargement des dernières actualités…</div>
+      </div>
+    </div>
+
+    <div class="sidebar-panel" data-panel="claims">
+      <div class="panel-meta">
+        <span data-i18n="claims_label">Désinfox détectée et factcheckée automatiquement</span>
+        <span class="panel-updated" id="claims-updated"></span>
+      </div>
+      <div id="claims-list">
+        <div class="loading-state" data-i18n="loading">Chargement des factchecks…</div>
+      </div>
+    </div>
+
+  </aside>
+</main>
+
+<footer class="footer">
+  <div>
+    <div class="footer-title" data-i18n="method_title">Méthodologie</div>
+    Le bandeau de cas (carte) recense uniquement les cas confirmés en laboratoire et notifiés par les autorités sanitaires nationales ou internationales (OMS, ECDC, ministères de la Santé). Chaque cas est rattaché à une source publique vérifiable. Les actualités sont agrégées toutes les heures depuis les flux RSS officiels (OMS Disease Outbreak News, Santé publique France, ECDC, info.gouv.fr, ANRS MIE). Les factchecks sont générés automatiquement à partir de contenus repérés sur des sources connues pour relayer la désinfox, puis vérifiés contre la base de référence OMS / Institut Pasteur via un modèle de langage. Toute erreur peut être signalée.
+  </div>
+  <div>
+    <div class="footer-title" data-i18n="sources_title">Sources officielles</div>
+    <a href="https://www.who.int/emergencies/disease-outbreak-news" target="_blank">OMS — Disease Outbreak News</a><br>
+    <a href="https://www.ecdc.europa.eu/" target="_blank">ECDC</a><br>
+    <a href="https://www.santepubliquefrance.fr/" target="_blank">Santé publique France</a><br>
+    <a href="https://www.pasteur.fr/" target="_blank">Institut Pasteur — CNR Hantavirus</a><br>
+    <a href="https://anrs.fr/crises-emergences/cellules-emergences/hantavirus/" target="_blank">ANRS MIE</a>
+  </div>
+  <div>
+    <div class="footer-title" data-i18n="about_title">À propos</div>
+    Projet indépendant. Aucune affiliation institutionnelle. Conçu comme un outil de déflation de panique face à la vague de désinformation qui accompagne le foyer du MV Hondius. Le code est destiné à être open source.
+  </div>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+// =====================================================================
+// DATA — to update manually as new official notifications come in
+// =====================================================================
+
+const cases = [
+  // Confirmed cases (laboratory)
+  {
+    id: 'fr-001',
+    type: 'confirmed',
+    lat: 48.8970, lng: 2.3389,
+    location: 'Hôpital Bichat, Paris, France',
+    title: 'Passagère française',
+    detail: 'Symptomatique pendant son rapatriement. Confirmée par la CIBU (Institut Pasteur Paris). Suivie en réanimation.',
+    date: '12 mai 2026',
+    source: 'Institut Pasteur · Ministère de la Santé',
+    sourceUrl: 'https://www.pasteur.fr/fr/journal-recherche/actualites/virus-andes-bord-du-navire-mv-hondius-ce-que-sait-cet-hantavirus-rare-potentiellement-mortel'
+  },
+  {
+    id: 'ch-001',
+    type: 'confirmed',
+    lat: 46.9480, lng: 7.4474,
+    location: 'Suisse',
+    title: 'Passager suisse',
+    detail: 'Testé positif au virus Andes après son retour de croisière.',
+    date: '7 mai 2026',
+    source: 'OMS · ONU Info',
+    sourceUrl: 'https://news.un.org/fr/story/2026/05/1158801'
+  },
+  {
+    id: 'za-001',
+    type: 'confirmed',
+    lat: -33.9249, lng: 18.4241,
+    location: 'Afrique du Sud',
+    title: 'Deux cas confirmés (Cape Town)',
+    detail: 'Identifiés parmi les passagers évacués du MV Hondius. Séquençage de la souche Andes par les autorités sud-africaines.',
+    date: '6 mai 2026',
+    source: 'OMS · Reuters',
+    sourceUrl: 'https://www.reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06/'
+  },
+  {
+    id: 'us-001',
+    type: 'confirmed',
+    lat: 38.9072, lng: -77.0369,
+    location: 'États-Unis',
+    title: 'Passager américain',
+    detail: 'Testé positif au virus Andes. Cas inclus dans le bilan global du foyer Hondius.',
+    date: '10 mai 2026',
+    source: 'OMS · CDC',
+    sourceUrl: 'https://www.who.int/emergencies/disease-outbreak-news'
+  },
+
+  // Deaths
+  {
+    id: 'death-001',
+    type: 'death',
+    lat: -25.0, lng: -15.0,
+    location: 'À bord du MV Hondius (Atlantique Sud)',
+    title: 'Trois décès à bord',
+    detail: 'Premiers décès rapportés sur le navire avant l\'identification de l\'agent pathogène. Le séquençage post-mortem a confirmé l\'hantavirus Andes.',
+    date: '3–6 mai 2026',
+    source: 'OMS, alerte du 3 mai 2026',
+    sourceUrl: 'https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france'
+  },
+
+  // Monitoring
+  {
+    id: 'fr-mon',
+    type: 'monitoring',
+    lat: 47.0, lng: 2.5,
+    location: 'France métropolitaine',
+    title: '27 cas contacts français',
+    detail: 'Placés en quarantaine ou isolement. Durée pouvant aller jusqu\'à 42 jours (décret du 11 mai 2026). Tous asymptomatiques à l\'exception du cas confirmé.',
+    date: 'depuis le 11 mai 2026',
+    source: 'Décret du 11 mai 2026 · Ministère de la Santé',
+    sourceUrl: 'https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france'
+  },
+  {
+    id: 'ca-mon',
+    type: 'monitoring',
+    lat: 56.1304, lng: -106.3468,
+    location: 'Canada',
+    title: 'Passagers canadiens (6)',
+    detail: 'Tous asymptomatiques à ce jour. Mis en quarantaine et suivis par les autorités locales.',
+    date: 'mai 2026',
+    source: 'Agence de la santé publique du Canada',
+    sourceUrl: 'https://www.canada.ca/fr/sante-publique/services/mesures-interventions-urgence/evaluations-rapides-risques-professionnels-sante-publique/eclosion-hantavirus-virus-andes-bord-paquebot-croisiere-international.html'
+  }
+];
+
+// Endemic / historical zones — for context, NOT current cases
+const endemicZones = [
+  { lat: 36.5, lng: 127.8, radius: 350000, name: 'Corée du Sud', detail: 'Zone endémique historique. 300–400 cas graves par an. Origine de l\'identification du virus en 1950 (rivière Hantaan).' },
+  { lat: -41.0, lng: -71.0, radius: 600000, name: 'Patagonie (Argentine / Chili)', detail: 'Zone endémique du virus Andes — seul hantavirus à transmission interhumaine documentée.' },
+  { lat: 50.1, lng: 4.0, radius: 200000, name: 'Hauts-de-France (Avesnois)', detail: 'Zone endémique française du virus Puumala (campagnol roussâtre). Quelques cas par an.' },
+  { lat: 4.0, lng: -53.0, radius: 250000, name: 'Guyane française', detail: 'Virus Maripa. 11 cas détectés depuis 2008, dont 6 mortels.' },
+  { lat: 36.5, lng: -109.0, radius: 400000, name: 'Sud-Ouest américain', detail: 'Virus Sin Nombre, identifié en 1993 (région des Four Corners). Cas sporadiques chaque année.' },
+  { lat: 60.0, lng: 18.0, radius: 500000, name: 'Scandinavie', detail: 'Virus Puumala endémique. Centaines de cas annuels en Finlande et Suède.' }
+];
+
+// MV Hondius itinerary
+const hondiusRoute = [
+  [-54.8019, -68.3030],  // Ushuaia (départ 1er avril 2026)
+  [-15.9650, -5.7089],   // Saint Helena (escale)
+  [-25.0, -15.0],        // Position approximative atlantique sud (foyer détecté)
+  [14.9333, -23.5133],   // Cap-Vert (refus d'accostage, 3 mai)
+  [28.2916, -16.6291]    // Tenerife (accostage final, 10 mai)
+];
+
+// =====================================================================
+// MAP
+// =====================================================================
+
+const map = L.map('map', {
+  center: [20, -10],
+  zoom: 2.5,
+  minZoom: 2,
+  worldCopyJump: true,
+  zoomControl: true,
+  attributionControl: false
+});
+
+L.control.attribution({ position: 'bottomleft', prefix: false }).addTo(map);
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+  attribution: '© OpenStreetMap · © CARTO',
+  subdomains: 'abcd',
+  maxZoom: 19
+}).addTo(map);
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
+  subdomains: 'abcd',
+  maxZoom: 19,
+  pane: 'shadowPane'
+}).addTo(map);
+
+// Endemic zones — drawn first so they sit underneath
+endemicZones.forEach(z => {
+  L.circle([z.lat, z.lng], {
+    radius: z.radius,
+    color: '#2c3e5c',
+    weight: 1.5,
+    dashArray: '4,4',
+    fillColor: '#2c3e5c',
+    fillOpacity: 0.05
+  }).bindPopup(`
+    <div class="pop-title">${z.name}</div>
+    <div class="pop-meta">Zone endémique historique</div>
+    <div>${z.detail}</div>
+  `).addTo(map);
+});
+
+// Hondius route
+L.polyline(hondiusRoute, {
+  color: '#0d0c0a',
+  weight: 1.5,
+  dashArray: '2,5',
+  opacity: 0.6
+}).addTo(map);
+
+// Markers per case
+const colorByType = {
+  confirmed: '#8b1a1a',
+  death: '#2a0808',
+  monitoring: '#a06b1a'
+};
+
+const labelByType = {
+  confirmed: 'Cas confirmé',
+  death: 'Décès',
+  monitoring: 'Cas contact surveillé'
+};
+
+cases.forEach(c => {
+  const isDeath = c.type === 'death';
+  const radius = isDeath ? 11 : (c.type === 'monitoring' ? 7 : 9);
+
+  const marker = L.circleMarker([c.lat, c.lng], {
+    radius,
+    fillColor: colorByType[c.type],
+    color: '#0d0c0a',
+    weight: 1.5,
+    fillOpacity: 0.85
+  });
+
+  marker.bindPopup(`
+    <div class="pop-title">${c.title}</div>
+    <div class="pop-meta">${labelByType[c.type]} · ${c.date}</div>
+    <div>${c.detail}</div>
+    <div class="pop-source">
+      ${c.location}<br>
+      <a href="${c.sourceUrl}" target="_blank">${c.source} →</a>
+    </div>
+  `);
+
+  marker.addTo(map);
+});
+
+// =====================================================================
+// I18N — minimal switch FR/EN
+// =====================================================================
+
+const translations = {
+  fr: {}, // default already in HTML
+  en: {
+    "deck-q": "How many cases worldwide?",
+    "deck-a": "A sourced, factual answer, updated daily — to cut through the moral panic now unfolding on social media.",
+    title: "Hantavirus",
+    confirmed_label: "Confirmed cases worldwide",
+    confirmed_meta: "all linked to the MV Hondius outbreak",
+    deaths_label: "Deaths",
+    deaths_meta: "aboard the vessel",
+    suspected_label: "Suspected cases",
+    suspected_meta: "awaiting laboratory confirmation",
+    contacts_label: "Contacts under surveillance",
+    contacts_meta: "French nationals in quarantine",
+    r0_label: "Human-to-human transmission",
+    r0_value: "limited",
+    r0_meta: "close, prolonged contact only (WHO)",
+    legend_title: "Legend",
+    legend_death: "Confirmed death",
+    legend_confirmed: "Laboratory-confirmed case",
+    legend_monitoring: "Contact under surveillance",
+    legend_endemic: "Historical endemic zone",
+    tab_news: "Latest",
+    tab_claims: "Fact-check",
+    feed_label: "Auto-updated every hour",
+    claims_label: "Disinfo detected & fact-checked automatically",
+    loading: "Loading…",
+    tag_gov: "Government",
+    tag_who: "WHO",
+    tag_ship: "Hondius",
+    tag_research: "Research",
+    tag_alert: "Alert",
+    news_fr_case: "First confirmed case in France: Hondius passenger at Bichat",
+    news_fr_case_body: "The passenger, symptomatic during repatriation, is being treated in intensive care at Bichat hospital. Diagnosis confirmed by the Institut Pasteur. 27 French contacts placed in isolation.",
+    news_decret: "Decree strengthens isolation measures (up to 42 days)",
+    news_decret_body: "The French government issues a decree governing quarantine and isolation for exposed individuals. The Health Minister states France is \"prepared in terms of masks, PCR tests, and medication.\"",
+    news_tenerife: "MV Hondius docks at Tenerife",
+    news_tenerife_body: "After being refused docking at Cape Verde on May 3rd, the ship is finally welcomed at the port of Tenerife (Canary Islands) for the ongoing examination, treatment and transfer of passengers and crew.",
+    news_who: "WHO classifies global risk as \"low\"",
+    news_who_body: "WHO Director-General Tedros Adhanom Ghebreyesus declares the situation \"in no way comparable to the Covid-19 pandemic.\" Risk assessed as low in the general population and moderate for cruise travelers.",
+    news_anrs: "ANRS MIE activates a Level 1 Emergence cell",
+    news_anrs_body: "The French National Agency for Emerging Infectious Diseases Research sets up enhanced scientific monitoring and defines research priorities in coordination with scientific communities.",
+    news_seq: "Sequencing confirmed: Andes strain",
+    news_seq_body: "Molecular biology analysis by South African health authorities identifies an Andes-type hantavirus strain — the only one of 38 known strains capable of limited human-to-human transmission.",
+    news_alert: "WHO alerts on outbreak aboard MV Hondius",
+    news_alert_body: "The World Health Organization signals a possible hantavirus infection cluster aboard the Dutch cruise ship sailing from Ushuaia to Cape Verde. 147 passengers and crew aboard. Three deaths reported.",
+    news_dep: "Departure from Ushuaia, Argentina",
+    news_dep_body: "The MV Hondius leaves Ushuaia for a cruise bound for Cape Verde. Several stops planned along the Atlantic route, including Saint Helena.",
+    claims_title: "Fact-check",
+    false: "False",
+    claim1_text: "Hantavirus is a brand new virus, out of nowhere",
+    claim1_fact: "Identified during the Korean War in the 1950s. Named after the Hantaan river. More than 20 pathogenic species are known across all continents.",
+    claim2_text: "It's Covid 2.0, it's going to spread everywhere",
+    claim2_fact: "The WHO classifies the risk as \"low\" in the general population and explicitly states the situation is \"in no way comparable to the Covid-19 pandemic.\" Only the Andes strain can transmit between humans, and only through close, prolonged contact.",
+    claim3_text: "Ivermectin treats hantavirus",
+    claim3_fact: "The WHO has explicitly declared it has \"seen no studies showing that ivermectin is an effective treatment against hantavirus.\" This antiparasitic drug does not act on viral infections.",
+    claim4_text: "Hantavirus escaped from a laboratory",
+    claim4_fact: "Hantaviruses are zoonotic: they have always circulated among wild rodents (voles, field mice). The current outbreak is linked to the MV Hondius environment in a South American endemic zone.",
+    claim5_text: "It's a side effect of the Covid vaccine",
+    claim5_fact: "Biologically unfounded. Hantavirus has been known and documented for 75 years. mRNA SARS-CoV-2 vaccines contain no hantavirus genetic material and cannot cause infection.",
+    method_title: "Methodology",
+    sources_title: "Official sources",
+    about_title: "About"
+  }
+};
+
+// =====================================================================
+// TAB SWITCHING
+// =====================================================================
+document.querySelectorAll('.sidebar-tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const target = btn.dataset.tab;
+    document.querySelectorAll('.sidebar-tab').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.sidebar-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelector(`.sidebar-panel[data-panel="${target}"]`).classList.add('active');
+  });
+});
+
+// store original FR
+document.querySelectorAll('[data-i18n]').forEach(el => {
+  el.dataset.fr = el.textContent;
+});
+
+document.querySelectorAll('.lang-switch button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const lang = btn.dataset.lang;
+    document.querySelectorAll('.lang-switch button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.documentElement.lang = lang;
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+      const key = el.dataset.i18n;
+      if (lang === 'fr') {
+        el.textContent = el.dataset.fr;
+      } else if (translations[lang][key]) {
+        el.textContent = translations[lang][key];
+      }
+    });
+  });
+});
+
+// =====================================================================
+// DERIVED COUNTERS
+// =====================================================================
+document.getElementById('total-confirmed').textContent =
+  cases.filter(c => c.type === 'confirmed').reduce((acc, c) => {
+    // "Deux cas confirmés" counts as 2
+    if (c.title.toLowerCase().includes('deux')) return acc + 2;
+    return acc + 1;
+  }, 0);
+
+document.getElementById('total-deaths').textContent =
+  cases.filter(c => c.type === 'death').reduce((acc, c) => {
+    if (c.title.toLowerCase().includes('trois')) return acc + 3;
+    return acc + 1;
+  }, 0);
+
+document.getElementById('total-suspected').textContent = '3';
+document.getElementById('total-contacts').textContent = '27';
+
+// =====================================================================
+// LIVE FEEDS — fetch news.json and factchecks.json
+// =====================================================================
+
+function currentLang() {
+  const active = document.querySelector('.lang-switch button.active');
+  return active ? active.dataset.lang : 'fr';
+}
+
+function formatRelativeUpdate(iso) {
+  if (!iso) return '';
+  const then = new Date(iso);
+  const now = new Date();
+  const diffMin = Math.floor((now - then) / 60000);
+  const lang = currentLang();
+  if (diffMin < 1) return lang === 'fr' ? "à l'instant" : "just now";
+  if (diffMin < 60) return lang === 'fr' ? `il y a ${diffMin} min` : `${diffMin} min ago`;
+  const diffH = Math.floor(diffMin / 60);
+  if (diffH < 24) return lang === 'fr' ? `il y a ${diffH} h` : `${diffH} h ago`;
+  const diffD = Math.floor(diffH / 24);
+  return lang === 'fr' ? `il y a ${diffD} j` : `${diffD} d ago`;
+}
+
+function escapeHtml(s) {
+  if (!s) return '';
+  return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+function renderNews(data) {
+  const lang = currentLang();
+  const container = document.getElementById('news-list');
+  const items = data.items || [];
+
+  if (!items.length) {
+    container.innerHTML = `<div class="loading-state">${lang === 'fr' ? 'Aucune actualité récente.' : 'No recent news.'}</div>`;
+    return;
+  }
+
+  document.getElementById('news-updated').textContent = formatRelativeUpdate(data.updated_at);
+
+  container.innerHTML = items.map(item => {
+    const title = (lang === 'en' && item.title_en) ? item.title_en : item.title;
+    const body = (lang === 'en' && item.body_en) ? item.body_en : item.body;
+    const tagLabel = ({
+      gov: lang === 'fr' ? 'Gouvernement' : 'Government',
+      who: lang === 'fr' ? 'OMS' : 'WHO',
+      ship: 'Hondius',
+      research: lang === 'fr' ? 'Recherche' : 'Research',
+      alert: lang === 'fr' ? 'Alerte' : 'Alert',
+      media: lang === 'fr' ? 'Médias' : 'Media'
+    }[item.tag]) || item.tag;
+    const dateLabel = item.date_label || item.date || '';
+    return `
+      <div class="news-item">
+        <div class="news-date"><span class="news-tag ${escapeHtml(item.tag)}">${escapeHtml(tagLabel)}</span> ${escapeHtml(dateLabel)}</div>
+        <div class="news-title">${escapeHtml(title)}</div>
+        <div class="news-body">${escapeHtml(body)}</div>
+        <div class="news-source">Source : <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noopener">${escapeHtml(item.source)} →</a></div>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderClaims(data) {
+  const lang = currentLang();
+  const container = document.getElementById('claims-list');
+  const items = data.items || [];
+
+  if (!items.length) {
+    container.innerHTML = `<div class="loading-state">${lang === 'fr' ? 'Aucune désinfox détectée.' : 'No disinfo detected.'}</div>`;
+    return;
+  }
+
+  document.getElementById('claims-updated').textContent = formatRelativeUpdate(data.updated_at);
+
+  const verdictMap = {
+    fr: { false: 'Faux', misleading: 'Trompeur', factual: 'Factuel' },
+    en: { false: 'False', misleading: 'Misleading', factual: 'Factual' }
+  };
+
+  container.innerHTML = items.map(item => {
+    const claimText = (lang === 'en' && item.claim_en) ? item.claim_en : item.claim;
+    const factText = (lang === 'en' && item.fact_en) ? item.fact_en : item.fact;
+    const verdict = (verdictMap[lang] || verdictMap.fr)[item.verdict] || item.verdict;
+    const autoClass = item.manual ? '' : 'auto-generated';
+    const spottedHtml = item.spotted_on ? `
+      <div class="claim-spotted">
+        ${lang === 'fr' ? 'Repéré sur' : 'Spotted on'} : ${escapeHtml(item.spotted_on)}${item.spotted_url ? ` · <a href="${escapeHtml(item.spotted_url)}" target="_blank" rel="noopener">${lang === 'fr' ? 'lien' : 'link'}</a>` : ''}
+      </div>
+    ` : '';
+
+    return `
+      <div class="claim ${autoClass}">
+        <div class="claim-text">${escapeHtml(claimText)}</div>
+        <div class="claim-verdict">${escapeHtml(verdict)}</div>
+        <div class="claim-fact">${escapeHtml(factText)}</div>
+        <div class="claim-source">Source : ${escapeHtml(item.source)}</div>
+        ${spottedHtml}
+      </div>
+    `;
+  }).join('');
+}
+
+async function loadFeeds() {
+  try {
+    const newsRes = await fetch('./data/news.json', { cache: 'no-store' });
+    if (newsRes.ok) renderNews(await newsRes.json());
+    else throw new Error('news.json HTTP ' + newsRes.status);
+  } catch (e) {
+    console.error('News load failed:', e);
+    document.getElementById('news-list').innerHTML =
+      '<div class="error-state">Impossible de charger les actualités. Vérifie que le fichier data/news.json est accessible (le tracker doit être servi via un serveur HTTP, pas ouvert directement en file://).</div>';
+  }
+
+  try {
+    const fcRes = await fetch('./data/factchecks.json', { cache: 'no-store' });
+    if (fcRes.ok) renderClaims(await fcRes.json());
+    else throw new Error('factchecks.json HTTP ' + fcRes.status);
+  } catch (e) {
+    console.error('Factchecks load failed:', e);
+    document.getElementById('claims-list').innerHTML =
+      '<div class="error-state">Impossible de charger les factchecks. Vérifie data/factchecks.json.</div>';
+  }
+}
+
+// Re-render when language changes
+document.querySelectorAll('.lang-switch button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    // Small timeout so the active class has already toggled
+    setTimeout(() => {
+      fetch('./data/news.json').then(r => r.json()).then(renderNews).catch(() => {});
+      fetch('./data/factchecks.json').then(r => r.json()).then(renderClaims).catch(() => {});
+    }, 50);
+  });
+});
+
+loadFeeds();
+// Auto-refresh every 5 minutes (in case the JSON is updated server-side)
+setInterval(loadFeeds, 5 * 60 * 1000);
+</script>
+
+</body>
+</html>

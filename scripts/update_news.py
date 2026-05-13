@@ -25,37 +25,40 @@ from dateutil import parser as dateparser
 # CONFIG
 # -----------------------------------------------------------------------------
 
-KEYWORDS = ("hantavirus", "hondius", "andes virus", "virus des andes")
+KEYWORDS = ("hantavirus", "hondius", "andes virus", "virus des andes", "hantaan")
 
 # Official sources to monitor. Add/remove as needed.
 # `tag` controls the colored pill in the UI (gov, who, ship, research, alert, media).
 FEEDS = [
     # =====================================================================
-    # INSTITUTIONNEL — agences sanitaires et organismes de recherche
+    # FILET DE SÉCURITÉ — Google News
+    # Captures toute mention "hantavirus" dans la presse mondiale, indépendamment
+    # des flux individuels qui peuvent casser. Très large, possiblement bruité,
+    # mais garantit qu'on ne rate rien tant que le mot-clé apparaît dans un titre.
     # =====================================================================
-    {"name": "OMS — Disease Outbreak News", "url": "https://www.who.int/feeds/entity/csr/don/en/rss.xml", "tag": "who"},
-    {"name": "ECDC — News & Events", "url": "https://www.ecdc.europa.eu/en/taxonomy/term/4926/feed", "tag": "who"},
-    {"name": "Santé publique France", "url": "https://www.santepubliquefrance.fr/content/rss/actualites", "tag": "gov"},
-    {"name": "info.gouv.fr", "url": "https://www.info.gouv.fr/rss/actualites.xml", "tag": "gov"},
-    {"name": "ANRS Maladies infectieuses émergentes", "url": "https://anrs.fr/feed/", "tag": "research"},
-    {"name": "Institut Pasteur", "url": "https://www.pasteur.fr/fr/rss.xml", "tag": "research"},
-    {"name": "Inserm", "url": "https://www.inserm.fr/feed/", "tag": "research"},
+    {"name": "Google Actualités (FR)", "url": "https://news.google.com/rss/search?q=hantavirus&hl=fr&gl=FR&ceid=FR:fr", "tag": "media"},
+    {"name": "Google News (EN)", "url": "https://news.google.com/rss/search?q=hantavirus&hl=en&gl=US&ceid=US:en", "tag": "media"},
 
     # =====================================================================
-    # AGENCES DE PRESSE (wires)
+    # INSTITUTIONNEL — agences sanitaires et organismes de recherche
     # =====================================================================
-    {"name": "Reuters — World", "url": "https://www.reutersagency.com/feed/?best-topics=world&post_type=best", "tag": "media"},
-    {"name": "Reuters — Health", "url": "https://www.reutersagency.com/feed/?best-topics=health&post_type=best", "tag": "media"},
-    {"name": "AP News — Health", "url": "https://feeds.apnews.com/apnews/health", "tag": "media"},
+    {"name": "OMS — News", "url": "https://www.who.int/rss-feeds/news-english.xml", "tag": "who"},
+    {"name": "ECDC — News & press releases", "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1307/feed", "tag": "who"},
+    {"name": "ECDC — Communicable disease threats report", "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1505/feed", "tag": "who"},
+    {"name": "Santé publique France", "url": "https://www.santepubliquefrance.fr/rss.xml", "tag": "gov"},
+    {"name": "ANRS Maladies infectieuses émergentes", "url": "https://anrs.fr/feed/", "tag": "research"},
+    {"name": "Inserm", "url": "https://www.inserm.fr/feed/", "tag": "research"},
 
     # =====================================================================
     # PRESSE INTERNATIONALE ANGLOPHONE
     # =====================================================================
     {"name": "BBC News — Health", "url": "https://feeds.bbci.co.uk/news/health/rss.xml", "tag": "media"},
     {"name": "BBC News — World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "tag": "media"},
+    {"name": "BBC News — Science & Environment", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "tag": "media"},
     {"name": "The Guardian — World", "url": "https://www.theguardian.com/world/rss", "tag": "media"},
     {"name": "The Guardian — Health", "url": "https://www.theguardian.com/society/health/rss", "tag": "media"},
     {"name": "The New York Times — Health", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml", "tag": "media"},
+    {"name": "The New York Times — Science", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml", "tag": "media"},
     {"name": "Al Jazeera English", "url": "https://www.aljazeera.com/xml/rss/all.xml", "tag": "media"},
     {"name": "Deutsche Welle — World", "url": "https://rss.dw.com/rdf/rss-en-world", "tag": "media"},
     {"name": "France 24 — International", "url": "https://www.france24.com/en/rss", "tag": "media"},
@@ -65,11 +68,11 @@ FEEDS = [
     # =====================================================================
     {"name": "Le Monde — Sciences", "url": "https://www.lemonde.fr/sciences/rss_full.xml", "tag": "media"},
     {"name": "Le Monde — Planète", "url": "https://www.lemonde.fr/planete/rss_full.xml", "tag": "media"},
-    {"name": "Le Figaro — Sciences", "url": "https://www.lefigaro.fr/rss/figaro_sciences.xml", "tag": "media"},
     {"name": "France Info — Santé", "url": "https://www.francetvinfo.fr/sante.rss", "tag": "media"},
     {"name": "Sciences et Avenir — Santé", "url": "https://www.sciencesetavenir.fr/sante/rss.xml", "tag": "media"},
     {"name": "Le Quotidien du Médecin", "url": "https://www.lequotidiendumedecin.fr/rss.xml", "tag": "media"},
-    {"name": "Les Échos", "url": "https://services.lesechos.fr/rss/les-echos-monde.xml", "tag": "media"},
+    {"name": "Radio France — France Inter", "url": "https://radiofrance.fr/franceinter/rss", "tag": "media"},
+    {"name": "Libération", "url": "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml", "tag": "media"},
 
     # =====================================================================
     # SCIENCE & SANTÉ SPÉCIALISÉES

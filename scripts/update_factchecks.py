@@ -29,7 +29,7 @@ from dateutil import parser as dateparser
 # CONFIG
 # -----------------------------------------------------------------------------
 
-KEYWORDS = ("hantavirus", "hondius", "andes virus", "virus des andes")
+KEYWORDS = ("hantavirus", "hondius", "andes virus", "virus des andes", "hantaan")
 
 # Professional fact-checking units, organized by language. Add/remove as you wish.
 FACTCHECK_SOURCES = [
@@ -49,12 +49,11 @@ FACTCHECK_SOURCES = [
     {"name": "Snopes", "url": "https://www.snopes.com/feed/", "tag": "alert"},
     {"name": "Full Fact (UK)", "url": "https://fullfact.org/feed/", "tag": "alert"},
     {"name": "Lead Stories", "url": "https://leadstories.com/atom.xml", "tag": "alert"},
-    {"name": "Guardian — Reality Check", "url": "https://www.theguardian.com/global/reality-check/rss", "tag": "alert"},
 
     # =====================================================================
     # HISPANOPHONE
     # =====================================================================
-    {"name": "Maldita.es", "url": "https://maldita.es/feeds/maldito-bulo/", "tag": "alert"},
+    {"name": "Maldita.es", "url": "https://www.maldita.es/feed/", "tag": "alert"},
     {"name": "Newtral", "url": "https://www.newtral.es/feed", "tag": "alert"},
     {"name": "Chequeado (Argentine)", "url": "https://chequeado.com/feed/", "tag": "alert"},
 
@@ -66,7 +65,7 @@ FACTCHECK_SOURCES = [
     # =====================================================================
     # LUSOPHONE
     # =====================================================================
-    {"name": "Aos Fatos (Brésil)", "url": "https://www.aosfatos.org/noticias/rss/", "tag": "alert"},
+    {"name": "Aos Fatos (Brésil)", "url": "https://www.aosfatos.org/noticias/feed/", "tag": "alert"},
 
     # =====================================================================
     # AJOUTE / RETIRE DES SOURCES ICI

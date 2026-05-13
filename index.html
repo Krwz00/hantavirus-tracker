@@ -33,7 +33,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;6..72,700;6..72,800&family=Hanken+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;0,6..72,800;1,6..72,400;1,6..72,500;1,6..72,600&family=Hanken+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
   :root {
@@ -282,10 +282,11 @@
     border: none;
     border-right: 1px solid var(--rule-soft);
     padding: 14px 10px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10px;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
     text-transform: uppercase;
-    letter-spacing: 0.16em;
+    letter-spacing: 0.12em;
     color: var(--ink-faint);
     cursor: pointer;
     transition: all 0.15s;
@@ -546,12 +547,28 @@
   }
 
   /* Leaflet overrides */
+  /* Force project font stack on every Leaflet UI element, otherwise Leaflet's
+     own stylesheet falls back to "Helvetica Neue", Arial, etc. */
+  .leaflet-container,
+  .leaflet-control-attribution,
+  .leaflet-control-zoom,
+  .leaflet-control-zoom a {
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+  }
+  .leaflet-control-zoom a {
+    font-weight: 500;
+  }
+  .leaflet-control-attribution {
+    font-size: 10.5px;
+    color: var(--ink-faint);
+  }
+
   .leaflet-popup-content-wrapper {
     background: var(--paper);
     border-radius: 0;
     border: 1px solid var(--ink);
     box-shadow: 4px 4px 0 var(--ink);
-    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
   }
   .leaflet-popup-tip {
     background: var(--paper);
@@ -866,7 +883,7 @@
     <div class="footer-title" data-i18n="about_title">À propos</div>
     <span data-i18n="about_body">Site indépendant créé par Mehdi TRIKI. Aucune affiliation institutionnelle, aucune monétisation, aucun tracking. Conçu comme un outil de déflation de panique face à la vague de désinformation.</span>
     <br><br>
-    <a href="https://www.linkedin.com/in/mehditriki/" target="_blank" rel="noopener" data-i18n="linkedin_label">Profil LinkedIn →</a>
+    <a href="https://www.linkedin.com/in/mehdi-triki/" target="_blank" rel="noopener" data-i18n="linkedin_label">Profil LinkedIn →</a>
     <br>
     <a class="support-link" href="https://buy.stripe.com/00w4gy0yg7P30Ct1l55Ne00" target="_blank" rel="noopener" data-i18n="support_label">Soutenir le projet →</a>
   </div>

@@ -21,15 +21,18 @@ hantavirus-tracker/
 ├── og-image.png            # image de preview pour les partages sociaux (1200x630)
 ├── CLAUDE.md               # ce fichier
 ├── README.md               # README public
+├── assets/
+│   └── fonts/              # TTF variables (Newsreader, HankenGrotesk, JetBrainsMono)
 ├── data/
 │   ├── cases.json          # cas, décès, contacts, zones endémiques, route Hondius
-│   ├── news.json           # actus (8 manuelles + scrappées par GH Actions)
-│   └── factchecks.json     # factchecks (5 manuels + scrappés)
+│   ├── news.json           # actus (manuelles + scrappées par GH Actions)
+│   └── factchecks.json     # factchecks (manuels + scrappés)
 ├── scripts/
-│   ├── requirements.txt    # feedparser, python-dateutil
+│   ├── requirements.txt    # feedparser, python-dateutil, Pillow (pour og-image)
 │   ├── update_news.py      # agrège data/news.json depuis les flux RSS
 │   ├── update_factchecks.py# agrège data/factchecks.json depuis les flux RSS
-│   └── test_feeds.py       # diagnostic local des flux (jamais commité)
+│   ├── generate_og_image.py# régénère og-image.png avec les fontes du projet
+│   └── test_feeds.py       # diagnostic local des flux
 └── .github/workflows/
     └── update.yml          # GH Actions cron toutes les heures
 ```
@@ -210,6 +213,22 @@ python -m http.server 8000
 Le frontend utilise `fetch('./data/…')`, donc nécessite un serveur HTTP
 (ouvrir `index.html` en `file://` ne marche pas).
 
+## Régénérer og-image.png
+
+`og-image.png` est la preview 1200x630 servie aux partages sociaux. Le
+compteur affiché (« 5 cas confirmés », « 3 décès à bord ») est lu depuis
+`data/cases.json` ; il faut donc régénérer l'image après tout changement
+significatif des chiffres :
+
+```bash
+pip install Pillow
+python scripts/generate_og_image.py
+```
+
+Les fontes TTF utilisées sont dans `assets/fonts/` (Newsreader, Newsreader
+Italic, Hanken Grotesk, JetBrains Mono — variables). Elles sont commitées
+pour reproductibilité, **ne pas les ajouter au .gitignore**.
+
 ## Pièges connus
 
 - **`feedparser.bozo == 1` n'est pas bloquant** : le parser est tolérant et
@@ -236,6 +255,6 @@ co-authoring tag sauf si Claude pousse directement (alors ajouter
 - Avant de modifier la clé API Anthropic ou tout secret.
 - Avant de supprimer une entrée `manual: true`.
 - Avant de changer l'URL Stripe (`https://buy.stripe.com/00w4gy0yg7P30Ct1l55Ne00`).
-- Avant de toucher au LinkedIn `https://www.linkedin.com/in/mehditriki/`.
+- Avant de toucher au LinkedIn `https://www.linkedin.com/in/mehdi-triki/`.
 
 Sinon le user a explicitement délégué l'autorité de commit-push sur `main`.

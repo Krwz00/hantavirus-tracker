@@ -30,8 +30,6 @@ jobs:
         run: python scripts/update_news.py
 
       - name: Update fact-checks
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/update_factchecks.py
 
       - name: Commit updated JSON

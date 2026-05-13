@@ -49,15 +49,65 @@ KEYWORDS = ("hantavirus", "hondius", "andes virus", "virus des andes")
 # their RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
 # (find the channel_id by viewing the page source of any channel page).
 DISINFO_SOURCES = [
-    # Alt-media with RSS
+    # =====================================================================
+    # ALT-MEDIA AVEC RSS NATIF
+    # =====================================================================
     {"name": "FranceSoir", "url": "https://www.francesoir.fr/rss.xml"},
+    {"name": "Réinfo Covid", "url": "https://reinfocovid.fr/feed/"},
+    {"name": "Nexus (magazine)", "url": "https://www.nexus.fr/feed/"},
+    # Décommente / ajoute selon ta veille personnelle. Tout site avec un RSS valide marche.
 
-    # YouTube channels — replace CHANNEL_ID with the real ones for the figures
-    # you want to monitor. Example placeholders below; verify channel IDs first.
-    # {"name": "YouTube — Didier Raoult (IHU)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=XXXX"},
-    # {"name": "YouTube — Florian Philippot", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=XXXX"},
+    # =====================================================================
+    # YOUTUBE — chaînes des figures à monitorer
+    # =====================================================================
+    # YouTube fournit nativement du RSS pour chaque chaîne, c'est gratuit.
+    # Format : https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
+    #
+    # Pour trouver le CHANNEL_ID :
+    #   1. Va sur la page YouTube de la chaîne
+    #   2. Clic-droit sur la page → "Afficher le code source" (Ctrl+U / Cmd+Option+U)
+    #   3. Ctrl+F / Cmd+F → cherche : "channelId":"UC
+    #   4. La chaîne qui commence par "UC..." (longueur ~24 chars) est ton ID
+    #
+    # Liste à compléter pour les figures qui relaient activement la désinfox hantavirus.
+    # Exemples (remplace CHANNEL_ID par les vraies valeurs avant de décommenter) :
+    #
+    # {"name": "YouTube — IHU Méditerranée (Raoult)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID"},
+    # {"name": "YouTube — Florian Philippot", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID"},
+    # {"name": "YouTube — Alexandra Henrion-Caude", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID"},
+    # {"name": "YouTube — Christian Perronne", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID"},
+    # {"name": "YouTube — Silvano Trotta", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID"},
 
-    # Add more here. Anything with a public RSS feed works.
+    # =====================================================================
+    # RSSHUB — chaînon manquant pour les sources social-native
+    # =====================================================================
+    # RSSHub (https://docs.rsshub.app) est un projet open source qui génère du RSS
+    # pour à peu près n'importe quoi : X/Twitter, TikTok, Telegram, Substack, etc.
+    # L'instance publique (https://rsshub.app) est gratuite mais parfois lente
+    # et rate-limitée. Pour de la production sérieuse, déploie une instance perso
+    # sur Render/Railway (~5€/mois).
+    #
+    # Exemples utiles (décommente et remplace USERNAME) :
+    #
+    # # Twitter/X — via Nitter
+    # {"name": "X — Raoult via RSSHub", "url": "https://rsshub.app/twitter/user/raoult_didier"},
+    # {"name": "X — Philippot via RSSHub", "url": "https://rsshub.app/twitter/user/f_philippot"},
+    #
+    # # TikTok — d'un utilisateur
+    # {"name": "TikTok — USERNAME via RSSHub", "url": "https://rsshub.app/tiktok/user/USERNAME"},
+    #
+    # # Telegram — d'une chaîne publique
+    # {"name": "Telegram — CHANNEL via RSSHub", "url": "https://rsshub.app/telegram/channel/CHANNEL_NAME"},
+    #
+    # # Substack — d'un newsletter
+    # {"name": "Substack — USERNAME via RSSHub", "url": "https://rsshub.app/substack/posts/USERNAME"},
+    #
+    # # Facebook (page publique uniquement)
+    # {"name": "Facebook — PAGE via RSSHub", "url": "https://rsshub.app/facebook/page/PAGE_ID"},
+
+    # =====================================================================
+    # AJOUTE D'AUTRES SOURCES ICI
+    # =====================================================================
 ]
 
 MODEL = "claude-sonnet-4-5"  # adjust if you have a different model name

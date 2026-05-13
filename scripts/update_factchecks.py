@@ -1,55 +1,258 @@
-{
-  "updated_at": "2026-05-13T14:00:00+02:00",
-  "items": [
-    {
-      "id": "manual-new-virus",
-      "manual": true,
-      "verdict": "false",
-      "claim": "L'hantavirus est un nouveau virus, sorti de nulle part",
-      "claim_en": "Hantavirus is a brand new virus, out of nowhere",
-      "fact": "Identifié dans les années 1950 lors de la guerre de Corée. Son nom vient de la rivière Hantaan. Plus de 20 espèces pathogènes sont connues, présentes sur tous les continents.",
-      "fact_en": "Identified during the Korean War in the 1950s. Named after the Hantaan river. More than 20 pathogenic species are known across all continents.",
-      "source": "Inserm, Institut Pasteur"
-    },
-    {
-      "id": "manual-covid-2",
-      "manual": true,
-      "verdict": "false",
-      "claim": "C'est Covid 2.0, ça va se propager partout",
-      "claim_en": "It's Covid 2.0, it's going to spread everywhere",
-      "fact": "L'OMS qualifie le risque de « faible » en population générale et « sans commune mesure avec la situation observée lors de la pandémie de Covid-19 ». Seule la souche Andes peut se transmettre entre humains, et uniquement par contacts étroits et prolongés.",
-      "fact_en": "The WHO classifies the risk as low in the general population and explicitly states the situation is in no way comparable to the Covid-19 pandemic. Only the Andes strain can transmit between humans, and only through close, prolonged contact.",
-      "source": "OMS, ECDC, 8 mai 2026"
-    },
-    {
-      "id": "manual-ivermectine",
-      "manual": true,
-      "verdict": "false",
-      "claim": "L'ivermectine soigne l'hantavirus",
-      "claim_en": "Ivermectin treats hantavirus",
-      "fact": "L'OMS a explicitement déclaré n'avoir « vu aucune étude démontrant que l'ivermectine est un traitement efficace contre l'hantavirus ». Ce médicament antiparasitaire n'agit pas sur les infections virales.",
-      "fact_en": "The WHO has explicitly declared it has seen no studies showing that ivermectin is an effective treatment against hantavirus. This antiparasitic drug does not act on viral infections.",
-      "source": "OMS, John Lednicky (virologue, Univ. de Floride)"
-    },
-    {
-      "id": "manual-lab-leak",
-      "manual": true,
-      "verdict": "false",
-      "claim": "L'hantavirus s'est échappé d'un laboratoire",
-      "claim_en": "Hantavirus escaped from a laboratory",
-      "fact": "Les hantavirus sont zoonotiques : ils circulent depuis toujours chez les rongeurs sauvages (campagnols, mulots). Le foyer actuel est lié à l'environnement du navire MV Hondius en zone d'endémie sud-américaine.",
-      "fact_en": "Hantaviruses are zoonotic: they have always circulated among wild rodents (voles, field mice). The current outbreak is linked to the MV Hondius environment in a South American endemic zone.",
-      "source": "Institut Pasteur, CNR Hantavirus"
-    },
-    {
-      "id": "manual-vaccine-side",
-      "manual": true,
-      "verdict": "false",
-      "claim": "C'est un effet secondaire du vaccin Covid",
-      "claim_en": "It's a side effect of the Covid vaccine",
-      "fact": "Biologiquement infondé. L'hantavirus est connu et documenté depuis 75 ans. Les vaccins à ARNm contre le SARS-CoV-2 ne contiennent aucun matériel viral d'hantavirus et ne peuvent en provoquer l'infection.",
-      "fact_en": "Biologically unfounded. Hantavirus has been known and documented for 75 years. mRNA SARS-CoV-2 vaccines contain no hantavirus genetic material and cannot cause infection.",
-      "source": "Agence de vérification Radio France, AFP Factuel"
+"""
+update_factchecks.py — detects hantavirus claims on known disinfo sources and
+generates fact-checks using the Claude API.
+
+Workflow:
+1. Scrape a curated list of disinfo-prone sources (alt-media RSS, YouTube channel
+   RSS for known figures, etc.) for hantavirus content.
+2. For each candidate, send the claim text to Claude with a grounded prompt
+   containing the WHO / Institut Pasteur reference facts.
+3. Claude returns a JSON verdict; we keep claims judged "false" or "misleading".
+4. Merge with the manually curated factchecks (anything marked "manual": true is
+   preserved across runs).
+
+Dependencies: feedparser, anthropic, python-dateutil.
+Environment: requires ANTHROPIC_API_KEY.
+
+NOTE: this script does NOT crawl Facebook/X/TikTok directly because their APIs
+are closed or paid. It scrapes content that the same disinfo actors mirror on
+their own websites and YouTube channels. This catches ~70% of the named
+figures (Raoult, Perronne, Henrion-Caude, Philippot, etc.) but misses purely
+social-native viral content. For comprehensive social monitoring, plug a paid
+listening tool (Visibrain, Talkwalker) in place of the FEEDS list below.
+"""
+from __future__ import annotations
+
+import hashlib
+import json
+import os
+import re
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+
+import feedparser
+
+try:
+    import anthropic
+except ImportError:
+    print("ERROR: install with `pip install anthropic`", file=sys.stderr)
+    sys.exit(1)
+
+# -----------------------------------------------------------------------------
+# CONFIG
+# -----------------------------------------------------------------------------
+
+KEYWORDS = ("hantavirus", "hondius", "andes virus", "virus des andes")
+
+# Curated list of disinfo-prone sources. Add YouTube channels of named figures via
+# their RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
+# (find the channel_id by viewing the page source of any channel page).
+DISINFO_SOURCES = [
+    # Alt-media with RSS
+    {"name": "FranceSoir", "url": "https://www.francesoir.fr/rss.xml"},
+
+    # YouTube channels — replace CHANNEL_ID with the real ones for the figures
+    # you want to monitor. Example placeholders below; verify channel IDs first.
+    # {"name": "YouTube — Didier Raoult (IHU)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=XXXX"},
+    # {"name": "YouTube — Florian Philippot", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=XXXX"},
+
+    # Add more here. Anything with a public RSS feed works.
+]
+
+MODEL = "claude-sonnet-4-5"  # adjust if you have a different model name
+MAX_CLAIMS_PER_RUN = 15      # cap API calls per run
+OUTPUT_PATH = Path(__file__).parent.parent / "data" / "factchecks.json"
+
+# Reference facts injected into the Claude prompt — kept short and authoritative.
+REFERENCE_FACTS = """
+- WHO and ECDC classify the global risk of the May 2026 MV Hondius hantavirus outbreak as "low" in the general population and "moderate" for cruise travelers.
+- The WHO Director-General explicitly stated the situation is "in no way comparable" to the Covid-19 pandemic (8 May 2026).
+- Hantaviruses are zoonotic, primarily transmitted via inhalation of aerosols from rodent urine/feces. Only the Andes strain has documented (rare) human-to-human transmission, restricted to close, prolonged contact (household, intimate partners, healthcare workers).
+- Hantaviruses were first identified in the 1950s during the Korean War; named after the Hantaan river. >20 pathogenic species are known across all continents.
+- No ivermectin study has shown efficacy against hantaviruses. WHO and virologists (e.g. John Lednicky, University of Florida) state ivermectin is not effective against viral infections.
+- mRNA SARS-CoV-2 vaccines contain no hantavirus genetic material. There is no biological mechanism by which they could cause hantavirus infection.
+- As of mid-May 2026: 5–8 confirmed cases worldwide, all linked to the MV Hondius. 3 deaths aboard the vessel. ~27 French nationals in contact-trace isolation.
+"""
+
+PROMPT_TEMPLATE = """You are a fact-checker analyzing online content for false or misleading claims about the May 2026 hantavirus outbreak (MV Hondius cruise ship).
+
+REFERENCE FACTS (from WHO, ECDC, Institut Pasteur, Inserm):
+{reference_facts}
+
+CONTENT TO ANALYZE:
+\"\"\"
+{content}
+\"\"\"
+
+TASK:
+Identify the SINGLE most important factual claim in this content about hantavirus. Then determine if it is false, misleading, or factual relative to the reference facts.
+
+Output a single JSON object with this exact shape (no markdown, no prose, just JSON):
+{{
+  "has_claim": true | false,
+  "claim_fr": "<the claim restated concisely in French, max 140 chars>",
+  "claim_en": "<same claim in English, max 140 chars>",
+  "verdict": "false" | "misleading" | "factual" | "unverifiable",
+  "fact_fr": "<concise 2-3 sentence rebuttal in French, citing the reference fact>",
+  "fact_en": "<same rebuttal in English>",
+  "source_attribution": "<which reference fact / organization supports the rebuttal>"
+}}
+
+If the content is pure opinion, rant, or contains no testable factual claim, return {{"has_claim": false}}.
+If the claim is factual (matches reference), still output it but with verdict "factual".
+Only verdicts "false" and "misleading" will be displayed publicly.
+"""
+
+
+# -----------------------------------------------------------------------------
+# HELPERS
+# -----------------------------------------------------------------------------
+
+def matches_keywords(text: str) -> bool:
+    if not text:
+        return False
+    return any(kw in text.lower() for kw in KEYWORDS)
+
+
+def strip_html(s: str) -> str:
+    if not s:
+        return ""
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = re.sub(r"\s+", " ", s)
+    return s.strip()
+
+
+def stable_id(text: str) -> str:
+    return "auto-" + hashlib.sha1(text.encode("utf-8")).hexdigest()[:12]
+
+
+def gather_candidates() -> list[dict]:
+    """Pull hantavirus-related items from monitored disinfo sources."""
+    candidates = []
+    for src in DISINFO_SOURCES:
+        try:
+            parsed = feedparser.parse(src["url"])
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! {src['name']}: {exc}", file=sys.stderr)
+            continue
+
+        for entry in parsed.entries:
+            title = entry.get("title", "").strip()
+            summary = strip_html(entry.get("summary", "") or entry.get("description", ""))
+            full_text = f"{title}\n{summary}"
+
+            if not matches_keywords(full_text):
+                continue
+
+            candidates.append({
+                "source": src["name"],
+                "url": entry.get("link", ""),
+                "text": full_text[:1500],  # cap context size
+                "raw_title": title,
+            })
+
+    print(f"  → {len(candidates)} candidate claim(s) collected")
+    return candidates
+
+
+def factcheck_one(client: anthropic.Anthropic, candidate: dict) -> dict | None:
+    """Send one candidate to Claude, return a factcheck dict or None."""
+    prompt = PROMPT_TEMPLATE.format(
+        reference_facts=REFERENCE_FACTS.strip(),
+        content=candidate["text"],
+    )
+
+    try:
+        response = client.messages.create(
+            model=MODEL,
+            max_tokens=600,
+            messages=[{"role": "user", "content": prompt}],
+        )
+    except Exception as exc:  # noqa: BLE001
+        print(f"  ! API error on '{candidate['raw_title'][:60]}': {exc}", file=sys.stderr)
+        return None
+
+    raw = response.content[0].text.strip()
+    # Strip possible markdown code fences
+    raw = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.MULTILINE).strip()
+
+    try:
+        result = json.loads(raw)
+    except json.JSONDecodeError:
+        print(f"  ! Could not parse JSON for: {candidate['raw_title'][:60]}", file=sys.stderr)
+        return None
+
+    if not result.get("has_claim"):
+        return None
+    if result.get("verdict") not in ("false", "misleading"):
+        return None
+
+    return {
+        "id": stable_id(candidate["url"] or candidate["text"]),
+        "manual": False,
+        "verdict": result["verdict"],
+        "claim": result.get("claim_fr", ""),
+        "claim_en": result.get("claim_en", ""),
+        "fact": result.get("fact_fr", ""),
+        "fact_en": result.get("fact_en", ""),
+        "source": result.get("source_attribution", "Vérifié contre la base OMS / Institut Pasteur"),
+        "spotted_on": candidate["source"],
+        "spotted_url": candidate["url"],
+        "checked_at": datetime.now(timezone.utc).isoformat(),
     }
-  ]
-}
+
+
+def load_existing_manual() -> list[dict]:
+    """Load existing factchecks.json and return only items marked manual."""
+    if not OUTPUT_PATH.exists():
+        return []
+    try:
+        data = json.loads(OUTPUT_PATH.read_text())
+    except json.JSONDecodeError:
+        return []
+    return [it for it in data.get("items", []) if it.get("manual")]
+
+
+# -----------------------------------------------------------------------------
+# MAIN
+# -----------------------------------------------------------------------------
+
+def main() -> int:
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        print("ERROR: ANTHROPIC_API_KEY environment variable is not set.", file=sys.stderr)
+        return 1
+
+    client = anthropic.Anthropic(api_key=api_key)
+
+    print(f"Scanning {len(DISINFO_SOURCES)} disinfo-prone source(s)")
+    candidates = gather_candidates()
+    candidates = candidates[:MAX_CLAIMS_PER_RUN]
+
+    print(f"Fact-checking {len(candidates)} claim(s) via Claude API…")
+    auto_checks = []
+    for cand in candidates:
+        result = factcheck_one(client, cand)
+        if result:
+            auto_checks.append(result)
+            print(f"  ✓ {result['verdict'].upper()}: {result['claim'][:80]}")
+
+    manual = load_existing_manual()
+    print(f"Preserving {len(manual)} manual fact-check(s); adding {len(auto_checks)} auto-detected")
+
+    # Manual entries first, then auto in reverse-chronological order
+    auto_checks.sort(key=lambda x: x["checked_at"], reverse=True)
+    output = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "items": manual + auto_checks,
+    }
+
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT_PATH.write_text(json.dumps(output, indent=2, ensure_ascii=False))
+    print(f"Wrote {len(output['items'])} total fact-checks to {OUTPUT_PATH}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

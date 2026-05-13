@@ -30,43 +30,129 @@ KEYWORDS = ("hantavirus", "hondius", "andes virus", "virus des andes")
 # Official sources to monitor. Add/remove as needed.
 # `tag` controls the colored pill in the UI (gov, who, ship, research, alert, media).
 FEEDS = [
+    # =====================================================================
+    # INSTITUTIONNEL — agences sanitaires et organismes de recherche
+    # =====================================================================
     {
         "name": "OMS — Disease Outbreak News",
-        "name_en": "WHO — Disease Outbreak News",
         "url": "https://www.who.int/feeds/entity/csr/don/en/rss.xml",
         "tag": "who",
     },
     {
         "name": "ECDC — News & Events",
-        "name_en": "ECDC — News & Events",
         "url": "https://www.ecdc.europa.eu/en/taxonomy/term/4926/feed",
         "tag": "who",
     },
     {
         "name": "Santé publique France",
-        "name_en": "Santé publique France",
         "url": "https://www.santepubliquefrance.fr/content/rss/actualites",
         "tag": "gov",
     },
     {
         "name": "info.gouv.fr",
-        "name_en": "info.gouv.fr",
         "url": "https://www.info.gouv.fr/rss/actualites.xml",
         "tag": "gov",
     },
     {
         "name": "ANRS Maladies infectieuses émergentes",
-        "name_en": "ANRS Emerging Infectious Diseases",
         "url": "https://anrs.fr/feed/",
         "tag": "research",
     },
     {
         "name": "Institut Pasteur",
-        "name_en": "Institut Pasteur",
         "url": "https://www.pasteur.fr/fr/rss.xml",
         "tag": "research",
     },
-    # Add more here. Reuters Health, AFP Factuel, Le Monde Santé all have RSS too.
+    {
+        "name": "Inserm — Actualités",
+        "url": "https://www.inserm.fr/feed/",
+        "tag": "research",
+    },
+
+    # =====================================================================
+    # PRESSE FRANÇAISE — généraliste, santé, sciences
+    # =====================================================================
+    {
+        "name": "Le Monde — Sciences",
+        "url": "https://www.lemonde.fr/sciences/rss_full.xml",
+        "tag": "media",
+    },
+    {
+        "name": "Le Monde — Planète",
+        "url": "https://www.lemonde.fr/planete/rss_full.xml",
+        "tag": "media",
+    },
+    {
+        "name": "Le Figaro — Sciences",
+        "url": "https://www.lefigaro.fr/rss/figaro_sciences.xml",
+        "tag": "media",
+    },
+    {
+        "name": "France Info — Santé",
+        "url": "https://www.francetvinfo.fr/sante.rss",
+        "tag": "media",
+    },
+    {
+        "name": "Sciences et Avenir — Santé",
+        "url": "https://www.sciencesetavenir.fr/sante/rss.xml",
+        "tag": "media",
+    },
+    {
+        "name": "Futura — Santé",
+        "url": "https://www.futura-sciences.com/rss/sante/actualites.xml",
+        "tag": "media",
+    },
+    {
+        "name": "Le Quotidien du Médecin",
+        "url": "https://www.lequotidiendumedecin.fr/rss.xml",
+        "tag": "media",
+    },
+    {
+        "name": "Libération — CheckNews",
+        "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/checknews/?outputType=xml",
+        "tag": "media",
+    },
+
+    # =====================================================================
+    # FACTCHECKING — services de vérification professionnels
+    # =====================================================================
+    {
+        "name": "AFP Factuel",
+        "url": "https://factuel.afp.com/list/all/feed",
+        "tag": "alert",
+    },
+    {
+        "name": "20 Minutes — Fake Off",
+        "url": "https://www.20minutes.fr/feeds/rss-fake-off.xml",
+        "tag": "alert",
+    },
+
+    # =====================================================================
+    # INTERNATIONAL — couvre les cas hors France
+    # =====================================================================
+    {
+        "name": "BBC News — Health",
+        "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "tag": "media",
+    },
+    {
+        "name": "STAT News",
+        "url": "https://www.statnews.com/feed/",
+        "tag": "media",
+    },
+    {
+        "name": "Reuters — Health",
+        # Si ce flux retourne 404, Reuters a parfois bougé ses URLs RSS.
+        # Alternative : utiliser RSSHub : https://rsshub.app/reuters/topic/health
+        "url": "https://www.reutersagency.com/feed/?best-topics=health&post_type=best",
+        "tag": "media",
+    },
+
+    # =====================================================================
+    # AJOUTE D'AUTRES SOURCES ICI
+    # =====================================================================
+    # Format : {"name": "…", "url": "https://…/rss.xml", "tag": "media"}
+    # Tags disponibles : who, gov, ship, research, alert, media
 ]
 
 MAX_ITEMS = 30

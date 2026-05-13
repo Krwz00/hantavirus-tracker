@@ -3,7 +3,34 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hantavirus Tracker mondial</title>
+<title>Hantavirus Tracker mondial : cas confirmés, actualités et factchecks (mai 2026)</title>
+<meta name="description" content="Tracker indépendant du foyer d'hantavirus Andes (MV Hondius, mai 2026). Cas confirmés, carte mondiale, actualités sourcées et factchecks, mis à jour chaque heure. Outil de déflation de panique face à la désinformation.">
+<meta name="author" content="Mehdi Triki">
+<meta name="theme-color" content="#0F2240">
+<link rel="canonical" href="https://krwz00.github.io/hantavirus-tracker/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Hantavirus Tracker mondial">
+<meta property="og:title" content="Hantavirus Tracker mondial : cas confirmés, actualités et factchecks">
+<meta property="og:description" content="Cas confirmés, carte mondiale, actualités sourcées et factchecks du foyer MV Hondius. Mis à jour chaque heure.">
+<meta property="og:url" content="https://krwz00.github.io/hantavirus-tracker/">
+<meta property="og:image" content="https://krwz00.github.io/hantavirus-tracker/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Hantavirus Tracker mondial : 5 cas confirmés, 3 décès à bord">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:locale:alternate" content="en_US">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Hantavirus Tracker mondial : cas, actualités, factchecks">
+<meta name="twitter:description" content="Foyer MV Hondius (mai 2026). Compteur mondial, carte des cas, actualités et factchecks mis à jour chaque heure.">
+<meta name="twitter:image" content="https://krwz00.github.io/hantavirus-tracker/og-image.png">
+
+<!-- Favicon (SVG inline navy/gold) -->
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' fill='%230F2240'/><text x='32' y='48' font-family='Georgia,serif' font-size='44' font-weight='700' fill='%23C8A064' text-anchor='middle'>H</text></svg>">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;6..72,700;6..72,800&family=Hanken+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -593,6 +620,21 @@
   .footer a:hover {
     text-decoration-color: var(--ink);
   }
+  .support-link {
+    display: inline-block;
+    margin-top: 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+  }
+
+  .controls-row {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+  }
 
   .lang-switch {
     display: inline-flex;
@@ -617,6 +659,51 @@
     color: var(--paper);
     border-color: var(--ink);
   }
+
+  .share-row {
+    display: inline-flex;
+    gap: 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+  }
+  .share-button {
+    background: transparent;
+    border: 1px solid var(--rule-soft);
+    color: var(--ink-faint);
+    padding: 4px 8px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: inherit;
+    font-size: inherit;
+    letter-spacing: inherit;
+    text-decoration: none;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+  }
+  .share-button:hover {
+    color: var(--ink);
+    border-color: var(--ink);
+  }
+  .share-button.copied {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+
+  /* Accessibility: visible focus ring for keyboard users */
+  :focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 2px;
+  }
+  .lang-switch button:focus-visible,
+  .sidebar-tab:focus-visible,
+  .share-button:focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 2px;
+  }
+  .leaflet-interactive:focus { outline: 2px solid var(--ink); outline-offset: 1px; }
 
   @media (max-width: 1100px) {
     .main { grid-template-columns: 1fr; }
@@ -645,8 +732,24 @@
     h1.title .title-stamp { font-size: 11px; padding: 4px 7px 3px; }
     .deck-q { font-size: 18px; }
     .deck-a { font-size: 14px; }
-    .masthead { padding: 20px 24px; flex-direction: column; align-items: flex-start; }
+    .masthead { padding: 20px 24px; flex-direction: column; align-items: flex-start; gap: 18px; }
+    .masthead-right { text-align: left; }
     .footer { grid-template-columns: 1fr; padding: 20px 24px; }
+  }
+
+  @media (max-width: 600px) {
+    .stats-strip { grid-template-columns: 1fr; }
+    .stat.headline .stat-number { font-size: 40px; }
+    .stat-number { font-size: 26px; }
+    h1.title { font-size: 28px; }
+    .sidebar-tab { padding: 12px 6px; font-size: 9.5px; letter-spacing: 0.12em; }
+    .sidebar-panel { padding: 16px 16px 24px; }
+    .map-legend { max-width: 170px; padding: 8px 10px; }
+    .map-legend .legend-item { font-size: 10.5px; }
+    .leaflet-popup-content { font-size: 12.5px; margin: 12px 14px; }
+    #map { height: 55vh; min-height: 340px; }
+    .masthead { padding: 16px 18px; }
+    .footer { padding: 18px 18px; gap: 24px; }
   }
 </style>
 </head>
@@ -654,7 +757,7 @@
 
 <header class="masthead">
   <div class="masthead-left">
-    <div class="eyebrow">Independent global situation tracker · Updated daily · Sourced</div>
+    <div class="eyebrow" data-i18n="eyebrow">Tracker mondial indépendant · Mis à jour chaque heure · Sourcé</div>
     <h1 class="title">
       <span class="title-text" data-i18n="title">Hantavirus</span>
       <span class="title-stamp">Tracker</span>
@@ -663,9 +766,16 @@
     <p class="deck deck-a" data-i18n="deck-a">Une réponse factuelle, sourcée, mise à jour tous les jours pour couper court à la panique morale en cours sur les réseaux sociaux.</p>
   </div>
   <div class="masthead-right">
-    <div class="lang-switch">
-      <button class="active" data-lang="fr">FR</button>
-      <button data-lang="en">EN</button>
+    <div class="controls-row">
+      <div class="share-row" role="group" aria-label="Partager / Share">
+        <a class="share-button" id="share-linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fkrwz00.github.io%2Fhantavirus-tracker%2F" target="_blank" rel="noopener" aria-label="Partager sur LinkedIn">LinkedIn</a>
+        <a class="share-button" id="share-x" href="https://twitter.com/intent/tweet?text=Hantavirus%20Tracker%20mondial%20%3A%20cas%20confirm%C3%A9s%2C%20actualit%C3%A9s%20et%20factchecks%20(mai%202026)&url=https%3A%2F%2Fkrwz00.github.io%2Fhantavirus-tracker%2F" target="_blank" rel="noopener" aria-label="Partager sur X">X</a>
+        <button type="button" class="share-button" id="share-copy" aria-label="Copier le lien" data-i18n="share_copy">Lien</button>
+      </div>
+      <div class="lang-switch" role="group" aria-label="Langue / Language">
+        <button class="active" data-lang="fr" aria-label="Français" aria-pressed="true">FR</button>
+        <button data-lang="en" aria-label="English" aria-pressed="false">EN</button>
+      </div>
     </div>
     <div style="margin-top: 12px;">
       <strong data-i18n="last_update">Dernière mise à jour</strong><br>
@@ -704,7 +814,7 @@
 
 <main class="main">
   <div class="map-container">
-    <div id="map"></div>
+    <div id="map" role="region" aria-label="Carte mondiale des cas et zones endémiques"></div>
 
     <div class="map-legend">
       <div class="section-title" data-i18n="legend_title">Légende</div>
@@ -719,12 +829,12 @@
 
   <aside class="sidebar">
 
-    <div class="sidebar-tabs">
-      <button class="sidebar-tab active" data-tab="news" data-i18n="tab_news">Actualité</button>
-      <button class="sidebar-tab" data-tab="claims" data-i18n="tab_claims">Désinfox</button>
+    <div class="sidebar-tabs" role="tablist" aria-label="Sections">
+      <button class="sidebar-tab active" data-tab="news" id="tab-news" role="tab" aria-selected="true" aria-controls="panel-news" data-i18n="tab_news">Actualité</button>
+      <button class="sidebar-tab" data-tab="claims" id="tab-claims" role="tab" aria-selected="false" aria-controls="panel-claims" data-i18n="tab_claims" tabindex="-1">Désinfox</button>
     </div>
 
-    <div class="sidebar-panel active" data-panel="news">
+    <div class="sidebar-panel active" data-panel="news" id="panel-news" role="tabpanel" aria-labelledby="tab-news">
       <div class="panel-meta">
         <span data-i18n="feed_label">Mise à jour automatique toutes les heures</span>
         <span class="panel-updated" id="news-updated"></span>
@@ -734,7 +844,7 @@
       </div>
     </div>
 
-    <div class="sidebar-panel" data-panel="claims">
+    <div class="sidebar-panel" data-panel="claims" id="panel-claims" role="tabpanel" aria-labelledby="tab-claims" hidden>
       <div class="panel-meta">
         <span data-i18n="claims_label">Désinfox détectée et factcheckée automatiquement</span>
         <span class="panel-updated" id="claims-updated"></span>
@@ -757,6 +867,8 @@
     <span data-i18n="about_body">Site indépendant créé par Mehdi TRIKI. Aucune affiliation institutionnelle, aucune monétisation, aucun tracking. Conçu comme un outil de déflation de panique face à la vague de désinformation.</span>
     <br><br>
     <a href="https://www.linkedin.com/in/mehditriki/" target="_blank" rel="noopener" data-i18n="linkedin_label">Profil LinkedIn →</a>
+    <br>
+    <a class="support-link" href="https://buy.stripe.com/00w4gy0yg7P30Ct1l55Ne00" target="_blank" rel="noopener" data-i18n="support_label">Soutenir le projet →</a>
   </div>
 </footer>
 
@@ -815,8 +927,10 @@ let routeLayer = null;
 let casesData = null;
 
 function markerRadius(c) {
-  // Area-proportional scaling: base radius times sqrt(count)
-  const base = c.type === 'monitoring' ? 6 : 8;
+  // Area-proportional scaling: base radius times sqrt(count).
+  // Bump baseline a bit on touch screens to keep markers tap-friendly.
+  const isTouch = window.matchMedia && window.matchMedia('(max-width: 700px)').matches;
+  const base = (c.type === 'monitoring' ? 7 : 9) + (isTouch ? 2 : 0);
   return base * Math.sqrt(Math.max(1, c.count || 1));
 }
 
@@ -942,6 +1056,7 @@ async function loadCases() {
 const translations = {
   fr: {}, // default already in HTML
   en: {
+    eyebrow: "Independent global situation tracker · Updated hourly · Sourced",
     "deck-q": "How many cases worldwide?",
     "deck-a": "A sourced, factual answer, updated daily, to cut through the moral panic now unfolding on social media.",
     title: "Hantavirus",
@@ -1004,20 +1119,39 @@ const translations = {
     about_title: "About",
     about_body: "Independent site built by Mehdi TRIKI. No institutional affiliation, no monetization, no tracking. Designed as a panic-deflation tool against the wave of disinformation.",
     linkedin_label: "LinkedIn profile →",
-    last_update: "Last update"
+    last_update: "Last update",
+    share_copy: "Link",
+    support_label: "Support this project →"
   }
 };
 
 // =====================================================================
 // TAB SWITCHING
 // =====================================================================
-document.querySelectorAll('.sidebar-tab').forEach(btn => {
-  btn.addEventListener('click', () => {
-    const target = btn.dataset.tab;
-    document.querySelectorAll('.sidebar-tab').forEach(b => b.classList.remove('active'));
-    document.querySelectorAll('.sidebar-panel').forEach(p => p.classList.remove('active'));
-    btn.classList.add('active');
-    document.querySelector(`.sidebar-panel[data-panel="${target}"]`).classList.add('active');
+const sidebarTabs = Array.from(document.querySelectorAll('.sidebar-tab'));
+function activateTab(btn) {
+  const target = btn.dataset.tab;
+  sidebarTabs.forEach(b => {
+    const on = b === btn;
+    b.classList.toggle('active', on);
+    b.setAttribute('aria-selected', on ? 'true' : 'false');
+    b.setAttribute('tabindex', on ? '0' : '-1');
+  });
+  document.querySelectorAll('.sidebar-panel').forEach(p => {
+    const on = p.dataset.panel === target;
+    p.classList.toggle('active', on);
+    if (on) p.removeAttribute('hidden'); else p.setAttribute('hidden', '');
+  });
+}
+sidebarTabs.forEach(btn => {
+  btn.addEventListener('click', () => activateTab(btn));
+  btn.addEventListener('keydown', e => {
+    if (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
+    e.preventDefault();
+    const i = sidebarTabs.indexOf(btn);
+    const next = e.key === 'ArrowRight' ? (i + 1) % sidebarTabs.length : (i - 1 + sidebarTabs.length) % sidebarTabs.length;
+    sidebarTabs[next].focus();
+    activateTab(sidebarTabs[next]);
   });
 });
 
@@ -1029,8 +1163,11 @@ document.querySelectorAll('[data-i18n]').forEach(el => {
 document.querySelectorAll('.lang-switch button').forEach(btn => {
   btn.addEventListener('click', () => {
     const lang = btn.dataset.lang;
-    document.querySelectorAll('.lang-switch button').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
+    document.querySelectorAll('.lang-switch button').forEach(b => {
+      const on = b === btn;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
     document.documentElement.lang = lang;
     document.querySelectorAll('[data-i18n]').forEach(el => {
       const key = el.dataset.i18n;
@@ -1049,6 +1186,40 @@ document.querySelectorAll('.lang-switch button').forEach(btn => {
     fetch('./data/factchecks.json').then(r => r.json()).then(renderClaims).catch(() => {});
   });
 });
+
+// =====================================================================
+// SHARE: copy link to clipboard
+// =====================================================================
+(function() {
+  const btn = document.getElementById('share-copy');
+  if (!btn) return;
+  let resetTimer = null;
+  btn.addEventListener('click', async () => {
+    const lang = currentLang();
+    const url = (location.origin + location.pathname).replace(/\/index\.html$/, '/');
+    try {
+      await navigator.clipboard.writeText(url);
+    } catch (_) {
+      // Fallback: select a hidden input
+      const ta = document.createElement('textarea');
+      ta.value = url;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      try { document.execCommand('copy'); } catch (_) {}
+      document.body.removeChild(ta);
+    }
+    const original = btn.dataset.fr || btn.textContent;
+    btn.classList.add('copied');
+    btn.textContent = lang === 'fr' ? 'Lien copié' : 'Link copied';
+    if (resetTimer) clearTimeout(resetTimer);
+    resetTimer = setTimeout(() => {
+      btn.classList.remove('copied');
+      btn.textContent = lang === 'fr' ? (btn.dataset.fr || 'Lien') : 'Link';
+    }, 2200);
+  });
+})();
 
 // =====================================================================
 // LIVE FEEDS: fetch news.json and factchecks.json
@@ -1170,8 +1341,10 @@ async function loadFeeds() {
     else throw new Error('news.json HTTP ' + newsRes.status);
   } catch (e) {
     console.error('News load failed:', e);
-    document.getElementById('news-list').innerHTML =
-      '<div class="error-state">Impossible de charger les actualités. Vérifie que le fichier data/news.json est accessible (le tracker doit être servi via un serveur HTTP, pas ouvert directement en file://).</div>';
+    const lang = currentLang();
+    document.getElementById('news-list').innerHTML = lang === 'fr'
+      ? '<div class="error-state">Impossible de charger les actualités. Vérifie que le fichier data/news.json est accessible (le tracker doit être servi via un serveur HTTP, pas ouvert directement en file://).</div>'
+      : '<div class="error-state">Unable to load the news feed. Make sure data/news.json is accessible (the tracker must be served over HTTP, not opened directly as file://).</div>';
   }
 
   try {
@@ -1180,8 +1353,10 @@ async function loadFeeds() {
     else throw new Error('factchecks.json HTTP ' + fcRes.status);
   } catch (e) {
     console.error('Factchecks load failed:', e);
-    document.getElementById('claims-list').innerHTML =
-      '<div class="error-state">Impossible de charger les factchecks. Vérifie data/factchecks.json.</div>';
+    const lang = currentLang();
+    document.getElementById('claims-list').innerHTML = lang === 'fr'
+      ? '<div class="error-state">Impossible de charger les factchecks. Vérifie data/factchecks.json.</div>'
+      : '<div class="error-state">Unable to load fact-checks. Check data/factchecks.json.</div>';
   }
 }
 

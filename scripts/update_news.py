@@ -227,6 +227,7 @@ def fetch_feed(feed: dict) -> Iterable[dict]:
 
         yield {
             "id": stable_id(feed["name"], link or title),
+            "manual": False,
             "date": iso_date,
             "date_label": date_label,
             "tag": feed["tag"],
@@ -237,6 +238,21 @@ def fetch_feed(feed: dict) -> Iterable[dict]:
             "source": feed["name"],
             "source_url": link,
         }
+
+
+def load_existing_manual() -> list[dict]:
+    """Load existing news.json and return only items marked manual: true.
+
+    This preserves the curated seed entries (initial Hondius timeline)
+    across runs, even if the RSS feeds remontent rien.
+    """
+    if not OUTPUT_PATH.exists():
+        return []
+    try:
+        data = json.loads(OUTPUT_PATH.read_text())
+    except json.JSONDecodeError:
+        return []
+    return [it for it in data.get("items", []) if it.get("manual")]
 
 
 # -----------------------------------------------------------------------------
@@ -266,18 +282,25 @@ def main() -> int:
         seen.add(key)
         deduped.append(it)
 
-    # Sort by date descending; fall back to today for items without a parseable date
+    # Sort auto-fetched by date descending; fall back to today for items without a parseable date
     deduped.sort(key=lambda x: x["date"] or "0000", reverse=True)
-    deduped = deduped[:MAX_ITEMS]
+
+    # Preserve curated seed entries (manual: true) from previous run
+    manual = load_existing_manual()
+    print(f"Preserving {len(manual)} manual entry(ies); adding {len(deduped)} auto-detected")
+
+    # Manual entries first (Hondius timeline), then auto-fetched
+    all_items = manual + deduped
+    all_items = all_items[:MAX_ITEMS]
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "items": deduped,
+        "items": all_items,
     }
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, indent=2, ensure_ascii=False))
-    print(f"Wrote {len(deduped)} items to {OUTPUT_PATH}")
+    print(f"Wrote {len(all_items)} items to {OUTPUT_PATH}")
     return 0
 
 

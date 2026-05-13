@@ -1,0 +1,92 @@
+name: Propose cases.json update
+
+# Pipeline semi-auto : un cron quotidien fait tourner update_cases.py qui
+# consulte les flux officiels, envoie le texte à Claude pour extraction de
+# chiffres, valide la réponse contre le schéma de cases.json, et — si un
+# changement est proposé — ouvre une PR DRAFT review-required.
+#
+# Ce workflow NE POUSSE JAMAIS sur main. Toute mise à jour de cases.json
+# passe par une PR review-required. Le secret ANTHROPIC_API_KEY est requis
+# (Settings → Secrets and variables → Actions → ANTHROPIC_API_KEY).
+#
+# Activer aussi : Settings → Actions → General → Workflow permissions →
+# "Allow GitHub Actions to create and approve pull requests".
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 09:00 UTC, 11:00 Paris
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Compute today (UTC)
+        id: today
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Run cases proposal
+        id: propose
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set +e
+          python scripts/update_cases.py
+          EXIT=$?
+          echo "exit_code=$EXIT" >> "$GITHUB_OUTPUT"
+          if [ -f data/cases-proposed.json ] && [ -f data/cases-proposal-body.md ]; then
+            echo "proposed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "proposed=false" >> "$GITHUB_OUTPUT"
+          fi
+          # Ne pas faire échouer la step ici ; on gère explicitement en bas.
+          exit 0
+
+      - name: Promote proposed cases (workspace only)
+        if: steps.propose.outputs.proposed == 'true'
+        run: |
+          mv data/cases-proposed.json data/cases.json
+          echo "cases.json promu pour la PR. Body :"
+          head -40 data/cases-proposal-body.md
+
+      - name: Create pull request
+        if: steps.propose.outputs.proposed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: auto/cases-update
+          delete-branch: true
+          base: main
+          add-paths: |
+            data/cases.json
+          commit-message: "auto: proposed cases.json update ${{ steps.today.outputs.date }}"
+          title: "[auto] Proposed case figure update ${{ steps.today.outputs.date }}"
+          body-path: data/cases-proposal-body.md
+          draft: true
+          labels: |
+            auto-proposal
+            cases-update
+
+      - name: Fail run if script errored
+        if: steps.propose.outputs.exit_code != '0' && steps.propose.outputs.exit_code != '78'
+        run: |
+          echo "::error::update_cases.py exited with code ${{ steps.propose.outputs.exit_code }} — pas de PR créée."
+          exit 1

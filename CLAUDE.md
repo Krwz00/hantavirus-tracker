@@ -28,13 +28,16 @@ hantavirus-tracker/
 │   ├── news.json           # actus (manuelles + scrappées par GH Actions)
 │   └── factchecks.json     # factchecks (manuels + scrappés)
 ├── scripts/
-│   ├── requirements.txt    # feedparser, python-dateutil, Pillow (pour og-image)
+│   ├── README.md           # docs des scripts
+│   ├── requirements.txt    # feedparser, python-dateutil, Pillow, anthropic
 │   ├── update_news.py      # agrège data/news.json depuis les flux RSS
 │   ├── update_factchecks.py# agrège data/factchecks.json depuis les flux RSS
+│   ├── update_cases.py     # propose une PR pour cases.json via Claude
 │   ├── generate_og_image.py# régénère og-image.png avec les fontes du projet
 │   └── test_feeds.py       # diagnostic local des flux
 └── .github/workflows/
-    └── update.yml          # GH Actions cron toutes les heures
+    ├── update.yml          # cron horaire : news.json + factchecks.json
+    └── update-cases.yml    # cron quotidien : proposition de PR pour cases.json
 ```
 
 Hébergement : GitHub Pages, branche `main`, racine du repo. Pas de build step.
@@ -212,6 +215,85 @@ python -m http.server 8000
 
 Le frontend utilise `fetch('./data/…')`, donc nécessite un serveur HTTP
 (ouvrir `index.html` en `file://` ne marche pas).
+
+## Pipeline semi-auto cases.json (PR review-required)
+
+`scripts/update_cases.py` est un pipeline d'extraction de chiffres pour
+`data/cases.json`. Il **ne pousse jamais** sur main : il ne fait que proposer
+une PR review-required, à merger manuellement par Mehdi.
+
+### Flux
+
+1. Cron quotidien à 09:00 UTC (`.github/workflows/update-cases.yml`).
+2. `update_cases.py` fetche les flux RSS officiels (WHO, ECDC, SpF, ANRS,
+   Inserm, Google News FR/EN + Google News filtré sur sites officiels).
+3. Filtre par fenêtre temporelle (14 jours) + mots-clés (`hantavirus`,
+   `hondius`, `andes virus`, `andes hantavirus`).
+4. Envoie le contenu à l'API Anthropic (modèle `claude-sonnet-4-6` par défaut,
+   `ANTHROPIC_MODEL` override possible) avec un system prompt strict :
+   pas d'invention, JSON pur en sortie, sources obligatoires.
+5. Valide la réponse contre le schéma (id, type ∈ {confirmed, death,
+   monitoring}, count > 0, lat/lng valides, date YYYY-MM-DD, source non vide).
+6. Diff vs `data/cases.json` actuel.
+7. Si diff non vide → écrit `data/cases-proposed.json` + `data/cases-proposal-body.md`.
+8. Le workflow déplace le proposed sur cases.json (workspace runner uniquement),
+   puis appelle `peter-evans/create-pull-request@v6` pour ouvrir une PR draft
+   intitulée `[auto] Proposed case figure update YYYY-MM-DD` avec le body
+   markdown (sources analysées + diff + réponse brute pour audit).
+
+### Review d'une PR auto
+
+1. Ouvrir la PR auto-générée (label `auto-proposal`, `cases-update`).
+2. Lire le body : il liste les sources analysées et le diff cas par cas.
+3. Pour chaque cas ajouté/modifié, ouvrir la source citée et vérifier que le
+   chiffre y figure explicitement. **Le LLM peut halluciner** — ne pas
+   merger sans avoir vérifié au moins un nombre suspect.
+4. Si OK : passer la PR de Draft à Ready, merger.
+5. Si KO : commenter sur la PR, fermer sans merge. La prochaine run rouvrira
+   une nouvelle PR avec un contenu différent.
+
+### Ajouter une nouvelle source
+
+Éditer la liste `SOURCES` en haut de `scripts/update_cases.py` :
+
+```python
+{"name": "Nom affiché dans le body de la PR", "url": "https://.../rss.xml"}
+```
+
+Seul du RSS pour l'instant. Pour un scraper HTML, prévoir une fonction
+`fetch_*_html()` qui produit le même format de dict (`source_name`, `title`,
+`summary`, `url`, `published`).
+
+### Debug en local
+
+```bash
+source .venv/bin/activate
+pip install -r scripts/requirements.txt
+
+# Mode dry-run : fetch + filter, pas d'appel API, pas d'écriture
+python scripts/update_cases.py --dry-run
+
+# Mode normal : nécessite la clé API
+export ANTHROPIC_API_KEY=sk-ant-...
+python scripts/update_cases.py
+# → écrit data/cases-proposed.json + data/cases-proposal-body.md si diff
+```
+
+### Prérequis infra
+
+- Secret `ANTHROPIC_API_KEY` configuré : Settings → Secrets and variables →
+  Actions → New repository secret. Sans cette clé, le workflow plante et
+  affiche un message d'erreur explicite ; aucune PR n'est créée.
+- Permission GitHub Actions : Settings → Actions → General → Workflow
+  permissions → cocher "Allow GitHub Actions to create and approve pull
+  requests". Sans ça, `peter-evans/create-pull-request@v6` n'a pas le droit
+  d'ouvrir une PR.
+
+### Contrat absolu
+
+Ce pipeline **NE PEUT JAMAIS** pousser sur main. Si tu vois un commit
+automatique modifier `cases.json` directement, c'est un bug à fixer
+immédiatement. Toute mise à jour de `cases.json` passe par PR review-required.
 
 ## Régénérer og-image.png
 

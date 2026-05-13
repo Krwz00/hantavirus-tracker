@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hantavirus — Tracker mondial</title>
+<title>Hantavirus Tracker mondial</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;6..72,700;6..72,800&family=Hanken+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -566,8 +566,8 @@
     border-top: 3px double var(--rule);
     padding: 24px 48px;
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
-    gap: 32px;
+    grid-template-columns: 2fr 1fr;
+    gap: 48px;
     background: var(--paper-deep);
     font-size: 12px;
     color: var(--ink-soft);
@@ -668,8 +668,8 @@
       <button data-lang="en">EN</button>
     </div>
     <div style="margin-top: 12px;">
-      <strong>Last update</strong><br>
-      <span id="last-update">13 May 2026 · 14:00 CEST</span>
+      <strong data-i18n="last_update">Dernière mise à jour</strong><br>
+      <span id="last-update">13 mai 2026 · 14:00 CEST</span>
     </div>
   </div>
 </header>
@@ -750,134 +750,20 @@
 <footer class="footer">
   <div>
     <div class="footer-title" data-i18n="method_title">Méthodologie</div>
-    Le bandeau de cas (carte) recense uniquement les cas confirmés en laboratoire et notifiés par les autorités sanitaires nationales ou internationales (OMS, ECDC, ministères de la Santé). Chaque cas est rattaché à une source publique vérifiable. Les actualités sont agrégées toutes les heures depuis les flux RSS officiels (OMS Disease Outbreak News, Santé publique France, ECDC, info.gouv.fr, ANRS MIE). Les factchecks sont générés automatiquement à partir de contenus repérés sur des sources connues pour relayer la désinfox, puis vérifiés contre la base de référence OMS / Institut Pasteur via un modèle de langage. Toute erreur peut être signalée.
-  </div>
-  <div>
-    <div class="footer-title" data-i18n="sources_title">Sources officielles</div>
-    <a href="https://www.who.int/emergencies/disease-outbreak-news" target="_blank">OMS — Disease Outbreak News</a><br>
-    <a href="https://www.ecdc.europa.eu/" target="_blank">ECDC</a><br>
-    <a href="https://www.santepubliquefrance.fr/" target="_blank">Santé publique France</a><br>
-    <a href="https://www.pasteur.fr/" target="_blank">Institut Pasteur — CNR Hantavirus</a><br>
-    <a href="https://anrs.fr/crises-emergences/cellules-emergences/hantavirus/" target="_blank">ANRS MIE</a>
+    <span data-i18n="method_body">Les chiffres correspondent aux cas confirmés en laboratoire et notifiés par les autorités sanitaires. Actualités et factchecks sont agrégés toutes les heures depuis les flux RSS de la presse internationale et des cellules de factchecking professionnelles. Toute erreur peut être signalée.</span>
   </div>
   <div>
     <div class="footer-title" data-i18n="about_title">À propos</div>
-    Projet indépendant. Aucune affiliation institutionnelle. Conçu comme un outil de déflation de panique face à la vague de désinformation qui accompagne le foyer du MV Hondius. Le code est destiné à être open source.
+    <span data-i18n="about_body">Site indépendant créé par Mehdi TRIKI. Aucune affiliation institutionnelle, aucune monétisation, aucun tracking. Conçu comme un outil de déflation de panique face à la vague de désinformation.</span>
+    <br><br>
+    <a href="https://www.linkedin.com/in/mehditriki/" target="_blank" rel="noopener" data-i18n="linkedin_label">Profil LinkedIn →</a>
   </div>
 </footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 // =====================================================================
-// DATA — to update manually as new official notifications come in
-// =====================================================================
-
-const cases = [
-  // Confirmed cases (laboratory)
-  {
-    id: 'fr-001',
-    type: 'confirmed',
-    lat: 48.8970, lng: 2.3389,
-    location: 'Hôpital Bichat, Paris, France',
-    title: 'Passagère française',
-    detail: 'Symptomatique pendant son rapatriement. Confirmée par la CIBU (Institut Pasteur Paris). Suivie en réanimation.',
-    date: '12 mai 2026',
-    source: 'Institut Pasteur · Ministère de la Santé',
-    sourceUrl: 'https://www.pasteur.fr/fr/journal-recherche/actualites/virus-andes-bord-du-navire-mv-hondius-ce-que-sait-cet-hantavirus-rare-potentiellement-mortel'
-  },
-  {
-    id: 'ch-001',
-    type: 'confirmed',
-    lat: 46.9480, lng: 7.4474,
-    location: 'Suisse',
-    title: 'Passager suisse',
-    detail: 'Testé positif au virus Andes après son retour de croisière.',
-    date: '7 mai 2026',
-    source: 'OMS · ONU Info',
-    sourceUrl: 'https://news.un.org/fr/story/2026/05/1158801'
-  },
-  {
-    id: 'za-001',
-    type: 'confirmed',
-    lat: -33.9249, lng: 18.4241,
-    location: 'Afrique du Sud',
-    title: 'Deux cas confirmés (Cape Town)',
-    detail: 'Identifiés parmi les passagers évacués du MV Hondius. Séquençage de la souche Andes par les autorités sud-africaines.',
-    date: '6 mai 2026',
-    source: 'OMS · Reuters',
-    sourceUrl: 'https://www.reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06/'
-  },
-  {
-    id: 'us-001',
-    type: 'confirmed',
-    lat: 38.9072, lng: -77.0369,
-    location: 'États-Unis',
-    title: 'Passager américain',
-    detail: 'Testé positif au virus Andes. Cas inclus dans le bilan global du foyer Hondius.',
-    date: '10 mai 2026',
-    source: 'OMS · CDC',
-    sourceUrl: 'https://www.who.int/emergencies/disease-outbreak-news'
-  },
-
-  // Deaths
-  {
-    id: 'death-001',
-    type: 'death',
-    lat: -25.0, lng: -15.0,
-    location: 'À bord du MV Hondius (Atlantique Sud)',
-    title: 'Trois décès à bord',
-    detail: 'Premiers décès rapportés sur le navire avant l\'identification de l\'agent pathogène. Le séquençage post-mortem a confirmé l\'hantavirus Andes.',
-    date: '3–6 mai 2026',
-    source: 'OMS, alerte du 3 mai 2026',
-    sourceUrl: 'https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france'
-  },
-
-  // Monitoring
-  {
-    id: 'fr-mon',
-    type: 'monitoring',
-    lat: 47.0, lng: 2.5,
-    location: 'France métropolitaine',
-    title: '27 cas contacts français',
-    detail: 'Placés en quarantaine ou isolement. Durée pouvant aller jusqu\'à 42 jours (décret du 11 mai 2026). Tous asymptomatiques à l\'exception du cas confirmé.',
-    date: 'depuis le 11 mai 2026',
-    source: 'Décret du 11 mai 2026 · Ministère de la Santé',
-    sourceUrl: 'https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france'
-  },
-  {
-    id: 'ca-mon',
-    type: 'monitoring',
-    lat: 56.1304, lng: -106.3468,
-    location: 'Canada',
-    title: 'Passagers canadiens (6)',
-    detail: 'Tous asymptomatiques à ce jour. Mis en quarantaine et suivis par les autorités locales.',
-    date: 'mai 2026',
-    source: 'Agence de la santé publique du Canada',
-    sourceUrl: 'https://www.canada.ca/fr/sante-publique/services/mesures-interventions-urgence/evaluations-rapides-risques-professionnels-sante-publique/eclosion-hantavirus-virus-andes-bord-paquebot-croisiere-international.html'
-  }
-];
-
-// Endemic / historical zones — for context, NOT current cases
-const endemicZones = [
-  { lat: 36.5, lng: 127.8, radius: 350000, name: 'Corée du Sud', detail: 'Zone endémique historique. 300–400 cas graves par an. Origine de l\'identification du virus en 1950 (rivière Hantaan).' },
-  { lat: -41.0, lng: -71.0, radius: 600000, name: 'Patagonie (Argentine / Chili)', detail: 'Zone endémique du virus Andes — seul hantavirus à transmission interhumaine documentée.' },
-  { lat: 50.1, lng: 4.0, radius: 200000, name: 'Hauts-de-France (Avesnois)', detail: 'Zone endémique française du virus Puumala (campagnol roussâtre). Quelques cas par an.' },
-  { lat: 4.0, lng: -53.0, radius: 250000, name: 'Guyane française', detail: 'Virus Maripa. 11 cas détectés depuis 2008, dont 6 mortels.' },
-  { lat: 36.5, lng: -109.0, radius: 400000, name: 'Sud-Ouest américain', detail: 'Virus Sin Nombre, identifié en 1993 (région des Four Corners). Cas sporadiques chaque année.' },
-  { lat: 60.0, lng: 18.0, radius: 500000, name: 'Scandinavie', detail: 'Virus Puumala endémique. Centaines de cas annuels en Finlande et Suède.' }
-];
-
-// MV Hondius itinerary
-const hondiusRoute = [
-  [-54.8019, -68.3030],  // Ushuaia (départ 1er avril 2026)
-  [-15.9650, -5.7089],   // Saint Helena (escale)
-  [-25.0, -15.0],        // Position approximative atlantique sud (foyer détecté)
-  [14.9333, -23.5133],   // Cap-Vert (refus d'accostage, 3 mai)
-  [28.2916, -16.6291]    // Tenerife (accostage final, 10 mai)
-];
-
-// =====================================================================
-// MAP
+// MAP SETUP (data loaded async from data/cases.json)
 // =====================================================================
 
 const map = L.map('map', {
@@ -892,7 +778,7 @@ const map = L.map('map', {
 L.control.attribution({ position: 'bottomleft', prefix: false }).addTo(map);
 
 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-  attribution: '© OpenStreetMap · © CARTO',
+  attribution: '© OpenStreetMap, © CARTO',
   subdomains: 'abcd',
   maxZoom: 19
 }).addTo(map);
@@ -903,31 +789,6 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.
   pane: 'shadowPane'
 }).addTo(map);
 
-// Endemic zones — drawn first so they sit underneath
-endemicZones.forEach(z => {
-  L.circle([z.lat, z.lng], {
-    radius: z.radius,
-    color: '#2c3e5c',
-    weight: 1.5,
-    dashArray: '4,4',
-    fillColor: '#2c3e5c',
-    fillOpacity: 0.05
-  }).bindPopup(`
-    <div class="pop-title">${z.name}</div>
-    <div class="pop-meta">Zone endémique historique</div>
-    <div>${z.detail}</div>
-  `).addTo(map);
-});
-
-// Hondius route
-L.polyline(hondiusRoute, {
-  color: '#0d0c0a',
-  weight: 1.5,
-  dashArray: '2,5',
-  opacity: 0.6
-}).addTo(map);
-
-// Markers per case
 const colorByType = {
   confirmed: '#8b1a1a',
   death: '#2a0808',
@@ -935,45 +796,154 @@ const colorByType = {
 };
 
 const labelByType = {
-  confirmed: 'Cas confirmé',
-  death: 'Décès',
-  monitoring: 'Cas contact surveillé'
+  fr: {
+    confirmed: 'Cas confirmé',
+    death: 'Décès',
+    monitoring: 'Cas contact surveillé'
+  },
+  en: {
+    confirmed: 'Confirmed case',
+    death: 'Death',
+    monitoring: 'Contact monitored'
+  }
 };
 
-cases.forEach(c => {
-  const isDeath = c.type === 'death';
-  const radius = isDeath ? 11 : (c.type === 'monitoring' ? 7 : 9);
+// Track Leaflet layers so we can re-render on language change
+let caseLayers = [];
+let endemicLayers = [];
+let routeLayer = null;
+let casesData = null;
 
-  const marker = L.circleMarker([c.lat, c.lng], {
-    radius,
-    fillColor: colorByType[c.type],
-    color: '#0d0c0a',
-    weight: 1.5,
-    fillOpacity: 0.85
+function markerRadius(c) {
+  // Area-proportional scaling: base radius times sqrt(count)
+  const base = c.type === 'monitoring' ? 6 : 8;
+  return base * Math.sqrt(Math.max(1, c.count || 1));
+}
+
+function renderMapData(data) {
+  // Clear previous
+  caseLayers.forEach(l => map.removeLayer(l));
+  endemicLayers.forEach(l => map.removeLayer(l));
+  if (routeLayer) map.removeLayer(routeLayer);
+  caseLayers = [];
+  endemicLayers = [];
+
+  const lang = currentLang();
+
+  // Endemic zones first (underneath)
+  (data.endemic_zones || []).forEach(z => {
+    const layer = L.circle([z.lat, z.lng], {
+      radius: (z.radius_km || 300) * 1000,
+      color: '#2c3e5c',
+      weight: 1.5,
+      dashArray: '4,4',
+      fillColor: '#2c3e5c',
+      fillOpacity: 0.05
+    }).bindPopup(`
+      <div class="pop-title">${escapeHtml((lang === 'en' && z.name_en) ? z.name_en : z.name)}</div>
+      <div class="pop-meta">${lang === 'fr' ? 'Zone endémique historique' : 'Historical endemic zone'}</div>
+      <div>${escapeHtml((lang === 'en' && z.detail_en) ? z.detail_en : z.detail)}</div>
+    `);
+    layer.addTo(map);
+    endemicLayers.push(layer);
   });
 
-  marker.bindPopup(`
-    <div class="pop-title">${c.title}</div>
-    <div class="pop-meta">${labelByType[c.type]} · ${c.date}</div>
-    <div>${c.detail}</div>
-    <div class="pop-source">
-      ${c.location}<br>
-      <a href="${c.sourceUrl}" target="_blank">${c.source} →</a>
-    </div>
-  `);
+  // Hondius route
+  if (data.hondius_route && data.hondius_route.length) {
+    routeLayer = L.polyline(data.hondius_route, {
+      color: '#0d0c0a',
+      weight: 1.5,
+      dashArray: '2,5',
+      opacity: 0.6
+    }).addTo(map);
+  }
 
-  marker.addTo(map);
-});
+  // Cases on top, with proportional markers
+  (data.cases || []).forEach(c => {
+    const layer = L.circleMarker([c.lat, c.lng], {
+      radius: markerRadius(c),
+      fillColor: colorByType[c.type] || '#444',
+      color: '#0d0c0a',
+      weight: 1.5,
+      fillOpacity: 0.85
+    });
+
+    const title = (lang === 'en' && c.title_en) ? c.title_en : c.title;
+    const location = (lang === 'en' && c.location_en) ? c.location_en : c.location;
+    const detail = (lang === 'en' && c.detail_en) ? c.detail_en : c.detail;
+    const typeLabel = (labelByType[lang] || labelByType.fr)[c.type] || c.type;
+    const dateLabel = formatDate(c.date, lang);
+    const countBadge = (c.count && c.count > 1) ? `<strong>${c.count} ${lang === 'fr' ? 'cas' : 'cases'}</strong> · ` : '';
+    const sourceLabel = lang === 'fr' ? 'Source : ' : 'Source: ';
+
+    layer.bindPopup(`
+      <div class="pop-title">${escapeHtml(title)}</div>
+      <div class="pop-meta">${countBadge}${escapeHtml(typeLabel)} · ${escapeHtml(dateLabel)}</div>
+      <div>${escapeHtml(detail)}</div>
+      <div class="pop-source">
+        ${escapeHtml(location)}<br>
+        ${sourceLabel}<a href="${escapeHtml(c.source_url)}" target="_blank" rel="noopener">${escapeHtml(c.source)} →</a>
+      </div>
+    `);
+
+    layer.addTo(map);
+    caseLayers.push(layer);
+  });
+}
+
+function renderStats(data) {
+  const cases = data.cases || [];
+  const stats = data.stats || {};
+
+  const totalConfirmed = cases.filter(c => c.type === 'confirmed').reduce((sum, c) => sum + (c.count || 1), 0);
+  const totalDeaths = cases.filter(c => c.type === 'death').reduce((sum, c) => sum + (c.count || 1), 0);
+
+  document.getElementById('total-confirmed').textContent = totalConfirmed;
+  document.getElementById('total-deaths').textContent = totalDeaths;
+  document.getElementById('total-suspected').textContent = stats.suspected ?? '-';
+  document.getElementById('total-contacts').textContent = stats.contacts_monitored ?? '-';
+
+  const lang = currentLang();
+  const transmissionLabel = (lang === 'en' && stats.transmission_label_en)
+    ? stats.transmission_label_en
+    : (stats.transmission_label_fr || '');
+  const tEl = document.querySelector('[data-i18n="r0_value"]');
+  if (tEl && transmissionLabel) tEl.textContent = transmissionLabel;
+
+  // Update the "last update" date in the masthead
+  const lastEl = document.getElementById('last-update');
+  if (lastEl && data.updated_at) {
+    const d = new Date(data.updated_at);
+    if (!isNaN(d.getTime())) {
+      const dateStr = formatDate(data.updated_at, lang);
+      const hh = String(d.getHours()).padStart(2, '0');
+      const mm = String(d.getMinutes()).padStart(2, '0');
+      lastEl.textContent = `${dateStr} · ${hh}:${mm}`;
+    }
+  }
+}
+
+async function loadCases() {
+  try {
+    const res = await fetch('./data/cases.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('cases.json HTTP ' + res.status);
+    casesData = await res.json();
+    renderMapData(casesData);
+    renderStats(casesData);
+  } catch (e) {
+    console.error('Cases load failed:', e);
+  }
+}
 
 // =====================================================================
-// I18N — minimal switch FR/EN
+// I18N: minimal switch FR/EN
 // =====================================================================
 
 const translations = {
   fr: {}, // default already in HTML
   en: {
     "deck-q": "How many cases worldwide?",
-    "deck-a": "A sourced, factual answer, updated daily — to cut through the moral panic now unfolding on social media.",
+    "deck-a": "A sourced, factual answer, updated daily, to cut through the moral panic now unfolding on social media.",
     title: "Hantavirus",
     confirmed_label: "Confirmed cases worldwide",
     confirmed_meta: "all linked to the MV Hondius outbreak",
@@ -1012,7 +982,7 @@ const translations = {
     news_anrs: "ANRS MIE activates a Level 1 Emergence cell",
     news_anrs_body: "The French National Agency for Emerging Infectious Diseases Research sets up enhanced scientific monitoring and defines research priorities in coordination with scientific communities.",
     news_seq: "Sequencing confirmed: Andes strain",
-    news_seq_body: "Molecular biology analysis by South African health authorities identifies an Andes-type hantavirus strain — the only one of 38 known strains capable of limited human-to-human transmission.",
+    news_seq_body: "Molecular biology analysis by South African health authorities identifies an Andes-type hantavirus strain: the only one of 38 known strains capable of limited human-to-human transmission.",
     news_alert: "WHO alerts on outbreak aboard MV Hondius",
     news_alert_body: "The World Health Organization signals a possible hantavirus infection cluster aboard the Dutch cruise ship sailing from Ushuaia to Cape Verde. 147 passengers and crew aboard. Three deaths reported.",
     news_dep: "Departure from Ushuaia, Argentina",
@@ -1030,8 +1000,11 @@ const translations = {
     claim5_text: "It's a side effect of the Covid vaccine",
     claim5_fact: "Biologically unfounded. Hantavirus has been known and documented for 75 years. mRNA SARS-CoV-2 vaccines contain no hantavirus genetic material and cannot cause infection.",
     method_title: "Methodology",
-    sources_title: "Official sources",
-    about_title: "About"
+    method_body: "Figures correspond to laboratory-confirmed cases notified by health authorities. News and fact-checks are aggregated hourly from international press feeds and professional fact-checking units. Errors can be reported.",
+    about_title: "About",
+    about_body: "Independent site built by Mehdi TRIKI. No institutional affiliation, no monetization, no tracking. Designed as a panic-deflation tool against the wave of disinformation.",
+    linkedin_label: "LinkedIn profile →",
+    last_update: "Last update"
   }
 };
 
@@ -1067,30 +1040,18 @@ document.querySelectorAll('.lang-switch button').forEach(btn => {
         el.textContent = translations[lang][key];
       }
     });
+    // Re-render map popups, stats and feeds in the new language
+    if (casesData) {
+      renderMapData(casesData);
+      renderStats(casesData);
+    }
+    fetch('./data/news.json').then(r => r.json()).then(renderNews).catch(() => {});
+    fetch('./data/factchecks.json').then(r => r.json()).then(renderClaims).catch(() => {});
   });
 });
 
 // =====================================================================
-// DERIVED COUNTERS
-// =====================================================================
-document.getElementById('total-confirmed').textContent =
-  cases.filter(c => c.type === 'confirmed').reduce((acc, c) => {
-    // "Deux cas confirmés" counts as 2
-    if (c.title.toLowerCase().includes('deux')) return acc + 2;
-    return acc + 1;
-  }, 0);
-
-document.getElementById('total-deaths').textContent =
-  cases.filter(c => c.type === 'death').reduce((acc, c) => {
-    if (c.title.toLowerCase().includes('trois')) return acc + 3;
-    return acc + 1;
-  }, 0);
-
-document.getElementById('total-suspected').textContent = '3';
-document.getElementById('total-contacts').textContent = '27';
-
-// =====================================================================
-// LIVE FEEDS — fetch news.json and factchecks.json
+// LIVE FEEDS: fetch news.json and factchecks.json
 // =====================================================================
 
 function currentLang() {
@@ -1117,6 +1078,19 @@ function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 }
 
+function formatDate(iso, lang) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d.getTime())) return iso; // fallback if parse fails
+  if (lang === 'fr' || !lang) {
+    const months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+    return `${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
+  }
+  // English: "12 May 2026"
+  const monthsEn = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  return `${d.getDate()} ${monthsEn[d.getMonth()]} ${d.getFullYear()}`;
+}
+
 function renderNews(data) {
   const lang = currentLang();
   const container = document.getElementById('news-list');
@@ -1140,13 +1114,14 @@ function renderNews(data) {
       alert: lang === 'fr' ? 'Alerte' : 'Alert',
       media: lang === 'fr' ? 'Médias' : 'Media'
     }[item.tag]) || item.tag;
-    const dateLabel = item.date_label || item.date || '';
+    const dateLabel = formatDate(item.date, lang) || item.date_label || '';
+    const sourceLabel = lang === 'fr' ? 'Source : ' : 'Source: ';
     return `
       <div class="news-item">
         <div class="news-date"><span class="news-tag ${escapeHtml(item.tag)}">${escapeHtml(tagLabel)}</span> ${escapeHtml(dateLabel)}</div>
         <div class="news-title">${escapeHtml(title)}</div>
         <div class="news-body">${escapeHtml(body)}</div>
-        <div class="news-source">Source : <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noopener">${escapeHtml(item.source)} →</a></div>
+        <div class="news-source">${sourceLabel}<a href="${escapeHtml(item.source_url)}" target="_blank" rel="noopener">${escapeHtml(item.source)} →</a></div>
       </div>
     `;
   }).join('');
@@ -1175,13 +1150,14 @@ function renderClaims(data) {
       alert: lang === 'fr' ? 'Factcheck' : 'Fact-check',
       media: lang === 'fr' ? 'Médias' : 'Media'
     }[item.tag]) || item.tag;
-    const dateLabel = item.date_label || item.date || '';
+    const dateLabel = formatDate(item.date, lang) || item.date_label || '';
+    const sourceLabel = lang === 'fr' ? 'Source : ' : 'Source: ';
     return `
       <div class="news-item">
         <div class="news-date"><span class="news-tag ${escapeHtml(item.tag)}">${escapeHtml(tagLabel)}</span> ${escapeHtml(dateLabel)}</div>
         <div class="news-title">${escapeHtml(title)}</div>
         <div class="news-body">${escapeHtml(body)}</div>
-        <div class="news-source">Source : <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noopener">${escapeHtml(item.source)} →</a></div>
+        <div class="news-source">${sourceLabel}<a href="${escapeHtml(item.source_url)}" target="_blank" rel="noopener">${escapeHtml(item.source)} →</a></div>
       </div>
     `;
   }).join('');
@@ -1209,20 +1185,10 @@ async function loadFeeds() {
   }
 }
 
-// Re-render when language changes
-document.querySelectorAll('.lang-switch button').forEach(btn => {
-  btn.addEventListener('click', () => {
-    // Small timeout so the active class has already toggled
-    setTimeout(() => {
-      fetch('./data/news.json').then(r => r.json()).then(renderNews).catch(() => {});
-      fetch('./data/factchecks.json').then(r => r.json()).then(renderClaims).catch(() => {});
-    }, 50);
-  });
-});
-
+loadCases();
 loadFeeds();
 // Auto-refresh every 5 minutes (in case the JSON is updated server-side)
-setInterval(loadFeeds, 5 * 60 * 1000);
+setInterval(() => { loadCases(); loadFeeds(); }, 5 * 60 * 1000);
 </script>
 
 </body>

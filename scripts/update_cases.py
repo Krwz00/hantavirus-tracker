@@ -80,15 +80,17 @@ SOURCES = [
 
 SYSTEM_PROMPT = """Tu es un agent d'extraction de données épidémiologiques. Ton seul rôle est d'extraire des chiffres explicitement présents dans des textes officiels et de les transcrire dans un JSON strict.
 
-Règles absolues :
+FORMAT DE RÉPONSE (le plus important) :
+Ta réponse est passée directement à `json.loads()` côté Python. Elle DOIT consister UNIQUEMENT en un objet JSON valide. Pas de phrase d'introduction, pas d'analyse en préambule, pas de commentaire après. Pas de markdown ```json. Pas de bullet points. Le premier caractère de ta réponse est `{` et le dernier est `}`. Si tu écris un seul mot avant le `{` ou après le `}`, le pipeline plante.
+
+Règles d'extraction :
 1. Tu ne dois JAMAIS inventer un chiffre, une localisation, ou une date. Si l'information n'est pas dans le texte fourni, tu ne la mets pas.
-2. Tu réponds UNIQUEMENT avec du JSON valide, conforme au schéma fourni. Pas de prose autour, pas de markdown, pas de fences ```json. Le premier caractère de ta réponse est `{`, le dernier est `}`.
-3. Pour chaque cas, décès, ou contact ajouté ou modifié, tu cites obligatoirement la source exacte dans les champs `source` et `source_url`.
-4. Si tu trouves une contradiction entre deux sources (par exemple OMS dit 5 cas, presse dit 7), tu prends la source la plus officielle ET la plus récente. Tu n'inventes pas de moyenne.
-5. Si aucune information nouvelle n'est présente dans les textes, tu renvoies le cases.json fourni À L'IDENTIQUE.
-6. Ne modifie PAS endemic_zones ni hondius_route sauf si une source officielle ajoute une escale documentée du MV Hondius.
-7. Conserve tous les champs FR/EN existants en bilingue. Si tu ajoutes un cas, fournis title, title_en, location, location_en, detail, detail_en.
-8. Format date : YYYY-MM-DD strict. Tous les ids existants doivent rester inchangés."""
+2. Pour chaque cas, décès, ou contact ajouté ou modifié, tu cites obligatoirement la source exacte dans les champs `source` et `source_url`.
+3. Si tu trouves une contradiction entre deux sources (par exemple OMS dit 5 cas, presse dit 7), tu prends la source la plus officielle ET la plus récente. Tu n'inventes pas de moyenne.
+4. Si aucune information nouvelle n'est présente dans les textes, tu renvoies le cases.json fourni À L'IDENTIQUE.
+5. Ne modifie PAS endemic_zones ni hondius_route sauf si une source officielle ajoute une escale documentée du MV Hondius.
+6. Conserve tous les champs FR/EN existants en bilingue. Si tu ajoutes un cas, fournis title, title_en, location, location_en, detail, detail_en.
+7. Format date : YYYY-MM-DD strict. Tous les ids existants doivent rester inchangés."""
 
 SCHEMA_DOC = """Schéma de data/cases.json (champs critiques) :
 
@@ -239,9 +241,11 @@ def build_user_prompt(current: dict, articles: list[dict]) -> str:
 
 
 def call_claude(api_key: str, prompt: str) -> str:
-    """Appelle Claude avec un assistant prefill `{` pour forcer la sortie à
-    démarrer par un objet JSON, même si le modèle a tendance à écrire de la
-    prose en préambule."""
+    """Appelle Claude et extrait le premier objet JSON équilibré de la
+    réponse. Sonnet 4.6 ne supporte pas l'assistant prefill (« this model
+    does not support assistant message prefill »), donc on s'en passe :
+    le system prompt strict + l'extracteur balanced-braces suffisent à
+    tolérer un éventuel préambule du modèle."""
     # Import paresseux pour permettre --dry-run sans dépendance installée.
     from anthropic import Anthropic
 
@@ -250,22 +254,13 @@ def call_claude(api_key: str, prompt: str) -> str:
         model=MODEL,
         max_tokens=MAX_TOKENS,
         system=SYSTEM_PROMPT,
-        messages=[
-            {"role": "user", "content": prompt},
-            # Prefill : on force la réponse à commencer par `{`. Claude
-            # continue à partir de là et le JSON est la seule continuation
-            # cohérente.
-            {"role": "assistant", "content": "{"},
-        ],
+        messages=[{"role": "user", "content": prompt}],
     )
     parts = []
     for block in resp.content:
         if getattr(block, "type", None) == "text":
             parts.append(block.text)
-    text = "{" + "".join(parts)
-    # Le prefill garantit qu'on a un `{` au début. Mais le modèle peut
-    # encore écrire de la prose APRÈS le JSON. On extrait le premier objet
-    # équilibré (balanced braces, conscient des strings).
+    text = "".join(parts)
     return extract_first_json_object(text)
 
 
@@ -497,7 +492,10 @@ def main() -> int:
         proposed = json.loads(raw)
     except json.JSONDecodeError as exc:
         print(f"[err] JSON invalide : {exc}", file=sys.stderr)
-        print(f"Début réponse : {raw[:400]!r}", file=sys.stderr)
+        print(f"Réponse extraite ({len(raw)} chars) :", file=sys.stderr)
+        print(raw[:4000], file=sys.stderr)
+        if len(raw) > 4000:
+            print(f"... [tronqué, {len(raw) - 4000} chars de plus]", file=sys.stderr)
         return 1
 
     errors = validate_schema(proposed)

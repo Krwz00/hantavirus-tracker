@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T14:00:00+02:00",
+  "updated_at": "2026-05-13T17:08:29.313658+00:00",
   "items": [
     {
       "id": "manual-new-virus",
@@ -65,6 +65,136 @@
       "body_en": "Biologically unfounded. Hantavirus has been known for 75 years. mRNA SARS-CoV-2 vaccines contain no hantavirus genetic material and cannot cause infection.",
       "source": "AFP Factuel / Radio France Vrai du Faux",
       "source_url": "https://factuel.afp.com/"
+    },
+    {
+      "id": "fc-747710a684",
+      "manual": false,
+      "date": "2026-05-13T11:12:45+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "alert",
+      "title": "La empresa que opera el MV Hondius niega vínculos con “una familia de millonarios metidos en el negocio de laboratorios”",
+      "title_en": "La empresa que opera el MV Hondius niega vínculos con “una familia de millonarios metidos en el negocio de laboratorios”",
+      "body": "La empresa Oceanwide Expeditions, que opera el crucero, asegura a Newtral.es que “no tiene ninguna relación” con los Van Vlissingen.",
+      "body_en": "La empresa Oceanwide Expeditions, que opera el crucero, asegura a Newtral.es que “no tiene ninguna relación” con los Van Vlissingen.",
+      "source": "Newtral",
+      "source_url": "https://www.newtral.es/duenos-crucero-hantavirus/20260513/"
+    },
+    {
+      "id": "fc-7633a846be",
+      "manual": false,
+      "date": "2026-05-12T17:43:58+00:00",
+      "date_label": "12 mai 2026",
+      "tag": "alert",
+      "title": "Décharge, cordillère des Andes, foyers d’hantavirus : itinéraire de Leo Schilperoord, premier mort à bord du «Hondius», avant le départ de la croisière",
+      "title_en": "Décharge, cordillère des Andes, foyers d’hantavirus : itinéraire de Leo Schilperoord, premier mort à bord du «Hondius», avant le départ de la croisière",
+      "body": "«CheckNews» a retracé le parcours du Néerlandais de 70 ans, soupçonné d’être à l’origine du cluster sur le bateau de croisière. Si plusieurs médias ont évoqué le passage du couple dans une déchetterie supposément envahie de rongeurs, l’hypothèse reste fragile.",
+      "body_en": "«CheckNews» a retracé le parcours du Néerlandais de 70 ans, soupçonné d’être à l’origine du cluster sur le bateau de croisière. Si plusieurs médias ont évoqué le passage du couple dans une déchetterie supposément envahie de rongeurs, l’hypothèse reste fragile.",
+      "source": "Libération — CheckNews",
+      "source_url": "https://www.liberation.fr/checknews/decharge-cordillere-des-andes-foyers-dhantavirus-par-ou-est-passe-leo-schilperoord-premier-mort-a-bord-du-hondius-avant-le-depart-de-la-croisiere-20260512_X66Q2AOBOZCFDCDV6G2L2RQGVI/"
+    },
+    {
+      "id": "fc-6352dfe69f",
+      "manual": false,
+      "date": "2026-05-12T16:55:00+00:00",
+      "date_label": "12 mai 2026",
+      "tag": "alert",
+      "title": "Fact Check: Hantavirus Cruise Ship Influencer Jake Rosmarin Was NOT The COVID-19 Patient Shown In A 2022 BBC Report -- That Was Henry Dyne",
+      "title_en": "Fact Check: Hantavirus Cruise Ship Influencer Jake Rosmarin Was NOT The COVID-19 Patient Shown In A 2022 BBC Report -- That Was Henry Dyne",
+      "body": "Was Jake Rosmarin, the hantavirus cruise ship influencer, the same COVID-19 patient featured in a 2022 BBC report? No, that claim is false: The BBC segment focused on another individual, Henry Dyne, who, during the pandemic, was falsely accused of...",
+      "body_en": "Was Jake Rosmarin, the hantavirus cruise ship influencer, the same COVID-19 patient featured in a 2022 BBC report? No, that claim is false: The BBC segment focused on another individual, Henry Dyne, who, during the pandemic, was falsely accused of...",
+      "source": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/05/fact-check-hantavirus-cruise-ship-influencer-jake-rosmarin-was-not-the-covid-patient-shown-in-a-2022-bbc-report.html"
+    },
+    {
+      "id": "fc-924d35636d",
+      "manual": false,
+      "date": "2026-05-12T15:00:00+00:00",
+      "date_label": "12 mai 2026",
+      "tag": "alert",
+      "title": "Did CDC fire cruise ship inspectors under RFK Jr. in 2025? We investigated",
+      "title_en": "Did CDC fire cruise ship inspectors under RFK Jr. in 2025? We investigated",
+      "body": "The federal health agency wasn't in charge of inspecting the cruise ship where a hantavirus outbreak occurred in 2026, contrary to posts' suggestions.",
+      "body_en": "The federal health agency wasn't in charge of inspecting the cruise ship where a hantavirus outbreak occurred in 2026, contrary to posts' suggestions.",
+      "source": "Snopes",
+      "source_url": "https://www.snopes.com/news/2026/05/13/rfk-cdc-cruise-ship-inspectors/"
+    },
+    {
+      "id": "fc-6a4d028e38",
+      "manual": false,
+      "date": "2026-05-12T08:43:56+00:00",
+      "date_label": "12 mai 2026",
+      "tag": "alert",
+      "title": "Hantavirus : La complosphère s’agite et dépoussière des théories vues pendant le Covid",
+      "title_en": "Hantavirus : La complosphère s’agite et dépoussière des théories vues pendant le Covid",
+      "body": "Alors qu’un foyer d’hantavirus fait l’actualité, notamment en France, on peut voir circuler, au sein de la complosphère, des théories que l’on a pu voir il y a quelques années lors de la pandémie de Covid-19",
+      "body_en": "Alors qu’un foyer d’hantavirus fait l’actualité, notamment en France, on peut voir circuler, au sein de la complosphère, des théories que l’on a pu voir il y a quelques années lors de la pandémie de Covid-19",
+      "source": "20 Minutes — Fake Off",
+      "source_url": "https://www.20minutes.fr/monde/4222914-20260512-hantavirus-complosphere-agite-depoussiere-theories-vues-pendant-covid?at_medium=display&at_campaign=149"
+    },
+    {
+      "id": "fc-3d7f65cd80",
+      "manual": false,
+      "date": "2026-05-11T11:14:03+00:00",
+      "date_label": "11 mai 2026",
+      "tag": "alert",
+      "title": "Hantavirus : qui sont les huit cas confirmés à ce jour ?",
+      "title_en": "Hantavirus : qui sont les huit cas confirmés à ce jour ?",
+      "body": "Un Espagnol a été testé positif ces 24 dernières heures. Il s’ajoute aux sept cas précédemment recensés, dont une Française, hospitalisée à l’hôpital Bichat à Paris.",
+      "body_en": "Un Espagnol a été testé positif ces 24 dernières heures. Il s’ajoute aux sept cas précédemment recensés, dont une Française, hospitalisée à l’hôpital Bichat à Paris.",
+      "source": "Libération — CheckNews",
+      "source_url": "https://www.liberation.fr/checknews/hantavirus-qui-sont-les-huit-cas-confirmes-a-ce-jour-20260511_LQ4NVXTT7NB5LBZYJ6GBKNACXY/"
+    },
+    {
+      "id": "fc-32abc95d84",
+      "manual": false,
+      "date": "2026-05-09T11:00:16+02:00",
+      "date_label": "9 mai 2026",
+      "tag": "alert",
+      "title": "Hantavirus : comment les théoriciens du complot du Covid-19 recyclent leurs récits",
+      "title_en": "Hantavirus : comment les théoriciens du complot du Covid-19 recyclent leurs récits",
+      "body": "Pandémie planifiée, efficacité miracle de l’ivermectine, ou encore virus né dans un laboratoire P4 : sur les réseaux sociaux, la crise déclenchée par les infections à hantavirus à bord du MV « Hondius » suscite un flot d’interprétations conspirationnistes calquées sur celles de 2020.",
+      "body_en": "Pandémie planifiée, efficacité miracle de l’ivermectine, ou encore virus né dans un laboratoire P4 : sur les réseaux sociaux, la crise déclenchée par les infections à hantavirus à bord du MV « Hondius » suscite un flot d’interprétations conspirationnistes calquées sur celles de 2020.",
+      "source": "Le Monde — Les Décodeurs",
+      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/09/hantavirus-comment-les-theoriciens-du-complot-du-covid-19-recyclent-leurs-recits_6687417_4355770.html"
+    },
+    {
+      "id": "fc-efe5da0cfe",
+      "manual": false,
+      "date": "2026-05-08T16:24:18+00:00",
+      "date_label": "8 mai 2026",
+      "tag": "alert",
+      "title": "Hantavirus is not listed as a side effect of Pfizer’s Covid-19 vaccine",
+      "title_en": "Hantavirus is not listed as a side effect of Pfizer’s Covid-19 vaccine",
+      "body": "A Pfizer document citing “hantavirus pulmonary infection” in a list of adverse events of special interest has been misinterpreted.",
+      "body_en": "A Pfizer document citing “hantavirus pulmonary infection” in a list of adverse events of special interest has been misinterpreted.",
+      "source": "Full Fact (UK)",
+      "source_url": "https://fullfact.org/health/hantavirus-not-listed-side-effect-pfizer-covid-19-vaccine/"
+    },
+    {
+      "id": "fc-b35b521dfb",
+      "manual": false,
+      "date": "2026-05-07T16:21:18+00:00",
+      "date_label": "7 mai 2026",
+      "tag": "alert",
+      "title": "Hantavirus : comment des passagers sont montés et descendus du navire «MV Hondius», au fil des escales, avant l’alerte sanitaire",
+      "title_en": "Hantavirus : comment des passagers sont montés et descendus du navire «MV Hondius», au fil des escales, avant l’alerte sanitaire",
+      "body": "«CheckNews» retrace les différents embarquements et débarquements lors de la croisière, partie le 1er avril d’Ushuaïa en Argentine, et où un virus particulièrement létal a déjà fait trois morts.",
+      "body_en": "«CheckNews» retrace les différents embarquements et débarquements lors de la croisière, partie le 1er avril d’Ushuaïa en Argentine, et où un virus particulièrement létal a déjà fait trois morts.",
+      "source": "Libération — CheckNews",
+      "source_url": "https://www.liberation.fr/checknews/hantavirus-comment-des-passagers-sont-montes-et-descendus-du-navire-au-fil-des-escales-avant-lalerte-sanitaire-20260507_25V6TCX5VRHB5JILU5LE7ZW2PQ/"
+    },
+    {
+      "id": "fc-6bf0d51de7",
+      "manual": false,
+      "date": "2026-05-06T19:12:28+02:00",
+      "date_label": "6 mai 2026",
+      "tag": "alert",
+      "title": "Le lexique pour comprendre les mots qui circulent avec le hantavirus",
+      "title_en": "Le lexique pour comprendre les mots qui circulent avec le hantavirus",
+      "body": "L’infection de passagers sur un bateau de croisière, le « Hondius », révélée début mai, met en lumière les hantavirus. Voici les principaux termes scientifiques à connaître pour comprendre la situation.",
+      "body_en": "L’infection de passagers sur un bateau de croisière, le « Hondius », révélée début mai, met en lumière les hantavirus. Voici les principaux termes scientifiques à connaître pour comprendre la situation.",
+      "source": "Le Monde — Les Décodeurs",
+      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/06/hantavirus-de-la-souche-andres-au-taux-de-letalite-le-lexique-pour-comprendre-les-mots-qui-circulent-avec-ce-virus_6686157_4355770.html"
     }
   ]
 }

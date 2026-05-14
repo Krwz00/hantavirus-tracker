@@ -1,16 +1,55 @@
 {
-  "updated_at": "2026-05-14T13:06:26.894837+00:00",
+  "updated_at": "2026-05-14T16:29:06.650735+00:00",
   "items": [
+    {
+      "id": "fc-4bfa2c945d",
+      "manual": false,
+      "date": "2026-05-14T17:03:04+02:00",
+      "date_label": "14 mai 2026",
+      "tag": "alert",
+      "title": "Desde que \"todo estaba planeado\" hasta los supuestos vínculos de la empresa que opera el crucero: ojo con las teorías de la conspiración sobre el hantavirus del MV Hondius",
+      "title_en": "Desde que \"todo estaba planeado\" hasta los supuestos vínculos de la empresa que opera el crucero: ojo con las teorías de la conspiración sobre el hantavirus del MV Hondius",
+      "body": "📲 ¡Pincha aquí y sigue el canal de WhatsApp de Maldita.es para que no te la cuelen! “Hanta” significa “estafa” en hebreo: la teoría que intenta presentar el brote del Hondius como un montaje a partir de esta coincidencia lingüística Una de las narrativas que circula sobre el hantavirus afirma que “hanta” significa…",
+      "body_en": "📲 ¡Pincha aquí y sigue el canal de WhatsApp de Maldita.es para que no te la cuelen! “Hanta” significa “estafa” en hebreo: la teoría que intenta presentar el brote del Hondius como un montaje a partir de esta coincidencia lingüística Una de las narrativas que circula sobre el hantavirus afirma que “hanta” significa…",
+      "source": "Maldita.es",
+      "source_url": "https://maldita.es/desinfo/20260514/teorias-conspiracion-sobre-hantavirus-mv-hondius/"
+    },
+    {
+      "id": "fc-8b684d2f37",
+      "manual": false,
+      "date": "2026-05-14T15:32:00+02:00",
+      "date_label": "14 mai 2026",
+      "tag": "alert",
+      "title": "Preguntas y respuestas sobre los casos de hantavirus en un crucero procedente de Argentina en mayo de 2026",
+      "title_en": "Preguntas y respuestas sobre los casos de hantavirus en un crucero procedente de Argentina en mayo de 2026",
+      "body": "La Organización Mundial de la Salud (OMS) informó que hasta el 13 de mayo de 2026 se habían notificado 11 casos de hantavirus: ocho positivos confirmados por laboratorio, dos casos probables y un caso no concluyente del que se estaban haciendo pruebas adicionales. En estos se incluyen los tres fallecidos (dos…",
+      "body_en": "La Organización Mundial de la Salud (OMS) informó que hasta el 13 de mayo de 2026 se habían notificado 11 casos de hantavirus: ocho positivos confirmados por laboratorio, dos casos probables y un caso no concluyente del que se estaban haciendo pruebas adicionales. En estos se incluyen los tres fallecidos (dos…",
+      "source": "Maldita.es",
+      "source_url": "https://maldita.es/prebunking/20260514/preguntas-y-respuesta-sobre-los-casos-de-hantavirus-en-un-crucero-procedente-de-argentina-en-mayo-de-2026/"
+    },
+    {
+      "id": "fc-b97da2f9bb",
+      "manual": false,
+      "date": "2026-05-14T15:15:30+00:00",
+      "date_label": "14 mai 2026",
+      "tag": "alert",
+      "title": "WHO has not said hantavirus is spreading ‘very fast across the world’",
+      "title_en": "WHO has not said hantavirus is spreading ‘very fast across the world’",
+      "body": "False claims that the World Health Organization has warned about a rapid spread of hantavirus globally have been shared on social media.",
+      "body_en": "False claims that the World Health Organization has warned about a rapid spread of hantavirus globally have been shared on social media.",
+      "source": "Full Fact (UK)",
+      "source_url": "https://fullfact.org/health/who-hantavirus-spreading-fast-false/"
+    },
     {
       "id": "fc-8655a899f7",
       "manual": false,
-      "date": "2026-05-14T14:45:02+02:00",
+      "date": "2026-05-14T14:45:01+02:00",
       "date_label": "14 mai 2026",
       "tag": "alert",
-      "title": "Hantavirus : les réseaux sociaux, ces hôtes de plus en plus adaptés à la désinformation médicale",
-      "title_en": "Hantavirus : les réseaux sociaux, ces hôtes de plus en plus adaptés à la désinformation médicale",
-      "body": "La découverte d’un foyer d’infections à hantavirus a suscité un flot de rumeurs et théories du complot similaire au Covid. À la différence que six ans après la crise sanitaire, les plateformes ont volontairement abaissé leurs défenses.",
-      "body_en": "La découverte d’un foyer d’infections à hantavirus a suscité un flot de rumeurs et théories du complot similaire au Covid. À la différence que six ans après la crise sanitaire, les plateformes ont volontairement abaissé leurs défenses.",
+      "title": "Hantavirus : les réseaux sociaux, ces hôtes de plus en plus adaptés à la désinformation médicale",
+      "title_en": "Hantavirus : les réseaux sociaux, ces hôtes de plus en plus adaptés à la désinformation médicale",
+      "body": "La découverte d’un foyer d’infections à hantavirus a suscité un flot de rumeurs et de théories du complot similaire au Covid. A la différence que six ans après la crise sanitaire, les plateformes ont volontairement abaissé leurs défenses.",
+      "body_en": "La découverte d’un foyer d’infections à hantavirus a suscité un flot de rumeurs et de théories du complot similaire au Covid. A la différence que six ans après la crise sanitaire, les plateformes ont volontairement abaissé leurs défenses.",
       "source": "Le Monde — Les Décodeurs",
       "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/14/hantavirus-les-reseaux-sociaux-ces-hotes-de-plus-en-plus-adaptes-a-la-desinformation-medicale_6689084_4355770.html"
     },
@@ -351,45 +390,6 @@
       "body_en": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260512/detectan-un-brote-de-norovirus-en-un-crucero-con-mas-de-3000-pasajeros-frente-a-bahamas/"
-    },
-    {
-      "id": "fc-51b99d13c9",
-      "manual": false,
-      "date": "2026-05-12T13:11:58+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
-      "title_en": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
-      "body": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
-      "body_en": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/la-ministra-de-sanidad-monica-garcia-afirma-que-un-mes-antes-de-llegada-del-crucero-con-enfermos-de-hantavirus-hicieron-un-simulacro-en-canarias-sobre-la-llegada-de-un-barco-con-una-enfermedad-hemorragica-y-muertos/"
-    },
-    {
-      "id": "fc-51f5bb7d8b",
-      "manual": false,
-      "date": "2026-05-12T10:46:19+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "No hay ninguna evidencia científica que respalde que el zinc y la vitamina D pueden servir para tratar el hantavirus",
-      "title_en": "No hay ninguna evidencia científica que respalde que el zinc y la vitamina D pueden servir para tratar el hantavirus",
-      "body": "A 11 de mayo de 2026, no hay ninguna evidencia científica de que la vitamina D, el zinc o cualquier otro suplemento o medicamento sea útil como tratamiento a la infección por hantavirus . Desde la Organización Mundial de la Salud (OMS) recuerdan que, actualmente, “no se ha aprobado ningún tratamiento específico ni…",
-      "body_en": "A 11 de mayo de 2026, no hay ninguna evidencia científica de que la vitamina D, el zinc o cualquier otro suplemento o medicamento sea útil como tratamiento a la infección por hantavirus . Desde la Organización Mundial de la Salud (OMS) recuerdan que, actualmente, “no se ha aprobado ningún tratamiento específico ni…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/no-hay-ninguna-evidencia-cientifica-que-respalde-que-el-zinc-y-la-vitamina-d-pueden-servir-para-tratar-el-hantavirus/"
-    },
-    {
-      "id": "fc-8f7cbbccd7",
-      "manual": false,
-      "date": "2026-05-12T10:26:07+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "La investigación sobre contagios del virus Andes en una hora y media: dice que se contagiaron cinco personas en ese tiempo, no \"decenas\"",
-      "title_en": "La investigación sobre contagios del virus Andes en una hora y media: dice que se contagiaron cinco personas en ese tiempo, no \"decenas\"",
-      "body": "Cadena de contagio del brote de virus Andes de Epuyén (2018-2019). Fuente: “Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina En Maldita.es estamos actualizando la información sobre el brote de hantavirus en este artículo .",
-      "body_en": "Cadena de contagio del brote de virus Andes de Epuyén (2018-2019). Fuente: “Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina En Maldita.es estamos actualizando la información sobre el brote de hantavirus en este artículo .",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/investigaci%C3%B3n-variante-andes-infecta-decenas-personas/"
     }
   ]
 }

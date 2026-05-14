@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T20:00:00+02:00",
+  "updated_at": "2026-05-14T16:30:00+00:00",
   "stats": {
     "suspected": 3,
     "contacts_monitored": 27,
@@ -81,11 +81,11 @@
       "location_en": "Aboard the MV Hondius (South Atlantic)",
       "title": "Trois décès à bord",
       "title_en": "Three deaths aboard",
-      "detail": "Premiers décès rapportés sur le navire avant l'identification de l'agent pathogène. Le séquençage post-mortem a confirmé l'hantavirus Andes.",
-      "detail_en": "First deaths reported aboard before the pathogen was identified. Post-mortem sequencing confirmed Andes hantavirus.",
+      "detail": "Premiers décès rapportés sur le navire avant l'identification de l'agent pathogène. Le séquençage post-mortem a confirmé l'hantavirus Andes. Confirmé par le Directeur général de l'OMS le 7 mai 2026 : 8 cas dont 3 décès, 5 cas confirmés hantavirus.",
+      "detail_en": "First deaths reported aboard before the pathogen was identified. Post-mortem sequencing confirmed Andes hantavirus. Confirmed by the WHO Director-General on 7 May 2026: 8 cases including 3 deaths, 5 confirmed hantavirus cases.",
       "date": "2026-05-04",
-      "source": "OMS, alerte du 3 mai 2026",
-      "source_url": "https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france"
+      "source": "OMS, conférence de presse du 7 mai 2026",
+      "source_url": "https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship"
     },
     {
       "id": "fr-mon",
@@ -97,8 +97,8 @@
       "location_en": "Mainland France",
       "title": "27 cas contacts français",
       "title_en": "27 French contacts monitored",
-      "detail": "Placés en quarantaine ou isolement. Durée pouvant aller jusqu'à 42 jours (décret du 11 mai 2026). Tous asymptomatiques à l'exception du cas confirmé.",
-      "detail_en": "Placed in quarantine or isolation. Up to 42 days under the May 11, 2026 decree. All asymptomatic except for the confirmed case.",
+      "detail": "Placés en quarantaine ou isolement. Durée pouvant aller jusqu'à 42 jours (décret du 11 mai 2026). Tous asymptomatiques à l'exception du cas confirmé. Certains contacts suivis à l'IHU de Marseille.",
+      "detail_en": "Placed in quarantine or isolation. Up to 42 days under the May 11, 2026 decree. All asymptomatic except for the confirmed case. Some contacts monitored at the IHU in Marseille.",
       "date": "2026-05-11",
       "source": "Décret du 11 mai 2026, Ministère de la Santé",
       "source_url": "https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france"
@@ -129,11 +129,11 @@
       "location_en": "Granadilla, Tenerife, Spain",
       "title": "Escale MV Hondius à Tenerife",
       "title_en": "MV Hondius stopover at Tenerife",
-      "detail": "Le MV Hondius est arrivé au port de Granadilla, Tenerife, le 10 mai 2026. Les passagers et l'équipage ont débarqué via un corridor sécurisé et ont été rapatriés vers leurs pays d'origine par vols non commerciaux.",
-      "detail_en": "The MV Hondius arrived at the port of Granadilla, Tenerife, on 10 May 2026. Passengers and crew disembarked through a secure corridor and were repatriated to their home countries via non-commercial flights.",
+      "detail": "Le MV Hondius est arrivé au port de Granadilla, Tenerife, le 10 mai 2026. Les passagers et l'équipage ont débarqué via un corridor sécurisé et ont été rapatriés vers leurs pays d'origine par vols non commerciaux. Plus de 120 passagers de 23 pays ont été pris en charge. Le Directeur général de l'OMS a remercié la population de Tenerife pour sa solidarité.",
+      "detail_en": "The MV Hondius arrived at the port of Granadilla, Tenerife, on 10 May 2026. Passengers and crew disembarked through a secure corridor and were repatriated to their home countries via non-commercial flights. Over 120 passengers from 23 countries were handled. The WHO Director-General thanked the people of Tenerife for their solidarity.",
       "date": "2026-05-10",
-      "source": "ECDC, OMS",
-      "source_url": "https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states"
+      "source": "ECDC, OMS — message du DG du 14 mai 2026",
+      "source_url": "https://www.who.int/news/item/14-05-2026-follow-up-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response"
     }
   ],
   "endemic_zones": [

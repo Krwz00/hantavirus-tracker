@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-05-14T01:40:45.444024+00:00",
+  "updated_at": "2026-05-14T08:10:57.122333+00:00",
   "items": [
+    {
+      "id": "fc-79e6dd5a74",
+      "manual": false,
+      "date": "2026-05-14T09:04:37+02:00",
+      "date_label": "14 mai 2026",
+      "tag": "alert",
+      "title": "Cuidado con los contenidos que afirman que los médicos diagnosticaron con ansiedad a la mujer francesa positiva en hantavirus: The Guardian retiró la publicación explicando que había \"malinterpretado\" una explicación de Padilla sobre otro caso",
+      "title_en": "Cuidado con los contenidos que afirman que los médicos diagnosticaron con ansiedad a la mujer francesa positiva en hantavirus: The Guardian retiró la publicación explicando que había \"malinterpretado\" una explicación de Padilla sobre otro caso",
+      "body": "The Guardian no cita de dónde recoge las declaraciones de Padilla que afirma haber “ malentendido ”. En una entrevista en Onda Cero [minuto 04:55] el 11 de mayo, el secretario de Estado de Sanidad explicó que los médicos a bordo del buque descartaron que unos síntomas que presentaba un pasajero fueran compatibles con…",
+      "body_en": "The Guardian no cita de dónde recoge las declaraciones de Padilla que afirma haber “ malentendido ”. En una entrevista en Onda Cero [minuto 04:55] el 11 de mayo, el secretario de Estado de Sanidad explicó que los médicos a bordo del buque descartaron que unos síntomas que presentaba un pasajero fueran compatibles con…",
+      "source": "Maldita.es",
+      "source_url": "https://maldita.es/desinfo/20260514/medicos-ansiedad-francesa-positivo-hantavirus/"
+    },
     {
       "id": "fc-a9f83abf0c",
       "manual": false,
@@ -377,19 +390,6 @@
       "body_en": "A la izquierda, imagen de la empresa de autobuses que conducía Andy Simonds en 2020. A la derecha, autobuses de la UME que transportaron a los pasajeros del crucero MV Hondius. En Maldita.es estamos actualizando la información sobre el brote de hantavirus en este artículo y recopilando las desinformaciones que…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260511/imagen-muestra-al-conductor-de-un-autobus-que-transportaba-a-pasajeros-afectados-por-el-brote-de-hantavirus-sin-mascarilla-ni-epi/"
-    },
-    {
-      "id": "fc-a0624dd968",
-      "manual": false,
-      "date": "2026-05-11T13:44:03+02:00",
-      "date_label": "11 mai 2026",
-      "tag": "alert",
-      "title": "No, este documento de Pfizer no demuestra que la vacuna de la COVID-19 sea la causa de la infección por hantavirus",
-      "title_en": "No, este documento de Pfizer no demuestra que la vacuna de la COVID-19 sea la causa de la infección por hantavirus",
-      "body": "Desde la farmacéutica añaden que en el mismo anexo en el que se incluye la infección pulmonar por hantavirus (que utilizan los contenidos difundidos para justificar la supuesta relación con la vacuna), “también se incluyen eventos que claramente no están relacionados con la vacunación (como el atragantamiento), lo…",
-      "body_en": "Desde la farmacéutica añaden que en el mismo anexo en el que se incluye la infección pulmonar por hantavirus (que utilizan los contenidos difundidos para justificar la supuesta relación con la vacuna), “también se incluyen eventos que claramente no están relacionados con la vacunación (como el atragantamiento), lo…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260511/no-este-documento-de-pfizer-no-demuestra-que-la-vacuna-de-la-covid-19-sea-la-causa-de-la-infeccion-por-hantavirus/"
     }
   ]
 }

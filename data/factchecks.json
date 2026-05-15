@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-05-14T21:22:21.309481+00:00",
+  "updated_at": "2026-05-15T08:32:32.204684+00:00",
   "items": [
+    {
+      "id": "fc-bed7fdbad8",
+      "manual": false,
+      "date": "2026-05-14T22:06:46+00:00",
+      "date_label": "14 mai 2026",
+      "tag": "alert",
+      "title": "X posts - There&#x27;s no evidence Jake Rosmarin, influencer on cruise ship, is a hantavirus ‘crisis actor’",
+      "title_en": "X posts - There&#x27;s no evidence Jake Rosmarin, influencer on cruise ship, is a hantavirus ‘crisis actor’",
+      "body": "X posts - There's no evidence Jake Rosmarin, influencer on cruise ship, is a hantavirus ‘crisis actor’",
+      "body_en": "X posts - There's no evidence Jake Rosmarin, influencer on cruise ship, is a hantavirus ‘crisis actor’",
+      "source": "PolitiFact",
+      "source_url": "http://www.politifact.com/factchecks/2026/may/14/tweets/hantavirus-quarantine-crisis-actor-rosmarin/"
+    },
+    {
+      "id": "fc-8453a683d9",
+      "manual": false,
+      "date": "2026-05-14T21:31:04+00:00",
+      "date_label": "14 mai 2026",
+      "tag": "alert",
+      "title": "Fact Check: Video That Shows Doctors And Nurses In Masks And Protective Gear Does NOT Show Patient With Hantavirus -- It's From COVID 2020",
+      "title_en": "Fact Check: Video That Shows Doctors And Nurses In Masks And Protective Gear Does NOT Show Patient With Hantavirus -- It's From COVID 2020",
+      "body": "Does a video of doctors and nurses in masks and protective gear show medical professionals treating a hantavirus patient during the 2026 outbreak? No, that's not true: The video is from 2020 and shows doctors and nurses in Italy treating...",
+      "body_en": "Does a video of doctors and nurses in masks and protective gear show medical professionals treating a hantavirus patient during the 2026 outbreak? No, that's not true: The video is from 2020 and shows doctors and nurses in Italy treating...",
+      "source": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/05/fact-check-video-that-shows-doctors-nurses-masks-protective-gear-does-not-show-2026-hantavirus-patient.html"
+    },
     {
       "id": "fc-57b8bf0a41",
       "manual": false,
@@ -364,32 +390,6 @@
       "body_en": "⚠️ Confirmamos que en el Aeropuerto de #Tenerife Sur no se ha instalado ningún cartel como el que aparece en la imagen, se trata de un #bulo 👇 pic.twitter.com/iHR2SPRDsI — Aena (@aena) May 11, 2026 Los pasajeros del crucero MV Hondius no llegaron a entrar en las instalaciones del aeropuerto de Tenerife Sur. Su…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260512/imagen-muestra-un-cartel-ubicado-en-el-aeropuerto-de-tenerife-sur-con-normas-a-cumplir-por-el-hantavirus/"
-    },
-    {
-      "id": "fc-0baf655318",
-      "manual": false,
-      "date": "2026-05-12T13:59:24+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "El brote de norovirus en un crucero en el Caribe no tiene relación con el de hantavirus a bordo del MV Hondius: son dos virus diferentes y el norovirus causa síntomas de gastroenteritis aguda",
-      "title_en": "El brote de norovirus en un crucero en el Caribe no tiene relación con el de hantavirus a bordo del MV Hondius: son dos virus diferentes y el norovirus causa síntomas de gastroenteritis aguda",
-      "body": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
-      "body_en": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/detectan-un-brote-de-norovirus-en-un-crucero-con-mas-de-3000-pasajeros-frente-a-bahamas/"
-    },
-    {
-      "id": "fc-51b99d13c9",
-      "manual": false,
-      "date": "2026-05-12T13:11:58+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
-      "title_en": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
-      "body": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
-      "body_en": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/la-ministra-de-sanidad-monica-garcia-afirma-que-un-mes-antes-de-llegada-del-crucero-con-enfermos-de-hantavirus-hicieron-un-simulacro-en-canarias-sobre-la-llegada-de-un-barco-con-una-enfermedad-hemorragica-y-muertos/"
     }
   ]
 }

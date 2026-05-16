@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T12:06:42.367513+00:00",
+  "updated_at": "2026-05-16T16:13:35.071764+00:00",
   "items": [
     {
       "id": "fc-d43c59f067",
@@ -145,32 +145,6 @@
       "source_url": "https://www.newtral.es/ratas-crucero-canarias/20260514/"
     },
     {
-      "id": "fc-57a412080b",
-      "manual": false,
-      "date": "2026-05-14T11:31:31+00:00",
-      "date_label": "14 mai 2026",
-      "tag": "alert",
-      "title": "El vídeo en el que aparece un presunto cadáver moviéndose no tiene relación con el hantavirus",
-      "title_en": "El vídeo en el que aparece un presunto cadáver moviéndose no tiene relación con el hantavirus",
-      "body": "Las imágenes son de una manifestación climática que tuvo lugar en Viena en febrero de 2022.",
-      "body_en": "Las imágenes son de una manifestación climática que tuvo lugar en Viena en febrero de 2022.",
-      "source": "Newtral",
-      "source_url": "https://www.newtral.es/cadaver-moviendose-hantavirus/20260514/"
-    },
-    {
-      "id": "fc-8d9e78a8c7",
-      "manual": false,
-      "date": "2026-05-14T11:00:00+00:00",
-      "date_label": "14 mai 2026",
-      "tag": "alert",
-      "title": "Did 323 vials of pathogens, including hantavirus, go missing from Australian lab?",
-      "title_en": "Did 323 vials of pathogens, including hantavirus, go missing from Australian lab?",
-      "body": "Australian officials did report missing virus samples in 2024, but a later investigation found incomplete lab records were likely to blame.",
-      "body_en": "Australian officials did report missing virus samples in 2024, but a later investigation found incomplete lab records were likely to blame.",
-      "source": "Snopes",
-      "source_url": "https://www.snopes.com/fact-check/hantavirus-vials-australia/"
-    },
-    {
       "id": "fc-6cb3a103ea",
       "manual": false,
       "date": "2026-05-14T10:32:00+02:00",
@@ -247,19 +221,6 @@
       "body_en": "Las imágenes no muestran a una víctima de la infección por hantavirus reviviendo “milagrosamente”: es un vídeo de una protesta climática en febrero de 2022, en Viena,&nbsp; cubierta por el canal de televisión austriaco OE24TV, como se puede comprobar a través de una búsqueda inversa. El vídeo ya ha circulado…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260513/muerto-hantavirus-revive-directo/"
-    },
-    {
-      "id": "fc-a8429fc4ca",
-      "manual": false,
-      "date": "2026-05-13T11:03:13+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "alert",
-      "title": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
-      "title_en": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
-      "body": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
-      "body_en": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
-      "source": "Correctiv (Allemagne)",
-      "source_url": "https://correctiv.org/faktencheck/2026/05/13/hantavirus-altes-donald-trump-video-ueber-corona-pandemie-falsch-zugeschrieben/"
     },
     {
       "id": "manual-new-virus",
@@ -390,6 +351,45 @@
       "body_en": "⚠️ Confirmamos que en el Aeropuerto de #Tenerife Sur no se ha instalado ningún cartel como el que aparece en la imagen, se trata de un #bulo 👇 pic.twitter.com/iHR2SPRDsI — Aena (@aena) May 11, 2026 Los pasajeros del crucero MV Hondius no llegaron a entrar en las instalaciones del aeropuerto de Tenerife Sur. Su…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260512/imagen-muestra-un-cartel-ubicado-en-el-aeropuerto-de-tenerife-sur-con-normas-a-cumplir-por-el-hantavirus/"
+    },
+    {
+      "id": "fc-0baf655318",
+      "manual": false,
+      "date": "2026-05-12T13:59:24+02:00",
+      "date_label": "12 mai 2026",
+      "tag": "alert",
+      "title": "El brote de norovirus en un crucero en el Caribe no tiene relación con el de hantavirus a bordo del MV Hondius: son dos virus diferentes y el norovirus causa síntomas de gastroenteritis aguda",
+      "title_en": "El brote de norovirus en un crucero en el Caribe no tiene relación con el de hantavirus a bordo del MV Hondius: son dos virus diferentes y el norovirus causa síntomas de gastroenteritis aguda",
+      "body": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
+      "body_en": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
+      "source": "Maldita.es",
+      "source_url": "https://maldita.es/desinfo/20260512/detectan-un-brote-de-norovirus-en-un-crucero-con-mas-de-3000-pasajeros-frente-a-bahamas/"
+    },
+    {
+      "id": "fc-51b99d13c9",
+      "manual": false,
+      "date": "2026-05-12T13:11:58+02:00",
+      "date_label": "12 mai 2026",
+      "tag": "alert",
+      "title": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
+      "title_en": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
+      "body": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
+      "body_en": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
+      "source": "Maldita.es",
+      "source_url": "https://maldita.es/desinfo/20260512/la-ministra-de-sanidad-monica-garcia-afirma-que-un-mes-antes-de-llegada-del-crucero-con-enfermos-de-hantavirus-hicieron-un-simulacro-en-canarias-sobre-la-llegada-de-un-barco-con-una-enfermedad-hemorragica-y-muertos/"
+    },
+    {
+      "id": "fc-51f5bb7d8b",
+      "manual": false,
+      "date": "2026-05-12T10:46:19+02:00",
+      "date_label": "12 mai 2026",
+      "tag": "alert",
+      "title": "No hay ninguna evidencia científica que respalde que el zinc y la vitamina D pueden servir para tratar el hantavirus",
+      "title_en": "No hay ninguna evidencia científica que respalde que el zinc y la vitamina D pueden servir para tratar el hantavirus",
+      "body": "A 11 de mayo de 2026, no hay ninguna evidencia científica de que la vitamina D, el zinc o cualquier otro suplemento o medicamento sea útil como tratamiento a la infección por hantavirus . Desde la Organización Mundial de la Salud (OMS) recuerdan que, actualmente, “no se ha aprobado ningún tratamiento específico ni…",
+      "body_en": "A 11 de mayo de 2026, no hay ninguna evidencia científica de que la vitamina D, el zinc o cualquier otro suplemento o medicamento sea útil como tratamiento a la infección por hantavirus . Desde la Organización Mundial de la Salud (OMS) recuerdan que, actualmente, “no se ha aprobado ningún tratamiento específico ni…",
+      "source": "Maldita.es",
+      "source_url": "https://maldita.es/desinfo/20260512/no-hay-ninguna-evidencia-cientifica-que-respalde-que-el-zinc-y-la-vitamina-d-pueden-servir-para-tratar-el-hantavirus/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T23:37:29.417081+00:00",
+  "updated_at": "2026-05-17T08:35:40.093799+00:00",
   "items": [
     {
       "id": "fc-51011cd129",
@@ -145,19 +145,6 @@
       "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/14/hantavirus-qu-est-ce-qu-une-chambre-a-pression-negative_6689067_4355770.html"
     },
     {
-      "id": "fc-b0d392cd3b",
-      "manual": false,
-      "date": "2026-05-14T11:31:43+00:00",
-      "date_label": "14 mai 2026",
-      "tag": "alert",
-      "title": "Este vídeo que muestra ratas en el mar cerca del MV Hondius está hecho con inteligencia artificial",
-      "title_en": "Este vídeo que muestra ratas en el mar cerca del MV Hondius está hecho con inteligencia artificial",
-      "body": "El creador lo etiquetó como contenido generado con IA y el clip presenta errores propios del uso de esta herramienta.",
-      "body_en": "El creador lo etiquetó como contenido generado con IA y el clip presenta errores propios del uso de esta herramienta.",
-      "source": "Newtral",
-      "source_url": "https://www.newtral.es/ratas-crucero-canarias/20260514/"
-    },
-    {
       "id": "fc-6cb3a103ea",
       "manual": false,
       "date": "2026-05-14T10:32:00+02:00",
@@ -234,6 +221,19 @@
       "body_en": "Las imágenes no muestran a una víctima de la infección por hantavirus reviviendo “milagrosamente”: es un vídeo de una protesta climática en febrero de 2022, en Viena,&nbsp; cubierta por el canal de televisión austriaco OE24TV, como se puede comprobar a través de una búsqueda inversa. El vídeo ya ha circulado…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260513/muerto-hantavirus-revive-directo/"
+    },
+    {
+      "id": "fc-a8429fc4ca",
+      "manual": false,
+      "date": "2026-05-13T11:03:13+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "alert",
+      "title": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
+      "title_en": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
+      "body": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
+      "body_en": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
+      "source": "Correctiv (Allemagne)",
+      "source_url": "https://correctiv.org/faktencheck/2026/05/13/hantavirus-altes-donald-trump-video-ueber-corona-pandemie-falsch-zugeschrieben/"
     },
     {
       "id": "manual-new-virus",

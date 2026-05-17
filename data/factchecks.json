@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-05-17T08:35:40.093799+00:00",
+  "updated_at": "2026-05-17T12:06:49.219917+00:00",
   "items": [
+    {
+      "id": "fc-598c337039",
+      "manual": false,
+      "date": "2026-05-17T09:02:36+00:00",
+      "date_label": "17 mai 2026",
+      "tag": "alert",
+      "title": "Hantavirus : Dans la vague de désinformation en ligne, plusieurs images recyclées",
+      "title_en": "Hantavirus : Dans la vague de désinformation en ligne, plusieurs images recyclées",
+      "body": "Sur les réseaux sociaux, un nombre important de fausses informations sur l’hantavirus circulent. Cela passe par le recyclage d’anciennes vidéos, dont certains datent de l’époque du Covid",
+      "body_en": "Sur les réseaux sociaux, un nombre important de fausses informations sur l’hantavirus circulent. Cela passe par le recyclage d’anciennes vidéos, dont certains datent de l’époque du Covid",
+      "source": "20 Minutes — Fake Off",
+      "source_url": "https://www.20minutes.fr/societe/4223319-20260517-hantavirus-vague-desinformation-ligne-plusieurs-images-recyclees?at_medium=display&at_campaign=149"
+    },
     {
       "id": "fc-51011cd129",
       "manual": false,
@@ -377,19 +390,6 @@
       "body_en": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260512/detectan-un-brote-de-norovirus-en-un-crucero-con-mas-de-3000-pasajeros-frente-a-bahamas/"
-    },
-    {
-      "id": "fc-51b99d13c9",
-      "manual": false,
-      "date": "2026-05-12T13:11:58+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
-      "title_en": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
-      "body": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
-      "body_en": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/la-ministra-de-sanidad-monica-garcia-afirma-que-un-mes-antes-de-llegada-del-crucero-con-enfermos-de-hantavirus-hicieron-un-simulacro-en-canarias-sobre-la-llegada-de-un-barco-con-una-enfermedad-hemorragica-y-muertos/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T19:15:01.623433+00:00",
+  "updated_at": "2026-05-18T23:45:57.465324+00:00",
   "items": [
     {
       "id": "fc-d32aa61358",
@@ -104,19 +104,6 @@
       "body_en": "X posts - There's no evidence Jake Rosmarin, influencer on cruise ship, is a hantavirus ‘crisis actor’",
       "source": "PolitiFact",
       "source_url": "http://www.politifact.com/factchecks/2026/may/14/tweets/hantavirus-quarantine-crisis-actor-rosmarin/"
-    },
-    {
-      "id": "fc-8453a683d9",
-      "manual": false,
-      "date": "2026-05-14T21:31:04+00:00",
-      "date_label": "14 mai 2026",
-      "tag": "alert",
-      "title": "Fact Check: Video That Shows Doctors And Nurses In Masks And Protective Gear Does NOT Show Patient With Hantavirus -- It's From COVID 2020",
-      "title_en": "Fact Check: Video That Shows Doctors And Nurses In Masks And Protective Gear Does NOT Show Patient With Hantavirus -- It's From COVID 2020",
-      "body": "Does a video of doctors and nurses in masks and protective gear show medical professionals treating a hantavirus patient during the 2026 outbreak? No, that's not true: The video is from 2020 and shows doctors and nurses in Italy treating...",
-      "body_en": "Does a video of doctors and nurses in masks and protective gear show medical professionals treating a hantavirus patient during the 2026 outbreak? No, that's not true: The video is from 2020 and shows doctors and nurses in Italy treating...",
-      "source": "Lead Stories",
-      "source_url": "https://leadstories.com/hoax-alert/2026/05/fact-check-video-that-shows-doctors-nurses-masks-protective-gear-does-not-show-2026-hantavirus-patient.html"
     },
     {
       "id": "fc-4bfa2c945d",
@@ -390,6 +377,19 @@
       "body_en": "Los contenidos no aportan ningún tipo de prueba , imagen o evidencia de la supuesta presencia del ministro del Interior, Fernando Grande-Marlaska , en el Orgullo de Maspalomas , que tuvo lugar en esa localidad de la isla de Gran Canaria entre el 4 y el 10 de mayo de 2026. El ministro aparece en varias comparecencias…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260512/marlaska-orgullo-maspalomas-las-palmas-mv-hondius-hantavirus/"
+    },
+    {
+      "id": "fc-23ba6a183d",
+      "manual": false,
+      "date": "2026-05-12T14:46:45+02:00",
+      "date_label": "12 mai 2026",
+      "tag": "alert",
+      "title": "Cuidado con los contenidos que aseguran que el virus Andes se contagia igual de rápido que la COVID-19",
+      "title_en": "Cuidado con los contenidos que aseguran que el virus Andes se contagia igual de rápido que la COVID-19",
+      "body": "El estudio científico sobre el brote argentino observó que el R₀ del virus Andes descendió a menos del 1 (0,96) después de aplicar medidas de control , como aislamiento o cuarentena. Un R₀ inferior a 1 significa que la enfermedad “no mantiene un crecimiento exponencial, ya que cada persona infectada genera en…",
+      "body_en": "El estudio científico sobre el brote argentino observó que el R₀ del virus Andes descendió a menos del 1 (0,96) después de aplicar medidas de control , como aislamiento o cuarentena. Un R₀ inferior a 1 significa que la enfermedad “no mantiene un crecimiento exponencial, ya que cada persona infectada genera en…",
+      "source": "Maldita.es",
+      "source_url": "https://maldita.es/desinfo/20260512/hantavirus-contagia-rapido-covid/"
     }
   ]
 }

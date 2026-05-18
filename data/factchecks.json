@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T20:10:59.926104+00:00",
+  "updated_at": "2026-05-18T00:14:14.785683+00:00",
   "items": [
     {
       "id": "fc-598c337039",
@@ -236,6 +236,19 @@
       "source_url": "https://maldita.es/desinfo/20260513/muerto-hantavirus-revive-directo/"
     },
     {
+      "id": "fc-a8429fc4ca",
+      "manual": false,
+      "date": "2026-05-13T11:03:13+00:00",
+      "date_label": "13 mai 2026",
+      "tag": "alert",
+      "title": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
+      "title_en": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
+      "body": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
+      "body_en": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
+      "source": "Correctiv (Allemagne)",
+      "source_url": "https://correctiv.org/faktencheck/2026/05/13/hantavirus-altes-donald-trump-video-ueber-corona-pandemie-falsch-zugeschrieben/"
+    },
+    {
       "id": "manual-new-virus",
       "manual": true,
       "date": "2026-05-13",
@@ -377,19 +390,6 @@
       "body_en": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260512/detectan-un-brote-de-norovirus-en-un-crucero-con-mas-de-3000-pasajeros-frente-a-bahamas/"
-    },
-    {
-      "id": "fc-51b99d13c9",
-      "manual": false,
-      "date": "2026-05-12T13:11:58+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
-      "title_en": "Qué sabemos sobre el simulacro en abril para la llegada de un barco con una enfermedad hemorrágica y muertos: hubo uno en Palma de Mallorca y no es el primero",
-      "body": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
-      "body_en": "El simulacro de Palma tuvo lugar el 16 de abril de 2026 y consistía en la llegada de un barco afectado por fiebre hemorrágica y con cadáveres, según reportó el Govern de las Islas Baleares en un comunicado y también las publicaciones locales . El ejercicio estuvo dirigido por la subdirección general de Sanidad…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/la-ministra-de-sanidad-monica-garcia-afirma-que-un-mes-antes-de-llegada-del-crucero-con-enfermos-de-hantavirus-hicieron-un-simulacro-en-canarias-sobre-la-llegada-de-un-barco-con-una-enfermedad-hemorragica-y-muertos/"
     }
   ]
 }

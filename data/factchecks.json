@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-05-18T00:14:14.785683+00:00",
+  "updated_at": "2026-05-18T12:58:18.788420+00:00",
   "items": [
+    {
+      "id": "fc-4d0ec6acfe",
+      "manual": false,
+      "date": "2026-05-18T08:07:36+00:00",
+      "date_label": "18 mai 2026",
+      "tag": "alert",
+      "title": "Hantavirus : Des souris lâchées dans les villes pour répandre le virus ? Gare à cette infox",
+      "title_en": "Hantavirus : Des souris lâchées dans les villes pour répandre le virus ? Gare à cette infox",
+      "body": "Des images spectaculaires nourrissent une théorie du complot sur X. Le problème, c’est qu’elles ont été générées par IA",
+      "body_en": "Des images spectaculaires nourrissent une théorie du complot sur X. Le problème, c’est qu’elles ont été générées par IA",
+      "source": "20 Minutes — Fake Off",
+      "source_url": "https://www.20minutes.fr/sante/4223190-20260518-hantavirus-souris-lachees-villes-repandre-virus-gare-infox?at_medium=display&at_campaign=149"
+    },
+    {
+      "id": "fc-b28c6fac57",
+      "manual": false,
+      "date": "2026-05-18T05:32:36+00:00",
+      "date_label": "18 mai 2026",
+      "tag": "alert",
+      "title": "« Elle remonte à 2022 »… Comment de fausses « prédictions » permettent d’alimenter les théories du complot",
+      "title_en": "« Elle remonte à 2022 »… Comment de fausses « prédictions » permettent d’alimenter les théories du complot",
+      "body": "Comme pour l’hantavirus ces derniers jours, la complosphère utilise des soi-disant « prédictions » pour appuyer ses théories. Une technique qui relève plus de la supercherie que de la prophétie",
+      "body_en": "Comme pour l’hantavirus ces derniers jours, la complosphère utilise des soi-disant « prédictions » pour appuyer ses théories. Une technique qui relève plus de la supercherie que de la prophétie",
+      "source": "20 Minutes — Fake Off",
+      "source_url": "https://www.20minutes.fr/societe/4223115-20260518-remonte-2022-comment-fausses-predictions-permettent-alimenter-theories-complot?at_medium=display&at_campaign=149"
+    },
     {
       "id": "fc-598c337039",
       "manual": false,
@@ -65,19 +91,6 @@
       "body_en": "Does a video of doctors and nurses in masks and protective gear show medical professionals treating a hantavirus patient during the 2026 outbreak? No, that's not true: The video is from 2020 and shows doctors and nurses in Italy treating...",
       "source": "Lead Stories",
       "source_url": "https://leadstories.com/hoax-alert/2026/05/fact-check-video-that-shows-doctors-nurses-masks-protective-gear-does-not-show-2026-hantavirus-patient.html"
-    },
-    {
-      "id": "fc-57b8bf0a41",
-      "manual": false,
-      "date": "2026-05-14T20:32:00+00:00",
-      "date_label": "14 mai 2026",
-      "tag": "alert",
-      "title": "Does 'hanta' mean 'scam' in Hebrew slang? Social media users confused similar words",
-      "title_en": "Does 'hanta' mean 'scam' in Hebrew slang? Social media users confused similar words",
-      "body": "The name \"hantavirus\" traces from the Hantaan River on the Korean Peninsula, not from Hebrew slang.",
-      "body_en": "The name \"hantavirus\" traces from the Hantaan River on the Korean Peninsula, not from Hebrew slang.",
-      "source": "Snopes",
-      "source_url": "https://www.snopes.com/fact-check/hantavirus-slang-scam-hebrew/"
     },
     {
       "id": "fc-4bfa2c945d",
@@ -377,19 +390,6 @@
       "body_en": "⚠️ Confirmamos que en el Aeropuerto de #Tenerife Sur no se ha instalado ningún cartel como el que aparece en la imagen, se trata de un #bulo 👇 pic.twitter.com/iHR2SPRDsI — Aena (@aena) May 11, 2026 Los pasajeros del crucero MV Hondius no llegaron a entrar en las instalaciones del aeropuerto de Tenerife Sur. Su…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260512/imagen-muestra-un-cartel-ubicado-en-el-aeropuerto-de-tenerife-sur-con-normas-a-cumplir-por-el-hantavirus/"
-    },
-    {
-      "id": "fc-0baf655318",
-      "manual": false,
-      "date": "2026-05-12T13:59:24+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "El brote de norovirus en un crucero en el Caribe no tiene relación con el de hantavirus a bordo del MV Hondius: son dos virus diferentes y el norovirus causa síntomas de gastroenteritis aguda",
-      "title_en": "El brote de norovirus en un crucero en el Caribe no tiene relación con el de hantavirus a bordo del MV Hondius: son dos virus diferentes y el norovirus causa síntomas de gastroenteritis aguda",
-      "body": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
-      "body_en": "“El norovirus es común en comedores escolares, buffets libres, cruceros , resorts, campamentos… Todos los años hay numerosos casos de brotes en estos ámbitos, y la causa más común es la mala manipulación de los alimentos (por parte de cocina o de usuarios)”, explica en Instagram Hector Castiñeira…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/detectan-un-brote-de-norovirus-en-un-crucero-con-mas-de-3000-pasajeros-frente-a-bahamas/"
     }
   ]
 }

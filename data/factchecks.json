@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-05-18T12:58:18.788420+00:00",
+  "updated_at": "2026-05-18T19:15:01.623433+00:00",
   "items": [
+    {
+      "id": "fc-d32aa61358",
+      "manual": false,
+      "date": "2026-05-18T15:15:49+00:00",
+      "date_label": "18 mai 2026",
+      "tag": "alert",
+      "title": "No son personas sin protección sanitaria en los cruceros con brotes de hantavirus o norovirus, sino un simulacro en 2025",
+      "title_en": "No son personas sin protección sanitaria en los cruceros con brotes de hantavirus o norovirus, sino un simulacro en 2025",
+      "body": "La imagen se tomó durante un simulacro que llevó a cabo la Armada Española en Almería en mayo de 2025.",
+      "body_en": "La imagen se tomó durante un simulacro que llevó a cabo la Armada Española en Almería en mayo de 2025.",
+      "source": "Newtral",
+      "source_url": "https://www.newtral.es/crucero-hantavirus-proteccion-norovirus/20260518/"
+    },
+    {
+      "id": "fc-5178294dcd",
+      "manual": false,
+      "date": "2026-05-18T14:47:35+00:00",
+      "date_label": "18 mai 2026",
+      "tag": "alert",
+      "title": "China hasn’t banned US citizens over hantavirus",
+      "title_en": "China hasn’t banned US citizens over hantavirus",
+      "body": "",
+      "body_en": "",
+      "source": "Full Fact (UK)",
+      "source_url": "https://fullfact.org/health/China-US-hantavirus-ban-false/"
+    },
     {
       "id": "fc-4d0ec6acfe",
       "manual": false,
@@ -364,32 +390,6 @@
       "body_en": "Los contenidos no aportan ningún tipo de prueba , imagen o evidencia de la supuesta presencia del ministro del Interior, Fernando Grande-Marlaska , en el Orgullo de Maspalomas , que tuvo lugar en esa localidad de la isla de Gran Canaria entre el 4 y el 10 de mayo de 2026. El ministro aparece en varias comparecencias…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260512/marlaska-orgullo-maspalomas-las-palmas-mv-hondius-hantavirus/"
-    },
-    {
-      "id": "fc-23ba6a183d",
-      "manual": false,
-      "date": "2026-05-12T14:46:45+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "Cuidado con los contenidos que aseguran que el virus Andes se contagia igual de rápido que la COVID-19",
-      "title_en": "Cuidado con los contenidos que aseguran que el virus Andes se contagia igual de rápido que la COVID-19",
-      "body": "El estudio científico sobre el brote argentino observó que el R₀ del virus Andes descendió a menos del 1 (0,96) después de aplicar medidas de control , como aislamiento o cuarentena. Un R₀ inferior a 1 significa que la enfermedad “no mantiene un crecimiento exponencial, ya que cada persona infectada genera en…",
-      "body_en": "El estudio científico sobre el brote argentino observó que el R₀ del virus Andes descendió a menos del 1 (0,96) después de aplicar medidas de control , como aislamiento o cuarentena. Un R₀ inferior a 1 significa que la enfermedad “no mantiene un crecimiento exponencial, ya que cada persona infectada genera en…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/hantavirus-contagia-rapido-covid/"
-    },
-    {
-      "id": "fc-19519d364e",
-      "manual": false,
-      "date": "2026-05-12T14:40:56+02:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "Qué sabemos sobre esta imagen de un supuesto cartel en el aeropuerto de Tenerife Sur con medidas para prevenir el contagio del hantavirus",
-      "title_en": "Qué sabemos sobre esta imagen de un supuesto cartel en el aeropuerto de Tenerife Sur con medidas para prevenir el contagio del hantavirus",
-      "body": "⚠️ Confirmamos que en el Aeropuerto de #Tenerife Sur no se ha instalado ningún cartel como el que aparece en la imagen, se trata de un #bulo 👇 pic.twitter.com/iHR2SPRDsI — Aena (@aena) May 11, 2026 Los pasajeros del crucero MV Hondius no llegaron a entrar en las instalaciones del aeropuerto de Tenerife Sur. Su…",
-      "body_en": "⚠️ Confirmamos que en el Aeropuerto de #Tenerife Sur no se ha instalado ningún cartel como el que aparece en la imagen, se trata de un #bulo 👇 pic.twitter.com/iHR2SPRDsI — Aena (@aena) May 11, 2026 Los pasajeros del crucero MV Hondius no llegaron a entrar en las instalaciones del aeropuerto de Tenerife Sur. Su…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/imagen-muestra-un-cartel-ubicado-en-el-aeropuerto-de-tenerife-sur-con-normas-a-cumplir-por-el-hantavirus/"
     }
   ]
 }

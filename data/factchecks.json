@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T23:45:57.465324+00:00",
+  "updated_at": "2026-05-19T11:43:47.999200+00:00",
   "items": [
     {
       "id": "fc-d32aa61358",
@@ -262,19 +262,6 @@
       "source_url": "https://maldita.es/desinfo/20260513/muerto-hantavirus-revive-directo/"
     },
     {
-      "id": "fc-a8429fc4ca",
-      "manual": false,
-      "date": "2026-05-13T11:03:13+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "alert",
-      "title": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
-      "title_en": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
-      "body": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
-      "body_en": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
-      "source": "Correctiv (Allemagne)",
-      "source_url": "https://correctiv.org/faktencheck/2026/05/13/hantavirus-altes-donald-trump-video-ueber-corona-pandemie-falsch-zugeschrieben/"
-    },
-    {
       "id": "manual-new-virus",
       "manual": true,
       "date": "2026-05-13",
@@ -366,30 +353,43 @@
       "source_url": "https://maldita.es/desinfo/20260512/desinformaciones-hantavirus-vacunas/"
     },
     {
-      "id": "fc-ebc3e144f3",
+      "id": "fc-6a4d028e38",
       "manual": false,
-      "date": "2026-05-12T15:34:09+02:00",
+      "date": "2026-05-12T08:43:56+00:00",
       "date_label": "12 mai 2026",
       "tag": "alert",
-      "title": "La supuesta presencia de Marlaska en el Orgullo de Maspalomas (Gran Canaria): Interior dice que es falso y hay varias retransmisiones en directo del ministro en Tenerife entre el 9 y el 11 de mayo",
-      "title_en": "La supuesta presencia de Marlaska en el Orgullo de Maspalomas (Gran Canaria): Interior dice que es falso y hay varias retransmisiones en directo del ministro en Tenerife entre el 9 y el 11 de mayo",
-      "body": "Los contenidos no aportan ningún tipo de prueba , imagen o evidencia de la supuesta presencia del ministro del Interior, Fernando Grande-Marlaska , en el Orgullo de Maspalomas , que tuvo lugar en esa localidad de la isla de Gran Canaria entre el 4 y el 10 de mayo de 2026. El ministro aparece en varias comparecencias…",
-      "body_en": "Los contenidos no aportan ningún tipo de prueba , imagen o evidencia de la supuesta presencia del ministro del Interior, Fernando Grande-Marlaska , en el Orgullo de Maspalomas , que tuvo lugar en esa localidad de la isla de Gran Canaria entre el 4 y el 10 de mayo de 2026. El ministro aparece en varias comparecencias…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/marlaska-orgullo-maspalomas-las-palmas-mv-hondius-hantavirus/"
+      "title": "Hantavirus : La complosphère s’agite et dépoussière des théories vues pendant le Covid",
+      "title_en": "Hantavirus : La complosphère s’agite et dépoussière des théories vues pendant le Covid",
+      "body": "Alors qu’un foyer d’hantavirus fait l’actualité, notamment en France, on peut voir circuler, au sein de la complosphère, des théories que l’on a pu voir il y a quelques années lors de la pandémie de Covid-19",
+      "body_en": "Alors qu’un foyer d’hantavirus fait l’actualité, notamment en France, on peut voir circuler, au sein de la complosphère, des théories que l’on a pu voir il y a quelques années lors de la pandémie de Covid-19",
+      "source": "20 Minutes — Fake Off",
+      "source_url": "https://www.20minutes.fr/monde/4222914-20260512-hantavirus-complosphere-agite-depoussiere-theories-vues-pendant-covid?at_medium=display&at_campaign=149"
     },
     {
-      "id": "fc-23ba6a183d",
+      "id": "fc-3d7f65cd80",
       "manual": false,
-      "date": "2026-05-12T14:46:45+02:00",
-      "date_label": "12 mai 2026",
+      "date": "2026-05-11T11:14:03+00:00",
+      "date_label": "11 mai 2026",
       "tag": "alert",
-      "title": "Cuidado con los contenidos que aseguran que el virus Andes se contagia igual de rápido que la COVID-19",
-      "title_en": "Cuidado con los contenidos que aseguran que el virus Andes se contagia igual de rápido que la COVID-19",
-      "body": "El estudio científico sobre el brote argentino observó que el R₀ del virus Andes descendió a menos del 1 (0,96) después de aplicar medidas de control , como aislamiento o cuarentena. Un R₀ inferior a 1 significa que la enfermedad “no mantiene un crecimiento exponencial, ya que cada persona infectada genera en…",
-      "body_en": "El estudio científico sobre el brote argentino observó que el R₀ del virus Andes descendió a menos del 1 (0,96) después de aplicar medidas de control , como aislamiento o cuarentena. Un R₀ inferior a 1 significa que la enfermedad “no mantiene un crecimiento exponencial, ya que cada persona infectada genera en…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260512/hantavirus-contagia-rapido-covid/"
+      "title": "Hantavirus : qui sont les huit cas confirmés à ce jour ?",
+      "title_en": "Hantavirus : qui sont les huit cas confirmés à ce jour ?",
+      "body": "Un Espagnol a été testé positif ces 24 dernières heures. Il s’ajoute aux sept cas précédemment recensés, dont une Française, hospitalisée à l’hôpital Bichat à Paris.",
+      "body_en": "Un Espagnol a été testé positif ces 24 dernières heures. Il s’ajoute aux sept cas précédemment recensés, dont une Française, hospitalisée à l’hôpital Bichat à Paris.",
+      "source": "Libération — CheckNews",
+      "source_url": "https://www.liberation.fr/checknews/hantavirus-qui-sont-les-huit-cas-confirmes-a-ce-jour-20260511_LQ4NVXTT7NB5LBZYJ6GBKNACXY/"
+    },
+    {
+      "id": "fc-32abc95d84",
+      "manual": false,
+      "date": "2026-05-09T11:00:16+02:00",
+      "date_label": "9 mai 2026",
+      "tag": "alert",
+      "title": "Hantavirus : comment les théoriciens du complot du Covid-19 recyclent leurs récits",
+      "title_en": "Hantavirus : comment les théoriciens du complot du Covid-19 recyclent leurs récits",
+      "body": "Pandémie planifiée, efficacité miracle de l’ivermectine, ou encore virus né dans un laboratoire P4 : sur les réseaux sociaux, la crise déclenchée par les infections à hantavirus à bord du MV « Hondius » suscite un flot d’interprétations conspirationnistes calquées sur celles de 2020.",
+      "body_en": "Pandémie planifiée, efficacité miracle de l’ivermectine, ou encore virus né dans un laboratoire P4 : sur les réseaux sociaux, la crise déclenchée par les infections à hantavirus à bord du MV « Hondius » suscite un flot d’interprétations conspirationnistes calquées sur celles de 2020.",
+      "source": "Le Monde — Les Décodeurs",
+      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/09/hantavirus-comment-les-theoriciens-du-complot-du-covid-19-recyclent-leurs-recits_6687417_4355770.html"
     }
   ]
 }

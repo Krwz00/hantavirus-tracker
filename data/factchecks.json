@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T22:50:31.656665+00:00",
+  "updated_at": "2026-05-20T10:37:00.043025+00:00",
   "items": [
     {
       "id": "fc-5178294dcd",
@@ -156,19 +156,6 @@
       "body_en": "Ventilation, sas, équipements de protection : ces pièces spéciales sont au cœur du dispositif sanitaire mis en place autour du virus des Andes.",
       "source": "Le Monde — Les Décodeurs",
       "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/14/hantavirus-qu-est-ce-qu-une-chambre-a-pression-negative_6689067_4355770.html"
-    },
-    {
-      "id": "fc-6cb3a103ea",
-      "manual": false,
-      "date": "2026-05-14T10:32:00+02:00",
-      "date_label": "14 mai 2026",
-      "tag": "alert",
-      "title": "Bulos, desinformaciones y contexto del brote de hantavirus",
-      "title_en": "Bulos, desinformaciones y contexto del brote de hantavirus",
-      "body": "Cuidado con los contenidos que aseguran que el virus Andes se contagia igual de rápido que la COVID-19 La capacidad del hantavirus para propagarse de un huésped a otro causando enfermedad (es decir, su transmisibilidad ) es menor que la del SARS-CoV-2 (el virus causante de la COVID-19) por el número de casos…",
-      "body_en": "Cuidado con los contenidos que aseguran que el virus Andes se contagia igual de rápido que la COVID-19 La capacidad del hantavirus para propagarse de un huésped a otro causando enfermedad (es decir, su transmisibilidad ) es menor que la del SARS-CoV-2 (el virus causante de la COVID-19) por el número de casos…",
-      "source": "Maldita.es",
-      "source_url": "https://maldita.es/desinfo/20260514/bulos-desinformaciones-contexto-brote-hantavirus/"
     },
     {
       "id": "fc-736ae58a5c",

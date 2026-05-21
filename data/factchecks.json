@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T18:29:35.094867+00:00",
+  "updated_at": "2026-05-21T22:58:06.060076+00:00",
   "items": [
     {
       "id": "fc-e086a2a223",
@@ -26,19 +26,6 @@
       "body_en": "In Sozialen Netzwerken verbreitet sich eine Karte, die nach dem Ausbruch des Andes-Hantavirus auf einem Kreuzfahrtschiff angeblich sehr viele Fälle weltweit zeigt. Doch die Punkte auf der Karte von „hantavirusmap.com“ haben eine andere Bedeutung.",
       "source": "Correctiv (Allemagne)",
       "source_url": "https://correctiv.org/faktencheck/2026/05/20/nein-diese-karte-zeigt-keine-hantavirus-faelle/"
-    },
-    {
-      "id": "fc-5178294dcd",
-      "manual": false,
-      "date": "2026-05-18T14:47:35+00:00",
-      "date_label": "18 mai 2026",
-      "tag": "alert",
-      "title": "China hasn’t banned US citizens over hantavirus",
-      "title_en": "China hasn’t banned US citizens over hantavirus",
-      "body": "",
-      "body_en": "",
-      "source": "Full Fact (UK)",
-      "source_url": "https://fullfact.org/health/China-US-hantavirus-ban-false/"
     },
     {
       "id": "fc-4d0ec6acfe",

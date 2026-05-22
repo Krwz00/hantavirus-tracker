@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-05-22T10:35:36.615398+00:00",
+  "updated_at": "2026-05-22T17:29:23.560218+00:00",
   "items": [
+    {
+      "id": "fc-ecedb99704",
+      "manual": false,
+      "date": "2026-05-22T17:08:54+02:00",
+      "date_label": "22 mai 2026",
+      "tag": "alert",
+      "title": "Mismo vídeo en diferentes contextos y siempre para desinformar: cómo se ha utilizado un contenido de 2022 grabado en Viena para negar las víctimas de virus y conflictos",
+      "title_en": "Mismo vídeo en diferentes contextos y siempre para desinformar: cómo se ha utilizado un contenido de 2022 grabado en Viena para negar las víctimas de virus y conflictos",
+      "body": "📲 ¡Pincha aquí y sigue el canal de WhatsApp de Maldita.es para que no te la cuelen! Se ha relacionado con el hantavirus y el coronavirus para negarlos o hacer creer que se magnifica el número víctimas Más de dos millones de visualizaciones en poco más de 24 horas acumulaba un tuit en árabe que relaciona el vídeo de…",
+      "body_en": "📲 ¡Pincha aquí y sigue el canal de WhatsApp de Maldita.es para que no te la cuelen! Se ha relacionado con el hantavirus y el coronavirus para negarlos o hacer creer que se magnifica el número víctimas Más de dos millones de visualizaciones en poco más de 24 horas acumulaba un tuit en árabe que relaciona el vídeo de…",
+      "source": "Maldita.es",
+      "source_url": "https://maldita.es/desinfo/20260522/video-protestas-viena-desinformacion-victimas/"
+    },
+    {
+      "id": "fc-b822808811",
+      "manual": false,
+      "date": "2026-05-22T15:14:55+00:00",
+      "date_label": "22 mai 2026",
+      "tag": "alert",
+      "title": "Kein Hantavirus-Einsatz: Foto zeigt Marineübung im Jahr 2025",
+      "title_en": "Kein Hantavirus-Einsatz: Foto zeigt Marineübung im Jahr 2025",
+      "body": "Nach dem Hantavirus-Ausbruch auf einem Kreuzfahrtschiff kursieren im Mai 2026 Bilder von Menschen, die angeblich keine richtige Schutzkleidung tragen. Einige dieser Aufnahmen haben allerdings nichts mit dem Hantavirus zu tun.",
+      "body_en": "Nach dem Hantavirus-Ausbruch auf einem Kreuzfahrtschiff kursieren im Mai 2026 Bilder von Menschen, die angeblich keine richtige Schutzkleidung tragen. Einige dieser Aufnahmen haben allerdings nichts mit dem Hantavirus zu tun.",
+      "source": "Correctiv (Allemagne)",
+      "source_url": "https://correctiv.org/faktencheck/2026/05/22/kein-hantavirus-einsatz-foto-zeigt-marineuebung-im-jahr-2025/"
+    },
+    {
+      "id": "fc-5c13253b4c",
+      "manual": false,
+      "date": "2026-05-22T11:27:00+00:00",
+      "date_label": "22 mai 2026",
+      "tag": "alert",
+      "title": "El vídeo de un supuesto cadáver fumando no tiene relación con el hantavirus",
+      "title_en": "El vídeo de un supuesto cadáver fumando no tiene relación con el hantavirus",
+      "body": "Las imágenes corresponden a la grabación de un videoclip de un rapero ruso en 2020.",
+      "body_en": "Las imágenes corresponden a la grabación de un videoclip de un rapero ruso en 2020.",
+      "source": "Newtral",
+      "source_url": "https://www.newtral.es/cadaver-fumando-hantavirus/20260522/"
+    },
+    {
+      "id": "fc-e2877be269",
+      "manual": false,
+      "date": "2026-05-22T11:26:43+00:00",
+      "date_label": "22 mai 2026",
+      "tag": "alert",
+      "title": "Este mapa no muestra los casos activos de hantavirus, sino el número de noticias sobre este virus",
+      "title_en": "Este mapa no muestra los casos activos de hantavirus, sino el número de noticias sobre este virus",
+      "body": "Los puntos del mapa simbolizan el número de noticias e informes publicados sobre el hantavirus en cada país.",
+      "body_en": "Los puntos del mapa simbolizan el número de noticias e informes publicados sobre el hantavirus en cada país.",
+      "source": "Newtral",
+      "source_url": "https://www.newtral.es/mapa-hantavirus-casos-bulo/20260522/"
+    },
     {
       "id": "fc-0494b4b875",
       "manual": false,

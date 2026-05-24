@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-05-24T09:10:38.275557+00:00",
+  "updated_at": "2026-05-24T14:50:57.364550+00:00",
   "items": [
-    {
-      "id": "fc-756b34878c",
-      "manual": false,
-      "date": "2026-05-24T04:00:00+00:00",
-      "date_label": "24 mai 2026",
-      "tag": "alert",
-      "title": "Los bulos de los “falsos muertos” por la Covid-19 que vuelven a difundirse sobre el hantavirus",
-      "title_en": "Los bulos de los “falsos muertos” por la Covid-19 que vuelven a difundirse sobre el hantavirus",
-      "body": "En redes sociales se han compartido imágenes de presuntos cadáveres moviéndose y fumando que supuestamente probarían que el virus es un montaje.",
-      "body_en": "En redes sociales se han compartido imágenes de presuntos cadáveres moviéndose y fumando que supuestamente probarían que el virus es un montaje.",
-      "source": "Newtral",
-      "source_url": "https://www.newtral.es/bulos-covid-hantavirus/20260524/"
-    },
     {
       "id": "fc-ecedb99704",
       "manual": false,
@@ -39,19 +26,6 @@
       "body_en": "Nach dem Hantavirus-Ausbruch auf einem Kreuzfahrtschiff kursieren im Mai 2026 Bilder von Menschen, die angeblich keine richtige Schutzkleidung tragen. Einige dieser Aufnahmen haben allerdings nichts mit dem Hantavirus zu tun.",
       "source": "Correctiv (Allemagne)",
       "source_url": "https://correctiv.org/faktencheck/2026/05/22/kein-hantavirus-einsatz-foto-zeigt-marineuebung-im-jahr-2025/"
-    },
-    {
-      "id": "fc-5c13253b4c",
-      "manual": false,
-      "date": "2026-05-22T11:27:00+00:00",
-      "date_label": "22 mai 2026",
-      "tag": "alert",
-      "title": "El vídeo de un supuesto cadáver fumando no tiene relación con el hantavirus",
-      "title_en": "El vídeo de un supuesto cadáver fumando no tiene relación con el hantavirus",
-      "body": "Las imágenes corresponden a la grabación de un videoclip de un rapero ruso en 2020.",
-      "body_en": "Las imágenes corresponden a la grabación de un videoclip de un rapero ruso en 2020.",
-      "source": "Newtral",
-      "source_url": "https://www.newtral.es/cadaver-fumando-hantavirus/20260522/"
     },
     {
       "id": "fc-0494b4b875",

@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-05-24T14:50:57.364550+00:00",
+  "updated_at": "2026-05-24T18:14:39.383719+00:00",
   "items": [
+    {
+      "id": "fc-756b34878c",
+      "manual": false,
+      "date": "2026-05-24T04:00:00+00:00",
+      "date_label": "24 mai 2026",
+      "tag": "alert",
+      "title": "Los bulos de los “falsos muertos” por la Covid-19 que vuelven a difundirse sobre el hantavirus",
+      "title_en": "Los bulos de los “falsos muertos” por la Covid-19 que vuelven a difundirse sobre el hantavirus",
+      "body": "En redes sociales se han compartido imágenes de presuntos cadáveres moviéndose y fumando que supuestamente probarían que el virus es un montaje.",
+      "body_en": "En redes sociales se han compartido imágenes de presuntos cadáveres moviéndose y fumando que supuestamente probarían que el virus es un montaje.",
+      "source": "Newtral",
+      "source_url": "https://www.newtral.es/bulos-covid-hantavirus/20260524/"
+    },
     {
       "id": "fc-ecedb99704",
       "manual": false,

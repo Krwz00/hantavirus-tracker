@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T22:15:18.351158+00:00",
+  "updated_at": "2026-05-25T12:14:01.739344+00:00",
   "items": [
     {
       "id": "fc-756b34878c",
@@ -117,32 +117,6 @@
       "body_en": "X posts - There's no evidence Jake Rosmarin, influencer on cruise ship, is a hantavirus ‘crisis actor’",
       "source": "PolitiFact",
       "source_url": "http://www.politifact.com/factchecks/2026/may/14/tweets/hantavirus-quarantine-crisis-actor-rosmarin/"
-    },
-    {
-      "id": "fc-8655a899f7",
-      "manual": false,
-      "date": "2026-05-14T14:45:01+02:00",
-      "date_label": "14 mai 2026",
-      "tag": "alert",
-      "title": "Hantavirus : les réseaux sociaux, ces hôtes de plus en plus adaptés à la désinformation médicale",
-      "title_en": "Hantavirus : les réseaux sociaux, ces hôtes de plus en plus adaptés à la désinformation médicale",
-      "body": "La découverte d’un foyer d’infections à hantavirus a suscité un flot de rumeurs et de théories du complot similaire au Covid. A la différence que six ans après la crise sanitaire, les plateformes ont volontairement abaissé leurs défenses.",
-      "body_en": "La découverte d’un foyer d’infections à hantavirus a suscité un flot de rumeurs et de théories du complot similaire au Covid. A la différence que six ans après la crise sanitaire, les plateformes ont volontairement abaissé leurs défenses.",
-      "source": "Le Monde — Les Décodeurs",
-      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/14/hantavirus-les-reseaux-sociaux-ces-hotes-de-plus-en-plus-adaptes-a-la-desinformation-medicale_6689084_4355770.html"
-    },
-    {
-      "id": "fc-87e884c31c",
-      "manual": false,
-      "date": "2026-05-14T12:30:16+02:00",
-      "date_label": "14 mai 2026",
-      "tag": "alert",
-      "title": "Hantavirus : qu’est-ce qu’une chambre à pression négative ?",
-      "title_en": "Hantavirus : qu’est-ce qu’une chambre à pression négative ?",
-      "body": "Ventilation, sas, équipements de protection : ces pièces spéciales sont au cœur du dispositif sanitaire mis en place autour du virus des Andes.",
-      "body_en": "Ventilation, sas, équipements de protection : ces pièces spéciales sont au cœur du dispositif sanitaire mis en place autour du virus des Andes.",
-      "source": "Le Monde — Les Décodeurs",
-      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/14/hantavirus-qu-est-ce-qu-une-chambre-a-pression-negative_6689067_4355770.html"
     },
     {
       "id": "fc-736ae58a5c",

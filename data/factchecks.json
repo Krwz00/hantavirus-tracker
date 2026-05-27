@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-05-26T23:51:43.087381+00:00",
+  "updated_at": "2026-05-27T12:38:18.236030+00:00",
   "items": [
+    {
+      "id": "fc-64729b7ee3",
+      "manual": false,
+      "date": "2026-05-27T07:31:36+00:00",
+      "date_label": "27 mai 2026",
+      "tag": "alert",
+      "title": "Así reavivan los brotes de hantavirus y ébola las narrativas de desinformación asentadas durante la COVID-19",
+      "title_en": "Así reavivan los brotes de hantavirus y ébola las narrativas de desinformación asentadas durante la COVID-19",
+      "body": "Aunque estas narrativas existían antes de la pandemia de 2020, en ese momento se sentaron las bases que ahora permite amplificarlas de forma más eficaz.",
+      "body_en": "Aunque estas narrativas existían antes de la pandemia de 2020, en ese momento se sentaron las bases que ahora permite amplificarlas de forma más eficaz.",
+      "source": "Newtral",
+      "source_url": "https://www.newtral.es/desinformacion-crisis-sanitaria/20260527/"
+    },
+    {
+      "id": "fc-93c3669663",
+      "manual": false,
+      "date": "2026-05-27T07:27:04+00:00",
+      "date_label": "27 mai 2026",
+      "tag": "alert",
+      "title": "China no ha declarado la “emergencia internacional” por hantavirus a 26 de mayo de 2026",
+      "title_en": "China no ha declarado la “emergencia internacional” por hantavirus a 26 de mayo de 2026",
+      "body": "A fecha de publicación de este artículo, las autoridades sanitarias de ese país no han reportado casos de infección humana.",
+      "body_en": "A fecha de publicación de este artículo, las autoridades sanitarias de ese país no han reportado casos de infección humana.",
+      "source": "Newtral",
+      "source_url": "https://www.newtral.es/bulo-china-emergencia-hantavirus/20260527/"
+    },
+    {
+      "id": "fc-0bb47e4051",
+      "manual": false,
+      "date": "2026-05-27T06:30:00+00:00",
+      "date_label": "27 mai 2026",
+      "tag": "alert",
+      "title": "El caso Zapatero y la comparecencia de la ministra de Sanidad por el hantavirus marcan la sesión de control",
+      "title_en": "El caso Zapatero y la comparecencia de la ministra de Sanidad por el hantavirus marcan la sesión de control",
+      "body": "Las acciones del Ejecutivo en materia de vivienda también estarán presentes durante la sesión.",
+      "body_en": "Las acciones del Ejecutivo en materia de vivienda también estarán presentes durante la sesión.",
+      "source": "Newtral",
+      "source_url": "https://www.newtral.es/sesion-control-mayo-congreso-diputados-2/20260527/"
+    },
     {
       "id": "fc-a47e8fbd71",
       "manual": false,
@@ -13,32 +52,6 @@
       "body_en": "A través de una búsqueda inversa, encontramos una versión más larga de la grabación publicada en YouTube por la agencia de noticias AFP con el título en francés “ Coronavirus: Macron ordena el cierre de guarderías, escuelas y universidades ”. En la página web de la Presidencia de la República Francesa puedes ver y…",
       "source": "Maldita.es",
       "source_url": "https://maldita.es/desinfo/20260526/en-este-video-emmanuel-macron-anuncia-el-cierre-de-los-colegios-debido-a-la-propagacion-del-hantavirus/"
-    },
-    {
-      "id": "fc-4448e781a0",
-      "manual": false,
-      "date": "2026-05-25T13:20:43+00:00",
-      "date_label": "25 mai 2026",
-      "tag": "alert",
-      "title": "El director de la OMS no ha dicho que el hantavirus se esté usando para “impulsar una agenda de vacunación para niños”",
-      "title_en": "El director de la OMS no ha dicho que el hantavirus se esté usando para “impulsar una agenda de vacunación para niños”",
-      "body": "La OMS ha desmentido estas afirmaciones virales a Newtral.es.",
-      "body_en": "La OMS ha desmentido estas afirmaciones virales a Newtral.es.",
-      "source": "Newtral",
-      "source_url": "https://www.newtral.es/oms-vacunacion-hantavirus-ninos/20260525/"
-    },
-    {
-      "id": "fc-756b34878c",
-      "manual": false,
-      "date": "2026-05-24T04:00:00+00:00",
-      "date_label": "24 mai 2026",
-      "tag": "alert",
-      "title": "Los bulos de los “falsos muertos” por la Covid-19 que vuelven a difundirse sobre el hantavirus",
-      "title_en": "Los bulos de los “falsos muertos” por la Covid-19 que vuelven a difundirse sobre el hantavirus",
-      "body": "En redes sociales se han compartido imágenes de presuntos cadáveres moviéndose y fumando que supuestamente probarían que el virus es un montaje.",
-      "body_en": "En redes sociales se han compartido imágenes de presuntos cadáveres moviéndose y fumando que supuestamente probarían que el virus es un montaje.",
-      "source": "Newtral",
-      "source_url": "https://www.newtral.es/bulos-covid-hantavirus/20260524/"
     },
     {
       "id": "fc-ecedb99704",

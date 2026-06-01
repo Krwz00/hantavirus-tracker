@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-05-31T22:38:06.209143+00:00",
+  "updated_at": "2026-06-01T19:25:00.373497+00:00",
   "items": [
+    {
+      "id": "fc-6295f17e01",
+      "manual": false,
+      "date": "2026-06-01T10:12:36+00:00",
+      "date_label": "1 juin 2026",
+      "tag": "alert",
+      "title": "Le mot « hantavirus » contient la preuve que le virus est une création israélienne ? Pas du tout",
+      "title_en": "Le mot « hantavirus » contient la preuve que le virus est une création israélienne ? Pas du tout",
+      "body": "Selon une affirmation virale sur les réseaux sociaux l’étymologie du terme « hantavirus » démontre une création dans un labo israélien. C’est n’importe quoi",
+      "body_en": "Selon une affirmation virale sur les réseaux sociaux l’étymologie du terme « hantavirus » démontre une création dans un labo israélien. C’est n’importe quoi",
+      "source": "20 Minutes — Fake Off",
+      "source_url": "https://www.20minutes.fr/societe/4226128-20260601-mot-hantavirus-contient-preuve-virus-creation-israelienne-tout?at_medium=display&at_campaign=149"
+    },
     {
       "id": "fc-a47e8fbd71",
       "manual": false,

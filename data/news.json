@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-06-05T17:54:36.120196+00:00",
+  "updated_at": "2026-06-05T19:54:22.925257+00:00",
   "items": [
+    {
+      "id": "feed-d90e4ea3f9",
+      "manual": false,
+      "date": "2026-06-05T18:20:04+00:00",
+      "date_label": "5 juin 2026",
+      "tag": "media",
+      "title": "New hantavirus sequencing tool maps whole genomes from hard-to-test samples - Medical Xpress",
+      "title_en": "New hantavirus sequencing tool maps whole genomes from hard-to-test samples - Medical Xpress",
+      "body": "New hantavirus sequencing tool maps whole genomes from hard-to-test samples &nbsp;&nbsp; Medical Xpress",
+      "body_en": "New hantavirus sequencing tool maps whole genomes from hard-to-test samples &nbsp;&nbsp; Medical Xpress",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0E5QUVOX29Fa0pjMGhaZUp2Z0FlTmEyX2ZfSmc5c0FwQUhjazFIeHNvSzFCVGpEQjZjYXAzS0o5UEhFLThlelBadUs2alNuQno2YTJuUDkybDBDRVdpN2U5NmpqLVpHcGNpanBkbHJJNlYza3ZvRWNyUFFqUzhZaktaSGowNGJrN0w4?oc=5"
+    },
     {
       "id": "feed-c37ebe7d41",
       "manual": false,
@@ -26,6 +39,32 @@
       "body_en": "Ce que révèle cette enquête sur Bill Gates (OMS, Hantavirus, vaccins) &nbsp;&nbsp; Alternatif Bien-Être",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFZySDRBcDZCVHhUel9nSHNKOVZ0N2xPRGc1bHFUUWcwUU1sbHBDZnM3akpVNERDUmhtNHN1ZWhhaDdCZEh0U1RYYjAwWnBFNFk0NDMtdmdrRzVDWWlUX05iWU1SbWN1dnpkRXNJbTJBTnpwVk1PRUJyZG9MbVpGQkRnZUpEcGY0eG1QT1hkamlVOFJZR3Jxd25qbklxM2p4d3VPXzVWNkg2UQ?oc=5"
+    },
+    {
+      "id": "feed-76870d0ba5",
+      "manual": false,
+      "date": "2026-06-05T16:00:22+00:00",
+      "date_label": "5 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus : le récit de l'isolement d'un couple français cas contact, hospitalisé depuis bientôt un mois - Radio France",
+      "title_en": "Hantavirus : le récit de l'isolement d'un couple français cas contact, hospitalisé depuis bientôt un mois - Radio France",
+      "body": "Hantavirus : le récit de l'isolement d'un couple français cas contact, hospitalisé depuis bientôt un mois &nbsp;&nbsp; Radio France",
+      "body_en": "Hantavirus : le récit de l'isolement d'un couple français cas contact, hospitalisé depuis bientôt un mois &nbsp;&nbsp; Radio France",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVXhkSFhESWpOdnhqeWVxRkhoY1pDYzRSY2hfamRnVzZYMWtNamE1QmxsZTB5Tzh2R0dCb0M3d25HazFSZ3c0Sm9OODU0dXhsNDAxUTFJTlhBd3BsRUktS1RibVZJMkZzVkkxU0wyTmcxZml3bGRIbWNXR1FUdW5FeTg4cFZTSEJJaWJiVF9MT19SWXpLNFR3ODI4RTZrZWF1cHk5ZjZvZ01UMXdvOGFTZmxid3hDblF4bGctaXNFZzQ1bldmRHJ4cFpMa1IwUnFWbFJ0VGNLQmxwZXByTDk0eFp6azl2am1Kd1BoUHFndXJXUkpUSDR4NWJhV0MxSlJQMnRBaktLS1U1TlVxMnc?oc=5"
+    },
+    {
+      "id": "feed-96d8d06c3a",
+      "manual": false,
+      "date": "2026-06-05T16:00:22+00:00",
+      "date_label": "5 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus : le récit de l'isolement d'un couple français cas contact, hospitalisé depuis bientôt un mois",
+      "title_en": "Hantavirus : le récit de l'isolement d'un couple français cas contact, hospitalisé depuis bientôt un mois",
+      "body": "Quatre passagers du MV Hondius, bateau contaminé à l'hantavirus au mois de mai dernier, sont encore confinés à l'hôpital Bichat, à Paris. Parmi eux, Julia et Roland Seitre, qui racontent leur quotidien, confiné, à France Inter.",
+      "body_en": "Quatre passagers du MV Hondius, bateau contaminé à l'hantavirus au mois de mai dernier, sont encore confinés à l'hôpital Bichat, à Paris. Parmi eux, Julia et Roland Seitre, qui racontent leur quotidien, confiné, à France Inter.",
+      "source": "Radio France — France Inter",
+      "source_url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/hantavirus-le-recit-de-l-isolement-d-un-couple-francais-cas-contact-hospitalise-depuis-bientot-un-mois-2853274"
     },
     {
       "id": "feed-80a920b5d9",
@@ -91,19 +130,6 @@
       "body_en": "WVU infectious disease expert weighs Ebola, hantavirus outbreaks and U.S. risk &nbsp;&nbsp; WV News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWlKXzN1R09uV3BjQzRhM2ZQTm5tNm5fYTdRUXJyX3RKRkZjZkotamQzMzFZN0tzcWtDZmtlMm55TDhYcFdrT1lBZXEyOUgzTVgzeXdBQzNJTFFURmFwUVhEUFFXQ0ZmMDYxR1hSa0tqOHoxbG5mZVF0bHd1OHhYRDd2REhRS0tUVWxhLUpseVdLQ3BtVUNSY0xJUkhvQjRwT0FzdVdpMUdSZjRnclNlM3hrWnF0aHJKcFAxeXhySTh2MlM4YUdmd1hsbWdUZGJnMHpzUVVKUkVVelhYU0dhNjMyZEZrN2ZEUURlZ1ZBSFNkZy1PdDZkTDZZQQ?oc=5"
-    },
-    {
-      "id": "feed-77d89d8b0f",
-      "manual": false,
-      "date": "2026-06-05T14:00:00+00:00",
-      "date_label": "5 juin 2026",
-      "tag": "media",
-      "title": "Is Australia prepared for Ebola and hantavirus? - The Saturday Paper",
-      "title_en": "Is Australia prepared for Ebola and hantavirus? - The Saturday Paper",
-      "body": "Is Australia prepared for Ebola and hantavirus? &nbsp;&nbsp; The Saturday Paper",
-      "body_en": "Is Australia prepared for Ebola and hantavirus? &nbsp;&nbsp; The Saturday Paper",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRll2WldTNlJ2SDFvVG1WRVdtdnJ1ajdKYnN4ejIwenl5WmZkV2ZIOWcyUFgtZGJzOGdDbEJOUzFlQjc4RGZJWWVxc3VMTkUwVG9JZWY1UTdJaFAyTldTaHltb25kaGYyT0pMMGQtWEpUaFJ3akZ5RXYyZ29lSUpwSXFyajFGMldNYUlzR1BJUGk5TjYyeHBCX20zM1BOTGs?oc=5"
     },
     {
       "id": "feed-de80d414e5",
@@ -236,6 +262,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3VYQl9BejJKYkNwSmticW9GUDlPSGx5eXo1Z1ZqVVNtdU5iZmpCQzNYaUN3b2pRUFpvV3NuMUloNVF6MFp1R0g3THo2TTYzUGFpYXd0a1NMTV84UkFIa1dCbEUwNTc2UXl6Sm5ZYkplME5SWWY0VzlwOWwzV0dSUm1XeFRYOFN3ZnlkVA?oc=5"
     },
     {
+      "id": "feed-ed2c8525a0",
+      "manual": false,
+      "date": "2026-06-05T09:27:01+00:00",
+      "date_label": "5 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus : la majorité des cas contacts vont sortir d’isolement samedi en France - lanouvellerepublique.fr",
+      "title_en": "Hantavirus : la majorité des cas contacts vont sortir d’isolement samedi en France - lanouvellerepublique.fr",
+      "body": "Hantavirus : la majorité des cas contacts vont sortir d’isolement samedi en France &nbsp;&nbsp; lanouvellerepublique.fr",
+      "body_en": "Hantavirus : la majorité des cas contacts vont sortir d’isolement samedi en France &nbsp;&nbsp; lanouvellerepublique.fr",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU19XTm9GNFZuMXN0NHVXaHVxek5QMmhfNWlQV3lHRmdRckdHcThTRzJTN3A5dVMzMm95Z0lIZFYwdDBfOHlESC1QWnNZbTk3R1Z6QnUxak1TWUo1OG11R0w0YjRLeUJxX2JkUGhLZWU5ZnFqTHFVRlMtZm9aRWtmM1B2cHpob21JbG5MN05rN1BuaU93czhpdlNPR2w5RGQ4RDFjc3JEbXVyVFdQN0JNYlFBLUtaRFg4aGlISTNkQU42M0xFZjRlMXpvdHd4RlExZ2ozM1daN1kwYmNYZWk1dWFGZFZ0anVrSkRlYXBB?oc=5"
+    },
+    {
       "id": "feed-18078fe1a1",
       "manual": false,
       "date": "2026-06-05T09:25:06+00:00",
@@ -282,8 +321,8 @@
       "tag": "media",
       "title": "Hantavirus : la majorité des cas contacts français vont sortir de l’isolement samedi - Sud Ouest",
       "title_en": "Hantavirus : la majorité des cas contacts français vont sortir de l’isolement samedi - Sud Ouest",
-      "body": "Hantavirus : la majorité des cas contacts français vont sortir de l’isolement samedi &nbsp;&nbsp; Sud Ouest Hantavirus : la majorité des cas contacts vont sortir d’isolement samedi en France &nbsp;&nbsp; lanouvellerepublique.fr Hantavirus : « On a vécu comme de véritables pestiférés », le témoignage d’un cas contact…",
-      "body_en": "Hantavirus : la majorité des cas contacts français vont sortir de l’isolement samedi &nbsp;&nbsp; Sud Ouest Hantavirus : la majorité des cas contacts vont sortir d’isolement samedi en France &nbsp;&nbsp; lanouvellerepublique.fr Hantavirus : « On a vécu comme de véritables pestiférés », le témoignage d’un cas contact…",
+      "body": "Hantavirus : la majorité des cas contacts français vont sortir de l’isolement samedi &nbsp;&nbsp; Sud Ouest Hantavirus : après trois semaines à l’isolement, 22 Français cas contact vont pouvoir rentrer chez eux ce samedi &nbsp;&nbsp; Ouest-France Hantavirus : « On a vécu comme de véritables pestiférés », le…",
+      "body_en": "Hantavirus : la majorité des cas contacts français vont sortir de l’isolement samedi &nbsp;&nbsp; Sud Ouest Hantavirus : après trois semaines à l’isolement, 22 Français cas contact vont pouvoir rentrer chez eux ce samedi &nbsp;&nbsp; Ouest-France Hantavirus : « On a vécu comme de véritables pestiférés », le…",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSGcxNlI2OEpuN1FnekVjMF9LV3R6ZDIwOGJuekR0RHlUS19CelBaOUFhZE41QS1yNmRsZFV4c2ZfYkpWQmhiQW9Wd2xxaUlRRmYydDZYY3U0dElWU2NXN3J0bWhzU1FoSFBDcURxLW5CTjFzVzkzRjMtRzY4SldybTcxcmFCVnhOSjhITk1YeHBsN0xQY2d1OWNKNkppa2gzZ21CNDlFemxKWUp1ZXJGSzloS1ozOFM1cjNQRmhIYmVIYVFYSGZkb0RVUkZCMHU2X0JfWUZR?oc=5"
     },
@@ -351,45 +390,6 @@
       "body_en": "Hantavirus : \"Il y a un côté carcéral\", raconte le couple d'Indre-et-Loire confiné depuis bientôt un mois à l'hôpital &nbsp;&nbsp; ici.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWjdCYnVMbzNBVFlVWGVKd2ZtMzZQQkZsam13X3ZEX0RaaFljZ2c0TV9NNGZsbW5EOFZ0VW1ZWnNPSDd3QmVmeUxETUFyME85dXhyOWVmLURtRmJmeXBCaTJ0Q0RyNzh0UXhTRk1oTGFGWkNHbzg4TFp3SkdibWZ3WDhDNUhRS2tJVXV4SlVUYkU4VG0xZlI2eEJsU1FWbnMtR2hhM1BVVUZIZlNRdHdELVZpam1WZnUzSm1pWERiaHdQTTFNOVJjTDZfZDhVVXltY0NVM2t5aXpMc1dOUGhueHB4NG1hNm96NnJUR2c0a09YbktPZW5CUkxLbTBPU05MYmVPY3JoM3NObEVGeUE?oc=5"
-    },
-    {
-      "id": "feed-5833a62068",
-      "manual": false,
-      "date": "2026-06-05T08:38:06+00:00",
-      "date_label": "5 juin 2026",
-      "tag": "media",
-      "title": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Yahoo",
-      "title_en": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Yahoo",
-      "body": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' &nbsp;&nbsp; Yahoo",
-      "body_en": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' &nbsp;&nbsp; Yahoo",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3RFTy1IUnlPZTlGbmp1TTZaOUNNcjZ5TlVWM1lkMWpHQ0JGMy01TWVmdFNubmd6MFpSYUZJU1prSEt1YWtCa21CWlBQZmFibGt1OUloTDlqOWJQUnZrX005VHRyOFAtaDFFdldYRnN0ZjVMNkVoNmxGTERIdHBJbkZrUVN5ekVwdzZIU2l0aDBoal9sUTE1a056cWIzS2V3?oc=5"
-    },
-    {
-      "id": "feed-000a3194a5",
-      "manual": false,
-      "date": "2026-06-05T08:38:06+00:00",
-      "date_label": "5 juin 2026",
-      "tag": "media",
-      "title": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Yahoo News Malaysia",
-      "title_en": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' - Yahoo News Malaysia",
-      "body": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' &nbsp;&nbsp; Yahoo News Malaysia",
-      "body_en": "Experts refute claims hantavirus derived name from Hebrew for 'nonsense' &nbsp;&nbsp; Yahoo News Malaysia",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHRHZDBzanJTQjdiN3BiUzRsd2VTUFlZMjFfeXhVQWFtUm1FT3lTcGFNZGIwS1FxUGM5d1FiYm55VnB0M2ZSVkhYNDU4ZEVldHItS2h2TmN6UTVhYjh2V3Y3dEJWaTZYdkk1emFPZnQzNV9kTWNkb0txN29DcG5EajFnVXpsRy1HNHAzaUwwSDk?oc=5"
-    },
-    {
-      "id": "feed-d73e610f12",
-      "manual": false,
-      "date": "2026-06-05T08:27:00+00:00",
-      "date_label": "5 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus : fin de l'isolement pour les 22 cas contacts français, ils vont pouvoir rentrer chez eux ce samedi - L'Indépendant",
-      "title_en": "Hantavirus : fin de l'isolement pour les 22 cas contacts français, ils vont pouvoir rentrer chez eux ce samedi - L'Indépendant",
-      "body": "Hantavirus : fin de l'isolement pour les 22 cas contacts français, ils vont pouvoir rentrer chez eux ce samedi &nbsp;&nbsp; L'Indépendant",
-      "body_en": "Hantavirus : fin de l'isolement pour les 22 cas contacts français, ils vont pouvoir rentrer chez eux ce samedi &nbsp;&nbsp; L'Indépendant",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaWNpeFowWTNqdzNJT2tHWTZHNWNYUThfNXBxQTFmR3JtQVpMUW9aaTM0LVEzSmxqaE9NNVpEQ3hNVkg0NTdrWGs2LVNTSTlMNU1GMVZhMmNSeERtenczOHFPX3dlenZXOTIwUjhMdmhUVUt2UkJBaFdxcDRFUWpKUklia3NMQzhsRlVJZlg2OVRiV2NDSVRER0xKNVdoekROcGxYek8tM1NvVHVYRFNqdTctMW1ZSGZ2M1dMU05lRVZNdk56eFFXaEQyVEJXOVBocExHWmJjdnJMbXRuNzJfV2Nyb2Z3RUdBbm1mVlREYw?oc=5"
     }
   ]
 }

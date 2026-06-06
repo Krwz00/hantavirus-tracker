@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T12:00:00+00:00",
+  "updated_at": "2026-06-06T12:00:00+00:00",
   "stats": {
     "suspected": 3,
     "contacts_monitored": 27,
@@ -111,12 +111,12 @@
       "lng": 2.5,
       "location": "France métropolitaine",
       "location_en": "Mainland France",
-      "title": "27 cas contacts français",
-      "title_en": "27 French contacts monitored",
-      "detail": "Placés en quarantaine ou isolement. Durée pouvant aller jusqu'à 42 jours (décret du 11 mai 2026). Tous asymptomatiques à l'exception du cas confirmé. Certains contacts suivis à l'IHU de Marseille.",
-      "detail_en": "Placed in quarantine or isolation. Up to 42 days under the May 11, 2026 decree. All asymptomatic except for the confirmed case. Some contacts monitored at the IHU in Marseille.",
+      "title": "27 cas contacts français (22 libérés le 6 juin 2026)",
+      "title_en": "27 French contacts monitored (22 released on 6 June 2026)",
+      "detail": "Placés en quarantaine ou isolement. Durée pouvant aller jusqu'à 42 jours (décret du 11 mai 2026). Tous asymptomatiques à l'exception du cas confirmé. Certains contacts suivis à l'IHU de Marseille. Le 6 juin 2026, 22 des 27 cas contacts français, testés négatifs, ont pu sortir de quarantaine.",
+      "detail_en": "Placed in quarantine or isolation. Up to 42 days under the May 11, 2026 decree. All asymptomatic except for the confirmed case. Some contacts monitored at the IHU in Marseille. On 6 June 2026, 22 of the 27 French contacts, having tested negative, were released from quarantine.",
       "date": "2026-05-11",
-      "source": "Décret du 11 mai 2026, Ministère de la Santé",
+      "source": "Décret du 11 mai 2026, Ministère de la Santé ; Orange Actualités, Ouest-France, Le HuffPost (6 juin 2026)",
       "source_url": "https://www.info.gouv.fr/actualite/hantavirus-le-point-sur-les-mesures-sanitaires-en-france"
     },
     {

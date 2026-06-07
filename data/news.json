@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T20:12:04.387885+00:00",
+  "updated_at": "2026-06-07T22:03:51.861703+00:00",
   "items": [
     {
       "id": "feed-0cbbd4da8c",
@@ -314,19 +314,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU3BxYktVNW5Db2FibGRHRGdBWXpBUzNfUmdvV0VTbk96UXdlOGhWRGdKTE90RHJGUXRlSVBhczJjZ0hvMUlHOGFTNGtDZHZBOEMzVTVrMDhiQjhzdnJJUDR5MUVreVRpSTIyVzJ2UVZhVHd3OEpQendLMUlrNVhiQmVnTkdaN0V4UUZiS1ZNcUtIaGJvcUYxVjB2ZFFhUTIxM1dkaTZQSG5pTDZxeldTUDBJQW9VeXhsRWJNb2JzSnJRN3RBdUxGTTBGWWxuNlpzOURSb3lTM2ZLR0JHazgzdGVMNmxEVndCaThNV245bmhtVGktLURwT1V0YzA1aXN6TG5JZENUUXA?oc=5"
     },
     {
-      "id": "feed-8ce17c0660",
-      "manual": false,
-      "date": "2026-06-06T06:30:00+00:00",
-      "date_label": "6 juin 2026",
-      "tag": "media",
-      "title": "RÉCIT. Hantavirus : 22 Français cas contact peuvent rentrer chez eux, clap de fin de plusieurs semaines de psychose - Fougeres ma Ville",
-      "title_en": "RÉCIT. Hantavirus : 22 Français cas contact peuvent rentrer chez eux, clap de fin de plusieurs semaines de psychose - Fougeres ma Ville",
-      "body": "RÉCIT. Hantavirus : 22 Français cas contact peuvent rentrer chez eux, clap de fin de plusieurs semaines de psychose &nbsp;&nbsp; Fougeres ma Ville",
-      "body_en": "RÉCIT. Hantavirus : 22 Français cas contact peuvent rentrer chez eux, clap de fin de plusieurs semaines de psychose &nbsp;&nbsp; Fougeres ma Ville",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOHNwQ0dENlJ0a0VUVlFJazVadm8zd3JMZEdnOVZUMlJTaTFrc242Y3hvbERRWXVhdkFLckYyYkZyaThtS0NERnJuUGtZbVZvSWxwVnJKRVRra24ybTN3OGpONlhkTjZBdVlTMDlzNzhlc2hiTV9tQ1JRc0FsZFhURXB4Q094SmlSclZVNWxfU0RoRXgwcnhRcXFFZ0hxUjAxVWhTVlJoUFA3YjBCRjlfRVpIQUVWQTZRRXNZV3JaVVR4OGx3WlpwSmU0X2x6RV8tdFJJWlpfaGhzb2cxMTJDSUhZaVNza211Sjd3Q0d5aHVIZzEzWjRxTjBwdmFrakFMeFktSk5XaFNkU0k?oc=5"
-    },
-    {
       "id": "feed-99e28aca70",
       "manual": false,
       "date": "2026-06-06T05:10:09+00:00",
@@ -390,6 +377,19 @@
       "body_en": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFdnUzlLQTRFOUpGa0E3Y1ljR0dfLVR1NVBER1ZWRFNmOEc1bzdaZ2x6Ui1lRWg3eUs3eE1SbnQzX2Fac1NHanBYajh6bkI3cDEtdGxiaXlwNExicnhBYVl3NTZLR1VsVXUwdmtZajEwdkZzeGdETjlBN3B0UFptTHhTYS1Sc21JTlhnc3RsT19ObTR5UkVSMXpOcE9VdDIzWGRaQlk0ZjLSAa4BQVVfeXFMTTBoWm1HaHoxZnpmejhpcURLOGladUZsZngxamc1WllnMnZqbTQ2Rl95YzU1cHEzRWFidGV5T1dMM2ItXzR5WEw3SG14V0JLUTVNenktWkdZZC01czBQd3FMVENtWThMRkxPMmFCUVNEZ0xzcUV2R19rLUt1bDJUbkhkdDJDeUJuWHhxaWtrYUpjVi15ZE5FSFhxaFdEVzBpRjZrRGVqYW1nNjlCZkxn?oc=5"
+    },
+    {
+      "id": "feed-bcd9add1e1",
+      "manual": false,
+      "date": "2026-06-05T23:43:44+02:00",
+      "date_label": "5 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus : l'Argentine étend à une autre province la recherche sur de potentiels rongeurs vecteurs",
+      "title_en": "Hantavirus : l'Argentine étend à une autre province la recherche sur de potentiels rongeurs vecteurs",
+      "body": "Avant d'embarquer sur le \"Hondius\", ce navire de croisière où un foyer d'hantavirus était apparu début mai, le \"patient zéro\" avait sillonné pendant quatre mois l'Argentine.",
+      "body_en": "Avant d'embarquer sur le \"Hondius\", ce navire de croisière où un foyer d'hantavirus était apparu début mai, le \"patient zéro\" avait sillonné pendant quatre mois l'Argentine.",
+      "source": "France Info — Santé",
+      "source_url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-l-argentine-etend-a-une-autre-province-la-recherche-sur-de-potentiels-rongeurs-vecteurs_8047280.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T12:00:00+00:00",
+  "updated_at": "2026-06-08T13:00:00+00:00",
   "stats": {
     "suspected": 3,
     "contacts_monitored": 27,
@@ -182,6 +182,22 @@
       "date": "2026-05-30",
       "source": "ABC7 Eyewitness News",
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2UzMHktYU83bHF0anM2SEpic21UMU9mck41bUFnYnRPcDZwZXhvd2dlXzVWSEt0NjlvTzVBWVp3TGNPY1dNT1hTaElncnYtRXFmSTZpeWhjR3YzQThXc19WaVdzNUtLdEVuUDJtdUk4a29nNzhFaWNCMWM1VnQ5T0EyZERBaEFqY3NwdzZoREduQVJUQ2R4X2pIR1ZIb1hROFJ2cEVRMl9ITi00dHgxMFBJQjdVZFROUnln"
+    },
+    {
+      "id": "us-tx-mon",
+      "type": "monitoring",
+      "count": 2,
+      "lat": 31.9686,
+      "lng": -99.9018,
+      "location": "Texas, États-Unis",
+      "location_en": "Texas, United States",
+      "title": "2 passagers texans : quarantaine terminée sans infection",
+      "title_en": "2 Texan passengers: quarantine completed with no infection",
+      "detail": "Deux passagers texans du MV Hondius ont achevé leur quarantaine de 42 jours sans contracter le virus Andes. Le Texas Department of State Health Services a officiellement mis fin à leur surveillance le 6-7 juin 2026.",
+      "detail_en": "Two Texan passengers from the MV Hondius completed their 42-day quarantine without contracting Andes virus. The Texas Department of State Health Services officially ended their monitoring on 6-7 June 2026.",
+      "date": "2026-06-07",
+      "source": "Texas Department of State Health Services, FOX 7 Austin, KERA News, ABC13 Houston",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnRFdzY2REJBemFVcGlhVTlFRExNNlYtZzNITTZqcktRelZpUXpTX3l2bEJRYkdPN0NPNkJ3SkUxeF90QUh1anI4dVdCTTR3OWstMlVXclJQbmxWNER2RlBuWVZTR2lvZlJxejY5alEzN3Q0MUNZc01CckJJTkJyblA5Mk92SE5kZ1NqLU54djhWNkJuZVlhb1NmTWNYSlRaZzJmc2xB"
     }
   ],
   "endemic_zones": [

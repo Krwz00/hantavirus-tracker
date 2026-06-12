@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-12T12:19:13.404342+00:00",
+  "updated_at": "2026-06-12T16:17:54.045357+00:00",
   "items": [
     {
       "id": "feed-23f7b08612",
       "manual": false,
-      "date": "2026-06-12T12:19:13.403336+00:00",
+      "date": "2026-06-12T16:17:54.044378+00:00",
       "date_label": "12 juin 2026",
       "tag": "research",
       "title": "[World Report] The medicine of…cruise ships",
@@ -13,6 +13,58 @@
       "body_en": "Although the hantavirus outbreak on MV Hondius has drawn the world's attention, day-to-day practice is usually a little more prosaic. Talha Burki embarks on an examination of cruise ships.",
       "source": "The Lancet",
       "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01186-4/fulltext?rss=yes"
+    },
+    {
+      "id": "feed-552e6b0d0c",
+      "manual": false,
+      "date": "2026-06-12T15:49:21+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Duckworth, Durbin, Senate Democrats Warn Ebola, Hantavirus Risks Worsened by Trump's Foreign Aid Cuts and WHO Withdrawal - RiverBender.com",
+      "title_en": "Duckworth, Durbin, Senate Democrats Warn Ebola, Hantavirus Risks Worsened by Trump's Foreign Aid Cuts and WHO Withdrawal - RiverBender.com",
+      "body": "Duckworth, Durbin, Senate Democrats Warn Ebola, Hantavirus Risks Worsened by Trump's Foreign Aid Cuts and WHO Withdrawal &nbsp;&nbsp; RiverBender.com",
+      "body_en": "Duckworth, Durbin, Senate Democrats Warn Ebola, Hantavirus Risks Worsened by Trump's Foreign Aid Cuts and WHO Withdrawal &nbsp;&nbsp; RiverBender.com",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTU9YUmRsX3NLMGhIOGswcHZwVzZCNlFSU0xFRDhwV25YZUNhMkhxN1VxZGlmQzVhdTl6STFqYjcyenpPNHQ1NHAzT0tudUVob2s0dHp4bW1DdTZfSnZyVkZubVg2WlFqM3ZnWFYzWHVjMHE4dWdZWkxyRHNNeGxqM0kyeDROQ3NIcUtLaXliN2hRcTRna2ZUV19NV0FXY0I2RWhheWNOT2FEWUJSTGhlZVltSWx1Y1B2WDFyaHBwbmZHLWd3Nm1UUTB0aF9hazRhR3I3bjlmNVFUTlQ0dC1ET05hRkgzU2lkMTRyazBfMW1sdXpETnlfQUVNVQ?oc=5"
+    },
+    {
+      "id": "feed-2e5dde9a39",
+      "manual": false,
+      "date": "2026-06-12T15:19:02+02:00",
+      "date_label": "12 juin 2026",
+      "tag": "who",
+      "title": "Communicable disease threats report, 6 - 12 June 2026, Week 24",
+      "title_en": "Communicable disease threats report, 6 - 12 June 2026, Week 24",
+      "body": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 6-12 June, and includes updates on measles, Nipah virus infection, Chikungunya virus disease, Hantavirus, Ebola, and West Nile virus.",
+      "body_en": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 6-12 June, and includes updates on measles, Nipah virus infection, Chikungunya virus disease, Hantavirus, Ebola, and West Nile virus.",
+      "source": "ECDC — Communicable disease threats report",
+      "source_url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-6-12-june-2026-week-24"
+    },
+    {
+      "id": "feed-264e15d579",
+      "manual": false,
+      "date": "2026-06-12T14:39:00+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight - Yahoo",
+      "title_en": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight - Yahoo",
+      "body": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight &nbsp;&nbsp; Yahoo",
+      "body_en": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight &nbsp;&nbsp; Yahoo",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTZzZ3dWSjBDVTdkRUF0b3doMlVablZRSF8ycXZ0Q3Z5cFM0N0RuOTEzZXgzX3ZFbGRJSWJKRzE5TzRTNWg1WGVoYVU3RmhqbDk2SGFmOU9QTzBlQ2FkRWFqVnJpdHdyTUtwRFllb3hqTWZ3ZU1obWJOTUZqaDVLdld4b21EN1Z0cXJ5YXhLVGJBQ21aRzZ0ZWpfbEZ0UQ?oc=5"
+    },
+    {
+      "id": "feed-aaa50eaf48",
+      "manual": false,
+      "date": "2026-06-12T14:00:48+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Data is not enough: from Covid to measles, America must relearn risk communication | Lynne Peeples",
+      "title_en": "Data is not enough: from Covid to measles, America must relearn risk communication | Lynne Peeples",
+      "body": "The confusion over hantavirus and Ebola is a reminder that we must do better at explaining how to respond to an outbreak Two unfolding outbreaks continue to command global attention. As a hantavirus outbreak tied to a cruise ship appears to be petering out, Ebola cases continue to mount in Africa. Alongside them have…",
+      "body_en": "The confusion over hantavirus and Ebola is a reminder that we must do better at explaining how to respond to an outbreak Two unfolding outbreaks continue to command global attention. As a hantavirus outbreak tied to a cruise ship appears to be petering out, Ebola cases continue to mount in Africa. Alongside them have…",
+      "source": "The Guardian — Health",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/jun/12/covid-measles-hantavirus-ebola-risk-communication"
     },
     {
       "id": "feed-36321622ff",
@@ -39,19 +91,6 @@
       "body_en": "Alerte hantavirus : Que faire si l’on trouve des souris chez soi ? &nbsp;&nbsp; Vietnam.vn",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOendGd0VYQklDTFZRSmpUU0NXY0ZzUGszR1JxY0pyQkY2QkdocHh3WFRlQVBZaGNsR1FhcEhQZUVUb21RWG56blczamJobmMxTTVuclM5cndkamlBYzV0NE1IMW1seGZrNzV5SWRlNzM5Q19JclUyb1ZHSHZvR1N5dnhfMkFFTlg5bTFQVlJZRUxZMnhYYzljSw?oc=5"
-    },
-    {
-      "id": "feed-3b2abc18e3",
-      "manual": false,
-      "date": "2026-06-12T05:00:41+00:00",
-      "date_label": "12 juin 2026",
-      "tag": "media",
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "title_en": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "body": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "body_en": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5"
     },
     {
       "id": "feed-d8b9dfa19b",
@@ -132,19 +171,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmpvX2lzYkZZTWRkNEJKMEhYdDBEMzJoZXdMaFRuYW51WGVFMHFJNUNRbENDRU5WQXhTelhrSy1YbmZhMDB5NXM3WlJaTll6dzU4R1hIX2Z2S082X3JhTkRnd1VJXzUwNkFzZFVua1RrXzNyZjEteVJuVkcta0RrbkxhcDdsMTVEb1l3VGZ1ZFZlemJ3cEllQlREbE5yUk9QdkE?oc=5"
     },
     {
-      "id": "feed-2757821835",
-      "manual": false,
-      "date": "2026-06-11T21:10:00+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus fears reignite as suspected case is investigated in California - The Independent",
-      "title_en": "Hantavirus fears reignite as suspected case is investigated in California - The Independent",
-      "body": "Hantavirus fears reignite as suspected case is investigated in California &nbsp;&nbsp; The Independent",
-      "body_en": "Hantavirus fears reignite as suspected case is investigated in California &nbsp;&nbsp; The Independent",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlyRnlUeV9NT0ZfMXBkUEFfRUh4eXZMQ3ZUeXdtU2hscF9GVm9sMEFnSERjRkJaZy05WU9yeTduOTJhcnAyOW1wTV9VOVBmOHhyY1FCSS1YQ3liRGR4aVdIZ3JjR2JNNlctUmdWRGVIZnR6VDlnM3BQNlVvUGxPeEN2cVJ4d0s0ZEpmOE9BVFJoaXB5amNiZnBR?oc=5"
-    },
-    {
       "id": "feed-3ddade9c5e",
       "manual": false,
       "date": "2026-06-11T21:04:00+00:00",
@@ -210,6 +236,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5"
     },
     {
+      "id": "feed-c93ffb995e",
+      "manual": false,
+      "date": "2026-06-11T18:58:28+00:00",
+      "date_label": "11 juin 2026",
+      "tag": "media",
+      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - CNN",
+      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - CNN",
+      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; CNN",
+      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; CNN",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWZsMnRMcWwwWUtSUzJJRzhaeUtoeHBOQmluN0xrNjlwVUpLWHJPN3dOeHltYkY0TS1STEhVLWxocXZrNWNlY2g0YWI1MV9UYTJiQTdoM3hxb2ltUTVwOGJQTkZQTjlNX2Z3TVpicEtBallIZGxFUVo3VlZUYVJ0WQ?oc=5"
+    },
+    {
       "id": "feed-a0784ad9d7",
       "manual": false,
       "date": "2026-06-11T18:53:00+00:00",
@@ -236,6 +275,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JFeThkVjNvVTVBNE1UbElkMTdsT3NVdjNCZ2JTQzVCRGhZX2FJa3RxZDhpcHlQY2hvOEtxcndiV1RSZjRuQkVKdlpTdVAza0FJUjBtcjN5Y2ZKeEFzYUhzZVVEYnBJa1lpd3JGTUNoWDdKLTJLYTM4QTZ5dkVxZkNrNHJUbE05OGxZZzAySW00OXBQeTNmYjNn?oc=5"
     },
     {
+      "id": "feed-7b73c66fbf",
+      "manual": false,
+      "date": "2026-06-11T18:41:00+00:00",
+      "date_label": "11 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus symptoms detected in California superspreader hot spot - New York Post",
+      "title_en": "Hantavirus symptoms detected in California superspreader hot spot - New York Post",
+      "body": "Hantavirus symptoms detected in California superspreader hot spot &nbsp;&nbsp; New York Post",
+      "body_en": "Hantavirus symptoms detected in California superspreader hot spot &nbsp;&nbsp; New York Post",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWNpbUowSDdDdWsydE1Ibk9wV19zbk9WS3NGRUpBbG42blg2LTNSRHdJa2xvZW5xNkQtcmVNTkJSVU83c05WSy1JY1oyWnBWVGdQZ3NCT2NXb3VjWklKMkczd0xWS3VMbFVwWDlidUJsQ0dKMTFRSUVLeEZ3T1dtS09LSFpyejZQcW1tRUctaWdRR2JoYnhz?oc=5"
+    },
+    {
       "id": "feed-bf6ac7ae76",
       "manual": false,
       "date": "2026-06-11T18:38:18+00:00",
@@ -249,17 +301,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZMYTJDbC0tVjJfY01mLWl2T212SlJLRVgzeFJvVWVjSXNXSEJfOEJFZEU3OFg2U1ZrU3NPNGxGNHpMNVhCMFRxNlNWTi1VTER6THRrckNqenkwdnZUUHlXX3F6ektNYWk3bTAtR0ItSXZydVpaX2FmcnQzdlhtWmNyNE1GZGhkYU9UMDZ3eEpsNHhUVkIxOGpTZWlURlU0WTktUm9iV2paUFZlSUNZNGlLUjnSAcIBQVVfeXFMTmdSNUlLQzJnVmJ3Yk9aV3hPQ1RqNTVXTFFTSld3czJSUmJrSjJiOVVoTTJXZm1YTnc5TVRXTkFHdS1Db0VlZ25GRW94ZnVNYm5DUktpTWNfamFGRXVwZlNhZy1wN0p0TV9wR0t0OURPWUpFV2x5dThvWWdocFFNMC03NUd6M2ZBeVNHLU9lMnY1b2RwYUpYVlJRZ180ZW9nVUNfRFRtUmhlcEZqMGkxREFLR18zbGxsbkZ6LXpBb3NDRlE?oc=5"
     },
     {
-      "id": "feed-d0a714fb33",
+      "id": "feed-d04a7a5086",
       "manual": false,
-      "date": "2026-06-11T18:32:17+00:00",
+      "date": "2026-06-11T18:37:35+00:00",
       "date_label": "11 juin 2026",
       "tag": "media",
-      "title": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - Sénat",
-      "title_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - Sénat",
-      "body": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; Sénat",
-      "body_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; Sénat",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOYkgydWptUDQzQzlhanctU3kwOGx3b1Q2V3NwRXZZMThTeF9GU3hKemNSUW4wRnM2Z1l2cHJOQVNTc1VoeHRyclJ2NndLNGR2WlQ3bEYxVlNRVGIxWnJQN1dWQ1kxU3RZRWRCNTFmbWtfY21LRk1YNldjQkswSklIQ3pZbDFiWWY5c2NhUVkyZkY0TXJVRHExcE80ZGtlckZKV0hsb2JZT0R6VDEtN3h2OHZDdVEydlN5SWtVX1I0NFloWGE1UGJOLVhZeGFEblo5ZmltVkVDa3h1bHMzODNxcVJkUmVOTm5tLUNYTXRqeE82MVJPblFabGZ0aktVVXF5NjNwOHh6NUR1WHEwR0ppY3JDTFFVZ0s0R3c2YVUxM0pUQ0ZXQnE0UndnWUdlZmRUUktHemp3eFBJVWRjaFVGYmg3Q1dDUTRyc3dXemdGSm9uMWJw?oc=5"
+      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - ABC News - Breaking News, Latest News and Videos",
+      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - ABC News - Breaking News, Latest News and Videos",
+      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2w3VXU4bnNuVTBvYjd6SEJPZG02M0NiRzk2c3FWZXkzdGt5QWpFMmtaNFJ0Vl8yWS1FSHdxUF96Wk5IMVh6a1NoR183T0ZDc19RcGs0bl83U0hjNEhXeW5rSEhMUTB5WDViaVRyOS1JQ0RtYnpSbDNXYm5MbVlGX2ppWjExcnJldkEzMTduRHQxQ0Q3XzB3NkY2SnRWN1pmZGRDR9IBqgFBVV95cUxNTXc5MjJWRjd1V2c5Q3FvN1JCYUxORFdQT0d4R1lXYk5sNGRpeVdRcmZQZDRuZWE3V0lFLURxYlRDSFpDNmtsTjJfd3RsNjB4ZkNfSTBGSTIyQzlURFNxTWpnR2hmLW5aS0lfWWNkYjBJQUJzcXFwbGlyY21vcl94TWszVmlwaWluazRiYnlCOWlMaXVVZVFEbWExOF9wdUpFU1RfMlB5OF9rUQ?oc=5"
     },
     {
       "id": "feed-d41e2a54f9",
@@ -301,45 +353,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZU9Ic2l4dnhfS1ZMM2xXNDkzeUU2cTJGWHBFc2JCc1ExUGktMndSX01uOWZueDhEcFhhRmdHVlE1VEhlelRLSFhQcElaUkJ5VHhUUENkRmFzZHdLeUxiWXJNTnhaanJwTF9TUjQzMVlOZEVBU0Njb2N1MHF5NklSalc0eG5LMUXSAY8BQVVfeXFMTzhmOEFJNEdpNzNTTUFrNWF3eHowNlZCTHpmNnpfLWpweGo5WHpha2pEdGJ3Y092bnduUWgtdTZfdFFUSmFaZmNiWTRwVnkxOFJ5cWxGYzBBaXJpNFlCbjZvb2t3RE9RbG5URlkzSTVwc0VwdlN0MmNDRWo3bi1OdHR0d3lLQkVJTGZBVTJrWjg?oc=5"
     },
     {
-      "id": "feed-6d2f213e37",
-      "manual": false,
-      "date": "2026-06-11T18:16:48+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Toronto Star",
-      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Toronto Star",
-      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Toronto Star",
-      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Toronto Star",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbGRnYURZSDZYbFktdHJmSElweFhZY2N2Y1Q3cm5BLV9Pb2VyUkljNW1RVmdnX1ZNV3BWTlVXOGFhcWVBWU0xd2R4SGxHeXNocDFxam02eG1pY1oybDNKd3NJNHJWczhTR0hDbW9ZdDVlVS1DWjg3eXBCbzVvV1BEbEFBRWNyNVBQMXMwOElIdjAtVDNLQ0FNbmRMQkQ5eFdoOG1jVlF4d3BaTDBfQWVtRFRMazlZakdranF4ZzM3aWo5bUtDeVJFRmtMQ1JuZldTVF8wLXJ2WU1PS0JDLUhGeFpYUzVLU0FhUS1KYTNoY2Z1MGw2WFhqWDRkczR4RUJPYjBSN1hvSnVCallNWmc?oc=5"
-    },
-    {
-      "id": "feed-5cf6f490d9",
-      "manual": false,
-      "date": "2026-06-11T18:16:04+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - FOX4KC.com",
-      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - FOX4KC.com",
-      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; FOX4KC.com",
-      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; FOX4KC.com",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGRmS3czMGU0Yld0dUNtbnVKLXdKeEgwa1ZVeEhBOG9rMGhBWU94bFlOd3pDRXNtR25Eam1OTV91MnRrbTBBcmJwY1RoeXpYVi1mOFBNeDJqVXFfdy1JdkVPZUdvaHZ0a0dXSUwzSGJXQnN0T1FqYVFFM2dEazNEdUh4VnlUQ04zblJSbXI3SUljai1yN0MxNjNyRHB1NTRZTkJSeS1xWUplbHJNbGh2MGRWcWd0dmE2aURRbFF5WHl5ZEQ5NE1pMWJlMDFtenFPckHSAdcBQVVfeXFMTU53VmlaX3k4N2tYV202QVVtQnQ3U21udjBHWWZrbndfUmVhcllGZkpGOFBPOXZ3Q0toS25fZWVlcDRuMWRKc2xIS21jdnFGWDkwNVh6VXZORnBxVHRRdjh2WTZNdDRycUpmMDZCUHYycTMtS0dRMkxxRVFJdmt2ckE4SVVrRGVZWkdZUGlJV05RaXFLYzIzb0NoMlBkTm82ajZFNXRkMEUta1FfZWpRUV80SEJpdnFoVTRNUVB4R2xrcWtyclNxUmZidVhmdmlkdlhXZlR6SGc?oc=5"
-    },
-    {
-      "id": "feed-d489cceacd",
-      "manual": false,
-      "date": "2026-06-11T18:16:00+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
-      "title_en": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
-      "body": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; AP News",
-      "body_en": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; AP News",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5"
-    },
-    {
       "id": "feed-53af6433b3",
       "manual": false,
       "date": "2026-06-11T17:42:12+00:00",
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; TODAY.com",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmF2bEUtR1BjQ2NpU3NXM2NvUFFwSnJnaFJFQ2NaOEo2LXVDRnVUbjhqUkk4STFDOHdYNHFqUlktZWswUDA2OXFNZEJPQlFqUFJRU2dXaUNYTTBBQmJPWTlZN3dXeVRudXd2UGloWENscTlHZE9UTGpRRmxLRGlmUHhYaTNUQ3ltMkkxc1VUVjRoQ3hjcEFBYWZsMWc0bnpYakRNRw?oc=5"
-    },
-    {
-      "id": "feed-15a2060bfd",
-      "manual": false,
-      "date": "2026-06-11T16:52:00+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha - WOWT",
-      "title_en": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha - WOWT",
-      "body": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha &nbsp;&nbsp; WOWT",
-      "body_en": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha &nbsp;&nbsp; WOWT",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHFxV045UFpCLURiUDd1QVYwc0FFUExvQ0sydVR3aGZXMUlTQm5XV0l4b1JhaDhmZHFUY1JNSjJfOUpvUHdMT1ZhQThvOFNGRkFwanc1OFlSQ0RTWTlhMkJPM0VQM2NWWGFBdG04VWF2emh6VVpXbzhIdEt0cEpoSHF5Q2lwVklwQjJtd3ZsWkFkT2JmTkdObHhlenRwWFVHWTJ5ZW5PU2xJR3doTFVqMHVWRkFvWE9F?oc=5"
     }
   ]
 }

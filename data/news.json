@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-12T03:56:19.003022+00:00",
+  "updated_at": "2026-06-12T08:26:42.537780+00:00",
   "items": [
     {
       "id": "feed-23f7b08612",
       "manual": false,
-      "date": "2026-06-12T03:56:19.002059+00:00",
+      "date": "2026-06-12T08:26:42.536712+00:00",
       "date_label": "12 juin 2026",
       "tag": "research",
       "title": "[World Report] The medicine of…cruise ships",
@@ -17,7 +17,7 @@
     {
       "id": "feed-0f1f955bcd",
       "manual": false,
-      "date": "2026-06-12T03:18:17+00:00",
+      "date": "2026-06-12T07:20:22+00:00",
       "date_label": "12 juin 2026",
       "tag": "media",
       "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - The Seattle Times",
@@ -26,6 +26,32 @@
       "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; The Seattle Times",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXFJYkZzbkd5MUZUekZqSEdaVkk5dDhfR0lKVFFNeTc4TlpOUFRrY0NQRmg2RjFyaS1sNXVOV1hIdUluNTY0Ql9QSGJvYlhrTHdpV3YtdWZvdzVmcVcwdVFCRVFSZUtPTUFBdnFZZGptU3N1RkRHWlNsa0hnY1lTMUJKSng5ZEJJLUpTUTRSVEFLczhWaV9rek42eHdOQTl2VU9TNmpaS01hQjhWQkhpdUJZdExYcGZCaVNnS3FaMzE3TXJTdl9yYUY5eTNRNTRoLVFVZi1lNXZUX1ZucmFn?oc=5"
+    },
+    {
+      "id": "feed-8843062084",
+      "manual": false,
+      "date": "2026-06-12T05:25:00+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Alerte hantavirus : Que faire si l’on trouve des souris chez soi ? - Vietnam.vn",
+      "title_en": "Alerte hantavirus : Que faire si l’on trouve des souris chez soi ? - Vietnam.vn",
+      "body": "Alerte hantavirus : Que faire si l’on trouve des souris chez soi ? &nbsp;&nbsp; Vietnam.vn",
+      "body_en": "Alerte hantavirus : Que faire si l’on trouve des souris chez soi ? &nbsp;&nbsp; Vietnam.vn",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOendGd0VYQklDTFZRSmpUU0NXY0ZzUGszR1JxY0pyQkY2QkdocHh3WFRlQVBZaGNsR1FhcEhQZUVUb21RWG56blczamJobmMxTTVuclM5cndkamlBYzV0NE1IMW1seGZrNzV5SWRlNzM5Q19JclUyb1ZHSHZvR1N5dnhfMkFFTlg5bTFQVlJZRUxZMnhYYzljSw?oc=5"
+    },
+    {
+      "id": "feed-3b2abc18e3",
+      "manual": false,
+      "date": "2026-06-12T05:00:41+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "title_en": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "body": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "body_en": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5"
     },
     {
       "id": "feed-d8b9dfa19b",
@@ -43,8 +69,8 @@
     {
       "id": "feed-f19b66b7ed",
       "manual": false,
-      "date": "2026-06-11T23:45:37+00:00",
-      "date_label": "11 juin 2026",
+      "date": "2026-06-12T00:25:30+00:00",
+      "date_label": "12 juin 2026",
       "tag": "media",
       "title": "[#Décryptage] Hantavirus : « Chaque pandémie rejoue avec un scénario différent le désastre causé par l’action humaine sur les animaux » | ENS - ENS-PSL",
       "title_en": "[#Décryptage] Hantavirus : « Chaque pandémie rejoue avec un scénario différent le désastre causé par l’action humaine sur les animaux » | ENS - ENS-PSL",
@@ -54,17 +80,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd25tYkdWdzFYX1kzWVZwb0VQcDdRb0RSS2VtVlVVOGZrcWVUbmpQQm1VVU4tSTZwWkNJU19YTnM4QzV4Xy1hb1kyaWJjcHNuemRhTVVCTDQ5RGtGM3U0eEw2UlM5bGQwT193aG96U0gtV1JwZGZVa0toQmtHMG41UjhXUnBBRVhFQ1FOeC1OaW9Xa0NUYzVXTUtDc0xab1REN2kzTGg0b1JuWHFWU09GbWc1WTA2aEpQ?oc=5"
     },
     {
-      "id": "feed-4a08668b88",
+      "id": "feed-e6670beb95",
       "manual": false,
-      "date": "2026-06-11T22:30:04+00:00",
+      "date": "2026-06-11T21:47:09+00:00",
       "date_label": "11 juin 2026",
       "tag": "media",
-      "title": "San Quentin prison reports possible hantavirus case - The Press Democrat",
-      "title_en": "San Quentin prison reports possible hantavirus case - The Press Democrat",
-      "body": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Press Democrat",
-      "body_en": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Press Democrat",
+      "title": "San Quentin prison reports possible hantavirus case - Marin Independent Journal",
+      "title_en": "San Quentin prison reports possible hantavirus case - Marin Independent Journal",
+      "body": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; Marin Independent Journal",
+      "body_en": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; Marin Independent Journal",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUjkwLUZqMVJRa1ZpZkRGWEVRQWhZNEd0ODRwM0h3NjN2T2wyeko2SWFiMnZfZm41VEs0Ym1lcWtTNGYyY1Q2cy1NaGk4V3BQeHFRNHJZbl9VVHgybEZYNDR5eGRBM2RvYXhhV2I1MExCalF5aGVDWU0zSWRRbnB1V04xZHVEQVdJRUItbG9kSlNTZTQzY0R2Zw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGRjT2E5R1QwQ2plamg5NUpBM3A3TDdvZ1dxenFzeWFTWkpSZVdwOC1xZ05VY05XS005OXJwdzc5d3A4dVR1OXFCYTVSUUpkenczbWZ4VGJ0eG9aRTloMS1hQllFSTNGbzA1WXhOVDV4b29zSnlFNjJWZmJqeWVyZFpZR05BTXczYVdkV1lwUDPSAZYBQVVfeXFMUEgwUFVsUFkxUHJYS21XSktBaDY5Sm9lUUxSVDhuRk1jdlRJQ0xBR3N3UThFdHJsdThBSmRrUVUySTBZTmx0MVQ1TDRxN3pBUEJoMnA0MjZWMkplZEFxeXRfVHg0NjlULXBKVEdTamRLdUoyX0hEN29wQXprSmt1dDhwMmM3RFdNdjJHam5fM3U1VXBYVzFn?oc=5"
     },
     {
       "id": "feed-ae828cddaf",
@@ -134,7 +160,7 @@
     {
       "id": "feed-f291f6e3ec",
       "manual": false,
-      "date": "2026-06-11T20:25:43+00:00",
+      "date": "2026-06-11T20:46:14+00:00",
       "date_label": "11 juin 2026",
       "tag": "media",
       "title": "Prisoner at San Quentin may have hantavirus, authorities say - AOL.com",
@@ -301,6 +327,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYWx3b1o0RkplaDFnY1dEbDdHV0tnenFtNzlHT3ZGZHNrVUc4N0dEQWt6Yk41aWFBbkgxVVNFSE9CUDNUeThpUUdqc19Rd2NSdTFCelhaYkJIajlVd2pfX3BsRVdOdHhyeEUzYktLcTVKcGZrRGVSQkpmZjBGMDJjaXhybnBnSHRBWldJdVU3VjlqXzRDWVVWSERmbGQxZU9rLTdKemE1QUVWUVMtbE1yajJCNk1hblJkRGgxUzVDaWluSnZhdjF4X3hSNzZFbHA2U1FzYTRPaDRjQi1pd3JfVV9oNU5VUGxDUFJGN1VYV0ZtN1dsZ2JBcXc1MmJrV0o3WUE?oc=5"
     },
     {
+      "id": "feed-531a6e62ee",
+      "manual": false,
+      "date": "2026-06-11T18:16:00+00:00",
+      "date_label": "11 juin 2026",
+      "tag": "media",
+      "title": "U.S. puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - The Tribune-Democrat",
+      "title_en": "U.S. puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - The Tribune-Democrat",
+      "body": "U.S. puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; The Tribune-Democrat",
+      "body_en": "U.S. puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; The Tribune-Democrat",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUVF6WFMxNkloVm52MjZGYVFJTnkxYUhtMHkxcWNwVkNlS1NxdnJLeFVJNGxpWFppejJmQ2xETE1jTklDa0FrQzNjQnBmdUtPamJZbkMxZ19RdzlLZUhiOE5zM2ZZb1J1dlVlUjRNVWhCamNpNmc2clJXU2NtLTc3TDUxQkRHZ2dkODZ5U1lNWVR0TXpWRTBCNE9tTHVaMEpXeXpkV2kwUnFIc1pLYmtRX1B3LW9ZYnJLR3VXSzNXdVhuelRlUjBabTZiSWMwdE0xRERIZnhNOHZGTVRMY0Jnb0luSjFYMTdHQVRHbHF6dVM3dm1hQXJSRktEdHh0QQ?oc=5"
+    },
+    {
       "id": "feed-d489cceacd",
       "manual": false,
       "date": "2026-06-11T18:16:00+00:00",
@@ -351,45 +390,6 @@
       "body_en": "Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast] &nbsp;&nbsp; The National Law Review",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenlkaEdXLWNWc3hja2dRWE8zdm8yQ2RBVGZTcW5JaHhIWnNIYkpKd0J3eHNvWHlOUUtYeU9JLTItck5nYTB2bktuYmZxTDUwbW9OYlBtRTB2UW1ENk5pcW1NbHFYMTg2dXFzTWZyZmp6aDFxblZuZHN3NU5wQ1J5bmhNZWZzajE0YWtLZkdTT09XZGIyZk94WmZNZ3BwMGowR011Vklmd0JaODJMUzVtQlZBX3pzZ9IBuwFBVV95cUxNbU1WU3lmMjdtMlQwVzdEX2NCSk02R3lrMnFzR2xjZlplbFJPT2JLVkdGSUR4VWdGeDB0cUNlSGI1ci12NjR6RFdSd2xRR2Z1TGRUYTh0SlgzS3Bhczd6Yng0UnFzZTJPcklnZy1fWWxFMDR3UnBWQUU5ZXFDQ1dSX3ZqaUhpc3dqaVdYYlNWazkxOGZpRW95OG9LQ0U4OXg5RzdWRU95Q21ZTWFwVTNSVnBHcEJOZTQ3RDdN?oc=5"
-    },
-    {
-      "id": "feed-06aaf1111e",
-      "manual": false,
-      "date": "2026-06-11T17:01:24+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - TODAY.com",
-      "title_en": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - TODAY.com",
-      "body": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; TODAY.com",
-      "body_en": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; TODAY.com",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmF2bEUtR1BjQ2NpU3NXM2NvUFFwSnJnaFJFQ2NaOEo2LXVDRnVUbjhqUkk4STFDOHdYNHFqUlktZWswUDA2OXFNZEJPQlFqUFJRU2dXaUNYTTBBQmJPWTlZN3dXeVRudXd2UGloWENscTlHZE9UTGpRRmxLRGlmUHhYaTNUQ3ltMkkxc1VUVjRoQ3hjcEFBYWZsMWc0bnpYakRNRw?oc=5"
-    },
-    {
-      "id": "feed-3b2abc18e3",
-      "manual": false,
-      "date": "2026-06-11T16:54:30+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "title_en": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "body": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "body_en": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5"
-    },
-    {
-      "id": "feed-15a2060bfd",
-      "manual": false,
-      "date": "2026-06-11T16:52:00+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha - WOWT",
-      "title_en": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha - WOWT",
-      "body": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha &nbsp;&nbsp; WOWT",
-      "body_en": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha &nbsp;&nbsp; WOWT",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHFxV045UFpCLURiUDd1QVYwc0FFUExvQ0sydVR3aGZXMUlTQm5XV0l4b1JhaDhmZHFUY1JNSjJfOUpvUHdMT1ZhQThvOFNGRkFwanc1OFlSQ0RTWTlhMkJPM0VQM2NWWGFBdG04VWF2emh6VVpXbzhIdEt0cEpoSHF5Q2lwVklwQjJtd3ZsWkFkT2JmTkdObHhlenRwWFVHWTJ5ZW5PU2xJR3doTFVqMHVWRkFvWE9F?oc=5"
     }
   ]
 }

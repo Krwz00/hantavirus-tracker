@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-12T16:17:54.045357+00:00",
+  "updated_at": "2026-06-12T19:04:33.313462+00:00",
   "items": [
     {
       "id": "feed-23f7b08612",
       "manual": false,
-      "date": "2026-06-12T16:17:54.044378+00:00",
+      "date": "2026-06-12T19:04:33.312479+00:00",
       "date_label": "12 juin 2026",
       "tag": "research",
       "title": "[World Report] The medicine of…cruise ships",
@@ -13,6 +13,58 @@
       "body_en": "Although the hantavirus outbreak on MV Hondius has drawn the world's attention, day-to-day practice is usually a little more prosaic. Talha Burki embarks on an examination of cruise ships.",
       "source": "The Lancet",
       "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01186-4/fulltext?rss=yes"
+    },
+    {
+      "id": "feed-fa379e848e",
+      "manual": false,
+      "date": "2026-06-12T18:30:47+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms - Los Angeles Times",
+      "title_en": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms - Los Angeles Times",
+      "body": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms &nbsp;&nbsp; Los Angeles Times",
+      "body_en": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms &nbsp;&nbsp; Los Angeles Times",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHllWnNrTDhidWd5RWg3d2VhNFZoMWdVU0ZnZ0dKUjNsalp6blNBSDZOUVB5M1NFZFI0MDVSZTd4b1Jvc3pEeFhLcEtETjNOWS14dTdOWHF5X2Y2czZObEwzNmU0dHEzSHY5UW4yNzFrQTAwa09vcnlhbE83SHR0VnNLWWt1STh1OWtJMXRGc0MyUQ?oc=5"
+    },
+    {
+      "id": "feed-f5a85cb2a0",
+      "manual": false,
+      "date": "2026-06-12T18:16:51+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model - Genetic Engineering and Biotechnology News",
+      "title_en": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model - Genetic Engineering and Biotechnology News",
+      "body": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "body_en": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1pvR05wR3VoS2YwSHNJTlFvNE5LVXZ5S2NiSVo1V0x4bGlGYkFQNC1mNUpnanhNNkg1QWgwNk5idENqdnVUTHlSM0RaYU9Wd3pfYklkRkJqamZqOWxOZGwtd29zRDZTcmxhb1Noa2EzUndvTXBueVVzT1l3LVpMX2FIc2pzS1JNVWhpem11SlBaTEItVF80V2d0Qm5JcTh2ZFVXV01nMERPTXZLcnlBeDctRHliWmdJRkFkeE5INmxhazBq?oc=5"
+    },
+    {
+      "id": "feed-113bef5872",
+      "manual": false,
+      "date": "2026-06-12T17:30:00+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Dutch expedition ship Hondius resumes cruises after fatal hantavirus outbreak - NL Times",
+      "title_en": "Dutch expedition ship Hondius resumes cruises after fatal hantavirus outbreak - NL Times",
+      "body": "Dutch expedition ship Hondius resumes cruises after fatal hantavirus outbreak &nbsp;&nbsp; NL Times",
+      "body_en": "Dutch expedition ship Hondius resumes cruises after fatal hantavirus outbreak &nbsp;&nbsp; NL Times",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2lNMVRlOGVhNmdQOVdxbHFNdVdKbW5rSF9VX2R3dmdnRjZsdWlvd3doZXpqM2pQUHNjU1NCVzFsMnRzWXFLcWQ5bzNfaWJlRk1DLXYyVXJtenVjZldpU1BlbE1UR0lfWVBZaG1XdUlOaUJCUlhVM0l0alM1T3dtNm9ZZTc3cldqRU92NE9ZYk1xanNhSmFMM1lfcllTU0djSVZV?oc=5"
+    },
+    {
+      "id": "feed-56e3d8c8e1",
+      "manual": false,
+      "date": "2026-06-12T17:09:00+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Forget hantavirus — another rat disease killed a California resident after 200 rodents found in home - New York Post",
+      "title_en": "Forget hantavirus — another rat disease killed a California resident after 200 rodents found in home - New York Post",
+      "body": "Forget hantavirus — another rat disease killed a California resident after 200 rodents found in home &nbsp;&nbsp; New York Post",
+      "body_en": "Forget hantavirus — another rat disease killed a California resident after 200 rodents found in home &nbsp;&nbsp; New York Post",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSElCbkJLQlhadWxyM2dIS1lkTVU2dndDaHNDTnlfcUw4Ti1OVjRJeTFobUJteGVLeE1uY01GaUtteW12VHlpMXFYOTE1MnNOaU5mdTQ4OFFsNzl5U1pITUp3V1JsM0hHRzNGYnplZjdPVzJaX05jcnR2ODA1c29DUHQ5VjU5WXBNTk1jeFd4aEdTRjhOTEN1SFNBSE81X2FCT2dCaFFjYzJKTGM?oc=5"
     },
     {
       "id": "feed-552e6b0d0c",
@@ -78,6 +130,19 @@
       "body_en": "Scientists track single-dose vaccines for Andes hantavirus strain &nbsp;&nbsp; Medical Xpress",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFA5cmY2bldkUkNSaXdMNWtadU9HRy1jWjl6UlR2TlkyUDU4TlBZcGVWSTZLaXZxOGlucWVGT1BqOHl3S1Z0bjg0dW4wSXJmX2NmNU85ZTJSaURidy1JdE5CWVBMRFctYmVZeEc1Z3N3NmpNdE1VVXV3ZC13X0VLRUlpNDhickU?oc=5"
+    },
+    {
+      "id": "feed-5c9c17ea82",
+      "manual": false,
+      "date": "2026-06-12T09:09:27+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "title_en": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "body": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
+      "body_en": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5"
     },
     {
       "id": "feed-8843062084",
@@ -169,6 +234,19 @@
       "body_en": "Two more passengers exposed to hantavirus leave UNMC quarantine in Omaha &nbsp;&nbsp; KETV",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmpvX2lzYkZZTWRkNEJKMEhYdDBEMzJoZXdMaFRuYW51WGVFMHFJNUNRbENDRU5WQXhTelhrSy1YbmZhMDB5NXM3WlJaTll6dzU4R1hIX2Z2S082X3JhTkRnd1VJXzUwNkFzZFVua1RrXzNyZjEteVJuVkcta0RrbkxhcDdsMTVEb1l3VGZ1ZFZlemJ3cEllQlREbE5yUk9QdkE?oc=5"
+    },
+    {
+      "id": "feed-2757821835",
+      "manual": false,
+      "date": "2026-06-11T21:10:00+00:00",
+      "date_label": "11 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus fears reignite as suspected case is investigated in California - The Independent",
+      "title_en": "Hantavirus fears reignite as suspected case is investigated in California - The Independent",
+      "body": "Hantavirus fears reignite as suspected case is investigated in California &nbsp;&nbsp; The Independent",
+      "body_en": "Hantavirus fears reignite as suspected case is investigated in California &nbsp;&nbsp; The Independent",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlyRnlUeV9NT0ZfMXBkUEFfRUh4eXZMQ3ZUeXdtU2hscF9GVm9sMEFnSERjRkJaZy05WU9yeTduOTJhcnAyOW1wTV9VOVBmOHhyY1FCSS1YQ3liRGR4aVdIZ3JjR2JNNlctUmdWRGVIZnR6VDlnM3BQNlVvUGxPeEN2cVJ4d0s0ZEpmOE9BVFJoaXB5amNiZnBR?oc=5"
     },
     {
       "id": "feed-3ddade9c5e",
@@ -288,32 +366,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWNpbUowSDdDdWsydE1Ibk9wV19zbk9WS3NGRUpBbG42blg2LTNSRHdJa2xvZW5xNkQtcmVNTkJSVU83c05WSy1JY1oyWnBWVGdQZ3NCT2NXb3VjWklKMkczd0xWS3VMbFVwWDlidUJsQ0dKMTFRSUVLeEZ3T1dtS09LSFpyejZQcW1tRUctaWdRR2JoYnhz?oc=5"
     },
     {
-      "id": "feed-bf6ac7ae76",
-      "manual": false,
-      "date": "2026-06-11T18:38:18+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus-hit cruise ship set to resume voyages after disinfection - Baird Maritime",
-      "title_en": "Hantavirus-hit cruise ship set to resume voyages after disinfection - Baird Maritime",
-      "body": "Hantavirus-hit cruise ship set to resume voyages after disinfection &nbsp;&nbsp; Baird Maritime",
-      "body_en": "Hantavirus-hit cruise ship set to resume voyages after disinfection &nbsp;&nbsp; Baird Maritime",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZMYTJDbC0tVjJfY01mLWl2T212SlJLRVgzeFJvVWVjSXNXSEJfOEJFZEU3OFg2U1ZrU3NPNGxGNHpMNVhCMFRxNlNWTi1VTER6THRrckNqenkwdnZUUHlXX3F6ektNYWk3bTAtR0ItSXZydVpaX2FmcnQzdlhtWmNyNE1GZGhkYU9UMDZ3eEpsNHhUVkIxOGpTZWlURlU0WTktUm9iV2paUFZlSUNZNGlLUjnSAcIBQVVfeXFMTmdSNUlLQzJnVmJ3Yk9aV3hPQ1RqNTVXTFFTSld3czJSUmJrSjJiOVVoTTJXZm1YTnc5TVRXTkFHdS1Db0VlZ25GRW94ZnVNYm5DUktpTWNfamFGRXVwZlNhZy1wN0p0TV9wR0t0OURPWUpFV2x5dThvWWdocFFNMC03NUd6M2ZBeVNHLU9lMnY1b2RwYUpYVlJRZ180ZW9nVUNfRFRtUmhlcEZqMGkxREFLR18zbGxsbkZ6LXpBb3NDRlE?oc=5"
-    },
-    {
-      "id": "feed-d04a7a5086",
-      "manual": false,
-      "date": "2026-06-11T18:37:35+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - ABC News - Breaking News, Latest News and Videos",
-      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - ABC News - Breaking News, Latest News and Videos",
-      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2w3VXU4bnNuVTBvYjd6SEJPZG02M0NiRzk2c3FWZXkzdGt5QWpFMmtaNFJ0Vl8yWS1FSHdxUF96Wk5IMVh6a1NoR183T0ZDc19RcGs0bl83U0hjNEhXeW5rSEhMUTB5WDViaVRyOS1JQ0RtYnpSbDNXYm5MbVlGX2ppWjExcnJldkEzMTduRHQxQ0Q3XzB3NkY2SnRWN1pmZGRDR9IBqgFBVV95cUxNTXc5MjJWRjd1V2c5Q3FvN1JCYUxORFdQT0d4R1lXYk5sNGRpeVdRcmZQZDRuZWE3V0lFLURxYlRDSFpDNmtsTjJfd3RsNjB4ZkNfSTBGSTIyQzlURFNxTWpnR2hmLW5aS0lfWWNkYjBJQUJzcXFwbGlyY21vcl94TWszVmlwaWluazRiYnlCOWlMaXVVZVFEbWExOF9wdUpFU1RfMlB5OF9rUQ?oc=5"
-    },
-    {
       "id": "feed-d41e2a54f9",
       "manual": false,
       "date": "2026-06-11T18:22:36+00:00",
@@ -338,58 +390,6 @@
       "body_en": "Possible hantavirus case reported at San Quentin &nbsp;&nbsp; NBC Bay Area",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWZzd3hQQ1Q5TFpaelM5ZHF3RmNBVlg4VXVkekJyNm9zazhuZzU2QklHblE3ODVwZmhYUXJMaVVaZEp2NHZvZksyN0pBZzNTMmJHNGt3dUozbWFqanVIRm45VzJUSDdicXBTTC1lSndUc3J5ODlfTnB1ZFJ6U3A2RU10VnV2bE4tWmRsdEZZMjJyaVBKZlA3bnRZQdIBowFBVV95cUxNVGxYVHNEWEhyc0ttd1ZzRnRkUm50cEhpZDBqOTRBM0RpOWZ3dGduUjhNQWFaa3RKeHptdWw5TDVjWUs1bHA3S2RCS2cxZHNiN2t4cmx2UTh0Q2duOWduZl9pUTRtTUNEcnF1RnRxNUJwXzg2X2cwZDg5b2NPZ05GUHFycTFJckV1M2cxT285Q1hOMHR3aGRMbjhuS3pMZHFkQmJ3?oc=5"
-    },
-    {
-      "id": "feed-dbb9585021",
-      "manual": false,
-      "date": "2026-06-11T18:19:19+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Possible hantavirus case reported at San Quentin - NBC Bay Area",
-      "title_en": "Possible hantavirus case reported at San Quentin - NBC Bay Area",
-      "body": "Possible hantavirus case reported at San Quentin &nbsp;&nbsp; NBC Bay Area",
-      "body_en": "Possible hantavirus case reported at San Quentin &nbsp;&nbsp; NBC Bay Area",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZU9Ic2l4dnhfS1ZMM2xXNDkzeUU2cTJGWHBFc2JCc1ExUGktMndSX01uOWZueDhEcFhhRmdHVlE1VEhlelRLSFhQcElaUkJ5VHhUUENkRmFzZHdLeUxiWXJNTnhaanJwTF9TUjQzMVlOZEVBU0Njb2N1MHF5NklSalc0eG5LMUXSAY8BQVVfeXFMTzhmOEFJNEdpNzNTTUFrNWF3eHowNlZCTHpmNnpfLWpweGo5WHpha2pEdGJ3Y092bnduUWgtdTZfdFFUSmFaZmNiWTRwVnkxOFJ5cWxGYzBBaXJpNFlCbjZvb2t3RE9RbG5URlkzSTVwc0VwdlN0MmNDRWo3bi1OdHR0d3lLQkVJTGZBVTJrWjg?oc=5"
-    },
-    {
-      "id": "feed-53af6433b3",
-      "manual": false,
-      "date": "2026-06-11T17:42:12+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
-      "title_en": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
-      "body": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
-      "body_en": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5"
-    },
-    {
-      "id": "feed-eafb9daf57",
-      "manual": false,
-      "date": "2026-06-11T17:09:16+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast] - The National Law Review",
-      "title_en": "Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast] - The National Law Review",
-      "body": "Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast] &nbsp;&nbsp; The National Law Review",
-      "body_en": "Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast] &nbsp;&nbsp; The National Law Review",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenlkaEdXLWNWc3hja2dRWE8zdm8yQ2RBVGZTcW5JaHhIWnNIYkpKd0J3eHNvWHlOUUtYeU9JLTItck5nYTB2bktuYmZxTDUwbW9OYlBtRTB2UW1ENk5pcW1NbHFYMTg2dXFzTWZyZmp6aDFxblZuZHN3NU5wQ1J5bmhNZWZzajE0YWtLZkdTT09XZGIyZk94WmZNZ3BwMGowR011Vklmd0JaODJMUzVtQlZBX3pzZ9IBuwFBVV95cUxNbU1WU3lmMjdtMlQwVzdEX2NCSk02R3lrMnFzR2xjZlplbFJPT2JLVkdGSUR4VWdGeDB0cUNlSGI1ci12NjR6RFdSd2xRR2Z1TGRUYTh0SlgzS3Bhczd6Yng0UnFzZTJPcklnZy1fWWxFMDR3UnBWQUU5ZXFDQ1dSX3ZqaUhpc3dqaVdYYlNWazkxOGZpRW95OG9LQ0U4OXg5RzdWRU95Q21ZTWFwVTNSVnBHcEJOZTQ3RDdN?oc=5"
-    },
-    {
-      "id": "feed-06aaf1111e",
-      "manual": false,
-      "date": "2026-06-11T17:01:24+00:00",
-      "date_label": "11 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - TODAY.com",
-      "title_en": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - TODAY.com",
-      "body": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; TODAY.com",
-      "body_en": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; TODAY.com",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmF2bEUtR1BjQ2NpU3NXM2NvUFFwSnJnaFJFQ2NaOEo2LXVDRnVUbjhqUkk4STFDOHdYNHFqUlktZWswUDA2OXFNZEJPQlFqUFJRU2dXaUNYTTBBQmJPWTlZN3dXeVRudXd2UGloWENscTlHZE9UTGpRRmxLRGlmUHhYaTNUQ3ltMkkxc1VUVjRoQ3hjcEFBYWZsMWc0bnpYakRNRw?oc=5"
     }
   ]
 }

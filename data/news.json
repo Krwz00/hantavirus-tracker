@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T16:24:24.788317+00:00",
+  "updated_at": "2026-06-13T18:08:03.617556+00:00",
   "items": [
     {
       "id": "feed-b5f5dfaa9c",
@@ -80,6 +80,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS21PRlZtVV9OS2ItOVZvZlQxZE5HSnFrMHdqa0I0enktQ21TV2h6aWZRa1o3UmFOdTRCcmVDY0J4M3hRUGlQR3VpUGJmd2NiTUtRcmppV2FqQjdnOElRNXRza1E3akpBdmgySThjYUZMVGxjQVVMekFjWVdzRWh6WVFkendvMnYtMEdNeVNuMzNwTDRfb2hydDJySkcxTWxCdUxydk8tYmRJUUdHSDBzTTJMZzdlWTN0MDZPT0dnUkU2LTNFZmdJ?oc=5"
     },
     {
+      "id": "feed-d42ca29731",
+      "manual": false,
+      "date": "2026-06-13T02:13:39+00:00",
+      "date_label": "13 juin 2026",
+      "tag": "media",
+      "title": "No hantavirus found in second Argentine province: ministry - ET HealthWorld",
+      "title_en": "No hantavirus found in second Argentine province: ministry - ET HealthWorld",
+      "body": "No hantavirus found in second Argentine province: ministry &nbsp;&nbsp; ET HealthWorld",
+      "body_en": "No hantavirus found in second Argentine province: ministry &nbsp;&nbsp; ET HealthWorld",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHhIODFQNDR3NXY3QmNjaUtFV1BCbjdqeTdjSnZ4cDdRZXl3ZWJfZ245S1ZKV0FNWUJsSExDSld1N1BTdFBkOEpDel9xOUR2dHh3dEhqbjVEcWJ5cGtCWHl2UmxIaXRhcDI5TGNLQU5DOFlsTnY2MTJ5VDZVUVpoNGZrUDR3bEZwOTRpTnZqbWVoNjNuVHpaUVpNRTlQWThDQWIyOUZuUS1yMHNVMjA2SmFVY25RUjBzRC0wekR4Mkc1XzTSAcgBQVVfeXFMTjNhX1hnX2VJbGZ2TnNmVlp0cTdObUQxT0M3TUVRQ09zejVGMldjT09MLWJ0Zk5QMmZJZUs5dWZJXzZEMzAwZHdsc3M1QXFkMmpidThuM0FoT3V3M2pOdElkWGJ6V1J2aTlxQ1ZtY2VXWm5ObWtTVGdNNjFHZTBmYnZPZnZMUW5vUDJYeU1FZ0JVc3Z1NGdUdXdtdmJ2VXRnXzFtdUNWVFBfdndFeGZ4UDl4OGNhbjBqSGhTVVdoc1cwVXJoR1dSVzg?oc=5"
+    },
+    {
       "id": "feed-400267e1a8",
       "manual": false,
       "date": "2026-06-13T02:00:00+00:00",
@@ -119,30 +132,17 @@
       "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01186-4/fulltext?rss=yes"
     },
     {
-      "id": "feed-e489dfd273",
+      "id": "feed-e778283ce9",
       "manual": false,
       "date": "2026-06-12T23:37:00+00:00",
       "date_label": "12 juin 2026",
       "tag": "media",
-      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Cleveland 19 News",
-      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Cleveland 19 News",
-      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Cleveland 19 News",
-      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Cleveland 19 News",
+      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - KKCO 11 News",
+      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - KKCO 11 News",
+      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; KKCO 11 News",
+      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; KKCO 11 News",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3ZfMXZ4dnJuZVdKWHNYeHo4eHBhR2RsMXlVM2gxZkd1SDhHV19CbXhOcFhXbndXMmE1Q3ZYNlVOUExEVmxrNnFXWnRKdUk1U3h2d1pVbGlKWFk2QXhZWTBTbWRZd2ZhR0l5X19Fc09GNnQ2X1NpMjJYS09IeGNFdS1xc1MyaTJCY29SOFI1T3FjODBJQjBQV0pKYUFoc0N5OGFMZmJ1a1F1Z3hZck1zMjJCb3pzMnl0LWNIbFlGMHRMel81YWZ3?oc=5"
-    },
-    {
-      "id": "feed-0068041372",
-      "manual": false,
-      "date": "2026-06-12T23:30:00+00:00",
-      "date_label": "12 juin 2026",
-      "tag": "media",
-      "title": "Officials say possible hantavirus case in San Quentin prison was false positive - The Daily Gazette",
-      "title_en": "Officials say possible hantavirus case in San Quentin prison was false positive - The Daily Gazette",
-      "body": "Officials say possible hantavirus case in San Quentin prison was false positive &nbsp;&nbsp; The Daily Gazette",
-      "body_en": "Officials say possible hantavirus case in San Quentin prison was false positive &nbsp;&nbsp; The Daily Gazette",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaGJMemFEaFk1bjdGVkJpUkota3FQMHdVck5SbGthVUdMQlhXeFRzOW1oOVpmeWRnUnhEd2E1TXBYVEpxa2Y2cTJjMDNnRkFVUHp6LTE1Q0dXektXMmJvQXVvbFMxY1ROTjFmR04zT0NCbERYakxwa3RPXzV1dEJjU0Q5b0xLMGcwQ1ZmTHlDVm1PVHA5QmJJSFZFY0NPWV9xTWdPUktWMzlHTm92SXVkcU90VURvNXk5YWtqRGduckU1MUtxM1RJNG9jbkM2SGt2QzNuZjd0LWRHNEw1eG9YZ2p3THJBUEE3d21TaFRCY1VxX09zVHJpQWNn?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDNSN0UwS1pJSm1lVmV5OXEtdFh1V0M1bGo4eHpvRmc0anI4bzJxZXpLcFo2V2l4WjFHRVI0Y0c2b0VSVjZvTzgwYkFOaFduU0wwSXVHNmFDWTJiekRqSTAxcG51Y0ZiVEZfSEhEZ29IZ19JYTV6RzNNeVQ5MkktQnExdlB4bGh0ck8xcFBXUTlsZDQwS0FxcGJMdGp5SHF1SEZfSlU3YkpHaU90Wk9wZW96TURwb1FqeDVDZDVNUlpQU25OdlE?oc=5"
     },
     {
       "id": "feed-3babd40c02",
@@ -249,19 +249,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV3I5U1EwTm1VaHZEaWRuV2F6NkVFNjR3UUlIWUJwekhQb0Zval9wdmdrNU4tQVNHeC1XR002VVhaTW1iTi1GMHU0aDVsdW9rTHZyeW9KS3JKcWJYckUzYVpIdXFiOUY0U3UtRWVVUUNTdmszQTZXcXZhRUM0MURpLVJoTXk2ZGFfWHZKeVUybUhwUDdsTnUzTXpIZXFfVWVwVk4tMFozR2o1SWVrMXpTR1hlYTUwa3lmd3hPOFdXSEh4WHBGY01wd2NKN19JOEwxTGdCZGo0YnNucEgzMmUxREdB?oc=5"
     },
     {
-      "id": "feed-88f9ffe064",
-      "manual": false,
-      "date": "2026-06-12T19:41:00+00:00",
-      "date_label": "12 juin 2026",
-      "tag": "media",
-      "title": "How Hantavirus May Expand Cruise Ship Liability Concerns - Law360",
-      "title_en": "How Hantavirus May Expand Cruise Ship Liability Concerns - Law360",
-      "body": "How Hantavirus May Expand Cruise Ship Liability Concerns &nbsp;&nbsp; Law360",
-      "body_en": "How Hantavirus May Expand Cruise Ship Liability Concerns &nbsp;&nbsp; Law360",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTJwMlFKUGJoRzkxWGtTeGxkNndZSWhWTUpVRVJfRUFwTUEzRGd2VHhwQVNCRG4taEMxWmRDTUpJaVlEX0dBVFpHcS1aLXR0OUxKY3J5bzlDOHFMbWh3Q2VxdEpUc1czWEl2aGQ1aEI4WVJ0Mm9nLWNMOVFUM0NQaXhSVGNpVWpuQWlGTDByOGl2Sm9BQUZjanhIX1bSAVZBVV95cUxOSFhEdEJrMlF5WjdSM3ZDYVZfRlAwcWpnbldCNmNZWWxDMHYxX0l1ZllleWVRZ2FnSGRzdV9oUlUwZFluTE9pOV9NaVZ5Nl9XN0c5RDVmZw?oc=5"
-    },
-    {
       "id": "feed-e0160ed709",
       "manual": false,
       "date": "2026-06-12T19:23:14+00:00",
@@ -366,19 +353,6 @@
       "source_url": "https://www.theguardian.com/commentisfree/2026/jun/12/covid-measles-hantavirus-ebola-risk-communication"
     },
     {
-      "id": "feed-36321622ff",
-      "manual": false,
-      "date": "2026-06-12T11:20:04+00:00",
-      "date_label": "12 juin 2026",
-      "tag": "media",
-      "title": "Scientists track single-dose vaccines for Andes hantavirus strain - Medical Xpress",
-      "title_en": "Scientists track single-dose vaccines for Andes hantavirus strain - Medical Xpress",
-      "body": "Scientists track single-dose vaccines for Andes hantavirus strain &nbsp;&nbsp; Medical Xpress",
-      "body_en": "Scientists track single-dose vaccines for Andes hantavirus strain &nbsp;&nbsp; Medical Xpress",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFA5cmY2bldkUkNSaXdMNWtadU9HRy1jWjl6UlR2TlkyUDU4TlBZcGVWSTZLaXZxOGlucWVGT1BqOHl3S1Z0bjg0dW4wSXJmX2NmNU85ZTJSaURidy1JdE5CWVBMRFctYmVZeEc1Z3N3NmpNdE1VVXV3ZC13X0VLRUlpNDhickU?oc=5"
-    },
-    {
       "id": "feed-a0b85391f4",
       "manual": false,
       "date": "2026-06-12T10:53:53+00:00",
@@ -390,6 +364,32 @@
       "body_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; assemblee-nationale.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZkNYSUNrdTZHR0FIS0ZZc0lEN2VWeXVnNU5lM09xb1JjanY5TnZ3RFBDZ0RCWEpXWXhkWmtoU0Nya1U2b1JFOTRkSnlVQTAtNFc4bjUwVEp2QjR5SVZvM1VXWkt5NExuazVtNjhueVhtNHVjSFk3SXVHSFpiOXNES09nU0ZHeC1SeGFuS2dEVlJMQjRxcFdrTFlWcTBRTU05NUR6R203cjdxMThqZHRlRGxCdHp6aTRrOUJsZmIxcjFFb3dZblJXTzVzak1DTW4yS1pkajktNUJyRXpkTEZYLUtRVm1FNmk4eFk0WkQ0bVZLY0VjblE?oc=5"
+    },
+    {
+      "id": "feed-5c9c17ea82",
+      "manual": false,
+      "date": "2026-06-12T09:09:27+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "title_en": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "body": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
+      "body_en": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5"
+    },
+    {
+      "id": "feed-8ec8d7c81b",
+      "manual": false,
+      "date": "2026-06-12T07:00:00+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Breakthrough in Single-dose Vaccine for Andes Hantavirus - Labcompare",
+      "title_en": "Breakthrough in Single-dose Vaccine for Andes Hantavirus - Labcompare",
+      "body": "Breakthrough in Single-dose Vaccine for Andes Hantavirus &nbsp;&nbsp; Labcompare",
+      "body_en": "Breakthrough in Single-dose Vaccine for Andes Hantavirus &nbsp;&nbsp; Labcompare",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUFsUHJIYkpPUzVHRlpXZG9hdFhBUWx0UDBOd3lyQjNZMU95UEljOHppaDRNR1hXSWxOcnAwcUFUYTRfb2ptSkxkdFBrV1JUODBQYm55bmxKMFNxWlFiZkJHZ3NFcjhzOHA5M3ZFZlA1WDdEbWEweGl0Qy1QX1EzeXA5T3k3cDBNSU9mcVl5WVhfYWVqbnRCOUhDZTlGX2R3WkE?oc=5"
     }
   ]
 }

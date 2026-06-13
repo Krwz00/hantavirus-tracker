@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-13T10:28:38.177411+00:00",
+  "updated_at": "2026-06-13T12:25:22.237560+00:00",
   "items": [
     {
-      "id": "feed-bbce0f881c",
+      "id": "feed-e0f251cc35",
       "manual": false,
       "date": "2026-06-13T10:03:23+00:00",
       "date_label": "13 juin 2026",
@@ -12,7 +12,7 @@
       "body": "Tools to fight hantavirus show promise &nbsp;&nbsp; Jamaica Gleaner",
       "body_en": "Tools to fight hantavirus show promise &nbsp;&nbsp; Jamaica Gleaner",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFAtN0Q1MS1zYnRlWTMxcERoMUU0c1BCZGc2RnZGbDlfTTdELXRxSU9HanI0Q2k0bGRNS3BLY1V4a3dEMWxFUkZQdnhPNE5tY2VWQTNXZjRsQTRESG9fLWZJaGw4QV9adWt6c3VHNjlXbVBKdHBDd3lyX3ZLNnQ5R1FvZ0NPcmEyVXA5aU93?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTRKM014WGlnOTVfM09HV3lWMEVtY3RmSUJXc0JNRzRqNFNNRlhoVUxRSk5oNFZqNEdkZFp6c2NzMjFiUkFadzZSSkUzWEViYUM4d25SSlV2ek5iTkhSWEJwR1hUVHRRWThKVFBBQktDMUhXTmw1R3FWcWZGaWtTNlVrT2p2dk9yM3Y1Vw?oc=5"
     },
     {
       "id": "feed-079cfd1518",
@@ -353,6 +353,19 @@
       "source_url": "https://www.theguardian.com/commentisfree/2026/jun/12/covid-measles-hantavirus-ebola-risk-communication"
     },
     {
+      "id": "feed-90fcb25758",
+      "manual": false,
+      "date": "2026-06-12T12:25:57+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "San Quentin prison reports possible hantavirus case - The Mercury News",
+      "title_en": "San Quentin prison reports possible hantavirus case - The Mercury News",
+      "body": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Mercury News",
+      "body_en": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Mercury News",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1BmZDdZa0hkSGFNUGdEWEY0cjh5TTFSbmI0bzAxSWhxMHUzM0tzUVU0VDJFS3BuTGhhcmZjWkV0bE9JblFDZlRIcTdsdXM1SVcyenphQ2R3MlRiQ0hxVC15T1poM1BVQjU2QkQ1YnZtUE1tMnFtakxZaTIxS0JSb0Y5NjBMZ0hibV95Qm9XTkR5NVduSXfSAZsBQVVfeXFMTkh1UnYtZXZxeEluU09hSlBJM1dWMHB3T3k0ZTJxWlFYXzY1TElRNlJGSXlfLXpwR0c0a1RnbURSRWF0SVBibHBKT1JkOWRSQmlsYmFYazYtd3E1NWw1bGFXSEJCeU9UcTNYb25TLS1PazRzeUNaLXBQU191WnhpMllQcVhlVld2NEc1T1llejVQMkNMREMxTWloRk0?oc=5"
+    },
+    {
       "id": "feed-a0b85391f4",
       "manual": false,
       "date": "2026-06-12T10:53:53+00:00",
@@ -377,19 +390,6 @@
       "body_en": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5"
-    },
-    {
-      "id": "feed-8ec8d7c81b",
-      "manual": false,
-      "date": "2026-06-12T07:00:00+00:00",
-      "date_label": "12 juin 2026",
-      "tag": "media",
-      "title": "Breakthrough in Single-dose Vaccine for Andes Hantavirus - Labcompare",
-      "title_en": "Breakthrough in Single-dose Vaccine for Andes Hantavirus - Labcompare",
-      "body": "Breakthrough in Single-dose Vaccine for Andes Hantavirus &nbsp;&nbsp; Labcompare",
-      "body_en": "Breakthrough in Single-dose Vaccine for Andes Hantavirus &nbsp;&nbsp; Labcompare",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUFsUHJIYkpPUzVHRlpXZG9hdFhBUWx0UDBOd3lyQjNZMU95UEljOHppaDRNR1hXSWxOcnAwcUFUYTRfb2ptSkxkdFBrV1JUODBQYm55bmxKMFNxWlFiZkJHZ3NFcjhzOHA5M3ZFZlA1WDdEbWEweGl0Qy1QX1EzeXA5T3k3cDBNSU9mcVl5WVhfYWVqbnRCOUhDZTlGX2R3WkE?oc=5"
     }
   ]
 }

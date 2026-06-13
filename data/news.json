@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T18:08:03.617556+00:00",
+  "updated_at": "2026-06-13T20:15:44.306157+00:00",
   "items": [
     {
       "id": "feed-b5f5dfaa9c",
@@ -41,6 +41,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTRKM014WGlnOTVfM09HV3lWMEVtY3RmSUJXc0JNRzRqNFNNRlhoVUxRSk5oNFZqNEdkZFp6c2NzMjFiUkFadzZSSkUzWEViYUM4d25SSlV2ek5iTkhSWEJwR1hUVHRRWThKVFBBQktDMUhXTmw1R3FWcWZGaWtTNlVrT2p2dk9yM3Y1Vw?oc=5"
     },
     {
+      "id": "feed-88f36a25d9",
+      "manual": false,
+      "date": "2026-06-13T09:18:14+00:00",
+      "date_label": "13 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus : après une quarantaine au CHU de Rouen, le cas contact est sorti - Paris Normandie",
+      "title_en": "Hantavirus : après une quarantaine au CHU de Rouen, le cas contact est sorti - Paris Normandie",
+      "body": "Hantavirus : après une quarantaine au CHU de Rouen, le cas contact est sorti &nbsp;&nbsp; Paris Normandie \"Les mesures prises en France sont disproportionnées\": le ras-le-bol d'un couple cas contact à l'hantavirus placé à l'isolement depuis un mois &nbsp;&nbsp; BFM « Confiné à l’hôpital... mais ni malade ni à risque…",
+      "body_en": "Hantavirus : après une quarantaine au CHU de Rouen, le cas contact est sorti &nbsp;&nbsp; Paris Normandie \"Les mesures prises en France sont disproportionnées\": le ras-le-bol d'un couple cas contact à l'hantavirus placé à l'isolement depuis un mois &nbsp;&nbsp; BFM « Confiné à l’hôpital... mais ni malade ni à risque…",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXFpdVNIZHowSFZXbWZ2SHhHUGlpSTFSbmxIa1NkLU15MjhtQUpZeEtWVnRnZTI2SWg5MXNrblJQX2wta0JZTVJZWHVHMEJoOWdCaDRRRDRSU3AxVlRlcDRzN2d2RFFBNDhHbFc3eTUtMFkyNWpMSVFXUzY0RDA5bFpIem5uaDRaRjRHbEhOU3A1cU5zaWRuRzFiTFl0TG1heDFCSldBQTdKQ05vVlYzQW5MNVRiclVhYmo2RW9IcEg4VjViYWNuY0JQaVk?oc=5"
+    },
+    {
       "id": "feed-079cfd1518",
       "manual": false,
       "date": "2026-06-13T09:06:00+00:00",
@@ -78,32 +91,6 @@
       "body_en": "U.S. Pays $750K to Evacuate American From Remote Island After She Was Aboard Hantavirus Cruise Ship: Report &nbsp;&nbsp; People.com",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS21PRlZtVV9OS2ItOVZvZlQxZE5HSnFrMHdqa0I0enktQ21TV2h6aWZRa1o3UmFOdTRCcmVDY0J4M3hRUGlQR3VpUGJmd2NiTUtRcmppV2FqQjdnOElRNXRza1E3akpBdmgySThjYUZMVGxjQVVMekFjWVdzRWh6WVFkendvMnYtMEdNeVNuMzNwTDRfb2hydDJySkcxTWxCdUxydk8tYmRJUUdHSDBzTTJMZzdlWTN0MDZPT0dnUkU2LTNFZmdJ?oc=5"
-    },
-    {
-      "id": "feed-d42ca29731",
-      "manual": false,
-      "date": "2026-06-13T02:13:39+00:00",
-      "date_label": "13 juin 2026",
-      "tag": "media",
-      "title": "No hantavirus found in second Argentine province: ministry - ET HealthWorld",
-      "title_en": "No hantavirus found in second Argentine province: ministry - ET HealthWorld",
-      "body": "No hantavirus found in second Argentine province: ministry &nbsp;&nbsp; ET HealthWorld",
-      "body_en": "No hantavirus found in second Argentine province: ministry &nbsp;&nbsp; ET HealthWorld",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHhIODFQNDR3NXY3QmNjaUtFV1BCbjdqeTdjSnZ4cDdRZXl3ZWJfZ245S1ZKV0FNWUJsSExDSld1N1BTdFBkOEpDel9xOUR2dHh3dEhqbjVEcWJ5cGtCWHl2UmxIaXRhcDI5TGNLQU5DOFlsTnY2MTJ5VDZVUVpoNGZrUDR3bEZwOTRpTnZqbWVoNjNuVHpaUVpNRTlQWThDQWIyOUZuUS1yMHNVMjA2SmFVY25RUjBzRC0wekR4Mkc1XzTSAcgBQVVfeXFMTjNhX1hnX2VJbGZ2TnNmVlp0cTdObUQxT0M3TUVRQ09zejVGMldjT09MLWJ0Zk5QMmZJZUs5dWZJXzZEMzAwZHdsc3M1QXFkMmpidThuM0FoT3V3M2pOdElkWGJ6V1J2aTlxQ1ZtY2VXWm5ObWtTVGdNNjFHZTBmYnZPZnZMUW5vUDJYeU1FZ0JVc3Z1NGdUdXdtdmJ2VXRnXzFtdUNWVFBfdndFeGZ4UDl4OGNhbjBqSGhTVVdoc1cwVXJoR1dSVzg?oc=5"
-    },
-    {
-      "id": "feed-400267e1a8",
-      "manual": false,
-      "date": "2026-06-13T02:00:00+00:00",
-      "date_label": "13 juin 2026",
-      "tag": "media",
-      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Prescott Daily Courier",
-      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Prescott Daily Courier",
-      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Prescott Daily Courier",
-      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Prescott Daily Courier",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTGdHY2NSam9jUzAyX2oyX3p4R2g3MUFTZ3d5Y0hTazhuOHpjYzBRX1ZBZkxiZ09nem02OUlPNUZxOFhPNEdxWFlqdnJNMzZLUEtocmtEbmoxdHZoeU5hTnZiTFJLay0xQlAwQWMzYWd0NFhzSVI3MlpOY2JqY1d1WkZ5ZWpuNkhzM0o3WnA4VzJlWVVIVktxMmRoRC1DdU1EQnp1UDFVb0RzRUV0eXJvaEJnU044Nmc0cFRhMHRxU2JKLW03RFBqUllXQ19CVEJMRTR1NXhmZUw0eGZ0a2NYVGJvV2lrR2hJX01IcDEtWm1waFhq?oc=5"
     },
     {
       "id": "feed-40dc40c105",
@@ -249,6 +236,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV3I5U1EwTm1VaHZEaWRuV2F6NkVFNjR3UUlIWUJwekhQb0Zval9wdmdrNU4tQVNHeC1XR002VVhaTW1iTi1GMHU0aDVsdW9rTHZyeW9KS3JKcWJYckUzYVpIdXFiOUY0U3UtRWVVUUNTdmszQTZXcXZhRUM0MURpLVJoTXk2ZGFfWHZKeVUybUhwUDdsTnUzTXpIZXFfVWVwVk4tMFozR2o1SWVrMXpTR1hlYTUwa3lmd3hPOFdXSEh4WHBGY01wd2NKN19JOEwxTGdCZGo0YnNucEgzMmUxREdB?oc=5"
     },
     {
+      "id": "feed-472031de55",
+      "manual": false,
+      "date": "2026-06-12T19:54:27+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "No hantavirus found in Mendoza Province after tests - Buenos Aires Times",
+      "title_en": "No hantavirus found in Mendoza Province after tests - Buenos Aires Times",
+      "body": "No hantavirus found in Mendoza Province after tests &nbsp;&nbsp; Buenos Aires Times",
+      "body_en": "No hantavirus found in Mendoza Province after tests &nbsp;&nbsp; Buenos Aires Times",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzZ1SHNlcVpqUTY1ckFRV3FUeFVUaTVZN1ltZlVTdjdFVnZMQjdKeE40ZW42WnYzTzRSSnZuWTFNZExjRHJKYU13SDRqWEZIdmxMdGMzWEV1WjNBZ1BSR1dUVWJxSEg2NUtUdnBHS2lrTHZMV1RjYVBxQU85blRVNy1FUWhMREI3dDJWNjl5cEdodWhLQWdlaTJyNU11YWsxcWNpZUNSdno2YnlYaWVTMVpiVzJUWjBEWFFxbNIBwgFBVV95cUxNalNJcFROZVlwSmZXZmtUM1JkQWhGVUFxNDdqVGwwTTRMWTZXOGhacWI3VUN5Z0FPU2ZmVWdoTXNURjNLZjJvN2FXX3VOWFFYb2tWRWl1a25Ja3VyajJpVEJZbEhfMHloUFBPRXNTTHdFZFZrTHhfYndQeUZac0p6dHFhamhGX094QzBKN1g2bzZyOGdTT1JTZVNlOUwyM0pOOU44aHVkcVZxUGN6ZU9PM1Z2bVltLXpad3hEdVE3Zkd3Zw?oc=5"
+    },
+    {
       "id": "feed-e0160ed709",
       "manual": false,
       "date": "2026-06-12T19:23:14+00:00",
@@ -327,19 +327,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSXl4VWZJRFBFc1Rjc3JzcWdELXFGTXAtejNRSzVsLW9yWWlZUXc4dU9EMmswWkYycEItQzRmMEVFdlRDNFk5dm5HblYyR0tGTUZ4S3hMZHRXcmFwMERLQTJYQnNRRjIzNVlHZmZCYkpON2lVVlEta1d1S2RCNXYwOXp1Qk9PVjlzSURvRGZnX0E0aTRDOFRPU2NJbExiQlE?oc=5"
     },
     {
-      "id": "feed-e9666fb52b",
-      "manual": false,
-      "date": "2026-06-12T14:39:00+00:00",
-      "date_label": "12 juin 2026",
-      "tag": "media",
-      "title": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight - The Cool Down",
-      "title_en": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight - The Cool Down",
-      "body": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight &nbsp;&nbsp; The Cool Down",
-      "body_en": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight &nbsp;&nbsp; The Cool Down",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTW82RnUzYTdVamtUcmFQN01kSE1ZNUVkT3FsVThvZFctX241WmtaeGJXY0RyOFpfSU54UXNVR1NhWmRCLVZtOWhMdHZmbEM5R29mYnRSaGJsOWVmOEdhRGtMMmctckV0NWNwU0FOUk02dnd1bUdPNHlvQTl4SXg2eTBoUU1hRkRyc2c?oc=5"
-    },
-    {
       "id": "feed-aaa50eaf48",
       "manual": false,
       "date": "2026-06-12T14:00:48+00:00",
@@ -351,6 +338,19 @@
       "body_en": "The confusion over hantavirus and Ebola is a reminder that we must do better at explaining how to respond to an outbreak Two unfolding outbreaks continue to command global attention. As a hantavirus outbreak tied to a cruise ship appears to be petering out, Ebola cases continue to mount in Africa. Alongside them have…",
       "source": "The Guardian — Health",
       "source_url": "https://www.theguardian.com/commentisfree/2026/jun/12/covid-measles-hantavirus-ebola-risk-communication"
+    },
+    {
+      "id": "feed-90fcb25758",
+      "manual": false,
+      "date": "2026-06-12T12:25:57+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "San Quentin prison reports possible hantavirus case - The Mercury News",
+      "title_en": "San Quentin prison reports possible hantavirus case - The Mercury News",
+      "body": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Mercury News",
+      "body_en": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Mercury News",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1BmZDdZa0hkSGFNUGdEWEY0cjh5TTFSbmI0bzAxSWhxMHUzM0tzUVU0VDJFS3BuTGhhcmZjWkV0bE9JblFDZlRIcTdsdXM1SVcyenphQ2R3MlRiQ0hxVC15T1poM1BVQjU2QkQ1YnZtUE1tMnFtakxZaTIxS0JSb0Y5NjBMZ0hibV95Qm9XTkR5NVduSXfSAZsBQVVfeXFMTkh1UnYtZXZxeEluU09hSlBJM1dWMHB3T3k0ZTJxWlFYXzY1TElRNlJGSXlfLXpwR0c0a1RnbURSRWF0SVBibHBKT1JkOWRSQmlsYmFYazYtd3E1NWw1bGFXSEJCeU9UcTNYb25TLS1PazRzeUNaLXBQU191WnhpMllQcVhlVld2NEc1T1llejVQMkNMREMxTWloRk0?oc=5"
     },
     {
       "id": "feed-a0b85391f4",

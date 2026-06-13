@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T18:08:13.168576+00:00",
+  "updated_at": "2026-06-13T20:15:52.980368+00:00",
   "items": [
     {
       "id": "fc-6295f17e01",
@@ -13,45 +13,6 @@
       "body_en": "Selon une affirmation virale sur les réseaux sociaux l’étymologie du terme « hantavirus » démontre une création dans un labo israélien. C’est n’importe quoi",
       "source": "20 Minutes — Fake Off",
       "source_url": "https://www.20minutes.fr/societe/4226128-20260601-mot-hantavirus-contient-preuve-virus-creation-israelienne-tout?at_medium=display&at_campaign=149"
-    },
-    {
-      "id": "fc-b822808811",
-      "manual": false,
-      "date": "2026-05-22T15:14:55+00:00",
-      "date_label": "22 mai 2026",
-      "tag": "alert",
-      "title": "Kein Hantavirus-Einsatz: Foto zeigt Marineübung im Jahr 2025",
-      "title_en": "Kein Hantavirus-Einsatz: Foto zeigt Marineübung im Jahr 2025",
-      "body": "Nach dem Hantavirus-Ausbruch auf einem Kreuzfahrtschiff kursieren im Mai 2026 Bilder von Menschen, die angeblich keine richtige Schutzkleidung tragen. Einige dieser Aufnahmen haben allerdings nichts mit dem Hantavirus zu tun.",
-      "body_en": "Nach dem Hantavirus-Ausbruch auf einem Kreuzfahrtschiff kursieren im Mai 2026 Bilder von Menschen, die angeblich keine richtige Schutzkleidung tragen. Einige dieser Aufnahmen haben allerdings nichts mit dem Hantavirus zu tun.",
-      "source": "Correctiv (Allemagne)",
-      "source_url": "https://correctiv.org/faktencheck/2026/05/22/kein-hantavirus-einsatz-foto-zeigt-marineuebung-im-jahr-2025/"
-    },
-    {
-      "id": "fc-0494b4b875",
-      "manual": false,
-      "date": "2026-05-22T08:55:14+00:00",
-      "date_label": "22 mai 2026",
-      "tag": "alert",
-      "title": "Foto von Busfahrer ohne Maske hat keinen Bezug zu Hantavirus",
-      "title_en": "Foto von Busfahrer ohne Maske hat keinen Bezug zu Hantavirus",
-      "body": "Ein Foto eines Busfahrers ohne Maske und Schutzkleidung verbreitet sich online in falschem Kontext. Der Fahrer transportierte keine Passagiere nach Ausbruch des Andes-Hantavirus, sondern zu Beginn der Corona-Pandemie.",
-      "body_en": "Ein Foto eines Busfahrers ohne Maske und Schutzkleidung verbreitet sich online in falschem Kontext. Der Fahrer transportierte keine Passagiere nach Ausbruch des Andes-Hantavirus, sondern zu Beginn der Corona-Pandemie.",
-      "source": "Correctiv (Allemagne)",
-      "source_url": "https://correctiv.org/faktencheck/2026/05/22/foto-von-busfahrer-ohne-maske-hat-keinen-bezug-zu-hantavirus/"
-    },
-    {
-      "id": "fc-fabb8734ff",
-      "manual": false,
-      "date": "2026-05-20T15:20:43+00:00",
-      "date_label": "20 mai 2026",
-      "tag": "alert",
-      "title": "Nein, diese Karte zeigt keine Hantavirus-Fälle",
-      "title_en": "Nein, diese Karte zeigt keine Hantavirus-Fälle",
-      "body": "In Sozialen Netzwerken verbreitet sich eine Karte, die nach dem Ausbruch des Andes-Hantavirus auf einem Kreuzfahrtschiff angeblich sehr viele Fälle weltweit zeigt. Doch die Punkte auf der Karte von „hantavirusmap.com“ haben eine andere Bedeutung.",
-      "body_en": "In Sozialen Netzwerken verbreitet sich eine Karte, die nach dem Ausbruch des Andes-Hantavirus auf einem Kreuzfahrtschiff angeblich sehr viele Fälle weltweit zeigt. Doch die Punkte auf der Karte von „hantavirusmap.com“ haben eine andere Bedeutung.",
-      "source": "Correctiv (Allemagne)",
-      "source_url": "https://correctiv.org/faktencheck/2026/05/20/nein-diese-karte-zeigt-keine-hantavirus-faelle/"
     },
     {
       "id": "fc-d43c59f067",
@@ -78,19 +39,6 @@
       "body_en": "Trente passagers avaient quitté le navire lors d’une escale, alors qu’on ignorait encore tout de la présence du virus à bord. Depuis, la majorité d’entre eux est à l’isolement, mais plusieurs ont continué à voyager.",
       "source": "Libération — CheckNews",
       "source_url": "https://www.liberation.fr/checknews/hantavirus-a-lisolement-ou-encore-en-voyage-que-sont-devenus-les-passagers-du-mv-hondius-debarques-a-sainte-helene-le-24-avril-20260513_OV7R6YXN7BCZJGVMY62CACI2EE/"
-    },
-    {
-      "id": "fc-a8429fc4ca",
-      "manual": false,
-      "date": "2026-05-13T11:03:13+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "alert",
-      "title": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
-      "title_en": "Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben",
-      "body": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
-      "body_en": "Online kursiert ein Video, in dem sich US-Präsident Donald Trump angeblich zur WHO und dem Hantavirus äußert. Demnach versuchten „linke Fanatiker“, Angst zu schüren und Covid-Beschränkungen zurückzubringen. Doch das Video ist mehrere Jahre alt.",
-      "source": "Correctiv (Allemagne)",
-      "source_url": "https://correctiv.org/faktencheck/2026/05/13/hantavirus-altes-donald-trump-video-ueber-corona-pandemie-falsch-zugeschrieben/"
     },
     {
       "id": "manual-new-virus",

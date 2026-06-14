@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T22:04:07.854760+00:00",
+  "updated_at": "2026-06-14T00:06:27.171049+00:00",
   "items": [
     {
       "id": "feed-e8beb72185",
@@ -132,19 +132,6 @@
       "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01186-4/fulltext?rss=yes"
     },
     {
-      "id": "feed-e778283ce9",
-      "manual": false,
-      "date": "2026-06-12T23:37:00+00:00",
-      "date_label": "12 juin 2026",
-      "tag": "media",
-      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - KKCO 11 News",
-      "title_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - KKCO 11 News",
-      "body": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; KKCO 11 News",
-      "body_en": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; KKCO 11 News",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDNSN0UwS1pJSm1lVmV5OXEtdFh1V0M1bGo4eHpvRmc0anI4bzJxZXpLcFo2V2l4WjFHRVI0Y0c2b0VSVjZvTzgwYkFOaFduU0wwSXVHNmFDWTJiekRqSTAxcG51Y0ZiVEZfSEhEZ29IZ19JYTV6RzNNeVQ5MkktQnExdlB4bGh0ck8xcFBXUTlsZDQwS0FxcGJMdGp5SHF1SEZfSlU3YkpHaU90Wk9wZW96TURwb1FqeDVDZDVNUlpQU25OdlE?oc=5"
-    },
-    {
       "id": "feed-3babd40c02",
       "manual": false,
       "date": "2026-06-12T23:08:45+02:00",
@@ -234,19 +221,6 @@
       "body_en": "Hantavirus : pas de rongeurs de l’espèce potentiellement porteuse de la souche dans la province de Mendoza &nbsp;&nbsp; Le Parisien",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNajR2WTlLeEZRMjdZSC1TZDR4OFA2YTZCUDZyYzJNSlEtSzF2QnRYbTZycVNsRGx4M0Y2Q2tCZVZUajRqTHl5YWFMQmk3M2s0VTVfU3prUG5yeWs0cEZkc1FQQnVxMU9hZm45cmczbHYzLWpOTUhEUE1yZ0NKWUlMS0pfU0FsRzdjajFjSGRGSUlvM1U4NGliVjBhd3h0VkxxWUdEck5DWlJ6alg5UE95c0VudkROLVJjUWZKaVBlSnNjR1plUUw0YVZCWG50amhLT0g0Y25mMVlUbVVXY1YxUThPSXdxTk1GX1prbjlVdF83OFd1dkN3M2t0SWV4Z1JPUGY3cU5XRmx2czVMU3hURm5TSQ?oc=5"
-    },
-    {
-      "id": "feed-e6405e7c2a",
-      "manual": false,
-      "date": "2026-06-12T20:12:32+00:00",
-      "date_label": "12 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus: pas de rongeurs de l'espèce potentiellement porteuse de la souche dans la province de Mendoza - Le Journal de Montréal",
-      "title_en": "Hantavirus: pas de rongeurs de l'espèce potentiellement porteuse de la souche dans la province de Mendoza - Le Journal de Montréal",
-      "body": "Hantavirus: pas de rongeurs de l'espèce potentiellement porteuse de la souche dans la province de Mendoza &nbsp;&nbsp; Le Journal de Montréal",
-      "body_en": "Hantavirus: pas de rongeurs de l'espèce potentiellement porteuse de la souche dans la province de Mendoza &nbsp;&nbsp; Le Journal de Montréal",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV3I5U1EwTm1VaHZEaWRuV2F6NkVFNjR3UUlIWUJwekhQb0Zval9wdmdrNU4tQVNHeC1XR002VVhaTW1iTi1GMHU0aDVsdW9rTHZyeW9KS3JKcWJYckUzYVpIdXFiOUY0U3UtRWVVUUNTdmszQTZXcXZhRUM0MURpLVJoTXk2ZGFfWHZKeVUybUhwUDdsTnUzTXpIZXFfVWVwVk4tMFozR2o1SWVrMXpTR1hlYTUwa3lmd3hPOFdXSEh4WHBGY01wd2NKN19JOEwxTGdCZGo0YnNucEgzMmUxREdB?oc=5"
     },
     {
       "id": "feed-472031de55",
@@ -366,30 +340,56 @@
       "source_url": "https://www.theguardian.com/commentisfree/2026/jun/12/covid-measles-hantavirus-ebola-risk-communication"
     },
     {
-      "id": "feed-90fcb25758",
+      "id": "feed-5c9c17ea82",
       "manual": false,
-      "date": "2026-06-12T12:25:57+00:00",
+      "date": "2026-06-12T09:09:27+00:00",
       "date_label": "12 juin 2026",
       "tag": "media",
-      "title": "San Quentin prison reports possible hantavirus case - The Mercury News",
-      "title_en": "San Quentin prison reports possible hantavirus case - The Mercury News",
-      "body": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Mercury News",
-      "body_en": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; The Mercury News",
+      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "title_en": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "body": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
+      "body_en": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1BmZDdZa0hkSGFNUGdEWEY0cjh5TTFSbmI0bzAxSWhxMHUzM0tzUVU0VDJFS3BuTGhhcmZjWkV0bE9JblFDZlRIcTdsdXM1SVcyenphQ2R3MlRiQ0hxVC15T1poM1BVQjU2QkQ1YnZtUE1tMnFtakxZaTIxS0JSb0Y5NjBMZ0hibV95Qm9XTkR5NVduSXfSAZsBQVVfeXFMTkh1UnYtZXZxeEluU09hSlBJM1dWMHB3T3k0ZTJxWlFYXzY1TElRNlJGSXlfLXpwR0c0a1RnbURSRWF0SVBibHBKT1JkOWRSQmlsYmFYazYtd3E1NWw1bGFXSEJCeU9UcTNYb25TLS1PazRzeUNaLXBQU191WnhpMllQcVhlVld2NEc1T1llejVQMkNMREMxTWloRk0?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5"
     },
     {
-      "id": "feed-a0b85391f4",
+      "id": "feed-8ec8d7c81b",
       "manual": false,
-      "date": "2026-06-12T10:53:53+00:00",
+      "date": "2026-06-12T07:00:00+00:00",
       "date_label": "12 juin 2026",
       "tag": "media",
-      "title": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - assemblee-nationale.fr",
-      "title_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - assemblee-nationale.fr",
-      "body": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; assemblee-nationale.fr",
-      "body_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; assemblee-nationale.fr",
+      "title": "Breakthrough in Single-dose Vaccine for Andes Hantavirus - Labcompare",
+      "title_en": "Breakthrough in Single-dose Vaccine for Andes Hantavirus - Labcompare",
+      "body": "Breakthrough in Single-dose Vaccine for Andes Hantavirus &nbsp;&nbsp; Labcompare",
+      "body_en": "Breakthrough in Single-dose Vaccine for Andes Hantavirus &nbsp;&nbsp; Labcompare",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUFsUHJIYkpPUzVHRlpXZG9hdFhBUWx0UDBOd3lyQjNZMU95UEljOHppaDRNR1hXSWxOcnAwcUFUYTRfb2ptSkxkdFBrV1JUODBQYm55bmxKMFNxWlFiZkJHZ3NFcjhzOHA5M3ZFZlA1WDdEbWEweGl0Qy1QX1EzeXA5T3k3cDBNSU9mcVl5WVhfYWVqbnRCOUhDZTlGX2R3WkE?oc=5"
+    },
+    {
+      "id": "feed-d8b9dfa19b",
+      "manual": false,
+      "date": "2026-06-12T02:48:00+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "Single-dose vaccine provides complete protection against Andes hantavirus - News-Medical",
+      "title_en": "Single-dose vaccine provides complete protection against Andes hantavirus - News-Medical",
+      "body": "Single-dose vaccine provides complete protection against Andes hantavirus &nbsp;&nbsp; News-Medical",
+      "body_en": "Single-dose vaccine provides complete protection against Andes hantavirus &nbsp;&nbsp; News-Medical",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQenlPRV9DTmlTY3pUN19McG1YTmR1VVVIX2VQLU54OHprUHNNbzdCRWl6TDlic0RNQTJpREZ2cGtCV3ktWTVmb0xiVjh2TDBqRHl6anBKSTJNS2ZfWDJZeUpTMUFCZ0JHeDd5S3NjSktETGt4WUdjaFVTUTBvejAydm1GSUdfeVI5aUNGZ0NzbS1NSTBxazAzV1YwRnR2b19laGdQbjY4LXhKVkpuek5SZHZwTUxxSl9NOW1HUUZB?oc=5"
+    },
+    {
+      "id": "feed-f19b66b7ed",
+      "manual": false,
+      "date": "2026-06-12T00:25:30+00:00",
+      "date_label": "12 juin 2026",
+      "tag": "media",
+      "title": "[#Décryptage] Hantavirus : « Chaque pandémie rejoue avec un scénario différent le désastre causé par l’action humaine sur les animaux » | ENS - PSL (ENS",
+      "title_en": "[#Décryptage] Hantavirus : « Chaque pandémie rejoue avec un scénario différent le désastre causé par l’action humaine sur les animaux » | ENS - PSL (ENS",
+      "body": "[#Décryptage] Hantavirus : « Chaque pandémie rejoue avec un scénario différent le désastre causé par l’action humaine sur les animaux » | ENS &nbsp;&nbsp; PSL (ENS",
+      "body_en": "[#Décryptage] Hantavirus : « Chaque pandémie rejoue avec un scénario différent le désastre causé par l’action humaine sur les animaux » | ENS &nbsp;&nbsp; PSL (ENS",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZkNYSUNrdTZHR0FIS0ZZc0lEN2VWeXVnNU5lM09xb1JjanY5TnZ3RFBDZ0RCWEpXWXhkWmtoU0Nya1U2b1JFOTRkSnlVQTAtNFc4bjUwVEp2QjR5SVZvM1VXWkt5NExuazVtNjhueVhtNHVjSFk3SXVHSFpiOXNES09nU0ZHeC1SeGFuS2dEVlJMQjRxcFdrTFlWcTBRTU05NUR6R203cjdxMThqZHRlRGxCdHp6aTRrOUJsZmIxcjFFb3dZblJXTzVzak1DTW4yS1pkajktNUJyRXpkTEZYLUtRVm1FNmk4eFk0WkQ0bVZLY0VjblE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd25tYkdWdzFYX1kzWVZwb0VQcDdRb0RSS2VtVlVVOGZrcWVUbmpQQm1VVU4tSTZwWkNJU19YTnM4QzV4Xy1hb1kyaWJjcHNuemRhTVVCTDQ5RGtGM3U0eEw2UlM5bGQwT193aG96U0gtV1JwZGZVa0toQmtHMG41UjhXUnBBRVhFQ1FOeC1OaW9Xa0NUYzVXTUtDc0xab1REN2kzTGg0b1JuWHFWU09GbWc1WTA2aEpQ?oc=5"
     }
   ]
 }

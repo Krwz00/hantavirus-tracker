@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-06-17T06:10:59.488726+00:00",
+  "updated_at": "2026-06-17T11:47:50.507195+00:00",
   "items": [
+    {
+      "id": "feed-db3b204ab8",
+      "manual": false,
+      "date": "2026-06-17T09:28:54+00:00",
+      "date_label": "17 juin 2026",
+      "tag": "media",
+      "title": "Madrid's Gómez Ulla hospital discharges last hantavirus patient - Sur in English",
+      "title_en": "Madrid's Gómez Ulla hospital discharges last hantavirus patient - Sur in English",
+      "body": "Madrid's Gómez Ulla hospital discharges last hantavirus patient &nbsp;&nbsp; Sur in English",
+      "body_en": "Madrid's Gómez Ulla hospital discharges last hantavirus patient &nbsp;&nbsp; Sur in English",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPajEzV0MtNjVYSWdqd2ZNX3ZrZlBCMkRBS1FsZmN0YVFqeWREMGNMcWZ0OEprWXFNU2ViaGFYVEFQa2x3bnNWdEZpMldLd1k3WlUya1JaalBNLWVCUndOaUJkVDdLaE1MYV9HVV9jdk0yX0FVMlp0bjMtRU9aNmNRdXktMUM5N1Q1THJWbWRSS0dZUk1UTzVTTVFMUWZadWdfOWdlRERtWDh6S25LTlQ0OWZR?oc=5"
+    },
+    {
+      "id": "feed-b116d13812",
+      "manual": false,
+      "date": "2026-06-17T07:00:09+00:00",
+      "date_label": "17 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus, Covid, Ebola: avec la crise du climat, faut-il craindre de nouvelles épidémies? - BFM",
+      "title_en": "Hantavirus, Covid, Ebola: avec la crise du climat, faut-il craindre de nouvelles épidémies? - BFM",
+      "body": "Hantavirus, Covid, Ebola: avec la crise du climat, faut-il craindre de nouvelles épidémies? &nbsp;&nbsp; BFM",
+      "body_en": "Hantavirus, Covid, Ebola: avec la crise du climat, faut-il craindre de nouvelles épidémies? &nbsp;&nbsp; BFM",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRUxTWUVPdUh1UmdpLXJFT0RiNDZ6SDJZc3F2dnl2SVZpbGwwYmQ3S1lmTHhPNnNOOURkTjBIZXhDTHZpZXpGdE5jSTEwbTRBclFRMkNSU1BJQUhfU0Rtd25kb3NLcFY2RXpqdW9MTElWdHh4bVFlc01Jbk1VOVZmdDFiNXFBaXJpc1ZqNnVJNnZ6RVRGQktsaEhBSm9kNmg4Rmk2U0hPUmFtMUc1MFkweE9rOUp5aDMtV3I0bnFKOWNDWU8wbnhxMHBpWE5hV0hFVVVOVENCREw?oc=5"
+    },
+    {
+      "id": "feed-d6c700b8dd",
+      "manual": false,
+      "date": "2026-06-17T07:00:00+00:00",
+      "date_label": "17 juin 2026",
+      "tag": "media",
+      "title": "RFK Jr. Overrules Experts on Hantavirus Cruise Passenger - Newser",
+      "title_en": "RFK Jr. Overrules Experts on Hantavirus Cruise Passenger - Newser",
+      "body": "RFK Jr. Overrules Experts on Hantavirus Cruise Passenger &nbsp;&nbsp; Newser",
+      "body_en": "RFK Jr. Overrules Experts on Hantavirus Cruise Passenger &nbsp;&nbsp; Newser",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGNlVUNBQnA4aEwtMnNRMk45MzJDanVuODlpZ0laSWx0X1BqOHRkWkt1M09QTzZIM2kxN3A1TklQVkhzT2YtQ0NTdjlRYW42M05sTDBpbnd2RmIwV3NMaUh2SEJnLVBsSldJVVQxanRyNVZ2dFJqYk1NVVJqa0dvV2ducDJRTVk4WFprREJ2Ym14U3lEdlJUc0xpZzg?oc=5"
+    },
+    {
+      "id": "feed-19c11ba9b2",
+      "manual": false,
+      "date": "2026-06-17T05:27:08+00:00",
+      "date_label": "17 juin 2026",
+      "tag": "media",
+      "title": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity - BioSpace",
+      "title_en": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity - BioSpace",
+      "body": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity &nbsp;&nbsp; BioSpace",
+      "body_en": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity &nbsp;&nbsp; BioSpace",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWEJ3bHFObDcwSkluSEhyTDdUem9UTHQzaDRUYkRGYUxMMmtkUlBnYTVTX0laOVo2OGdITFR4RXpFMm5hRW9NSUhpbnlpaEg1UG5lLUF4R2RnN0g0U1lmVVdZaTZIVUdEbnBaVjRzUDhrd2RvRnk1Ny1tSEtYbFhySHBmUnpSdFpKYnJqNlRHS0pEd2tPck5HUmlSZ0Q2RmpPNG9DOTFDRGdMQjc3SmRBb25CQW5xOHV4R0NIUDcwcC1waU9WdDR4YjFSdkllQ2xmVEo0MjA1d2cwMUdjSmdKZW9xcXJVRGphRlFFdGpUZEpLT0RrZ3pzb0p0OGJONkpRX2JGRlF3dw?oc=5"
+    },
     {
       "id": "feed-9fbbe898b9",
       "manual": false,
@@ -13,19 +65,6 @@
       "body_en": "Video: RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; LiveTube",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFBNTlluMVV0NXpJNmZSZTFYczBESkJnNDlMNTVXOVVxcnJJZzU0Tjd6N0JjZWd5WWd6d0ktZHNyTmN5d1E0eXdsQWpGTENSMmpsNG5QWU81cDJsUWU2Ung2S2VxTnEyeFVPM3JIQ0I2VTR2eW90LXlETE1tZ0hoVEtfcDJlcjBxUExiNG9SakhOVmFYcVZCV2cybjVUeVNDWEgyWUV6b2pyZjVxU21HZUp3Y2I?oc=5"
-    },
-    {
-      "id": "feed-6d38c13179",
-      "manual": false,
-      "date": "2026-06-17T04:00:00+00:00",
-      "date_label": "17 juin 2026",
-      "tag": "media",
-      "title": "PODCAST : Hantavirus, Covid, Ebola: avec la crise du climat, faut-il craindre de nouvelles épidémies? - BFM",
-      "title_en": "PODCAST : Hantavirus, Covid, Ebola: avec la crise du climat, faut-il craindre de nouvelles épidémies? - BFM",
-      "body": "PODCAST : Hantavirus, Covid, Ebola: avec la crise du climat, faut-il craindre de nouvelles épidémies? &nbsp;&nbsp; BFM",
-      "body_en": "PODCAST : Hantavirus, Covid, Ebola: avec la crise du climat, faut-il craindre de nouvelles épidémies? &nbsp;&nbsp; BFM",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcGs5UVZYam83WDhyMlRUVnRMcjlyUDNXZ2JtTjdsTlY3cGp1NW1wWUZKX2NrT3RlSnNGblVZbXJXamdReHRObjlyNUdKMENsOWRieFZqLXh6a3lGYnkycXJVUFQtWExBeVdZVjJsZzd1YjZIVVZlbHFIcE5kN2kzc19WWXZ3MTRhUjRwRzNhR2c3NXhhV2YycG50a0RQbDJJU24tSGxpZXBrdjVscEYxZk11YXVJa1ltU29Cal8ybWtqSEdzRTJ5QS13LXltOW91N05MQk9VNkJ2SnlTbC1nRzUycWtDVkZENEQ0a3Y4RjBrdWlTc3c?oc=5"
     },
     {
       "id": "feed-5a5ebb77a2",
@@ -80,43 +119,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUJRZ2dXeUZFQ2VXdGowcm5MdlZLeVYwLXN4b3JGbFlqRkNwYjJrbVRuTG1xR1RGc1ZwaUlKY1h4Zjlob0NWX1l0UWJ5bnhTdEVBbTlrWXVGVVd0NnhDUExLdll5VHFlOWlpY3o0RDlYUEp3QlZ4RDRTY3pMaWh2UmZHc2VteDlxNTBiUVBNQQ?oc=5"
     },
     {
-      "id": "feed-05e7f51357",
+      "id": "feed-6d7c47de3a",
       "manual": false,
-      "date": "2026-06-16T21:53:16+00:00",
+      "date": "2026-06-16T21:43:23+00:00",
       "date_label": "16 juin 2026",
       "tag": "media",
-      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - The Washington Post",
-      "title_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - The Washington Post",
-      "body": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; The Washington Post",
-      "body_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; The Washington Post",
+      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger from Florida in quarantine - WFLA",
+      "title_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger from Florida in quarantine - WFLA",
+      "body": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger from Florida in quarantine &nbsp;&nbsp; WFLA",
+      "body_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger from Florida in quarantine &nbsp;&nbsp; WFLA",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmpDMFowOUt4M3d3b3pIb3RUa2NWaDJteFNGUEIxQ1piNHMtcTVQOWVpY1IyQlNaZlk0TWhMYWtsdldWSzZRMnB5VVc2djlaekRTN0ozcXUxZ0hRZ3gxeC1CRkJLVzdiRFhJTXNCT3VUbldBejNvZnVEYWJlVTFnMVBia1RWZlFSQnowa2JqWG10S1ZhZUhleG1QejczanRyWXdLYVRsRF9vaW1NNTU1aFlnUldObWdqeGZzYWVNV21HdjhwdWp4UXdNbGRhTHlCYUxBZmE0SUdfOUpw?oc=5"
-    },
-    {
-      "id": "feed-0bfdc58dce",
-      "manual": false,
-      "date": "2026-06-16T21:23:03+00:00",
-      "date_label": "16 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
-      "title_en": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
-      "body": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-      "body_en": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5"
-    },
-    {
-      "id": "feed-aa755fd16d",
-      "manual": false,
-      "date": "2026-06-16T21:15:47+00:00",
-      "date_label": "16 juin 2026",
-      "tag": "media",
-      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - Ottumwa Courier",
-      "title_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - Ottumwa Courier",
-      "body": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; Ottumwa Courier",
-      "body_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; Ottumwa Courier",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNR1JrbjU3c3gzVFh1cGc2Zm05WWt2TkdOODVjSTl6SnJlVmlmSWQtREd1SnRRRC1QVXBRWGtOd0RRRjE0dVRNM25TZHJzQjVxeUlROURfaHFwbDJGcE8tMzUzN3pqbG0xVEhsMnhIclNUTGlONFNoNmNkVTZEYkdLY3FlYjZUYW9ERUV5NUtsaE9xelB0UTRzTWxrelltOEhuZjhmT1hEeTNzLUlOMWNfN1AwSXNsVlY5SmF4Rmgyd1JVeG1ORFFacWxwSWF2RG4yUF80c1ZpZWdYZF9IRXpKZWxUbnV0WkNUay1PZzI2QkRlalFjNjFxMmJJWk0xdjgxQ2c5WlJEUVc3WHM?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3R3akRKRG9SUnF6ZF90QkJzZVhjVkdCcVllTXhGSWxLVzNJWFpxVTdiSlVuQjhEa245RHlRMW9uSzV6Z3EzMDJzRlVyMFd2STd6QXFEUHNfVWJUMTg2X2ExTjhCNFVGSlNDU0FQMW9NQ0lqM3BYaFRVUkJQRjcwVzgzN0hkVDZCWkdPX1pCWE9wMmlPMkFUU3RrMjBFS1pvWnNYN1NRMHFRTlh3TGR5Sk5sNVpKTmczWlpLYjgwNmtsZGJCVHfSAcsBQVVfeXFMUE93S0JSY25BanZqaVhieUxQOTdZS0VRX2dURTFrOXphZVcwOWR2dExGc2FTc1RIU25oOUVTY1R1bzMtcy1rMXo1YjhzTTBKc3RCa0ZFTVp3M2hsdzRUUlRnQnMzZVpmamdPeDdUdHRRT0JOTkJmQjFqUm9DRHhvSUctR00xNGpqMUVNVFRBYVU3UXFJY1BOemlORktjUFdaRk44eG54NlFhQ0d4eThjLUtXbTVKNDcwTl9WQnVaUnktUEhzOW41UnVCb00?oc=5"
     },
     {
       "id": "feed-2e3ee8d487",
@@ -158,19 +171,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHJhY0ZxSm9YSmdiMTBBQ1oxeFd1OGdBVXVTQ2d4ckFIbGw1N2xmS3F4bWM3RVJQSXJxRV80NXpyVnFzcXR5cWE3RXB3cVROV0NUMDZ4NVBRc2QxcXR4Q0JNMEx4WTJVSzNoYm1VZ0FqOHZCSlIxZEwzNWltTnp3LVZqbDVnZzFTUnd2bzZVRG1tOGcxUFA2Z2lrNUlKWUkzUm4zYndVY2o5cVF2WUdSTFUwMm12dGc4aTZPRWNaUUpfSTdDRmN5SVRLQkI?oc=5"
     },
     {
-      "id": "feed-6f1c2e97d9",
-      "manual": false,
-      "date": "2026-06-16T18:01:21+00:00",
-      "date_label": "16 juin 2026",
-      "tag": "media",
-      "title": "Wyden, Merkley, Colleagues Press Trump Admin On Growing Threat of Ebola and Hantavirus After Devastating Foreign Aid Cuts - Merkley (.gov)",
-      "title_en": "Wyden, Merkley, Colleagues Press Trump Admin On Growing Threat of Ebola and Hantavirus After Devastating Foreign Aid Cuts - Merkley (.gov)",
-      "body": "Wyden, Merkley, Colleagues Press Trump Admin On Growing Threat of Ebola and Hantavirus After Devastating Foreign Aid Cuts &nbsp;&nbsp; Merkley (.gov)",
-      "body_en": "Wyden, Merkley, Colleagues Press Trump Admin On Growing Threat of Ebola and Hantavirus After Devastating Foreign Aid Cuts &nbsp;&nbsp; Merkley (.gov)",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdVc2SXFLd2VhWmJ5ZUJvb0hpaE1QcFplMnVkbFVwUTZKS05kMUkwa0I5ZEtueEhGQUpxb1BRMUJOX19NbEpxY1hvVHRMcWthMzJtR0pjWG9rRW03ejVod0ZzWk5sLUxKTVJWb1QwYTFEUjJmTUJKWmlYbkllY3VJcHRVc18wb24tdkd4VVhySldacHdNWUQxTTItekZabzVQUkp3N296ZHN4d2tyWWdhVm14SDNhemNzcS1vQ2xtYmpTOXBFQ3pBeVU4Tzh5THRXUE9BOEwzTi02eTlidWVTNVJqYmhtUQ?oc=5"
-    },
-    {
       "id": "feed-451b5838d8",
       "manual": false,
       "date": "2026-06-16T16:55:15+00:00",
@@ -197,19 +197,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUdsclcwMGNUMko4Y0J4dXlRTEtrSW10enVpeVZuQ0VyeWpMT2dPZ2dYeWsxdDIzU0pMTW5xSHlUNGhYM3JjU1B4bzFDZlctRjhCZDR1YWlqZng0LUdMbGZmb19RQ3BIaWNBUkV5dWNJYnYyOXhGaFJXTlJLWFNucQ?oc=5"
     },
     {
-      "id": "feed-0b91d6dfa5",
-      "manual": false,
-      "date": "2026-06-16T14:08:00+00:00",
-      "date_label": "16 juin 2026",
-      "tag": "media",
-      "title": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity® - PR Newswire",
-      "title_en": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity® - PR Newswire",
-      "body": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity® &nbsp;&nbsp; PR Newswire",
-      "body_en": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity® &nbsp;&nbsp; PR Newswire",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNMDJRV0ZJMDVoS3huUjJSOXpSbm5kcnluaWdfbVdWU24wWnVlZFJRSEJMVkR3WkFqSFE2Mk9QOTdiWlFONVFDQm1OUm1Pc0ZaUkJqSEJuLURQWjdhR3BKY2J1clk2ckFORHFYMGtuRnJSRjk1V2lGUUtlNFViM0xyR0ZzRVZaY0tRTzZqSXl6SXhFbHNwVnRXNWw5VVFkM1dfRG9QSk90czNVZURkS2lPU1AyeUFKRkQ2Y2p3R2gyaE00UjZ6cGQ4SFJQVmxsYTljZmFTOWtYbkcyTlVPWWdUcGZHR1J0QnVjcmVKbVlRTnkwVVNqbFg4WXNXNjBPRlhIeVJoMVg1clM0ejNVX3dLRW9Odld6YS0zMW1ISg?oc=5"
-    },
-    {
       "id": "feed-dc158af210",
       "manual": false,
       "date": "2026-06-16T12:00:00+00:00",
@@ -223,17 +210,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWRGN2c1ZVJ1RVExcU82azNheHNUZ3RRdXIxS0VGQlRIT1NFZmdMZmdmS0JSWl9hcTJiNHpHaHFkVGNnUlJiN0xUNURQWkJ6R2JnazRJajdLRUFJV0xxNnd3a2RHUm9TU0VmbF80WTdWcUIzMTg0UVJPenhKdHF5STI3a1kxSHNQNnZucnpKMHlCZw?oc=5"
     },
     {
-      "id": "feed-39618df11e",
+      "id": "feed-bfb3aa61bb",
       "manual": false,
-      "date": "2026-06-16T07:33:59+00:00",
+      "date": "2026-06-16T04:10:46+00:00",
       "date_label": "16 juin 2026",
       "tag": "media",
-      "title": "Vaccine Breakthrough Targets Andes Hantavirus - EMJ",
-      "title_en": "Vaccine Breakthrough Targets Andes Hantavirus - EMJ",
-      "body": "Vaccine Breakthrough Targets Andes Hantavirus &nbsp;&nbsp; EMJ",
-      "body_en": "Vaccine Breakthrough Targets Andes Hantavirus &nbsp;&nbsp; EMJ",
+      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - People.com",
+      "title_en": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - People.com",
+      "body": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; People.com",
+      "body_en": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida &nbsp;&nbsp; People.com",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjVFUjREakhRZ3pGZnFjRGVuUTR4RTdRSFV0UjhNRzZjaVNodlN3TlJfNzdSWnJDdm1SZ0RlZWhZTTh1TlZsSkN0RGpnUnBaNTh5ZzBJNnU0UUhuUnN2TUk5TVlvRXBlZHVTcGZ3R0pyT3d2MlRFWUpHdGxRR0RGVk1Mejk0OUt3YXhFZTBfX3VPLW1IWmNBbFJqZlNwWGJXUkxUSGx2Z3lFbllyWXlsYQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTFSVE1Sdk10dy1maXVVUjhfLTlQbWhMbjVxbjBnY3lHSTdOeFFDcVhzbHB0NVA0dWkzS0laLU8zVGhhcDc2YnhvNElrYTFRV2pGS25Gc0xIMmxSRVM3YnY3anpENzZhc0JpLUFiS2tVeE9kb2plRWZyc3FteFFvX24tWnFwWlBocndkcWM5NF9vRmZmSGkzeVdkYmtUTDNk?oc=5"
     },
     {
       "id": "feed-7268714617",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus : aucun rongeur identifié de l’espèce potentiellement porteuse dans la province de Mendoza &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG5DREdDZ0hPLU56U0t0MGhKT1VaZEJmWHpLM1RjZFY3LWtLOS16azJwVFlGLWlfVlNrQmJlUnJIOTVSZ0llNEJ3WlVzcVZ5MkJqYVdjbmx0QjZGdlZZMzBPS0JMX1dMNEJyY3B6QmZ6c0JkU3NrNG1CRmg4TXVwYVhOUFJRWkVLbFZITUtqYk1uc21vZVowek1keEVfWHVweDkxNVJIRktxM1dpVk1ZMTRYOHBfUFUwTFU3SjhR?oc=5"
+    },
+    {
+      "id": "feed-88f36a25d9",
+      "manual": false,
+      "date": "2026-06-13T09:18:14+00:00",
+      "date_label": "13 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus : après une quarantaine au CHU de Rouen, le cas contact est sorti - Paris Normandie",
+      "title_en": "Hantavirus : après une quarantaine au CHU de Rouen, le cas contact est sorti - Paris Normandie",
+      "body": "Hantavirus : après une quarantaine au CHU de Rouen, le cas contact est sorti &nbsp;&nbsp; Paris Normandie",
+      "body_en": "Hantavirus : après une quarantaine au CHU de Rouen, le cas contact est sorti &nbsp;&nbsp; Paris Normandie",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXFpdVNIZHowSFZXbWZ2SHhHUGlpSTFSbmxIa1NkLU15MjhtQUpZeEtWVnRnZTI2SWg5MXNrblJQX2wta0JZTVJZWHVHMEJoOWdCaDRRRDRSU3AxVlRlcDRzN2d2RFFBNDhHbFc3eTUtMFkyNWpMSVFXUzY0RDA5bFpIem5uaDRaRjRHbEhOU3A1cU5zaWRuRzFiTFl0TG1heDFCSldBQTdKQ05vVlYzQW5MNVRiclVhYmo2RW9IcEg4VjViYWNuY0JQaVk?oc=5"
     }
   ]
 }

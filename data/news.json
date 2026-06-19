@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-18T22:07:47.409547+00:00",
+  "updated_at": "2026-06-19T00:26:18.674484+00:00",
   "items": [
+    {
+      "id": "feed-e6ceac0645",
+      "manual": false,
+      "date": "2026-06-19T01:41:50+02:00",
+      "date_label": "19 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers",
+      "title_en": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers",
+      "body": "« Sans nouveau cas signalé ni décès rapporté depuis le 2 mai, la situation demeure stable », a par ailleurs fait savoir le directeur de l’Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus.",
+      "body_en": "« Sans nouveau cas signalé ni décès rapporté depuis le 2 mai, la situation demeure stable », a par ailleurs fait savoir le directeur de l’Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus.",
+      "source": "Le Monde — Planète",
+      "source_url": "https://www.lemonde.fr/sante/article/2026/06/19/hantavirus-a-bord-du-mv-hondius-la-quarantaine-levee-pour-la-quasi-totalite-des-passagers_6704750_1651302.html"
+    },
+    {
+      "id": "feed-91b86b89d1",
+      "manual": false,
+      "date": "2026-06-18T23:41:50+00:00",
+      "date_label": "18 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers - Le Monde.fr",
+      "title_en": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers - Le Monde.fr",
+      "body": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers &nbsp;&nbsp; Le Monde.fr",
+      "body_en": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers &nbsp;&nbsp; Le Monde.fr",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ1RORy1GZkJNQk9mbkVKRFprT3hkQ1VPdGF4TXpsTUE5dmp1TFptQUFpZGl2S3RsX1E2Y283RFh0N29VbWdRVlVldzRvbTJwSTVwR0hEWDZUWnFmbW1wMF93eFcyd0xHa3JDb1k2RkFBU2lyeksxMVFHNUpCb0doRlY0MU5VR0xOYkhrZTNlQ0lKRWotdUMwaHlDS2pVQ21vT3poQnZ2YnlieVZHdllSNnhJbG9SUVlhakltNkpGZlprZ0Z3WEhWZ3NJQU1neWlUOHF1VGY5MF9oOXQ0enp5eThSUXF3dmg2MVVNa3F1QQ?oc=5"
+    },
     {
       "id": "feed-23b4c7365a",
       "manual": false,
@@ -13,6 +39,19 @@
       "body_en": "Le directeur de l'Organisation mondiale de la santé (OMS), Tedros Adhanom Ghebreyesus, a fait cette annonce sur X jeudi.",
       "source": "France Info — Santé",
       "source_url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-quarantaine-levee-pour-presque-tous-les-passagers-et-membres-d-equipage-du-navire-touche-par-l-hantavirus_8068334.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "feed-668a61671c",
+      "manual": false,
+      "date": "2026-06-18T23:19:35+00:00",
+      "date_label": "18 juin 2026",
+      "tag": "media",
+      "title": "Quarantine over for almost all hantavirus ship passengers, crew - NST Online",
+      "title_en": "Quarantine over for almost all hantavirus ship passengers, crew - NST Online",
+      "body": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; NST Online",
+      "body_en": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; NST Online",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNno0eTNfdDgzVU5RaHlyYzBZSTVXbVdyVkg0QmRHQjZaZlA0NGs0OU5OTXVNSmJlSDVRQmNBWjR0a0VFdHVmSlBaRk5Vd0JJMmVaN21iODh2SlFLREdxcVJUbGozNTJ0Mm5SeVF1M2U4LUVDOGVJTlZVTnFaeV9ZcEw4WHRlX21vNjI4YVFWXy16SWh5MGFqTFJfcmdEdjZmYzNIMTdQeWlpeUU0ZFHSAbMBQVVfeXFMUEUzb2NpRV92aThSMklieDU4TUxXTGxodHMzbVpNRGxZZVVkNXBfR1BmSThzenFNWjFuQzNxdWhGQmhkdWlHVXlIcDJOOTB6LW5HZE9YYTBDWS1KSkV0T3FPLTlSSldYcm9fVkxiLWhtMlBYMERRNG5YVGZxTGdoUGhzUFNFZnpILU1qLVNjQ1FGWm1aNUNUSF9Ic2lfNDVadGstMmJGV3pza2VLNUJjVDY5SlE?oc=5"
     },
     {
       "id": "feed-41278243d9",
@@ -28,43 +67,30 @@
       "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2Q1aEVGWFA4LTFKemROcGVlMnlpajBDSFdjdDVrN1pKSENySG1ROXhGYm0xWnZsQ3NHeTFlelBNTGt6bHVhN0xEUzdfYkdUM1VNQWVITnpFT2l5STl5WWdHLXl5aElUTDhwbG1VNUZtTFhSYkl2UUUtSFlBejRsZHY3T1ZYcDFSR0NuM0xCRlZ1cDlfNUhXaWhwN09RckwyREtnWEVNcnNSemdKMFRrXzFzOGtabGhvQks1dmVlalYweG1mSDJnZnY3NzlmOHM1NzhPZTFVSl9TSnA2VERVdkc3NzVQVk9mZEc5WU5yNTk5cTJiX3NlcjV1SnY2THlzUWc?oc=5"
     },
     {
-      "id": "feed-7e1d484c40",
+      "id": "feed-5122c761e7",
       "manual": false,
-      "date": "2026-06-18T21:19:32+00:00",
+      "date": "2026-06-18T21:19:00+00:00",
       "date_label": "18 juin 2026",
       "tag": "media",
-      "title": "Hantavirus: la quarantaine levée pour presque tous les passagers du navire - TVA Nouvelles",
-      "title_en": "Hantavirus: la quarantaine levée pour presque tous les passagers du navire - TVA Nouvelles",
-      "body": "Hantavirus: la quarantaine levée pour presque tous les passagers du navire &nbsp;&nbsp; TVA Nouvelles",
-      "body_en": "Hantavirus: la quarantaine levée pour presque tous les passagers du navire &nbsp;&nbsp; TVA Nouvelles",
+      "title": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus - Ma Ville",
+      "title_en": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus - Ma Ville",
+      "body": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus &nbsp;&nbsp; Ma Ville",
+      "body_en": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus &nbsp;&nbsp; Ma Ville",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZsLVphN3Y5eXFEUFI4MEtIN2lSVlJCTVpaZzZ4NUFlYUx4SjFFS2lfVFdDOHFkU1pLeVVrQ29xVVZXMWFzUWxGOTRQaExvWlF0dW9uRlAzMlc4c3h4dDdlNm9rc2dBWjFBblNDVlkxZG5SOFNlMVNtek5hZkYyNlFuYXQwbFJTanJienF3WjJYTkY4NXNwR1RuX1c4Y0x4MHB2dDF6RjRhUUZtYTdFeHNB?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZXRfSVlPWl8tc0tHbnlRTGdlX3I4ODZfaklqRFNLYVhjcjdqbTdPUmFEWEg0b0ktM1llY2dnaEwyZDBfTlNZek51U3JUZVc2RTUzcDdCVy05UkR0Sjc2ODVNdnVCZ19LMUQ1Sm1KUHJmbkZVUlRPY1Rpc2pZcDR4emY4dF9lRUhMZllCYzNwOG5jZC1qZ204VWZxak9XNWFYUGZvRlVMVl93YUM5cGNsN0RyelkxWmtmTFRWUWp6OFlCMzJoekxHTmcxMFZ3eFdoc3ZJR1BHMV9LNkotSHptalBPUkhXUk02Y2V2UDBfVl83dw?oc=5"
     },
     {
-      "id": "feed-6d2c7c7009",
+      "id": "feed-978d627699",
       "manual": false,
-      "date": "2026-06-18T21:19:18+00:00",
+      "date": "2026-06-18T20:49:08+00:00",
       "date_label": "18 juin 2026",
       "tag": "media",
-      "title": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus - Ouest-France",
-      "title_en": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus - Ouest-France",
-      "body": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus &nbsp;&nbsp; Ouest-France",
-      "body_en": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus &nbsp;&nbsp; Ouest-France",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX2E1REI5VVg1N09mVEh2eF9WQXZWRlNFMThBejZXWWtSdldRQ2hMVTVjMWFQZ0pDOWR3YVRhYW9VUEU1NUNFdnNhYlVUMkhWTjJzM1dIMVFWenJLWGFlWW04cFdmYms0Zl9wWjdxbEswbjE2NWpYYTRybjdjdVE5RUVoYWphbzlMZHRDZjY0T0VCUFg3WG1fcUd6R0hOV281M01tX1pDcmpDVnZ5aFdFaWdZOVVfU2czbmdoWE5Va19FMTl5bXhodjlTcjdwSFpwRTBpd1FDQWRoN2tuUmlKQjhhRWRjcHM3SnEyQlFSeXlrZmd6c096MW9UX1hoczZzUmJF?oc=5"
-    },
-    {
-      "id": "feed-677f455a1e",
-      "manual": false,
-      "date": "2026-06-18T20:48:07+00:00",
-      "date_label": "18 juin 2026",
-      "tag": "media",
-      "title": "Quarantine over for almost all hantavirus ship passengers, crew - Yahoo",
-      "title_en": "Quarantine over for almost all hantavirus ship passengers, crew - Yahoo",
-      "body": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; Yahoo",
-      "body_en": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; Yahoo",
+      "title": "Quarantine over for almost all hantavirus ship passengers, crew - France 24",
+      "title_en": "Quarantine over for almost all hantavirus ship passengers, crew - France 24",
+      "body": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; France 24",
+      "body_en": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; France 24",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhHLWhoNFlfT2tNVGFsTS0ybnd5bEdWeURfamZtRTR5aGZvd3k2bzdOTFdLbW1aT1lDWlZlZ0pkRVhRQmVROEpBbnl5b3JGRVppQ0J2bUNMeXluLW1wcVNjNDFZUnlXdEFaYkpUdzVmYnpfdHlqRUVlV2dDVXk5bHhTcXA4bUxyR0V3Y3lVZXhVQTRKTWhXa1BqZ21iQQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWtwVEFsdHBvZm9ZZEVncl9iaWxqbk9ZZFJyTTlNeVR1QnExVjV1cU5oVXVJWUtFT3U1eExWTkQ4eVlGVkNlZ0VhWHEzRWZValJJdEllWDgySU9LbVJDTnBtSzhQQnRXbmdrVWNGV0FqRE9yR1NTakdWNnlScTZmWEI4RkhpdEctaDJ6eE5tWUxoY3RBZThxVFVUc1hUUU95dXpwaV9TcExEdGVlSVE?oc=5"
     },
     {
       "id": "feed-b10180f537",
@@ -82,7 +108,7 @@
     {
       "id": "feed-f43d541101",
       "manual": false,
-      "date": "2026-06-18T18:10:40+00:00",
+      "date": "2026-06-18T18:11:43+00:00",
       "date_label": "18 juin 2026",
       "tag": "media",
       "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
@@ -134,7 +160,7 @@
     {
       "id": "feed-6632314def",
       "manual": false,
-      "date": "2026-06-17T22:51:00+00:00",
+      "date": "2026-06-17T22:53:24+00:00",
       "date_label": "17 juin 2026",
       "tag": "media",
       "title": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end - Australian Broadcasting Corporation",
@@ -340,6 +366,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRUxTWUVPdUh1UmdpLXJFT0RiNDZ6SDJZc3F2dnl2SVZpbGwwYmQ3S1lmTHhPNnNOOURkTjBIZXhDTHZpZXpGdE5jSTEwbTRBclFRMkNSU1BJQUhfU0Rtd25kb3NLcFY2RXpqdW9MTElWdHh4bVFlc01Jbk1VOVZmdDFiNXFBaXJpc1ZqNnVJNnZ6RVRGQktsaEhBSm9kNmg4Rmk2U0hPUmFtMUc1MFkweE9rOUp5aDMtV3I0bnFKOWNDWU8wbnhxMHBpWE5hV0hFVVVOVENCREw?oc=5"
     },
     {
+      "id": "feed-11ee285cf9",
+      "manual": false,
+      "date": "2026-06-17T03:43:02+00:00",
+      "date_label": "17 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska - The Washington Post",
+      "title_en": "Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska - The Washington Post",
+      "body": "Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska &nbsp;&nbsp; The Washington Post",
+      "body_en": "Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska &nbsp;&nbsp; The Washington Post",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5"
+    },
+    {
       "id": "feed-6ac30e557d",
       "manual": false,
       "date": "2026-06-16T22:59:32+00:00",
@@ -351,45 +390,6 @@
       "body_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; The Lufkin Daily News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRlJGejNZMjkyckl4VlBWRmtuQkVaYjBYbGRXcTFWR3VyWmJ5c0Z4MW5kOWVJRWZfOWhBcmp3UzZKMEhuVHdSR1J2XzEyX1BWVGphbzJZQWhBSmZzWFNFdEZqOGd1UWVkMWpLZDRDZ3BJZFZGZ1BNSE1TMXprSkdpUXJJcG8zZ2EyYkpkRGRSX1ZjMjVlN3VJNVlKVVVkanVYV1Etamx0aVhPYnFpaEU0Ym9tMklvang0VFNKV3JfTnVVa1hLZlpfYTlBQWVnZkIzNnViRnExN1FpRWtGdTU5Sm1NVUxPbDJ4b3hLQ3FOeEJSdFRrNWlMXw?oc=5"
-    },
-    {
-      "id": "feed-56bbed1655",
-      "manual": false,
-      "date": "2026-06-16T22:59:00+00:00",
-      "date_label": "16 juin 2026",
-      "tag": "media",
-      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - AP News",
-      "title_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - AP News",
-      "body": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; AP News",
-      "body_en": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; AP News",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2dLRTQ5Y0Nja3V6QXkyMHlXaUxmUjQtN3lIRG1mRkt0SnlQOEFtOGdqZEo5VmlMVVp6WXhfVVVEaUxqX2NqN2tRemlZbUg3RmdyVW9LRzRLYWpMTXlLSEt6Qnp3V1h5UldLbEs5NW5RakZadW5LMUhPMlN2ZzJzdURZOHVIWVlnbjVFOXBTdEVmcE93SkVpMEZzdkFwX2o4eERJbFFuamJQU28?oc=5"
-    },
-    {
-      "id": "feed-1058a44171",
-      "manual": false,
-      "date": "2026-06-16T22:45:27+00:00",
-      "date_label": "16 juin 2026",
-      "tag": "media",
-      "title": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility - CNN",
-      "title_en": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility - CNN",
-      "body": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility &nbsp;&nbsp; CNN",
-      "body_en": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility &nbsp;&nbsp; CNN",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUJRZ2dXeUZFQ2VXdGowcm5MdlZLeVYwLXN4b3JGbFlqRkNwYjJrbVRuTG1xR1RGc1ZwaUlKY1h4Zjlob0NWX1l0UWJ5bnhTdEVBbTlrWXVGVVd0NnhDUExLdll5VHFlOWlpY3o0RDlYUEp3QlZ4RDRTY3pMaWh2UmZHc2VteDlxNTBiUVBNQQ?oc=5"
-    },
-    {
-      "id": "feed-955121e266",
-      "manual": false,
-      "date": "2026-06-16T21:50:00+00:00",
-      "date_label": "16 juin 2026",
-      "tag": "media",
-      "title": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice - WSJ",
-      "title_en": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice - WSJ",
-      "body": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice &nbsp;&nbsp; WSJ",
-      "body_en": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice &nbsp;&nbsp; WSJ",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0FSc2VIX0dVdEdLcXVJRERsaS14cDJiVmZlLUtNUXQyS1JIUkw5eTVzVXY1OUNNSzhNbEJiYjM3cWxRQV9BOE1EUzc4S0xwd1o5VmpvRGRuam5jOGV2WHdBNEJUdFlIZFdQaGtiRmc2NF9NQjU3UG95dGNjZ09oajZoWTBYWUxVOWRyenpGUkZ6ai1fT0ZUR0xBd2RydnlpYlNLWVZMMDJnenB6V2wzdDlkQ3hOa2ZjVWRjR2R5djNmQ1JhZVkya1I3MHo?oc=5"
     }
   ]
 }

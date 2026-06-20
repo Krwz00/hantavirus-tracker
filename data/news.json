@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-06-20T08:55:16.735817+00:00",
+  "updated_at": "2026-06-20T11:19:01.002992+00:00",
   "items": [
+    {
+      "id": "feed-02ac480507",
+      "manual": false,
+      "date": "2026-06-20T11:00:05+00:00",
+      "date_label": "20 juin 2026",
+      "tag": "media",
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
+      "title_en": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
+      "body": "Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into contact with a hantavirus patient, health law experts say. The mandatory…",
+      "body_en": "Kennedy overrides CDC order saying an American who came into contact with hantavirus can self-quarantine The Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into contact with a hantavirus patient, health law experts say. The mandatory…",
+      "source": "The Guardian — World",
+      "source_url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine"
+    },
+    {
+      "id": "feed-ea333cd307",
+      "manual": false,
+      "date": "2026-06-20T11:00:00+00:00",
+      "date_label": "20 juin 2026",
+      "tag": "media",
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
+      "title_en": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
+      "body": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine &nbsp;&nbsp; The Guardian",
+      "body_en": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine &nbsp;&nbsp; The Guardian",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5"
+    },
+    {
+      "id": "feed-8ff633869b",
+      "manual": false,
+      "date": "2026-06-20T06:54:04+00:00",
+      "date_label": "20 juin 2026",
+      "tag": "media",
+      "title": "Quarantine over for almost all hantavirus ship passengers, crew - ABS-CBN",
+      "title_en": "Quarantine over for almost all hantavirus ship passengers, crew - ABS-CBN",
+      "body": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; ABS-CBN",
+      "body_en": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; ABS-CBN",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHNuWm1aUjNBbWlTYk45Tlc4V2RlWkt2TmRCTFlwZmR1ZGJCcXN3QW5jY0hVSHpCMm9QVjRldXFobTRPT0lvRDdxdTZma21yNnhNTkFaN1pzLS1LVXZNZDZzZVR5YnMyUnBWM3g3a0Fla2ZXS1k5TmthUmNUbnljbWxOY0hDWUcwX0RsZUo1VXBTcXpURHBaOEgyQUpLdGk1VVFUVkVHZTVEQTRGWjFUakR3?oc=5"
+    },
     {
       "id": "feed-ca89d5dba2",
       "manual": false,
@@ -351,45 +390,6 @@
       "body_en": "RFK Jr. orders hantavirus patient to remain in quarantine &nbsp;&nbsp; KVUE",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWpwNldtT2NkLUxnRURaTTJnd19nTmlrU2k0YVY2ckU1YmJzNDdCVkIzQVdWT0ROWkdLUGdoc2c1NVFCZWtDNGRJdnE2a0k1NjRIaTgtMlBPOWRfTFRMc3FIVWtCUnFNQ1Fsb1ZBNmZMSlFTb01DWGpOSElEM2pEeWx0d28zMkZ3cm0tOHFMVUZjMlhRMFVDNVBhMEowQjBtOERSbFJZWi1YR1ByTmcxa3M2UFgtYVE?oc=5"
-    },
-    {
-      "id": "feed-3f093a5b82",
-      "manual": false,
-      "date": "2026-06-17T19:07:24+00:00",
-      "date_label": "17 juin 2026",
-      "tag": "media",
-      "title": "RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine - LiveNOW from FOX",
-      "title_en": "RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine - LiveNOW from FOX",
-      "body": "RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine &nbsp;&nbsp; LiveNOW from FOX",
-      "body_en": "RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine &nbsp;&nbsp; LiveNOW from FOX",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXM0ZVhndUtySjVtQ2xJN21pT2xkdVJEeXVvY3NtdlI0ZFNiZ25UTXdSMzJiYXpmWXk4QzdpQXppdDBnTTZRYl8wcUpfTzFJeUxnazNvTFpZV0xTNl9FN1FFXzM3dWdXbFlzWWljZjZiVndkT0hWbjdpQjBGOVhUYXhRWndxckMyZDhuRF9pMUVGMkplWFZ2cGln0gGfAUFVX3lxTE5SYVNUSG1yY3lJZmlRZ0MzVHFsMHc5SVY5MlBJZ2laT1hUUkgyUjR3dDJDVHhrelFZOENWWEVYTDBOWDJBdGpsc1hBdXF2QXpQYTJ6YTJNSGNBQm1lSzlGS2w5Tl9HSVVqSlExM3ZoMFVDbGVSdmpCSi1SSTlkd2dsWnFYUVl6M1BaVVM0MHY3eFhoU1VNZ0VqQzVINHhTbw?oc=5"
-    },
-    {
-      "id": "feed-796234c99d",
-      "manual": false,
-      "date": "2026-06-17T18:27:51+00:00",
-      "date_label": "17 juin 2026",
-      "tag": "media",
-      "title": "VIDEO: RFK orders cruise ship passenger exposed to hantavirus to remain in quarantine - KIRO 7 News Seattle",
-      "title_en": "VIDEO: RFK orders cruise ship passenger exposed to hantavirus to remain in quarantine - KIRO 7 News Seattle",
-      "body": "VIDEO: RFK orders cruise ship passenger exposed to hantavirus to remain in quarantine &nbsp;&nbsp; KIRO 7 News Seattle",
-      "body_en": "VIDEO: RFK orders cruise ship passenger exposed to hantavirus to remain in quarantine &nbsp;&nbsp; KIRO 7 News Seattle",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM0N3NGtBc3hPdlZ5UnZDOXhlMG5UdW1ydWozNnRNUkJ3NEwtTnRJWDFLUUp2a0dIT0lnSHdzOXVHVjVUOFFuS2xlYjJPV2ctMkFEZUNJbThsQjM4aXRhclVZeWNkdGxjTERyZkFhU1lfOTRDejFWZ0xhUW9rNjROaG5xenA4c2xBLUVkZURoOGRmQWVKanhhLTRGaTB5c0J0NGdZY2hSX2RmQkJsbmVQOXhQd0oxOWY5ZGZxSHNOa3ZTeXZseFBZR0tXUjBwMjl3TTF4aktrV3IzTVdBR284?oc=5"
-    },
-    {
-      "id": "feed-74350f0fc2",
-      "manual": false,
-      "date": "2026-06-17T17:28:22+00:00",
-      "date_label": "17 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus Origin Story Questioned; 'Weird' Political Jobs List; RFK Jr. Plays Nice - MedPage Today",
-      "title_en": "Hantavirus Origin Story Questioned; 'Weird' Political Jobs List; RFK Jr. Plays Nice - MedPage Today",
-      "body": "Hantavirus Origin Story Questioned; 'Weird' Political Jobs List; RFK Jr. Plays Nice &nbsp;&nbsp; MedPage Today",
-      "body_en": "Hantavirus Origin Story Questioned; 'Weird' Political Jobs List; RFK Jr. Plays Nice &nbsp;&nbsp; MedPage Today",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzelhqMW9rNUdlNHQwdVdsSGlKWGpqNmYwc0M5VnNvemZEbkZsaGJJS1d5bFIzMGNoelhhakwzQzhWcTZ3SmJETmNRM1FTYVBQeWtGS3l5ZEpZbVBkajR6YXVKNUdXVlNRdFhDdQ?oc=5"
     }
   ]
 }

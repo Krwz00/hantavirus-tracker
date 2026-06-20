@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-06-20T14:02:49.637447+00:00",
+  "updated_at": "2026-06-20T16:17:44.915361+00:00",
   "items": [
+    {
+      "id": "feed-5a939a4639",
+      "manual": false,
+      "date": "2026-06-20T14:35:00+00:00",
+      "date_label": "20 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus, Ebola… Comment les zoonoses sont devenues l’un des plus grands défis sanitaires du siècle - L'Humanité",
+      "title_en": "Hantavirus, Ebola… Comment les zoonoses sont devenues l’un des plus grands défis sanitaires du siècle - L'Humanité",
+      "body": "Hantavirus, Ebola… Comment les zoonoses sont devenues l’un des plus grands défis sanitaires du siècle &nbsp;&nbsp; L'Humanité",
+      "body_en": "Hantavirus, Ebola… Comment les zoonoses sont devenues l’un des plus grands défis sanitaires du siècle &nbsp;&nbsp; L'Humanité",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZnBQRDZsWmMwNVdkRExFWVBIcE5FekxOaWVHUUVsSk1xb2U3eGZWcFdpeFJmVnV2VUxTQmdMVTltNWg2WlVNVHJiaW5aeFBwYXRqWHkxdGdPSk5Nd3lyQy1xNGQwWWQ4cnF4N2dHXzhMYUV4M3JwMjN6SHRyeTQ5aVNibjgyalo0VUNuVzhSZjF0T0d0enlpd0FzNUJsSHRwQ2kzdlQ3Q2xwYlY1WU96alcyU3NocUJWX0psblZIbTdEaWViQlJ5Y2VLMjNqSDRBVFVR?oc=5"
+    },
     {
       "id": "feed-02ac480507",
       "manual": false,
@@ -197,19 +210,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQd0poeVBXRWxia3kwb0QtWmtjNUZFYnR3X3JnWHpEWGJEYW9XUzI4bGlyeVpLaF91bWpkcEstU0s4NlliNk1iblltZXNPZVlDMkUzeVpmSjF6bk52NEFXTXhENGdPV1NBTVBNd1NfTXZhTkJTaFFvRzhUTWNoaGljNzZMeFRmaDR3NmpOWUFFU01pcDRiWVNnX2FqbXVhRkM5TnZMSTVWdFBLWlk5YWhRenFYT3ozZTNRb19fMjN1akV3ZDFRSzZGUUt6VEpVZUcydTRNa1Y3TEpqVERyZW0tRlpuWVg2U25iRHpWOEw3M1RsRVpqOVJiLURPNVptd1dPSmZ4R1BERWg?oc=5"
     },
     {
-      "id": "feed-e28fece4a2",
-      "manual": false,
-      "date": "2026-06-19T05:10:21+00:00",
-      "date_label": "19 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus : la quarantaine levée pour presque tous les passagers du MV Hondius, quelles questions demeurent alors que l’épisode sanitaire s’achève ? - Sud Ouest",
-      "title_en": "Hantavirus : la quarantaine levée pour presque tous les passagers du MV Hondius, quelles questions demeurent alors que l’épisode sanitaire s’achève ? - Sud Ouest",
-      "body": "Hantavirus : la quarantaine levée pour presque tous les passagers du MV Hondius, quelles questions demeurent alors que l’épisode sanitaire s’achève ? &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Hantavirus : la quarantaine levée pour presque tous les passagers du MV Hondius, quelles questions demeurent alors que l’épisode sanitaire s’achève ? &nbsp;&nbsp; Sud Ouest",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNOVFib1ZBUTU3R2JlZlowS2p4YW00RkZ1N2xUQ1A4YlY5Q21JR3FrRnFKZVVXampsUTZOYU1JVHdOa3ljTUxEV3kwSTdRVnd6el8xNmtBbVZGdHpmOWp6anQ1eGVwSnQwTldUekJfN25NVHJ1NzRzZHJxRlNZRW9nRHc0Wmc0c09qeTRsdngyQlo4M1pkME1Kb3ZuWlgwOEdGVEIxV09xUGJpaEo4QkJiNGotRkY1WHQzd0NUNjFDVVFoUVZkSVRCU2RacDh3cDZ3WVpHak91ampfSWx4X3ZKUXU3Zzk0MVRSUkxkYndSSWJyQ2lRU2RWeS1xM3d0MVk3ZVFhY0FNTGlPNnVyMzlXUWt3TkNGRmZfSlJPR3FxRDJZQU1X?oc=5"
-    },
-    {
       "id": "feed-db5c3b2da9",
       "manual": false,
       "date": "2026-06-19T04:46:52+00:00",
@@ -234,19 +234,6 @@
       "body_en": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha &nbsp;&nbsp; WOWT",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeHh5eUdrQ3JLOVg0Nk1UNnlWNFlXcXdaT0xKT3REYkVwY3AyRmkxWWVCOWhoMU91ZGZoRk9hQjl0cHpZUWxkVGRRMzVUX28xMG5JME5USk0zS1hSMEV2X3lScEVtOXk4R0lUVnh4bXBkS1RGam9ZQlJ3cUVBYWkyeGpHUVNnRU9xVEg1dW1heUg5dGJpaWdwS3BB?oc=5"
-    },
-    {
-      "id": "feed-e6ceac0645",
-      "manual": false,
-      "date": "2026-06-19T01:41:50+02:00",
-      "date_label": "19 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers",
-      "title_en": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers",
-      "body": "« Sans nouveau cas signalé ni décès rapporté depuis le 2 mai, la situation demeure stable », a par ailleurs fait savoir le directeur de l’Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus.",
-      "body_en": "« Sans nouveau cas signalé ni décès rapporté depuis le 2 mai, la situation demeure stable », a par ailleurs fait savoir le directeur de l’Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus.",
-      "source": "Le Monde — Planète",
-      "source_url": "https://www.lemonde.fr/sante/article/2026/06/19/hantavirus-a-bord-du-mv-hondius-la-quarantaine-levee-pour-la-quasi-totalite-des-passagers_6704750_1651302.html"
     },
     {
       "id": "feed-91b86b89d1",
@@ -288,19 +275,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2Q1aEVGWFA4LTFKemROcGVlMnlpajBDSFdjdDVrN1pKSENySG1ROXhGYm0xWnZsQ3NHeTFlelBNTGt6bHVhN0xEUzdfYkdUM1VNQWVITnpFT2l5STl5WWdHLXl5aElUTDhwbG1VNUZtTFhSYkl2UUUtSFlBejRsZHY3T1ZYcDFSR0NuM0xCRlZ1cDlfNUhXaWhwN09RckwyREtnWEVNcnNSemdKMFRrXzFzOGtabGhvQks1dmVlalYweG1mSDJnZnY3NzlmOHM1NzhPZTFVSl9TSnA2VERVdkc3NzVQVk9mZEc5WU5yNTk5cTJiX3NlcjV1SnY2THlzUWc?oc=5"
     },
     {
-      "id": "feed-5122c761e7",
-      "manual": false,
-      "date": "2026-06-18T21:19:00+00:00",
-      "date_label": "18 juin 2026",
-      "tag": "media",
-      "title": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus - Ma Ville",
-      "title_en": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus - Ma Ville",
-      "body": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus &nbsp;&nbsp; Ma Ville",
-      "body_en": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus &nbsp;&nbsp; Ma Ville",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZXRfSVlPWl8tc0tHbnlRTGdlX3I4ODZfaklqRFNLYVhjcjdqbTdPUmFEWEg0b0ktM1llY2dnaEwyZDBfTlNZek51U3JUZVc2RTUzcDdCVy05UkR0Sjc2ODVNdnVCZ19LMUQ1Sm1KUHJmbkZVUlRPY1Rpc2pZcDR4emY4dF9lRUhMZllCYzNwOG5jZC1qZ204VWZxak9XNWFYUGZvRlVMVl93YUM5cGNsN0RyelkxWmtmTFRWUWp6OFlCMzJoekxHTmcxMFZ3eFdoc3ZJR1BHMV9LNkotSHptalBPUkhXUk02Y2V2UDBfVl83dw?oc=5"
-    },
-    {
       "id": "feed-75e51fcbfe",
       "manual": false,
       "date": "2026-06-18T21:15:16+00:00",
@@ -312,19 +286,6 @@
       "body_en": "Hantavirus : la quarantaine levée pour presque tous les passagers du MV Hondius &nbsp;&nbsp; Le Figaro",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObU9BUU1pSWhYZWRSWWtrSTBQQTYxaUNVMmt4cFhBN2UxcXE3VkxMVE83RE5OVlZreTNMTy1TWm1LQVFqZFh0LVZpOHNDbFFCcEx6OWUwd1NhU1dkUXQyOHJrX3ZueDRsQzM1eWc3em9GOXYzVG1lajhjczR3UUdnYld0VTM4cFFuMTZWczRuTEM5ei0tUjZHV0lsS01zQzZ4QW9jdGV2eWVYMnBIUC1kbC1FdVo3WFFuOXNhakdfdnU?oc=5"
-    },
-    {
-      "id": "feed-b10180f537",
-      "manual": false,
-      "date": "2026-06-18T18:18:56+00:00",
-      "date_label": "18 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - Sénat",
-      "title_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - Sénat",
-      "body": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; Sénat",
-      "body_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; Sénat",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOQ0RRcUVPQUpkUzhWNXQzdVFiZDJNWTNydFUwbHJPd3ZxVUxibHNPV0dWem9jb3M5U1dMTXNiejRYSlpFNFlVUkVibmM3S01tb2ZFVnFXS3hJekNfWHVXOGU3bWRwY1NzQ2V1eWZhZzAtaUt3aHgyWDJsRVRvSGE2cGlrODN1d01qLTZCSndGTWVPSkppN3FMQ2tfYTY0U0JiNHZxSmVVcVRkSnY3cG1kWnR5UzFYeE9Ya1ZRV2FMeE5RQ1otS3lpR1BOeUxsRWxjM2ZrRVJXQzgxVUw5QUlGb1hjaXJCb1ktUnJhNUM2TVpEWkxZY3VEOFBFWkF2cHpHbTJwWXM1aGdTdDU4cWo5QkFOX1BqVXBlQndXd0wydFlzbWppUVpDVWgtQ1JyRm11RnpwZXJ3VVJTdkRta0NVeFBKTHZYbF91ZnFHOUZMVQ?oc=5"
     },
     {
       "id": "feed-f43d541101",
@@ -366,6 +327,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEtNYzVsRnVaV29NemZPbThPTGJiWmpBQjVlczNvckJhUWJBQ0lFRXRqT0QtZktCSDZCR095dW5NdlJNSnJVYlRaclRJU2JwMWdiYkFNbDd3WURyX1Z6TVhYblpIdy1EV1I3RUJ4N0J1UzJ2dF9uOXNzQU5Cak84dTlXdTI?oc=5"
     },
     {
+      "id": "feed-a2067d64d8",
+      "manual": false,
+      "date": "2026-06-18T14:35:58+00:00",
+      "date_label": "18 juin 2026",
+      "tag": "media",
+      "title": "Les chercheurs français face au hantavirus et à Ebola : « Les épidémies nous apprennent » - Sud Ouest",
+      "title_en": "Les chercheurs français face au hantavirus et à Ebola : « Les épidémies nous apprennent » - Sud Ouest",
+      "body": "Les chercheurs français face au hantavirus et à Ebola : « Les épidémies nous apprennent » &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Les chercheurs français face au hantavirus et à Ebola : « Les épidémies nous apprennent » &nbsp;&nbsp; Sud Ouest",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnZ3Qkt3ZVFlZ1lhTHM4eTg4aVhNWnFhVEpwRlRSLTV5NldtZ0pFV2NEaERwbUhUNXZKNkM1c3JncTZMMFBWLUNxa2ZxZVRVYk9hZVhBZzlKcERTbnZhVmhEd2lscjlVeXZyanNNT3VGZ3BJMVhEMDB1QXFxWnJReUR3YzZSRWgtNGI5X24xMzNqaVJJVDVvc0FmZlpOd2t2eXUxR05qUXJsa2Y2NHhtOGNIOHI3U21ZaUFwM2pOZ3pIZV9p?oc=5"
+    },
+    {
       "id": "feed-5290335352",
       "manual": false,
       "date": "2026-06-18T07:00:00+00:00",
@@ -390,6 +364,32 @@
       "body_en": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5"
+    },
+    {
+      "id": "feed-6632314def",
+      "manual": false,
+      "date": "2026-06-17T22:51:00+00:00",
+      "date_label": "17 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end - Australian Broadcasting Corporation",
+      "title_en": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end - Australian Broadcasting Corporation",
+      "body": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end &nbsp;&nbsp; Australian Broadcasting Corporation",
+      "body_en": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end &nbsp;&nbsp; Australian Broadcasting Corporation",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTVHVmUtX0s3X3Qyd2Fib3ZHaWhCbHZYdkNzMHdWclNRUjdaMUZYTlRienF1Zy15RkFJYTFmU0lvUHUyWW9Hanh1cm5CeW1Ya1MyYUpiSUIzVl9ITF9IR0V2QlM5cTdFTDNtRnFBUUJTSjBBMHA4MG9hZzNLMGl6eTFLZXFYZi11bFVLSnptVkNqOVNfa0Z4YUZsNnYybG16WTlyR1FwTmp0VWJsNzRv?oc=5"
+    },
+    {
+      "id": "feed-b367076684",
+      "manual": false,
+      "date": "2026-06-17T22:33:00+00:00",
+      "date_label": "17 juin 2026",
+      "tag": "media",
+      "title": "Florida native forced to stay in Omaha during hantavirus quarantine - KETV",
+      "title_en": "Florida native forced to stay in Omaha during hantavirus quarantine - KETV",
+      "body": "Florida native forced to stay in Omaha during hantavirus quarantine &nbsp;&nbsp; KETV",
+      "body_en": "Florida native forced to stay in Omaha during hantavirus quarantine &nbsp;&nbsp; KETV",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUldQUV9sd3lUSEJKcHhIVkRGNXUyZXBGVkgyMzJhZVdOTGdxWnZ0LVpZWWdHT0FpSmR6QmVZZjJkQ2laZjF2THBPeUEwNVRYSVkyTnFTb2d5czlEb1FnblYwMzlyaC1TU0FPamFjZDVJQm1QOWZ5bTZ6azNja2JfRzBrX1htUQ?oc=5"
     }
   ]
 }

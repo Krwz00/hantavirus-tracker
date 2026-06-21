@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-21T10:29:00.022623+00:00",
+  "updated_at": "2026-06-21T13:05:19.651344+00:00",
   "items": [
+    {
+      "id": "feed-cfbfe6ce97",
+      "manual": false,
+      "date": "2026-06-21T11:00:00+00:00",
+      "date_label": "21 juin 2026",
+      "tag": "media",
+      "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
+      "title_en": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
+      "body": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News",
+      "body_en": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5"
+    },
+    {
+      "id": "feed-3367d8efbc",
+      "manual": false,
+      "date": "2026-06-21T10:28:38+00:00",
+      "date_label": "21 juin 2026",
+      "tag": "media",
+      "title": "Hantavirus : après six semaines d'isolement, quatre passagers français du \"MV Hondius\" vont pouvoir quitter l'hôpital - franceinfo",
+      "title_en": "Hantavirus : après six semaines d'isolement, quatre passagers français du \"MV Hondius\" vont pouvoir quitter l'hôpital - franceinfo",
+      "body": "Hantavirus : après six semaines d'isolement, quatre passagers français du \"MV Hondius\" vont pouvoir quitter l'hôpital &nbsp;&nbsp; franceinfo",
+      "body_en": "Hantavirus : après six semaines d'isolement, quatre passagers français du \"MV Hondius\" vont pouvoir quitter l'hôpital &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQTDBsZkVvQVA2UFdwQ0Y0WGlfaFpwR2psTDRDMWRTMzlFMVNKZnVRejM2d1VlX3FZWWw0dUh6RWF1OThiSE91Ynl4dVFCWnlkZlVWSnNhaS1VVkRORzRnVG83VTlJcGt2Z1Z6N08yQTBOZTVEVW1WV25YNnlGVTY1LThtZE9FQWZPUzNINVN3SDI2WlBXOThQY2czTndhcDljLXlfaHd2a2xaOXpUcGU2bExQZWJDUk5tMkNkSDhvcEdGZ3FQUlotVHhqeDROUUw3UUs0aFgtSHFlVGtwajVRc3FfMF9xdTMzRjduaWczV2piaVBfeEVIb3VLSnpvRlpHaVBkSGJySkJiZ3VPenNsTk1rVUV5RnV0MVFYRnZBbUNBZXA5SXFXZTRtY3hCVlRxelpnTWV6SUstZmc?oc=5"
+    },
     {
       "id": "feed-325e5ec4d8",
       "manual": false,
@@ -80,19 +106,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5"
     },
     {
-      "id": "feed-ca89d5dba2",
-      "manual": false,
-      "date": "2026-06-20T04:12:00+00:00",
-      "date_label": "20 juin 2026",
-      "tag": "media",
-      "title": "Column: Oh rats! It’s the hantavirus… - The Republic News",
-      "title_en": "Column: Oh rats! It’s the hantavirus… - The Republic News",
-      "body": "Column: Oh rats! It’s the hantavirus… &nbsp;&nbsp; The Republic News",
-      "body_en": "Column: Oh rats! It’s the hantavirus… &nbsp;&nbsp; The Republic News",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jcEU4Y2lBNlZjM1kzU0RjNXpiOERXOEdPSFctRmFZZzV1WXY4SUsyenZJMEZLOGc5RWUwNWFGUS1RNnp3UXhMTWRWMEdxSmNxZ1hkT0RraTZnc0FFZGNxb3lBN2pYUjRZR01oTExhSVFibURmQmt4dVQ3VE1nZw?oc=5"
-    },
-    {
       "id": "feed-baab783653",
       "manual": false,
       "date": "2026-06-19T17:00:05+00:00",
@@ -130,6 +143,19 @@
       "body_en": "Dr Matthew Dryden praises an astute doctor and the value of teamwork across continents. Plus a letter from Dr Brian Jones Devi Sridhar writes about some of the global public health responses to the outbreak of hantavirus centred on the MV Hondius, but her conclusions as to how the world avoided another global…",
       "source": "The Guardian — Health",
       "source_url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted"
+    },
+    {
+      "id": "feed-bff7aa87c2",
+      "manual": false,
+      "date": "2026-06-19T12:26:17+00:00",
+      "date_label": "19 juin 2026",
+      "tag": "media",
+      "title": "“I was not afraid of the Hantavirus,” Greek Passenger Says after Cruise Ordeal - tovima.com",
+      "title_en": "“I was not afraid of the Hantavirus,” Greek Passenger Says after Cruise Ordeal - tovima.com",
+      "body": "“I was not afraid of the Hantavirus,” Greek Passenger Says after Cruise Ordeal &nbsp;&nbsp; tovima.com",
+      "body_en": "“I was not afraid of the Hantavirus,” Greek Passenger Says after Cruise Ordeal &nbsp;&nbsp; tovima.com",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXVzd0x4YVItS0hvS2FVVWxfQ3BlRDd4aGNLUUR0T0NHbUNQN2Z1aFk2OVJPWnZKZlg4anNTNy1tdFRWeTl3WEZqN0w2bjJ6aFJUdzlLeWxqMTJJa2RwT2REajlhQ2lBeUh6bzQwQll4Y0h2WVNVblJ5Ql9ieTFJakNuZlZIVFZHdnJRc1RKOGRNd3FGOUxoZWwtZkdXaXpIUlMtNjZFNTJpaW_SAbABQVVfeXFMUHpHRnlZamFnTndxYTJHS1JtMng3NTN6X3gxUU03WlBoNm5GVTZJY3h1RzNpbGxGTUstNkZwWEJLQ0NDY3dwdXQ0c21FRDVFVmpGZTAyUGRPVFE1cVJ1WlhibEhpZWV6VkRnT0ZBUmtZQ0pFRndHalNvVm9WQTBhNUlPaFprNHV0c1NfNlp1Q19LZWlsaGJ3Y3ZoUzUxTHI3M1pOVVdXTlhsS1hmcHVxVlk?oc=5"
     },
     {
       "id": "feed-eeb37321ad",
@@ -262,6 +288,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2Q1aEVGWFA4LTFKemROcGVlMnlpajBDSFdjdDVrN1pKSENySG1ROXhGYm0xWnZsQ3NHeTFlelBNTGt6bHVhN0xEUzdfYkdUM1VNQWVITnpFT2l5STl5WWdHLXl5aElUTDhwbG1VNUZtTFhSYkl2UUUtSFlBejRsZHY3T1ZYcDFSR0NuM0xCRlZ1cDlfNUhXaWhwN09RckwyREtnWEVNcnNSemdKMFRrXzFzOGtabGhvQks1dmVlalYweG1mSDJnZnY3NzlmOHM1NzhPZTFVSl9TSnA2VERVdkc3NzVQVk9mZEc5WU5yNTk5cTJiX3NlcjV1SnY2THlzUWc?oc=5"
     },
     {
+      "id": "feed-5122c761e7",
+      "manual": false,
+      "date": "2026-06-18T21:19:00+00:00",
+      "date_label": "18 juin 2026",
+      "tag": "media",
+      "title": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus - Ma Ville",
+      "title_en": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus - Ma Ville",
+      "body": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus &nbsp;&nbsp; Ma Ville",
+      "body_en": "La quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus &nbsp;&nbsp; Ma Ville",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZXRfSVlPWl8tc0tHbnlRTGdlX3I4ODZfaklqRFNLYVhjcjdqbTdPUmFEWEg0b0ktM1llY2dnaEwyZDBfTlNZek51U3JUZVc2RTUzcDdCVy05UkR0Sjc2ODVNdnVCZ19LMUQ1Sm1KUHJmbkZVUlRPY1Rpc2pZcDR4emY4dF9lRUhMZllCYzNwOG5jZC1qZ204VWZxak9XNWFYUGZvRlVMVl93YUM5cGNsN0RyelkxWmtmTFRWUWp6OFlCMzJoekxHTmcxMFZ3eFdoc3ZJR1BHMV9LNkotSHptalBPUkhXUk02Y2V2UDBfVl83dw?oc=5"
+    },
+    {
       "id": "feed-75e51fcbfe",
       "manual": false,
       "date": "2026-06-18T21:15:16+00:00",
@@ -351,45 +390,6 @@
       "body_en": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5"
-    },
-    {
-      "id": "feed-6632314def",
-      "manual": false,
-      "date": "2026-06-17T22:51:00+00:00",
-      "date_label": "17 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end - Australian Broadcasting Corporation",
-      "title_en": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end - Australian Broadcasting Corporation",
-      "body": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end &nbsp;&nbsp; Australian Broadcasting Corporation",
-      "body_en": "Hantavirus ship passenger recounts 'huge shock' as quarantine nears end &nbsp;&nbsp; Australian Broadcasting Corporation",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTVHVmUtX0s3X3Qyd2Fib3ZHaWhCbHZYdkNzMHdWclNRUjdaMUZYTlRienF1Zy15RkFJYTFmU0lvUHUyWW9Hanh1cm5CeW1Ya1MyYUpiSUIzVl9ITF9IR0V2QlM5cTdFTDNtRnFBUUJTSjBBMHA4MG9hZzNLMGl6eTFLZXFYZi11bFVLSnptVkNqOVNfa0Z4YUZsNnYybG16WTlyR1FwTmp0VWJsNzRv?oc=5"
-    },
-    {
-      "id": "feed-b367076684",
-      "manual": false,
-      "date": "2026-06-17T22:33:00+00:00",
-      "date_label": "17 juin 2026",
-      "tag": "media",
-      "title": "Florida native forced to stay in Omaha during hantavirus quarantine - KETV",
-      "title_en": "Florida native forced to stay in Omaha during hantavirus quarantine - KETV",
-      "body": "Florida native forced to stay in Omaha during hantavirus quarantine &nbsp;&nbsp; KETV",
-      "body_en": "Florida native forced to stay in Omaha during hantavirus quarantine &nbsp;&nbsp; KETV",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUldQUV9sd3lUSEJKcHhIVkRGNXUyZXBGVkgyMzJhZVdOTGdxWnZ0LVpZWWdHT0FpSmR6QmVZZjJkQ2laZjF2THBPeUEwNVRYSVkyTnFTb2d5czlEb1FnblYwMzlyaC1TU0FPamFjZDVJQm1QOWZ5bTZ6azNja2JfRzBrX1htUQ?oc=5"
-    },
-    {
-      "id": "feed-4cdc19018b",
-      "manual": false,
-      "date": "2026-06-17T21:54:04+00:00",
-      "date_label": "17 juin 2026",
-      "tag": "media",
-      "title": "RFK Jr. orders hantavirus patient to remain in quarantine - Yahoo",
-      "title_en": "RFK Jr. orders hantavirus patient to remain in quarantine - Yahoo",
-      "body": "RFK Jr. orders hantavirus patient to remain in quarantine &nbsp;&nbsp; Yahoo",
-      "body_en": "RFK Jr. orders hantavirus patient to remain in quarantine &nbsp;&nbsp; Yahoo",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDc3VnBTN0xXZ2hEZVlxR3JiMGdnSm9FX1FUX3hVRDR4S08wTTl5Si0xdG9ZS2hfcjRvcDBwa29EVzhXZmVpeEhYX3dZR1pqdnVBVjBhSVZGczFTeThOcVV4YzR6d3NkXzdQemdRLXVNdnFCX0szYXZ2TDlZbmFyR29CQzRIQlNr?oc=5"
     }
   ]
 }

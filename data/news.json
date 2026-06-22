@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-21T23:12:09.968685+00:00",
+  "updated_at": "2026-06-22T04:11:38.565439+00:00",
   "items": [
     {
       "id": "feed-091223deed",
       "manual": false,
-      "date": "2026-06-21T18:00:41+00:00",
-      "date_label": "21 juin 2026",
+      "date": "2026-06-22T00:39:27+00:00",
+      "date_label": "22 juin 2026",
       "tag": "media",
       "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship - The New York Times",
       "title_en": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship - The New York Times",
@@ -17,7 +17,7 @@
     {
       "id": "feed-c9cfb51407",
       "manual": false,
-      "date": "2026-06-21T15:02:13+00:00",
+      "date": "2026-06-21T15:03:29+00:00",
       "date_label": "21 juin 2026",
       "tag": "media",
       "title": "Hantavirus incident highlights hidden risks in shipping delays - Business Day",
@@ -78,19 +78,6 @@
       "body_en": "Ce dimanche 21 juin, les quatre ex-passagers du bateau de croisière «MV Hondius» encore confinés quittent l’hôpital. La fin de la quarantaine signe l’épilogue d’une crise gérée avec fermeté par la France.",
       "source": "Libération",
       "source_url": "https://www.liberation.fr/societe/sante/hantavirus-les-confines-rentrent-chez-eux-lepisode-est-probablement-termine-20260621_2Z6KCN6R3ZGZLJXBWET6EJJVYU/"
-    },
-    {
-      "id": "feed-77f489a0e3",
-      "manual": false,
-      "date": "2026-06-21T03:20:23+00:00",
-      "date_label": "21 juin 2026",
-      "tag": "media",
-      "title": "Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the country on Friday after completing a 42-day quarantine in the Netherlands. http://tiny.cc/8se5101 - facebook.com",
-      "title_en": "Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the country on Friday after completing a 42-day quarantine in the Netherlands. http://tiny.cc/8se5101 - facebook.com",
-      "body": "Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the country on Friday after completing a 42-day quarantine in the Netherlands. http://tiny.cc/8se5101 &nbsp;&nbsp; facebook.com",
-      "body_en": "Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the country on Friday after completing a 42-day quarantine in the Netherlands. http://tiny.cc/8se5101 &nbsp;&nbsp; facebook.com",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3pDZV80OUtIUmUtZ2ViUHNraWVFRXBnTHBDYTl4NWplTFFQSVR5NVVuR2JfcF9sXzFUbDdfaEc3dGIzSDJoMEpCa0d3VTQ5MS1hTzVGLWlsMVFxbGk4VDhQRlpwVjRVT2FnMl9aQVpuZ2kyLXUzdkhsVDRYWG02R09NbzV1T25ldUw5TkVYU0pua1NCX2doRzcyRmNYeXpvZXZUdERGV1pKczlhUm9RbGZUckNsaDBDNDNySENRVFlpT0hueHg2WmV5VUc5LWZ1Y0tUNTJHcG55Znow?oc=5"
     },
     {
       "id": "feed-288ee2ce0b",
@@ -390,6 +377,19 @@
       "body_en": "Les chercheurs français face au hantavirus et à Ebola : « Les épidémies nous apprennent » &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnZ3Qkt3ZVFlZ1lhTHM4eTg4aVhNWnFhVEpwRlRSLTV5NldtZ0pFV2NEaERwbUhUNXZKNkM1c3JncTZMMFBWLUNxa2ZxZVRVYk9hZVhBZzlKcERTbnZhVmhEd2lscjlVeXZyanNNT3VGZ3BJMVhEMDB1QXFxWnJReUR3YzZSRWgtNGI5X24xMzNqaVJJVDVvc0FmZlpOd2t2eXUxR05qUXJsa2Y2NHhtOGNIOHI3U21ZaUFwM2pOZ3pIZV9p?oc=5"
+    },
+    {
+      "id": "feed-5290335352",
+      "manual": false,
+      "date": "2026-06-18T07:00:00+00:00",
+      "date_label": "18 juin 2026",
+      "tag": "media",
+      "title": "OPECST : « Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? » - Contexte",
+      "title_en": "OPECST : « Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? » - Contexte",
+      "body": "OPECST : « Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? » &nbsp;&nbsp; Contexte",
+      "body_en": "OPECST : « Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? » &nbsp;&nbsp; Contexte",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZWZtTENqazZzTkxKSzg2VWVCTE5SeGoxa2d3bXJLMGJ5Z0N6dFpWdFkwQ2JFTE91clhPMEJ2X3pjcXF4Nmh4MzhMLTBzM3g0OU10dzJPdGNfSU05Z29UdFJJRnhuN2lSbTZmNXNxYkNJUlk5U3pRWjVQSG9zZ1hMM25PdV8xVkNUUUVCOGF6NGhxRzQ1U3FhbHRzdldHb3c2RTZrdHNlVGtYc1JlYmh0XzZqNjdMV3pMQ1VDRHNJcm81eEE?oc=5"
     }
   ]
 }

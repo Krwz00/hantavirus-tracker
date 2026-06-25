@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T20:56:05.382406+00:00",
+  "updated_at": "2026-06-25T22:21:47.461185+00:00",
   "items": [
     {
       "id": "feed-ae69932a7e",
@@ -223,6 +223,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJekFaZ2NuVmVDMlB3QlRUSGxDbFlvbVJkb0tUc09CX2c5MWFjZGhHdVhRZjRNVTJJWDB3c2hkYll1RzFEY203eTk4eThEQjJwSkxBUXFHYmpMZjhySS05SER5ZEhMSjlKTEZ1OHc5WldJRkx5MzltazdtaXbSAYIBQVVfeXFMUEZhTFNjTGdUUXNIT0VPTEhRUTRQd09GNTRSdkVGSko0YzdoVVoxQ1J1cHFqbXVtdUtUVjNFYWRaMWdVeENFNFc3QktJTFNRa1IwakFxOXBJVS1WWjEydkhhNmhjbmphRnViakRvWWVIVW12enlESEpodDhvOWttcWwxdw?oc=5"
     },
     {
+      "id": "feed-43d5addf14",
+      "manual": false,
+      "date": "2026-06-24T21:34:06+00:00",
+      "date_label": "24 juin 2026",
+      "tag": "media",
+      "title": "L'épidémie d'hantavirus devrait prendre fin le 2 juillet, dit l'OMS - Radio LFM",
+      "title_en": "L'épidémie d'hantavirus devrait prendre fin le 2 juillet, dit l'OMS - Radio LFM",
+      "body": "L'épidémie d'hantavirus devrait prendre fin le 2 juillet, dit l'OMS &nbsp;&nbsp; Radio LFM",
+      "body_en": "L'épidémie d'hantavirus devrait prendre fin le 2 juillet, dit l'OMS &nbsp;&nbsp; Radio LFM",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hZRGlQN3F0ZTlUU0VobUlrdzJDTXVXV2dSUy1XN1c5dVdSbkFubmVKQlhvSTVBRTk5RWhsWEdWa2lrZGZsZGNaWjM4YXdqQVItelZhMU1zVWdtRTZaYkltZzg1d0Jsb3gyaHV6all0d0F4M3VLdGpZVmQxaUswbnhhNEdrVWw0MUI2eTdGMVhlWS1xbVZibWNmUmVoWnViT0tiSnZXSzUxUmM?oc=5"
+    },
+    {
       "id": "feed-988f802184",
       "manual": false,
       "date": "2026-06-24T21:28:39+00:00",
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus Outbreak Should Formally End On July 2: WHO &nbsp;&nbsp; NDTV",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUhvZXBPZ2ROWlMwU2RfSlFlaWZqWnFJbzN0RnlxNjF6NUM4T09lTVBjWkp3M2gyNC1WT3E1SDZ2dGIxREE1VnhKSFBTa21SakxueklINUdrYm81dFotamdkeFQzcDI4RGxaaXROemZBbDEwNVQ1THUyQmVaZGlQUzE4Q0l2enVBalhqNWk2QW5ZandQZUo1Q1NR0gGiAUFVX3lxTFBPOEt2dGdfajlsNzJJTl9NWkthVFQtT0hqZzBvVEJMdTZ1alRPMkxibzQtRjg2VVVmeHRJQzFmVVUtUEJuVjk4QjI1b21xMktMT0lCRVczUk5WS2xTMng3dXYyUTBKWjNSQk90T1NUSnJJT3JWeVlCOFBmQU1ZWVJFM3JXVzJUd0tLcTNTdVhHd05fZURGT2NybWdBdHFiZWkxQQ?oc=5"
-    },
-    {
-      "id": "feed-63760a140d",
-      "manual": false,
-      "date": "2026-06-24T17:48:00+00:00",
-      "date_label": "24 juin 2026",
-      "tag": "media",
-      "title": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
-      "title_en": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
-      "body": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes &nbsp;&nbsp; WSJ",
-      "body_en": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes &nbsp;&nbsp; WSJ",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5"
     }
   ]
 }

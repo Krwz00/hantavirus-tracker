@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T12:21:06.129647+00:00",
+  "updated_at": "2026-06-25T15:42:54.378051+00:00",
   "items": [
     {
       "id": "fc-d43c59f067",
@@ -117,19 +117,6 @@
       "body_en": "Un Espagnol a été testé positif ces 24 dernières heures. Il s’ajoute aux sept cas précédemment recensés, dont une Française, hospitalisée à l’hôpital Bichat à Paris.",
       "source": "Libération — CheckNews",
       "source_url": "https://www.liberation.fr/checknews/hantavirus-qui-sont-les-huit-cas-confirmes-a-ce-jour-20260511_LQ4NVXTT7NB5LBZYJ6GBKNACXY/"
-    },
-    {
-      "id": "fc-b35b521dfb",
-      "manual": false,
-      "date": "2026-05-07T16:21:18+00:00",
-      "date_label": "7 mai 2026",
-      "tag": "alert",
-      "title": "Hantavirus : comment des passagers sont montés et descendus du navire «MV Hondius», au fil des escales, avant l’alerte sanitaire",
-      "title_en": "Hantavirus : comment des passagers sont montés et descendus du navire «MV Hondius», au fil des escales, avant l’alerte sanitaire",
-      "body": "«CheckNews» retrace les différents embarquements et débarquements lors de la croisière, partie le 1er avril d’Ushuaïa en Argentine, et où un virus particulièrement létal a déjà fait trois morts.",
-      "body_en": "«CheckNews» retrace les différents embarquements et débarquements lors de la croisière, partie le 1er avril d’Ushuaïa en Argentine, et où un virus particulièrement létal a déjà fait trois morts.",
-      "source": "Libération — CheckNews",
-      "source_url": "https://www.liberation.fr/checknews/hantavirus-comment-des-passagers-sont-montes-et-descendus-du-navire-au-fil-des-escales-avant-lalerte-sanitaire-20260507_25V6TCX5VRHB5JILU5LE7ZW2PQ/"
     }
   ]
 }

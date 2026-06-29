@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:38:09.168589+00:00",
+  "updated_at": "2026-06-29T22:57:21.126805+00:00",
   "items": [
     {
       "id": "feed-1ea16fb496",
@@ -314,19 +314,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmlmX0ZCcGR5aElkbkN6Nkc0QjlmYjBodVFzYzMyU3M5RVlkTW0zWml3akpiQTU0cHRtMmdiSjd1TFYxUkZwVTNqX2VISC1GQnlBRW43LVl2STJrOEtRMnM5bHg3MTJnUUhFT3JYc3ZjMXc4UTRDQldUM2k2V3RDY0c1WXVIN1RFTFNkdFpOYTFMbFRLWlN2bw?oc=5"
     },
     {
-      "id": "feed-ab272fff49",
-      "manual": false,
-      "date": "2026-06-25T07:20:03+00:00",
-      "date_label": "25 juin 2026",
-      "tag": "media",
-      "title": "A drug repurposing screen identifies antiviral compounds against Puumala Orthohantavirus | Scientific Reports - Nature",
-      "title_en": "A drug repurposing screen identifies antiviral compounds against Puumala Orthohantavirus | Scientific Reports - Nature",
-      "body": "A drug repurposing screen identifies antiviral compounds against Puumala Orthohantavirus | Scientific Reports &nbsp;&nbsp; Nature",
-      "body_en": "A drug repurposing screen identifies antiviral compounds against Puumala Orthohantavirus | Scientific Reports &nbsp;&nbsp; Nature",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0bi14dmZheEk2dGFWREg0VGtYdUh3RW1jQ3R2LWhCeGpZOHVjRS1ySk9xUnlFWlJxUmhocVo2TTNJNUlVVW9UZ3RUTkVFd2RYMXVvT0dnSWdjZWExakxV?oc=5"
-    },
-    {
       "id": "feed-7784be2fec",
       "manual": false,
       "date": "2026-06-25T06:21:51+00:00",
@@ -390,6 +377,19 @@
       "body_en": "The CDC said hantavirus outbreak is over &nbsp;&nbsp; Deseret News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3RaQnM5UlFReUNtME1EWWhDYndZUy1ITDllTVI3Wl9uS1U3U0lPTEZBVEdKRDR0eGQ2aDkxUjZqVXJwRWExaHR2TFFWMFAtNEczOFhRZ0FnTW1ZeHBqaVhGR2VONzYzTzJmY2dDZWRKZjl6YmRnTGhOWTd3czhja2ZOcmkzNmVHbEtKeEVqN2R1bFU5OUxJWWUyM3htZnJWM19IMA?oc=5"
+    },
+    {
+      "id": "feed-03246f62b1",
+      "manual": false,
+      "date": "2026-06-24T22:17:08+00:00",
+      "date_label": "24 juin 2026",
+      "tag": "media",
+      "title": "CDC concludes response to hantavirus outbreak on cruise - upi.com",
+      "title_en": "CDC concludes response to hantavirus outbreak on cruise - upi.com",
+      "body": "CDC concludes response to hantavirus outbreak on cruise &nbsp;&nbsp; upi.com",
+      "body_en": "CDC concludes response to hantavirus outbreak on cruise &nbsp;&nbsp; upi.com",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJekFaZ2NuVmVDMlB3QlRUSGxDbFlvbVJkb0tUc09CX2c5MWFjZGhHdVhRZjRNVTJJWDB3c2hkYll1RzFEY203eTk4eThEQjJwSkxBUXFHYmpMZjhySS05SER5ZEhMSjlKTEZ1OHc5WldJRkx5MzltazdtaXbSAYIBQVVfeXFMUEZhTFNjTGdUUXNIT0VPTEhRUTRQd09GNTRSdkVGSko0YzdoVVoxQ1J1cHFqbXVtdUtUVjNFYWRaMWdVeENFNFc3QktJTFNRa1IwakFxOXBJVS1WWjEydkhhNmhjbmphRnViakRvWWVIVW12enlESEpodDhvOWttcWwxdw?oc=5"
     }
   ]
 }

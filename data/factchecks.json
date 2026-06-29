@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-06-29T17:36:28.343056+00:00",
+  "updated_at": "2026-06-29T19:57:06.064515+00:00",
   "items": [
+    {
+      "id": "fc-625736bc52",
+      "manual": false,
+      "date": "2026-06-29T17:48:32+00:00",
+      "date_label": "29 juin 2026",
+      "tag": "alert",
+      "title": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus",
+      "title_en": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus",
+      "body": "Des prélèvements réalisés fin mai par les autorités argentines dans la province de Terre de Feu n’ont pas permis de trouver des traces de la forme d’hantavirus détectée à bord du «MV Hondius».",
+      "body_en": "Des prélèvements réalisés fin mai par les autorités argentines dans la province de Terre de Feu n’ont pas permis de trouver des traces de la forme d’hantavirus détectée à bord du «MV Hondius».",
+      "source": "Libération — CheckNews",
+      "source_url": "https://www.liberation.fr/checknews/hantavirus-la-piste-de-la-decharge-dushuaia-comme-source-de-lepidemie-seloigne-un-peu-plus-20260629_K66XH63JYRC27P3MLUVQGNQX2E/"
+    },
     {
       "id": "fc-45fa2220fa",
       "manual": false,
@@ -156,19 +169,6 @@
       "body_en": "Biologically unfounded. Hantavirus has been known for 75 years. mRNA SARS-CoV-2 vaccines contain no hantavirus genetic material and cannot cause infection.",
       "source": "AFP Factuel / Radio France Vrai du Faux",
       "source_url": "https://factuel.afp.com/"
-    },
-    {
-      "id": "fc-7633a846be",
-      "manual": false,
-      "date": "2026-05-12T17:43:58+00:00",
-      "date_label": "12 mai 2026",
-      "tag": "alert",
-      "title": "Décharge, cordillère des Andes, foyers d’hantavirus : itinéraire de Leo Schilperoord, premier mort à bord du «Hondius», avant le départ de la croisière",
-      "title_en": "Décharge, cordillère des Andes, foyers d’hantavirus : itinéraire de Leo Schilperoord, premier mort à bord du «Hondius», avant le départ de la croisière",
-      "body": "«CheckNews» a retracé le parcours du Néerlandais de 70 ans, soupçonné d’être à l’origine du cluster sur le bateau de croisière. Si plusieurs médias ont évoqué le passage du couple dans une déchetterie supposément envahie de rongeurs, l’hypothèse reste fragile.",
-      "body_en": "«CheckNews» a retracé le parcours du Néerlandais de 70 ans, soupçonné d’être à l’origine du cluster sur le bateau de croisière. Si plusieurs médias ont évoqué le passage du couple dans une déchetterie supposément envahie de rongeurs, l’hypothèse reste fragile.",
-      "source": "Libération — CheckNews",
-      "source_url": "https://www.liberation.fr/checknews/decharge-cordillere-des-andes-foyers-dhantavirus-par-ou-est-passe-leo-schilperoord-premier-mort-a-bord-du-hondius-avant-le-depart-de-la-croisiere-20260512_X66Q2AOBOZCFDCDV6G2L2RQGVI/"
     }
   ]
 }

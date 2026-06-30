@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T21:40:21.832887+00:00",
+  "updated_at": "2026-06-30T23:12:20.637187+00:00",
   "items": [
     {
       "id": "feed-e9a60f5fd3",
@@ -41,32 +41,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFk4M0prNEpsc2NrajRqQUlQZG5ORlpBeV9tYncxNDM5RkZMWWlkNFBpa1Y5NlRJSVJuVUZMYXgwX2JMS2R2MUF0eF9wbWE3VHVrVjJzcWV3eUdDY1VYeFgxMi1QckVWWnN0cjgxUm1zSWpMbGlOejNrVDNBdmZLXzFlMEFDdzJHNUptNTdTaTMyT2lQcWNsMmdITjBHR1BRUWFycV81ZFBQOWNxLTcxenVqNVdlMGRYc2ZjSmp6WTJybVppYmZKZUNzX19FQ1JlOFhaWThLdw?oc=5"
     },
     {
-      "id": "feed-4b13977fc8",
-      "manual": false,
-      "date": "2026-06-30T18:19:02+00:00",
-      "date_label": "30 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus: la période d’isolement pour les voyageurs est terminée - L’actualité",
-      "title_en": "Hantavirus: la période d’isolement pour les voyageurs est terminée - L’actualité",
-      "body": "Hantavirus: la période d’isolement pour les voyageurs est terminée &nbsp;&nbsp; L’actualité",
-      "body_en": "Hantavirus: la période d’isolement pour les voyageurs est terminée &nbsp;&nbsp; L’actualité",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEo3RmpQLVVCbVA0empGUXRFcnhPcm9pMXBESlZXaDJPR0ZjOG1EZnF1WGZnMW1fQkRTTDJnT3M5V3RtS2ZGb2FDaWtBTTJTZnpYR09tMEFFQzdaVTF5bk90ZnpNaVZkUkhLWHZkVDF3M2JFVVZseXBXV2xwV3lkVnd4NmJjRFh0VkhGc0J2cm5nb1dqaEZyTDhwbDRUX05X?oc=5"
-    },
-    {
-      "id": "feed-90a26e1a02",
-      "manual": false,
-      "date": "2026-06-30T16:55:43+00:00",
-      "date_label": "30 juin 2026",
-      "tag": "media",
-      "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - CTV News",
-      "title_en": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - CTV News",
-      "body": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; CTV News",
-      "body_en": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; CTV News",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnNLLUhaTUtHOXl6OW15eUxXcmttNHNUYTZQNEIxYU1PM3lPaVV2bTNJZWZzUDVjR0Z0SzRWU0k1bURDdlVtODROcERIYllyb1dxdlBFNmxncU5VUWlUQ2plQm8yYWtoOEZ0eEl1aExjWnpmYmJJVGctQldMaE12cW85SlZVQkZpV1dWUERSUHpwVFY0SHVic2N5V1Z2MWo3dlRXc0ZvVXdYcUZnQjVoRV9sXzVDZjA?oc=5"
-    },
-    {
       "id": "feed-35954f1928",
       "manual": false,
       "date": "2026-06-30T16:39:33+00:00",
@@ -91,6 +65,19 @@
       "body_en": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; Toronto Star",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjNiMDllRGthVUJ2TFAtN1dnSzQ3aTc1VnlrZ1Izb2pvS1RiNFlsemFrTjFOZFhyeUpSVkFYcmthZXNQZkliOXQwS0NzczEzR2RYSmEzYjRyV1BiT2FpOFpqd1FPLXBZY2UzN1Q2NTZrdVp2REhMTjNINWROMEFHVHVtSUJEbXhjeU9PcVR1aUVlZ2V4WTR4Ym5JZ2VoN0tlRXM4aGhhRVlGX01YY0toODZvU0V1bFphdEl5QXBYUkNuTmQ5ZERvaHhwQWlJcTJ3V1FXaHVIMTEzM1pFdU1jcmx4RDFVRFVjcGt6THRpQmtEYlJnLUlV?oc=5"
+    },
+    {
+      "id": "feed-22a3342b75",
+      "manual": false,
+      "date": "2026-06-30T16:39:00+00:00",
+      "date_label": "30 juin 2026",
+      "tag": "media",
+      "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - CityNews Toronto",
+      "title_en": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - CityNews Toronto",
+      "body": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; CityNews Toronto",
+      "body_en": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship &nbsp;&nbsp; CityNews Toronto",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHZSUTFrSGNDUkZhdmNuWl9JQ1AxRFNJZVFwamRjMG5OYnB6eGhXUmUxVGVnV3A1WW83b01ubktQanVKWkdjRm5pelNsYnlfUDE0U2tVWl9PU196ZWFQZzI5WFhZbXZjc3RRVkxiTnJNRFlKUVNCT3hGWmJJXzFPTkZCbUJJb00tQ3BxLXhBRjN5NmxxV3paeE8tZWlKQXJhMXFyN1ZfTlZKUHZpc21oelJsR2Z6eW1n?oc=5"
     },
     {
       "id": "feed-ab189d7578",
@@ -267,10 +254,10 @@
       "date": "2026-06-28T20:23:18+00:00",
       "date_label": "28 juin 2026",
       "tag": "media",
-      "title": "Hantavirus and Ebola virus disease: 10 things to know - hospitalnews.com",
-      "title_en": "Hantavirus and Ebola virus disease: 10 things to know - hospitalnews.com",
-      "body": "Hantavirus and Ebola virus disease: 10 things to know &nbsp;&nbsp; hospitalnews.com",
-      "body_en": "Hantavirus and Ebola virus disease: 10 things to know &nbsp;&nbsp; hospitalnews.com",
+      "title": "Hantavirus and Ebola virus disease: 10 things to know - Hospital News",
+      "title_en": "Hantavirus and Ebola virus disease: 10 things to know - Hospital News",
+      "body": "Hantavirus and Ebola virus disease: 10 things to know &nbsp;&nbsp; Hospital News",
+      "body_en": "Hantavirus and Ebola virus disease: 10 things to know &nbsp;&nbsp; Hospital News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNazVZTlNvSVVCVEp6V0tEQ1c1V2VFTFhYMU1vNTdrazNhcVJMNExqTEZtR0d2cTVrQW5TLWd1VElVb1R3dFVTY19uNG1HUlVLaDJqUHpkZEZOTGdpZVBHaDl0bXZSVnFPU3EyMzBpTkJNWmhsTDh2RkJHd18yZlJmcTlhVWFXQ3N4R0E?oc=5"
     },
@@ -390,6 +377,19 @@
       "body_en": "US ends hantavirus outbreak response with no answers on draconian quarantines &nbsp;&nbsp; Ars Technica",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUpWcE1Kd0lSN0s2R2NjTHpvNU5kLS1DYmZmUUJGTUxNZy1MRnRiTXl1LVVnNnNsb0swNVJJVUZ2MjZEZlBOb19jMldwVi1oUXRRbmdqaU1Xd0ZvR1ZwZThGUnk1aG5JS0EtRFI3NElZTEVidEQ1YVU2VkJ6TEsxUE1oejRyMUZLRkhHZkxLbGdwRXZoaVJCUG1yM0swa3FSSHliR1BJb0xnTVZMVzlfOFhXVjUxNlps?oc=5"
+    },
+    {
+      "id": "feed-791ad069d7",
+      "manual": false,
+      "date": "2026-06-24T21:09:21+00:00",
+      "date_label": "24 juin 2026",
+      "tag": "media",
+      "title": "L’épidémie meurtrière de hantavirus devrait prendre fin le 2 juillet, selon l’OMS - Euronews.com",
+      "title_en": "L’épidémie meurtrière de hantavirus devrait prendre fin le 2 juillet, selon l’OMS - Euronews.com",
+      "body": "L’épidémie meurtrière de hantavirus devrait prendre fin le 2 juillet, selon l’OMS &nbsp;&nbsp; Euronews.com",
+      "body_en": "L’épidémie meurtrière de hantavirus devrait prendre fin le 2 juillet, selon l’OMS &nbsp;&nbsp; Euronews.com",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUo3a2xWTjM4cGNKSU5iYnZETW1RVWVCbGJRN3JsU1hfMTRWQW4xQU5oSERneng0YUs2dkRVem9CQzU5OG4zS295YUVIU2w3TV80c1FUaHE5VWl0OElhTDY0NndBMmdMYTdBQU96VmMyZ05FUHNOQzdnb0dBUTdJc1NuQklwdUtqampaTlFJaXpFVjdrQ3dDNU1aTkJzSHVWTldLbDYwS2VEZXV2NjNsN2N3UmFsUHZmUk5Z?oc=5"
     }
   ]
 }

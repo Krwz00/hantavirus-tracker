@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-30T09:34:13.010615+00:00",
+  "updated_at": "2026-06-30T12:08:37.645758+00:00",
   "items": [
+    {
+      "id": "feed-f6da3b1132",
+      "manual": false,
+      "date": "2026-06-30T12:00:41+00:00",
+      "date_label": "30 juin 2026",
+      "tag": "research",
+      "title": "Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus",
+      "title_en": "Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus",
+      "body": "The post Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus appeared first on ANRS MIE .",
+      "body_en": "The post Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus appeared first on ANRS MIE .",
+      "source": "ANRS Maladies infectieuses émergentes",
+      "source_url": "https://anrs.fr/actualites/actualites/appel-manifestation-hantavirus/"
+    },
+    {
+      "id": "feed-1d0e70f021",
+      "manual": false,
+      "date": "2026-06-30T10:15:43+00:00",
+      "date_label": "30 juin 2026",
+      "tag": "media",
+      "title": "L'Argentine détecte un variant d'hantavirus en Terre de Feu",
+      "title_en": "L'Argentine détecte un variant d'hantavirus en Terre de Feu",
+      "body": "Un nouveau variant d'hantavirus a été détecté chez des souris capturées en Terre de Feu, en Argentine. Les autorités sanitaires précisent qu'il est bien distinct de la souche identifiée à bord du navire de croisière Hondius, responsable de trois décès, et poursuivent leurs investigations pour évaluer les risques…",
+      "body_en": "Un nouveau variant d'hantavirus a été détecté chez des souris capturées en Terre de Feu, en Argentine. Les autorités sanitaires précisent qu'il est bien distinct de la souche identifiée à bord du navire de croisière Hondius, responsable de trois décès, et poursuivent leurs investigations pour évaluer les risques…",
+      "source": "Sciences et Avenir — Santé",
+      "source_url": "https://www.sciencesetavenir.fr/sante/l-argentine-detecte-un-variant-d-hantavirus-en-terre-de-feu_193496?xtor=RSS-16"
+    },
     {
       "id": "feed-502bba6045",
       "manual": false,
@@ -41,22 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQkpxaFpkY3lVQU84WTlTV2szZ2tGTzVDek1SZW43Q3dzYlBWNTFWSEZPTmFCY19ZZWJhbkpzakJ4QTFvWFNPQmhDNHhWSHVxMnJQOEo5am1CR0JtRkhRbExnV1ZyZUc2UFlWSFhvaDFlRkxYS1FGT3U3dDE3dWUxcU51ZTYxQUZfbHhadklZXzF0TzlScnVDX3lTM0I4cVoxSWlKeTh1NF9YVFdUSG5lbUpuMmlTODB5aGEwSVRZQkVjbHBT0gHKAUFVX3lxTE9ZbXMzVzRfdzN2ZnRXWEJ6b2pXU3JmUzVxY0Z5M2ZrYmxwekpoTGpjZ0FncVRKUVRfdkVaMDd6Z3NYVVExVURNZHBJeGM3aEt1SUtDMUdoUlRKaWFEai1Db0FvMjJHTG5QM01yNTZ2ZnplV0JUNlFMengyeERFY3ZDUEREc040bmExVFhVekExQUZMN0VUekI0eklFa0tWckFwZkw1Y29WY3ZUcVFDbVpvQnozczZWLXN2UFdxclRITlhfTjRBa1FsN0E?oc=5"
     },
     {
-      "id": "feed-2e04189e0d",
-      "manual": false,
-      "date": "2026-06-29T17:48:32+00:00",
-      "date_label": "29 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus",
-      "title_en": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus",
-      "body": "Des prélèvements réalisés fin mai par les autorités argentines dans la province de Terre de Feu n’ont pas permis de trouver des traces de la forme d’hantavirus détectée à bord du «MV Hondius».",
-      "body_en": "Des prélèvements réalisés fin mai par les autorités argentines dans la province de Terre de Feu n’ont pas permis de trouver des traces de la forme d’hantavirus détectée à bord du «MV Hondius».",
-      "source": "Libération",
-      "source_url": "https://www.liberation.fr/checknews/hantavirus-la-piste-de-la-decharge-dushuaia-comme-source-de-lepidemie-seloigne-un-peu-plus-20260629_K66XH63JYRC27P3MLUVQGNQX2E/"
-    },
-    {
       "id": "feed-1ea16fb496",
       "manual": false,
-      "date": "2026-06-29T17:48:00+00:00",
+      "date": "2026-06-29T17:48:43+00:00",
       "date_label": "29 juin 2026",
       "tag": "media",
       "title": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus - Libération",
@@ -377,19 +390,6 @@
       "body_en": "US ends hantavirus outbreak response with no answers on draconian quarantines &nbsp;&nbsp; Ars Technica",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUpWcE1Kd0lSN0s2R2NjTHpvNU5kLS1DYmZmUUJGTUxNZy1MRnRiTXl1LVVnNnNsb0swNVJJVUZ2MjZEZlBOb19jMldwVi1oUXRRbmdqaU1Xd0ZvR1ZwZThGUnk1aG5JS0EtRFI3NElZTEVidEQ1YVU2VkJ6TEsxUE1oejRyMUZLRkhHZkxLbGdwRXZoaVJCUG1yM0swa3FSSHliR1BJb0xnTVZMVzlfOFhXVjUxNlps?oc=5"
-    },
-    {
-      "id": "feed-791ad069d7",
-      "manual": false,
-      "date": "2026-06-24T21:09:21+00:00",
-      "date_label": "24 juin 2026",
-      "tag": "media",
-      "title": "L’épidémie meurtrière de hantavirus devrait prendre fin le 2 juillet, selon l’OMS - Euronews",
-      "title_en": "L’épidémie meurtrière de hantavirus devrait prendre fin le 2 juillet, selon l’OMS - Euronews",
-      "body": "L’épidémie meurtrière de hantavirus devrait prendre fin le 2 juillet, selon l’OMS &nbsp;&nbsp; Euronews",
-      "body_en": "L’épidémie meurtrière de hantavirus devrait prendre fin le 2 juillet, selon l’OMS &nbsp;&nbsp; Euronews",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUo3a2xWTjM4cGNKSU5iYnZETW1RVWVCbGJRN3JsU1hfMTRWQW4xQU5oSERneng0YUs2dkRVem9CQzU5OG4zS295YUVIU2w3TV80c1FUaHE5VWl0OElhTDY0NndBMmdMYTdBQU96VmMyZ05FUHNOQzdnb0dBUTdJc1NuQklwdUtqampaTlFJaXpFVjdrQ3dDNU1aTkJzSHVWTldLbDYwS2VEZXV2NjNsN2N3UmFsUHZmUk5Z?oc=5"
     }
   ]
 }

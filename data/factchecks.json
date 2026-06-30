@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T17:53:27.313435+00:00",
+  "updated_at": "2026-06-30T19:56:48.792913+00:00",
   "items": [
     {
       "id": "fc-625736bc52",
@@ -78,19 +78,6 @@
       "body_en": "Le génome du pathogène qui a touché les passagers du bateau de croisière est proche de virus présents dans une zone du Chili et de l’Argentine où est passé le patient zéro supposé, mais à une date qui induirait une période d’incubation très large.",
       "source": "Libération — CheckNews",
       "source_url": "https://www.liberation.fr/checknews/hantavirus-que-nous-apprend-le-sequencage-du-virus-qui-a-contamine-les-croisieristes-du-mv-hondius-20260515_WE4IWMYPR5AZXDA2KGMH3HW4A4/"
-    },
-    {
-      "id": "fc-736ae58a5c",
-      "manual": false,
-      "date": "2026-05-13T17:11:22+00:00",
-      "date_label": "13 mai 2026",
-      "tag": "alert",
-      "title": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril ?",
-      "title_en": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril ?",
-      "body": "Trente passagers avaient quitté le navire lors d’une escale, alors qu’on ignorait encore tout de la présence du virus à bord. Depuis, la majorité d’entre eux est à l’isolement, mais plusieurs ont continué à voyager.",
-      "body_en": "Trente passagers avaient quitté le navire lors d’une escale, alors qu’on ignorait encore tout de la présence du virus à bord. Depuis, la majorité d’entre eux est à l’isolement, mais plusieurs ont continué à voyager.",
-      "source": "Libération — CheckNews",
-      "source_url": "https://www.liberation.fr/checknews/hantavirus-a-lisolement-ou-encore-en-voyage-que-sont-devenus-les-passagers-du-mv-hondius-debarques-a-sainte-helene-le-24-avril-20260513_OV7R6YXN7BCZJGVMY62CACI2EE/"
     },
     {
       "id": "manual-new-virus",

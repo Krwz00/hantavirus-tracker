@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T17:54:57.997350+00:00",
+  "updated_at": "2026-07-01T19:54:38.561856+00:00",
   "items": [
     {
       "id": "fc-376c54d5c7",
@@ -78,19 +78,6 @@
       "body_en": "In Sozialen Netzwerken verbreitet sich eine Karte, die nach dem Ausbruch des Andes-Hantavirus auf einem Kreuzfahrtschiff angeblich sehr viele Fälle weltweit zeigt. Doch die Punkte auf der Karte von „hantavirusmap.com“ haben eine andere Bedeutung.",
       "source": "Correctiv (Allemagne)",
       "source_url": "https://correctiv.org/faktencheck/2026/05/20/nein-diese-karte-zeigt-keine-hantavirus-faelle/"
-    },
-    {
-      "id": "fc-d43c59f067",
-      "manual": false,
-      "date": "2026-05-15T17:59:48+00:00",
-      "date_label": "15 mai 2026",
-      "tag": "alert",
-      "title": "Hantavirus : que nous apprend le séquençage du virus qui a contaminé les croisiéristes du «MV Hondius» ?",
-      "title_en": "Hantavirus : que nous apprend le séquençage du virus qui a contaminé les croisiéristes du «MV Hondius» ?",
-      "body": "Le génome du pathogène qui a touché les passagers du bateau de croisière est proche de virus présents dans une zone du Chili et de l’Argentine où est passé le patient zéro supposé, mais à une date qui induirait une période d’incubation très large.",
-      "body_en": "Le génome du pathogène qui a touché les passagers du bateau de croisière est proche de virus présents dans une zone du Chili et de l’Argentine où est passé le patient zéro supposé, mais à une date qui induirait une période d’incubation très large.",
-      "source": "Libération — CheckNews",
-      "source_url": "https://www.liberation.fr/checknews/hantavirus-que-nous-apprend-le-sequencage-du-virus-qui-a-contamine-les-croisieristes-du-mv-hondius-20260515_WE4IWMYPR5AZXDA2KGMH3HW4A4/"
     },
     {
       "id": "manual-new-virus",

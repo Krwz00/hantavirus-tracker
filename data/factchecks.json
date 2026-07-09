@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T21:22:48.894386+00:00",
+  "updated_at": "2026-07-09T23:10:48.840932+00:00",
   "items": [
     {
       "id": "fc-625736bc52",
@@ -13,32 +13,6 @@
       "body_en": "Des prélèvements réalisés fin mai par les autorités argentines dans la province de Terre de Feu n’ont pas permis de trouver des traces de la forme d’hantavirus détectée à bord du «MV Hondius».",
       "source": "Libération — CheckNews",
       "source_url": "https://www.liberation.fr/checknews/hantavirus-la-piste-de-la-decharge-dushuaia-comme-source-de-lepidemie-seloigne-un-peu-plus-20260629_K66XH63JYRC27P3MLUVQGNQX2E/"
-    },
-    {
-      "id": "fc-45fa2220fa",
-      "manual": false,
-      "date": "2026-06-16T14:09:18+00:00",
-      "date_label": "16 juin 2026",
-      "tag": "alert",
-      "title": "Video über angeblich geplante Impfpflicht in der Schweiz führt in die Irre",
-      "title_en": "Video über angeblich geplante Impfpflicht in der Schweiz führt in die Irre",
-      "body": "Ein Youtuber behauptet nach dem Hantavirus-Ausbruch, in Zürich sei eine „Impfpflicht durch die Hintertür“ geplant – es drohe ein Bußgeld von 50.000 Euro. Der Faktencheck zeigt: Zwar wird das Züricher Gesundheitsgesetz 2026 überarbeitet, aber weder der Strafrahmen noch die Impfpflicht sind neu. Es fehlt Kontext.",
-      "body_en": "Ein Youtuber behauptet nach dem Hantavirus-Ausbruch, in Zürich sei eine „Impfpflicht durch die Hintertür“ geplant – es drohe ein Bußgeld von 50.000 Euro. Der Faktencheck zeigt: Zwar wird das Züricher Gesundheitsgesetz 2026 überarbeitet, aber weder der Strafrahmen noch die Impfpflicht sind neu. Es fehlt Kontext.",
-      "source": "Correctiv (Allemagne)",
-      "source_url": "https://correctiv.org/faktencheck/2026/06/16/video-ueber-angeblich-geplante-impfpflicht-in-der-schweiz-fuehrt-in-die-irre/"
-    },
-    {
-      "id": "fc-b822808811",
-      "manual": false,
-      "date": "2026-05-22T15:14:55+00:00",
-      "date_label": "22 mai 2026",
-      "tag": "alert",
-      "title": "Kein Hantavirus-Einsatz: Foto zeigt Marineübung im Jahr 2025",
-      "title_en": "Kein Hantavirus-Einsatz: Foto zeigt Marineübung im Jahr 2025",
-      "body": "Nach dem Hantavirus-Ausbruch auf einem Kreuzfahrtschiff kursieren im Mai 2026 Bilder von Menschen, die angeblich keine richtige Schutzkleidung tragen. Einige dieser Aufnahmen haben allerdings nichts mit dem Hantavirus zu tun.",
-      "body_en": "Nach dem Hantavirus-Ausbruch auf einem Kreuzfahrtschiff kursieren im Mai 2026 Bilder von Menschen, die angeblich keine richtige Schutzkleidung tragen. Einige dieser Aufnahmen haben allerdings nichts mit dem Hantavirus zu tun.",
-      "source": "Correctiv (Allemagne)",
-      "source_url": "https://correctiv.org/faktencheck/2026/05/22/kein-hantavirus-einsatz-foto-zeigt-marineuebung-im-jahr-2025/"
     },
     {
       "id": "manual-new-virus",

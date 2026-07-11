@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T23:57:00.707393+00:00",
+  "updated_at": "2026-07-11T02:54:22.786843+00:00",
   "items": [
     {
       "id": "feed-4b4dda2631",
@@ -314,6 +314,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUdDQU85SEZRbjM2a1hGQmV2ZWxXcWtzN0dPazhCMUdYTENJNV9JMFB1a3EzUzBUVU9uaHJxd0ZfMFB5bjdud1l0RXhZNWMxRkd3NE5CMTNFbzdQV01PSWZUd3dYbGw1ZFh0NXVJVkVVSmQzdFVnNTVWbUxFa2ktQmVMcmQ5VHdYcXJwd1RlM0VRU1pmM1JXYUg4WEdLRFJndWktc2twaXJaSG9JMGQwQnphTjB1cV9KWVNULURvai1oU2poemc0MHBpRXY1VUNLc0RQWG5ZRFdWb2VTT0llNTM3STA0Y05TNlduZXFtNA?oc=5"
     },
     {
+      "id": "feed-1a963ca13d",
+      "manual": false,
+      "date": "2026-07-02T14:26:00+00:00",
+      "date_label": "2 juillet 2026",
+      "tag": "media",
+      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+      "title_en": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+      "body": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
+      "body_en": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5"
+    },
+    {
       "id": "feed-ba6311ca62",
       "manual": false,
       "date": "2026-07-02T13:48:42+00:00",
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus : l’OMS déclare la fin de l’épisode du navire « MV Hondius » &nbsp;&nbsp; Le Parisien",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdVFiczl1N0o1UUxIZnFaTmQ3Nll0c0NUbG1URkhzMXlBc0N6bUJpZFBzTkxiWWJlNlA3Zzh2Vk9zanFyc1Bqd3BnTVZXWmpvWEFENXV3eGx2ZVhxaVNsV0RvWnFhaXF0VDJPU0tFRkI1RUMyQjNfajdqT3hDaWNvak5TMEZRN1NvM3lZVUhhclBud2Nwam9ULXl4NzJRSEVjNGMwOWd0R3l2M2xkR3dEbzhIcDF6Q2czR3JCbVhSZ3h6S2U2LWc1cTlMQWxXR0NfekJYZmhibEh6c1YxMUE?oc=5"
-    },
-    {
-      "id": "feed-8b0642ba9a",
-      "manual": false,
-      "date": "2026-07-02T07:00:00+00:00",
-      "date_label": "2 juillet 2026",
-      "tag": "media",
-      "title": "Hantavirus sur un navire de croisière : l’OMS annonce la fin de l’épidémie, mais l’origine précise du foyer d’infection n’a toujours pas été trouvée - L'Indépendant",
-      "title_en": "Hantavirus sur un navire de croisière : l’OMS annonce la fin de l’épidémie, mais l’origine précise du foyer d’infection n’a toujours pas été trouvée - L'Indépendant",
-      "body": "Hantavirus sur un navire de croisière : l’OMS annonce la fin de l’épidémie, mais l’origine précise du foyer d’infection n’a toujours pas été trouvée &nbsp;&nbsp; L'Indépendant",
-      "body_en": "Hantavirus sur un navire de croisière : l’OMS annonce la fin de l’épidémie, mais l’origine précise du foyer d’infection n’a toujours pas été trouvée &nbsp;&nbsp; L'Indépendant",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQXNBLUFnZDJXUW0yN3d5SVJhQkxzTHBZbUZWRlFIZ0hMTWZpUFlaT0paRFR0a0RiUnZ1WjZ5azdKUHlYR1hwYTZYcUxkLVJlRGpSU1JDZmJGUkgzdHl4UzBfbUpSU3l3ckJXZmY1bVp2Ty14T0FYTERzOFJWZV8xWGNBMGVBd2hTRXBjZkJuRllxeVVHaGlpcmUybk55elJnQ0JGbzJDTVJFOXQxU3dRMVlndDlLNE15NGdYbkowQ3RrVnlPcndQaVNFdl9FTHR5SDlQR2g0MXRJLWcyN3dEb3RUZndiVF9DdHJtMld0NndqT0FEdWJXS2FNMzFBWHhTSnU3ZFNlYWJvLUxnbnh5Ny0zZkpBTklaamU5bQ?oc=5"
     }
   ]
 }

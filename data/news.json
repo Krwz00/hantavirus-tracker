@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T10:27:12.248070+00:00",
+  "updated_at": "2026-07-12T11:58:56.091688+00:00",
   "items": [
     {
       "id": "feed-7df3a3958f",
@@ -93,6 +93,32 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR292MmhCajYtSUdFaU45SmpjWENuUnhtMlpydzVkcm1Rd2lUa2owalhIN0FUVUo1ZWM1LUs2aHl3TjRZd3ZJZ1pKQmRTaVdmelVKbTZkbEJaVml5RG5EWmFYTWVCU190MUE3SmxBX0Q3VlNUcW91YldyMDBVVUZZT042cWZLNnpoVjBaa3BqLWJPbmZWYWY4bkFhM3FPYkRyWE5RSWs0YjFXY2l5VldJanNrX25wcnlwLVlmZ3ZVTjJYV203S0hHRmxzd0s0TjdQLXVBVVBPdVMtQXphVjNHd1cxNm1SYU5rMzJlWVh0clNMQQ?oc=5"
     },
     {
+      "id": "feed-9771c56497",
+      "manual": false,
+      "date": "2026-07-06T04:10:00+00:00",
+      "date_label": "6 juillet 2026",
+      "tag": "media",
+      "title": "Hantavirus, Ebola, rougeole : la désinformation sanitaire est devenue un enjeu de santé publique européen - RTBF",
+      "title_en": "Hantavirus, Ebola, rougeole : la désinformation sanitaire est devenue un enjeu de santé publique européen - RTBF",
+      "body": "Hantavirus, Ebola, rougeole : la désinformation sanitaire est devenue un enjeu de santé publique européen &nbsp;&nbsp; RTBF",
+      "body_en": "Hantavirus, Ebola, rougeole : la désinformation sanitaire est devenue un enjeu de santé publique européen &nbsp;&nbsp; RTBF",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0s1VFlPMW9Uem01Vk9qVG9haEZkd2R4QUp5bmw2NUdRdE0tcVdHSWR4Ylk0bEpyQVUzbHZaWW5ha0FEUVIyTC1jbFJsajZ4dFc2ZGtJeHZVUDFGbGNDWXJmYlNsa1RCdFlyVEFLUG5NME5oeXdUMjZNVDludE1lN0thT2JaNzZpMzdoYmFLZGctWDhzNHNNbEE0OXRUdjJ0Z1ZMUGIwR1RBQXVhM1RGek5fTzFaNTF6bndUaFB0YjRGZnJZTTBzajFqNUZuUjdpUVN1VA?oc=5"
+    },
+    {
+      "id": "feed-d502d6a80a",
+      "manual": false,
+      "date": "2026-07-05T13:39:35+00:00",
+      "date_label": "5 juillet 2026",
+      "tag": "media",
+      "title": "L’OMS annonce la fin officielle de l’épisode d’hantavirus - L'Humanité",
+      "title_en": "L’OMS annonce la fin officielle de l’épisode d’hantavirus - L'Humanité",
+      "body": "L’OMS annonce la fin officielle de l’épisode d’hantavirus &nbsp;&nbsp; L'Humanité",
+      "body_en": "L’OMS annonce la fin officielle de l’épisode d’hantavirus &nbsp;&nbsp; L'Humanité",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXJ2djN5Y0pxbE4wM1FzRkRqRkxHSnREUjhGSm1xUWlyRVBkQk9Bd1VoY1lGXzdiQ2Zrd0pxaHQzeHhqbzlFaHF5REt4R3pnT25TVFluYXByTF9zX2EzOG9BakhqOGxHbVp6ZWxxZGdZY09IQVJCdjZ6cklhOXZ4UUpyT0RDdFB1UlJqMndVcm1jajNybDlZdVlDaw?oc=5"
+    },
+    {
       "id": "feed-89c1b36749",
       "manual": false,
       "date": "2026-07-03T08:01:01+00:00",
@@ -132,6 +158,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVNtaWlLQzRXMmgyX21nTm1Kb2oxWFZtMzRxcFhUM0hMWDZRRkRFYmNGd2xJQU1mTmxMdFUwdVQtN2hXdzVoczBBSmowcXlQVkpZcmhfQ1cwUXRvOEZpRzcyYjdkUHNrODF6b0wyemx1MVBrVjV1TXVCNDNWQUYtR0hxTDZlSFJXeFVFYWRuTjB4ZGluWGJscUd5RzFGUDBoclVLU1B1NWZRMWlvclZ4VUhEcURyZ2JzYjMyZGJwZC1qcWlZM2ZRTDVHZk05NWF4VHBQRFln?oc=5"
     },
     {
+      "id": "feed-2ccda18e20",
+      "manual": false,
+      "date": "2026-07-02T15:56:28+00:00",
+      "date_label": "2 juillet 2026",
+      "tag": "media",
+      "title": "L'OMS annonce la fin de l'épisode d'hantavirus lié au navire de croisière - RFI",
+      "title_en": "L'OMS annonce la fin de l'épisode d'hantavirus lié au navire de croisière - RFI",
+      "body": "L'OMS annonce la fin de l'épisode d'hantavirus lié au navire de croisière &nbsp;&nbsp; RFI",
+      "body_en": "L'OMS annonce la fin de l'épisode d'hantavirus lié au navire de croisière &nbsp;&nbsp; RFI",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQblhBd3BMTV8taVlYQTdaRDMzOEFDRnRzZE9jYTYxUWZLdFJHek5KTzZ5eU9mbEFQZG9fZ3o2MlhRRU9VUXprcVRDd20xZXlmaHp0dUlvTFpuaTNGOFBxN3JsN0xYXy1DT1A4R2Q3SzJiV2Zaa1g4aFpPZGtScjRZSVEwZlVVZnJfcVE0bXNBQTFuWEtDOFhRQ2lqYURYM083V3lobVJPRUhGdDlBVEFUVV83U1NORGRBV1dxT1k3ZHZNaE5N?oc=5"
+    },
+    {
       "id": "feed-799c130c9f",
       "manual": false,
       "date": "2026-07-02T15:54:19+00:00",
@@ -158,17 +197,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd1VHYlRQUVdoUzF1cThib3FpbnNWSWZqQXUwMF9xUS1SQURUV010MG0xcjlCc3h0ekdFYnRORld5cHpndUJ2c3IyQVQySVV4M21LMUMtdXd4aUF0aVhvaHhCbnU3Q0pNYkhiWjhqYjRrMnFZU2FnOWZveHMyYVR6SWRibHVTajNhM3Y3bUN3QzhUemtoUlhZSjA4WDlSYXNWanpuWUxrWUp3bGNBeXNZOE5FOWV3c0lZUnVrdXVobThPVF9BM0J5a3J3MWl0VFMxM2pWcnpKVVJPZlZLVGhtTVlGcnh3eVlmM1U5cHQ0TUlXemdUdGMySGFleVZfbnpl?oc=5"
     },
     {
-      "id": "feed-51f9547104",
+      "id": "feed-371c6d5b68",
       "manual": false,
-      "date": "2026-07-02T15:12:29+00:00",
+      "date": "2026-07-02T14:51:52+00:00",
       "date_label": "2 juillet 2026",
       "tag": "media",
-      "title": "Le chef de l'OMS déclare la fin de l'épisode d'hantavirus - BFM",
-      "title_en": "Le chef de l'OMS déclare la fin de l'épisode d'hantavirus - BFM",
-      "body": "Le chef de l'OMS déclare la fin de l'épisode d'hantavirus &nbsp;&nbsp; BFM",
-      "body_en": "Le chef de l'OMS déclare la fin de l'épisode d'hantavirus &nbsp;&nbsp; BFM",
+      "title": "L'OMS déclare la fin de l'épidémie d'hantavirus liée au MV Hondius - rts.ch",
+      "title_en": "L'OMS déclare la fin de l'épidémie d'hantavirus liée au MV Hondius - rts.ch",
+      "body": "L'OMS déclare la fin de l'épidémie d'hantavirus liée au MV Hondius &nbsp;&nbsp; rts.ch",
+      "body_en": "L'OMS déclare la fin de l'épidémie d'hantavirus liée au MV Hondius &nbsp;&nbsp; rts.ch",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEhwZFgtQ19MRHZpRW5mNFVZNDNDNnlYVERSbFJFWU9saWVjZ1RKbXdNSm1NUV9JalAtQl9QaFQwZkdwVmVON3kxaW1qMER5MXZOVW9UaFBxTlBib1dzbDNDV1kwWDZYSkQzY2dhRmxGNTcxN0FLY3N2cU5CTER6RzVEN0pGYXlZeXBfbm93akFLak5uN21KbkhvbXhsaV9kZ1ByMkdDWk5kUQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREswVVM3UUgzMU8zcWc5WE04cXdUV0NTc2ZXVmh0RXpURDJ0c1BfQTJ1RVA1dUhBVXNSQkpraWhPcFdvRHFXQl8yVXVxVWxRQ1FiOHJjT0JyaUNYQUlUdzFkeFNWMkVyWWJncnEtbjZ5VV9vd2FtLXZDYlIwMHkybkZURHlxVHhrbTNEMnJYZjFXQVNTSEVrZHJjOVpiSWI5RzczcFhzdw?oc=5"
     },
     {
       "id": "feed-e8e94fed01",
@@ -340,56 +379,17 @@
       "source_url": "https://www.sciencesetavenir.fr/sante/l-argentine-detecte-un-variant-d-hantavirus-en-terre-de-feu_193496?xtor=RSS-16"
     },
     {
-      "id": "feed-aee8a3f3aa",
+      "id": "feed-0ae5c4d21d",
       "manual": false,
       "date": "2026-06-30T07:00:00+00:00",
       "date_label": "30 juin 2026",
       "tag": "media",
-      "title": "L'Argentine détecte un variant d'hantavirus en Terre de Feu - Sciences et Avenir",
-      "title_en": "L'Argentine détecte un variant d'hantavirus en Terre de Feu - Sciences et Avenir",
-      "body": "L'Argentine détecte un variant d'hantavirus en Terre de Feu &nbsp;&nbsp; Sciences et Avenir",
-      "body_en": "L'Argentine détecte un variant d'hantavirus en Terre de Feu &nbsp;&nbsp; Sciences et Avenir",
+      "title": "Hantavirus | La période d’isolement pour les voyageurs est terminée - La Presse",
+      "title_en": "Hantavirus | La période d’isolement pour les voyageurs est terminée - La Presse",
+      "body": "Hantavirus | La période d’isolement pour les voyageurs est terminée &nbsp;&nbsp; La Presse",
+      "body_en": "Hantavirus | La période d’isolement pour les voyageurs est terminée &nbsp;&nbsp; La Presse",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeklRMlVQbWY4ZnB1ZHM0Ml9OY1QwdFM3cXNQZVM5VzVKQ1N6X2VlY1pGaTdmVEgxTFNiaTktaW5WdG1sal9ScG9aTzZmRlJsZlVrOUI1cUg0RXZLMnFIVEJJUXFFeVZnTWViaFZ1Ti1BY21samNNNVBSS2NyMy1VRng3d3BYaDNoSE5ENlVnOVloRXNrLXM1cDBrRG9NRDJZZEY1MDNqbw?oc=5"
-    },
-    {
-      "id": "feed-dd7feef095",
-      "manual": false,
-      "date": "2026-06-29T14:40:26+00:00",
-      "date_label": "29 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center",
-      "title_en": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center",
-      "body": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
-      "body_en": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1RfX0Q1T0c3OTdibFh2dGQyYkthd3ktN1BvOHdPeXZIOFZ4UFg2Ukx4ZXdDQWlhRGxQMFE3TW9MVV9JZTlXSW96dVZ6a3kxb0EzUDhjaHA2UzNYSVQzZ3RTeHk0eFUzSzhwaTJkYktIQ1ZwWGd5cEgwZnB4Q0duZy1tbjdEOGJCcmJyQU5NMVZ3aHdGR3JYU2NsQXNVdmM5bXBhcmwwMkgtR2oxcW9PVjFoZzdqVlFyZE01NlR4UHllMDZLeTBJeUM4SQ?oc=5"
-    },
-    {
-      "id": "feed-9a1983a782",
-      "manual": false,
-      "date": "2026-06-29T07:38:25+00:00",
-      "date_label": "29 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus : lancement d’une étude coordonnée impliquant 21 pays - vih.org",
-      "title_en": "Hantavirus : lancement d’une étude coordonnée impliquant 21 pays - vih.org",
-      "body": "Hantavirus : lancement d’une étude coordonnée impliquant 21 pays &nbsp;&nbsp; vih.org",
-      "body_en": "Hantavirus : lancement d’une étude coordonnée impliquant 21 pays &nbsp;&nbsp; vih.org",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjl2N2xxczFXWDNOUmZWbVBBdl9CcVVzNi1DbVRkVFNXTjk1ZmdiZk85cG9XTWJFQzRWN25sbGhKMEVWYm1QUkVRY3NYSHJpMFJUdE5xbWlLNzk3dHJIWnhWWlNpWWlzZHc2MEdkWmx3OXhEVnZabXp4Ni1pMWxueFRVanRSc0F3X2JMdEotQlk2SmFqSDQyY1YwVFpqR3lqSFhNVUIyWldELTg?oc=5"
-    },
-    {
-      "id": "feed-48af1a9488",
-      "manual": false,
-      "date": "2026-06-29T07:00:00+00:00",
-      "date_label": "29 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus : les rongeurs capturés en Terre de Feu ne sont pas « à l’origine de l’infection », mais un nouveau variant du virus identifié lors de leur analyse - Sud Ouest",
-      "title_en": "Hantavirus : les rongeurs capturés en Terre de Feu ne sont pas « à l’origine de l’infection », mais un nouveau variant du virus identifié lors de leur analyse - Sud Ouest",
-      "body": "Hantavirus : les rongeurs capturés en Terre de Feu ne sont pas « à l’origine de l’infection », mais un nouveau variant du virus identifié lors de leur analyse &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Hantavirus : les rongeurs capturés en Terre de Feu ne sont pas « à l’origine de l’infection », mais un nouveau variant du virus identifié lors de leur analyse &nbsp;&nbsp; Sud Ouest",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQQkJQYWVXU0c5UnQ4QTNKTTlxMW45Yk5JSlQzSG1CNEZteEpzbldUYl9Ua0ZLVTRWaHNCWFpfcm1hVUMyb2hwR3Bjb3ZhUm5tZmN2R19pWUpXd1FVT2lRU2Jtd2N4SHhpUzcyM0R3c29TdC1ORk9SMmVaY1oxYXkyVjRxQUFwSWZOLXpyTFo4dnZnQTZzc2o5clFWOUlpZUlzZ2dQQkkyQ2k2WWFtMkVDVXhPZF9MWHlHNHEwWkY2QVJ1RWR2NUhucTMtRnE2WjdNUzlqeU10RXB2dG9lbm9XVGpPMkZ6RG9NRnpEQ0lmdzFvZENkbXFidHZOU3Zac0ZFQktmQ1VXSHlRLV9COEF5WmhSSGVfQllQN3VPLUw2UXMwNFphQnpUQm1uSXI2Zw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS1pzYXNhNEVSbnlTMGZRd0JsRWhnZXhfLTQ1TmhOVmNHRGZoSEtpWnVwY09XNTZvcHlkYldmRTJJUG5wUkpIQk1SU3hRTXp4V05VamhrOWFLOUZtSGZfLVVhUzRhc0g0UXJlTElpcmZtYXZDU3ZQLV9DaFlrdVA1Ry1kYmxYZURvYkpZNURnM0pJdjE4U0FCcUVxOFJfZXpoNjlvOC1EbjNVUXh6SzRoSGFkdlB1UjBXUkR0b1R3?oc=5"
     }
   ]
 }

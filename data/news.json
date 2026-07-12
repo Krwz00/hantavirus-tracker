@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T21:49:40.399405+00:00",
+  "updated_at": "2026-07-12T22:47:33.262736+00:00",
   "items": [
     {
       "id": "feed-30c3ecd929",
@@ -104,19 +104,6 @@
       "body_en": "The rodent-borne virus, which sickened passengers on the MV Hondius, killed three people, led to a race to find its origin and a global health alert.",
       "source": "The New York Times — Health",
       "source_url": "https://www.nytimes.com/2026/07/02/world/hantavirus-cruise-outbreak-timeline-events.html"
-    },
-    {
-      "id": "feed-799c130c9f",
-      "manual": false,
-      "date": "2026-07-02T15:54:19+00:00",
-      "date_label": "2 juillet 2026",
-      "tag": "media",
-      "title": "L'épisode d'hantavirus qui s'était déclaré sur un navire de croisière désormais terminé, déclare l'OMS - TF1 Info",
-      "title_en": "L'épisode d'hantavirus qui s'était déclaré sur un navire de croisière désormais terminé, déclare l'OMS - TF1 Info",
-      "body": "L'épisode d'hantavirus qui s'était déclaré sur un navire de croisière désormais terminé, déclare l'OMS &nbsp;&nbsp; TF1 Info",
-      "body_en": "L'épisode d'hantavirus qui s'était déclaré sur un navire de croisière désormais terminé, déclare l'OMS &nbsp;&nbsp; TF1 Info",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMUtGNXljM0dWZXBUb0l0c0h5MFVMS3JzaU9CT0UzcWswVnVKYWVsMlZTN3k3bXg4b0duOHpyYUFMTHBsTi1LRUFwV0hscjgyX2xjdjVhR202VWdhZXlYZlVNMF9CWVItanB1b1lhaDlGakZPaW5pZFREckJuQV9sczU2TmFmMVpNS1liaHBnUGUwUEs5TXI1cE1LNU9qU3RkQ05HZ3NOM3ZtZzdUNzlfT29vN0VRbjZSUlE1N3kxWnE3OHFwbWQ5RTJQSVBieW5WVW84Y19KV3Atdmc?oc=5"
     },
     {
       "id": "feed-e8bc30fa77",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus &nbsp;&nbsp; Libération",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT19JTjFuekhaUktyY0lLVlVfTFFYeVRaNnBBRzlGbnBOSVhMenV1ejFqcHNtMXRzM2FuZUlWN1pYelNfdE41Y2piU1dKYUVmcmxXdnZmemZpMXhGRkU5eng1M25Jb3RJc2J2TE9fYVVrU2ZWSG5TNWl4SE5RemE4T1hidU9WWjZ0QVlPYklkZUh4LThWWjBscVltZnViZHYzdDhmaVNlR29la1J1Y01oSWR2bFVtTTBSRl8zQlJYdVZtSW5hRm9nMkpHMkg5SmJSNENEdEN5OExvbmplZld5NjJJcGktWGN5X2hyUmhWc1B0aloyNUE?oc=5"
+    },
+    {
+      "id": "feed-32953e47ec",
+      "manual": false,
+      "date": "2026-06-29T07:00:00+00:00",
+      "date_label": "29 juin 2026",
+      "tag": "media",
+      "title": "Un variant de l’hantavirus détecté en Argentine - parismatch.com",
+      "title_en": "Un variant de l’hantavirus détecté en Argentine - parismatch.com",
+      "body": "Un variant de l’hantavirus détecté en Argentine &nbsp;&nbsp; parismatch.com",
+      "body_en": "Un variant de l’hantavirus détecté en Argentine &nbsp;&nbsp; parismatch.com",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEU5WTRvSm4za3RsZGlMTHVjV2NLcXlENnk1WHo2RTdheUpKYUczZThGWm9YRzJZX2NWaEJoMlg5cHZpOU95dmMyUGtkWHl1UjlwYTU2QnVQOHltZVAwengwZ05aY3dKT3B2ZThXQ3dHQnNpQWtuS3VSbTlsU21GdHplRllRenhIU0tJNkw2ZEdaSlpSQ1lXNA?oc=5"
     }
   ]
 }

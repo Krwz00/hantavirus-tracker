@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-12T19:04:44.094305+00:00",
+  "updated_at": "2026-07-12T20:46:11.258503+00:00",
   "items": [
     {
       "id": "feed-30c3ecd929",
       "manual": false,
-      "date": "2026-07-12T18:55:59+00:00",
+      "date": "2026-07-12T18:55:53+00:00",
       "date_label": "12 juillet 2026",
       "tag": "media",
       "title": "Keystone Health Shares Hantavirus Prevention and Safety Guidance - Franklin County Free Press",
@@ -340,19 +340,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeklRMlVQbWY4ZnB1ZHM0Ml9OY1QwdFM3cXNQZVM5VzVKQ1N6X2VlY1pGaTdmVEgxTFNiaTktaW5WdG1sal9ScG9aTzZmRlJsZlVrOUI1cUg0RXZLMnFIVEJJUXFFeVZnTWViaFZ1Ti1BY21samNNNVBSS2NyMy1VRng3d3BYaDNoSE5ENlVnOVloRXNrLXM1cDBrRG9NRDJZZEY1MDNqbw?oc=5"
     },
     {
-      "id": "feed-dd7feef095",
-      "manual": false,
-      "date": "2026-06-29T14:40:26+00:00",
-      "date_label": "29 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center",
-      "title_en": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center",
-      "body": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
-      "body_en": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1RfX0Q1T0c3OTdibFh2dGQyYkthd3ktN1BvOHdPeXZIOFZ4UFg2Ukx4ZXdDQWlhRGxQMFE3TW9MVV9JZTlXSW96dVZ6a3kxb0EzUDhjaHA2UzNYSVQzZ3RTeHk0eFUzSzhwaTJkYktIQ1ZwWGd5cEgwZnB4Q0duZy1tbjdEOGJCcmJyQU5NMVZ3aHdGR3JYU2NsQXNVdmM5bXBhcmwwMkgtR2oxcW9PVjFoZzdqVlFyZE01NlR4UHllMDZLeTBJeUM4SQ?oc=5"
-    },
-    {
       "id": "feed-9a1983a782",
       "manual": false,
       "date": "2026-06-29T07:38:25+00:00",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus &nbsp;&nbsp; Libération",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT19JTjFuekhaUktyY0lLVlVfTFFYeVRaNnBBRzlGbnBOSVhMenV1ejFqcHNtMXRzM2FuZUlWN1pYelNfdE41Y2piU1dKYUVmcmxXdnZmemZpMXhGRkU5eng1M25Jb3RJc2J2TE9fYVVrU2ZWSG5TNWl4SE5RemE4T1hidU9WWjZ0QVlPYklkZUh4LThWWjBscVltZnViZHYzdDhmaVNlR29la1J1Y01oSWR2bFVtTTBSRl8zQlJYdVZtSW5hRm9nMkpHMkg5SmJSNENEdEN5OExvbmplZld5NjJJcGktWGN5X2hyUmhWc1B0aloyNUE?oc=5"
+    },
+    {
+      "id": "feed-32953e47ec",
+      "manual": false,
+      "date": "2026-06-29T07:00:00+00:00",
+      "date_label": "29 juin 2026",
+      "tag": "media",
+      "title": "Un variant de l’hantavirus détecté en Argentine - parismatch.com",
+      "title_en": "Un variant de l’hantavirus détecté en Argentine - parismatch.com",
+      "body": "Un variant de l’hantavirus détecté en Argentine &nbsp;&nbsp; parismatch.com",
+      "body_en": "Un variant de l’hantavirus détecté en Argentine &nbsp;&nbsp; parismatch.com",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEU5WTRvSm4za3RsZGlMTHVjV2NLcXlENnk1WHo2RTdheUpKYUczZThGWm9YRzJZX2NWaEJoMlg5cHZpOU95dmMyUGtkWHl1UjlwYTU2QnVQOHltZVAwengwZ05aY3dKT3B2ZThXQ3dHQnNpQWtuS3VSbTlsU21GdHplRllRenhIU0tJNkw2ZEdaSlpSQ1lXNA?oc=5"
     }
   ]
 }

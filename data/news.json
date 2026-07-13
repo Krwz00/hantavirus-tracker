@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T10:25:25.161269+00:00",
+  "updated_at": "2026-07-13T13:22:58.330337+00:00",
   "items": [
     {
       "id": "feed-30c3ecd929",
@@ -54,6 +54,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdWtNS2N6VUVhZXNnVTBrTXFHemx6ZjNhUTZvZGhuZHJ2VE8yWFJYTmsxSnEybjdEd0ZFeHZKcU9pbDBDWlItMWxWajBsWEtKaF9WazY4a0ZzMEFQOF8yZkVTOW41VVctV0JvOE13VXJBeDYyZlpVRG5rX3ZiNkgxeXpNcWsxSFVFRFQ3N2hvQ0tNSnRERm5hNkVOeU5fTkdaZTdQNlRJRTU3T0JmOTRoNTJmVUtsc29mUXJaVXg3MjFiajA4VkM0bEV2WGJxTGo4SjZpMFF4ejhXVTFHY0NyWHE3ZFFYQQ?oc=5"
     },
     {
+      "id": "feed-4fd50c133b",
+      "manual": false,
+      "date": "2026-07-03T19:44:03+00:00",
+      "date_label": "3 juillet 2026",
+      "tag": "media",
+      "title": "Hantavirus en France : symptômes, transmission et prévention - Qare",
+      "title_en": "Hantavirus en France : symptômes, transmission et prévention - Qare",
+      "body": "Hantavirus en France : symptômes, transmission et prévention &nbsp;&nbsp; Qare",
+      "body_en": "Hantavirus en France : symptômes, transmission et prévention &nbsp;&nbsp; Qare",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56U1kwM0RGYk1TV2F6SUZUQi02Z1RIWW1fQlZzb25Na2Q5QmdqNXcwMVFKejBiN2pYcmJWMUJqZXdBdGw5TWRPYXVtSlhoQQ?oc=5"
+    },
+    {
       "id": "feed-e8e94fed01",
       "manual": false,
       "date": "2026-07-02T07:00:00+00:00",
@@ -91,6 +104,19 @@
       "body_en": "Hantavirus : le chef de l’OMS déclare la fin de l’épisode lié au navire de croisière, le foyer toujours pas identifié &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWHBwcExPMnliSTYwaUlIWTJPTHhURTN3RWxndG85REotT0FUcWZZd2dNdHdEenBaZ3kxUUItT2otb1RrWHB5XzlDaG81bkNVZGFJZkt6UXUwTHRSRmcwYWgyV3Y2VHcwcmpnVE5BbmdqeXlWNlQ3RWZ1UE9pazhkWWtfVi1kcldjZlBYRm9xUG5mSzk4LVlubUROYlpuU0xfbFZKdC1mbjhkRE1XTVdrc0hYZDJ1M2g5ZWtzQnE5cVRvVUlHdEp3YnZrUDVpTTZTcmk3QnJFTVA1UjQyVVNRY2VTeDRjM1ZNYThTWThIYXRua0haZWZ6OElJeXk?oc=5"
+    },
+    {
+      "id": "feed-04fcbdca4b",
+      "manual": false,
+      "date": "2026-07-02T07:00:00+00:00",
+      "date_label": "2 juillet 2026",
+      "tag": "media",
+      "title": "L’épisode d’hantavirus déclaré sur un bateau de croisière officiellement terminé selon l’OMS - Libération",
+      "title_en": "L’épisode d’hantavirus déclaré sur un bateau de croisière officiellement terminé selon l’OMS - Libération",
+      "body": "L’épisode d’hantavirus déclaré sur un bateau de croisière officiellement terminé selon l’OMS &nbsp;&nbsp; Libération",
+      "body_en": "L’épisode d’hantavirus déclaré sur un bateau de croisière officiellement terminé selon l’OMS &nbsp;&nbsp; Libération",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOW53OFNFR1Z3SDMxbFJVOVZ0ZllidVdDSjVBYXRkYzVzV0lldnlvd2s2OE9lZnRBS0ZhbTVPTmVCcGJfbG9USTNTWGE1OXNLUDFXOXZRSXUzOFZ6N1RUYlJkR3V4WTduU2dhUDFLUmRiMzhLUjhTS3RkR2s0Y0hmVXFFRFpTVkFPbjV1dGd4RGxkcThsUHRNR3h1Mm9SOWhoUU5mc1FmazJBOEhmRU1BY2ljY3BUZGZ3OEJaZEl1N09pYVVZRi1QOXdmTUtLTFhuWXltZ3RXbUs1LXRNRzJXa0dZRWN3clpfQU93bWxMN21sVlJST1lfa29B?oc=5"
     },
     {
       "id": "feed-1a963ca13d",
@@ -169,19 +195,6 @@
       "body_en": "Un nouveau variant d'hantavirus a été détecté chez des souris capturées en Terre de Feu, en Argentine. Les autorités sanitaires précisent qu'il est bien distinct de la souche identifiée à bord du navire de croisière Hondius, responsable de trois décès, et poursuivent leurs investigations pour évaluer les risques…",
       "source": "Sciences et Avenir — Santé",
       "source_url": "https://www.sciencesetavenir.fr/sante/l-argentine-detecte-un-variant-d-hantavirus-en-terre-de-feu_193496?xtor=RSS-16"
-    },
-    {
-      "id": "feed-dd7feef095",
-      "manual": false,
-      "date": "2026-06-29T14:40:26+00:00",
-      "date_label": "29 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center",
-      "title_en": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center",
-      "body": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
-      "body_en": "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1RfX0Q1T0c3OTdibFh2dGQyYkthd3ktN1BvOHdPeXZIOFZ4UFg2Ukx4ZXdDQWlhRGxQMFE3TW9MVV9JZTlXSW96dVZ6a3kxb0EzUDhjaHA2UzNYSVQzZ3RTeHk0eFUzSzhwaTJkYktIQ1ZwWGd5cEgwZnB4Q0duZy1tbjdEOGJCcmJyQU5NMVZ3aHdGR3JYU2NsQXNVdmM5bXBhcmwwMkgtR2oxcW9PVjFoZzdqVlFyZE01NlR4UHllMDZLeTBJeUM4SQ?oc=5"
     },
     {
       "id": "feed-9a1983a782",
@@ -338,19 +351,6 @@
       "body_en": "Hantavirus : l’épidémie liée au navire « Hondius » devrait prendre fin le 2 juillet &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT256TnlIVlFSOGVGVldhMUl2X3pya3NzS3kyQXFDbTE0M1V0WFdJSkdadGcyWTBtM01YSDlzaVZyYUdJVWtQZHZZRUdPcTE2OWl1R0dzNmpyRllmV1h0OHZQdE9Jaml0THhDOFdCLW9XVjR3TjVFeFZhQWVQR3M4SHNtQUhqN1dlX3pFa0VjYjd6MWhZMkp0SDZySVlqWWItM0YyeGdJN3VEVjlUcDIwMzcyUkJ5Rk1iWEJwVGVMTmRpUUJsOVIza0x6NA?oc=5"
-    },
-    {
-      "id": "feed-accc94eaa1",
-      "manual": false,
-      "date": "2026-06-24T07:00:00+00:00",
-      "date_label": "24 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus : l’OMS considère que l’épidémie devrait officiellement prendre fin le 2 juillet - Le Parisien",
-      "title_en": "Hantavirus : l’OMS considère que l’épidémie devrait officiellement prendre fin le 2 juillet - Le Parisien",
-      "body": "Hantavirus : l’OMS considère que l’épidémie devrait officiellement prendre fin le 2 juillet &nbsp;&nbsp; Le Parisien",
-      "body_en": "Hantavirus : l’OMS considère que l’épidémie devrait officiellement prendre fin le 2 juillet &nbsp;&nbsp; Le Parisien",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLTBaMXdSUWx0WEsxRVB2MXZ4X2NtY3FjM0t4RlNGR3Fpa2tMREE2bE01M0ZpTjdJNkZ3Sy1BUndfckM4bW5PUG02c3pka0JGNmthdWRzR2ViYVEtWHoxYWxEMmdRY0F6RThfSWtmLTVVX1JBZWdMYVBHUE04SHNjekFyVGUyOHMyTWhfM1Y0MFdyTld3Uzl0d2Vvdk5jUGFmU0Z2Z0hLOWVYSG5wM0I0Q1pONkVpOVRLaGdXck9WeGhuamprcllBQTkwWnhmZlMtb3ZKMEJtUkN0UjREU3pzbmZCdkh3R18zSTNFYldCVkFPZlMwT09HTGVHaXF2UQ?oc=5"
     },
     {
       "id": "feed-84337ed829",

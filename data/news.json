@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T05:52:15.253764+00:00",
+  "updated_at": "2026-07-19T08:15:50.030447+00:00",
   "items": [
     {
       "id": "feed-5a2be789f0",
@@ -262,17 +262,56 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdVFiczl1N0o1UUxIZnFaTmQ3Nll0c0NUbG1URkhzMXlBc0N6bUJpZFBzTkxiWWJlNlA3Zzh2Vk9zanFyc1Bqd3BnTVZXWmpvWEFENXV3eGx2ZVhxaVNsV0RvWnFhaXF0VDJPU0tFRkI1RUMyQjNfajdqT3hDaWNvak5TMEZRN1NvM3lZVUhhclBud2Nwam9ULXl4NzJRSEVjNGMwOWd0R3l2M2xkR3dEbzhIcDF6Q2czR3JCbVhSZ3h6S2U2LWc1cTlMQWxXR0NfekJYZmhibEh6c1YxMUE?oc=5"
     },
     {
-      "id": "feed-4f1cfc42c3",
+      "id": "feed-8b0642ba9a",
       "manual": false,
       "date": "2026-07-02T07:00:00+00:00",
       "date_label": "2 juillet 2026",
       "tag": "media",
-      "title": "L’OMS a une très bonne nouvelle au sujet de la contagion au hantavirus - Le HuffPost",
-      "title_en": "L’OMS a une très bonne nouvelle au sujet de la contagion au hantavirus - Le HuffPost",
-      "body": "L’OMS a une très bonne nouvelle au sujet de la contagion au hantavirus &nbsp;&nbsp; Le HuffPost",
-      "body_en": "L’OMS a une très bonne nouvelle au sujet de la contagion au hantavirus &nbsp;&nbsp; Le HuffPost",
+      "title": "Hantavirus sur un navire de croisière : l’OMS annonce la fin de l’épidémie, mais l’origine précise du foyer d’infection n’a toujours pas été trouvée - L'Indépendant",
+      "title_en": "Hantavirus sur un navire de croisière : l’OMS annonce la fin de l’épidémie, mais l’origine précise du foyer d’infection n’a toujours pas été trouvée - L'Indépendant",
+      "body": "Hantavirus sur un navire de croisière : l’OMS annonce la fin de l’épidémie, mais l’origine précise du foyer d’infection n’a toujours pas été trouvée &nbsp;&nbsp; L'Indépendant",
+      "body_en": "Hantavirus sur un navire de croisière : l’OMS annonce la fin de l’épidémie, mais l’origine précise du foyer d’infection n’a toujours pas été trouvée &nbsp;&nbsp; L'Indépendant",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhVM0RFbW9EOHB6N0FITGJDTkppSjVtLWhCZkk3akl5X0hfdGJIUkNXTzdpYTZCUFRYS2lVNnpPTHFITFQ4Q2RJWTVWN3RYbFRMc2l3WTJfbFU3WHVsTVpITXEyUWRHRVZMNjBLdnJndE9BaUQtRGxlSE5aS2NoR1hhd3p0ODU5Yl9NSlJ0ME1kckhTRmJmaVlkazlHVk5OT0c5WjNyLVFQeUJ5VnN0eVp1eVNXcm0xMVpEV292UjVZUW5h?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQXNBLUFnZDJXUW0yN3d5SVJhQkxzTHBZbUZWRlFIZ0hMTWZpUFlaT0paRFR0a0RiUnZ1WjZ5azdKUHlYR1hwYTZYcUxkLVJlRGpSU1JDZmJGUkgzdHl4UzBfbUpSU3l3ckJXZmY1bVp2Ty14T0FYTERzOFJWZV8xWGNBMGVBd2hTRXBjZkJuRllxeVVHaGlpcmUybk55elJnQ0JGbzJDTVJFOXQxU3dRMVlndDlLNE15NGdYbkowQ3RrVnlPcndQaVNFdl9FTHR5SDlQR2g0MXRJLWcyN3dEb3RUZndiVF9DdHJtMld0NndqT0FEdWJXS2FNMzFBWHhTSnU3ZFNlYWJvLUxnbnh5Ny0zZkpBTklaamU5bQ?oc=5"
+    },
+    {
+      "id": "feed-e8bc30fa77",
+      "manual": false,
+      "date": "2026-07-02T07:00:00+00:00",
+      "date_label": "2 juillet 2026",
+      "tag": "media",
+      "title": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée - Midi Libre",
+      "title_en": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée - Midi Libre",
+      "body": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée &nbsp;&nbsp; Midi Libre",
+      "body_en": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée &nbsp;&nbsp; Midi Libre",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd1VHYlRQUVdoUzF1cThib3FpbnNWSWZqQXUwMF9xUS1SQURUV010MG0xcjlCc3h0ekdFYnRORld5cHpndUJ2c3IyQVQySVV4M21LMUMtdXd4aUF0aVhvaHhCbnU3Q0pNYkhiWjhqYjRrMnFZU2FnOWZveHMyYVR6SWRibHVTajNhM3Y3bUN3QzhUemtoUlhZSjA4WDlSYXNWanpuWUxrWUp3bGNBeXNZOE5FOWV3c0lZUnVrdXVobThPVF9BM0J5a3J3MWl0VFMxM2pWcnpKVVJPZlZLVGhtTVlGcnh3eVlmM1U5cHQ0TUlXemdUdGMySGFleVZfbnpl?oc=5"
+    },
+    {
+      "id": "feed-6174cdba9c",
+      "manual": false,
+      "date": "2026-07-02T07:00:00+00:00",
+      "date_label": "2 juillet 2026",
+      "tag": "media",
+      "title": "Hantavirus : l’Organisation mondiale de la santé annonce la fin de l’épidémie liée au navire de croisière Hondius - ladepeche.fr",
+      "title_en": "Hantavirus : l’Organisation mondiale de la santé annonce la fin de l’épidémie liée au navire de croisière Hondius - ladepeche.fr",
+      "body": "Hantavirus : l’Organisation mondiale de la santé annonce la fin de l’épidémie liée au navire de croisière Hondius &nbsp;&nbsp; ladepeche.fr",
+      "body_en": "Hantavirus : l’Organisation mondiale de la santé annonce la fin de l’épidémie liée au navire de croisière Hondius &nbsp;&nbsp; ladepeche.fr",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUdDQU85SEZRbjM2a1hGQmV2ZWxXcWtzN0dPazhCMUdYTENJNV9JMFB1a3EzUzBUVU9uaHJxd0ZfMFB5bjdud1l0RXhZNWMxRkd3NE5CMTNFbzdQV01PSWZUd3dYbGw1ZFh0NXVJVkVVSmQzdFVnNTVWbUxFa2ktQmVMcmQ5VHdYcXJwd1RlM0VRU1pmM1JXYUg4WEdLRFJndWktc2twaXJaSG9JMGQwQnphTjB1cV9KWVNULURvai1oU2poemc0MHBpRXY1VUNLc0RQWG5ZRFdWb2VTT0llNTM3STA0Y05TNlduZXFtNA?oc=5"
+    },
+    {
+      "id": "feed-ba6311ca62",
+      "manual": false,
+      "date": "2026-07-02T07:00:00+00:00",
+      "date_label": "2 juillet 2026",
+      "tag": "media",
+      "title": "Le chef de l’OMS déclare la fin de l’épisode d’hantavirus lié au navire de croisière MV Hondius - Ouest-France",
+      "title_en": "Le chef de l’OMS déclare la fin de l’épisode d’hantavirus lié au navire de croisière MV Hondius - Ouest-France",
+      "body": "Le chef de l’OMS déclare la fin de l’épisode d’hantavirus lié au navire de croisière MV Hondius &nbsp;&nbsp; Ouest-France",
+      "body_en": "Le chef de l’OMS déclare la fin de l’épisode d’hantavirus lié au navire de croisière MV Hondius &nbsp;&nbsp; Ouest-France",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNW1mTXYtdldyeUQteXMtTlJmSFJ1MEw4dFhaWHlTbGh4b0dBaE04aG1DSWo2TC1wcENnWlNRMmNWQnJNLWlTa29VT1MzM2lfQVUxZXZDZVd5RGxHa1BJaWtsbmgyRm9wZGFDNmlaOURiNmMxN2piejVQZnFkbWVNNnZmWmpYOFBQbGlkLTVDUVZKa01Qekl3X2JlamVPLTA2ZVd2MFpFU18xQU11SDZ0aks5bHBmUktFcklQSXE4SDMzWDhaejluSU5KVGgwcm81SjlxYmV2Z3dKcTZvUzJQalZMRzZaWjJkWWFDRWpVdWoxbVZFSlZyRy1CZldVQmV0amUyM0FCQ1AyODNu?oc=5"
     },
     {
       "id": "feed-1a963ca13d",
@@ -351,45 +390,6 @@
       "body_en": "Decades of research reveal surprising secrets about hantavirus evolution &nbsp;&nbsp; News-Medical",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5"
-    },
-    {
-      "id": "feed-0a0d249f0e",
-      "manual": false,
-      "date": "2026-07-02T07:00:00+00:00",
-      "date_label": "2 juillet 2026",
-      "tag": "media",
-      "title": "The hantavirus outbreak is over, WHO declares - Live Science",
-      "title_en": "The hantavirus outbreak is over, WHO declares - Live Science",
-      "body": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
-      "body_en": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5"
-    },
-    {
-      "id": "feed-d4adea0f05",
-      "manual": false,
-      "date": "2026-07-01T22:00:00+00:00",
-      "date_label": "1 juillet 2026",
-      "tag": "media",
-      "title": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - Sénat",
-      "title_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - Sénat",
-      "body": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; Sénat",
-      "body_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; Sénat",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQVkN2UmhVYkJIZHZ0TTZKZHpiRm1QTE1nbkpMVlY1b1B0aWtVSkdvVTFLTTIzMEIyNUNreTNQZ0hwZHF1QnBXTGdUNExzMkc1c3BzczQ3SVdzSjRSMTVGWWFxSFJnbVJhUU5faFRVeUJLUm9FbkhzZG1CSTlPRTlFbHlpcFhjTlpRQ1FPQjFmTER5N3pnVURnT21TeUNpSzhzUm9SSURUSmFCZFNuTFpFOFlCUy01WHA2UVNDV18tMlpqajh5R1dNbXVoUmprTWdXUE8talQxQk1XeHhUbjRfbTVNM3dGM2xGMmNrVTk2SU9ON3dVcnA3ZlVLamhJU0gzeFRzQnBaVVBSNjVDZEZlenhwTXV0c1FUbXJRMTdlOUtyYWxabEpVNEt2MXhhZnlndFpYVHJLaTFuU1gweF9KM0hFZVBEQnlSRWxDWHF2UHZ6VzNE?oc=5"
-    },
-    {
-      "id": "feed-f6da3b1132",
-      "manual": false,
-      "date": "2026-06-30T12:00:41+00:00",
-      "date_label": "30 juin 2026",
-      "tag": "research",
-      "title": "Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus",
-      "title_en": "Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus",
-      "body": "The post Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus appeared first on ANRS MIE .",
-      "body_en": "The post Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus appeared first on ANRS MIE .",
-      "source": "ANRS Maladies infectieuses émergentes",
-      "source_url": "https://anrs.fr/actualites/actualites/appel-manifestation-hantavirus/"
     }
   ]
 }

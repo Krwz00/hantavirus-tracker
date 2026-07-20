@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-07-20T22:00:11.896928+00:00",
+  "updated_at": "2026-07-20T23:07:50.912225+00:00",
   "items": [
+    {
+      "id": "feed-b5a245b3ca",
+      "manual": false,
+      "date": "2026-07-20T18:41:09+00:00",
+      "date_label": "20 juillet 2026",
+      "tag": "media",
+      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
+      "title_en": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
+      "body": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
+      "body_en": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5"
+    },
     {
       "id": "feed-5a2be789f0",
       "manual": false,
@@ -156,19 +169,6 @@
       "body_en": "Historically, outbreak research has been fragmented, delayed, and poorly integrated into emergency response. By the time protocols are developed, collaborations organised, funding secured, and approvals obtained, critical opportunities to generate evidence on medical countermeasures are often lost. This challenge is…",
       "source": "The Lancet",
       "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01227-4/fulltext?rss=yes"
-    },
-    {
-      "id": "feed-371c6d5b68",
-      "manual": false,
-      "date": "2026-07-02T14:51:52+00:00",
-      "date_label": "2 juillet 2026",
-      "tag": "media",
-      "title": "L'OMS déclare la fin de l'épidémie d'hantavirus liée au MV Hondius - rts.ch",
-      "title_en": "L'OMS déclare la fin de l'épidémie d'hantavirus liée au MV Hondius - rts.ch",
-      "body": "L'OMS déclare la fin de l'épidémie d'hantavirus liée au MV Hondius &nbsp;&nbsp; rts.ch",
-      "body_en": "L'OMS déclare la fin de l'épidémie d'hantavirus liée au MV Hondius &nbsp;&nbsp; rts.ch",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREswVVM3UUgzMU8zcWc5WE04cXdUV0NTc2ZXVmh0RXpURDJ0c1BfQTJ1RVA1dUhBVXNSQkpraWhPcFdvRHFXQl8yVXVxVWxRQ1FiOHJjT0JyaUNYQUlUdzFkeFNWMkVyWWJncnEtbjZ5VV9vd2FtLXZDYlIwMHkybkZURHlxVHhrbTNEMnJYZjFXQVNTSEVrZHJjOVpiSWI5RzczcFhzdw?oc=5"
     },
     {
       "id": "feed-e8e94fed01",

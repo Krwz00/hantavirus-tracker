@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T02:36:11.358183+00:00",
+  "updated_at": "2026-07-21T05:50:02.676799+00:00",
   "items": [
     {
       "id": "feed-7e40dbc514",
@@ -91,6 +91,19 @@
       "body_en": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5"
+    },
+    {
+      "id": "feed-4430593688",
+      "manual": false,
+      "date": "2026-07-15T10:00:00+00:00",
+      "date_label": "15 juillet 2026",
+      "tag": "media",
+      "title": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn - Labmate Online",
+      "title_en": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn - Labmate Online",
+      "body": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn &nbsp;&nbsp; Labmate Online",
+      "body_en": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn &nbsp;&nbsp; Labmate Online",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZGh5NWFwcFpuQmNLclJTbV9EdDRDTEtycHRPemRnU2pUTVpQUENCX3ZxbndUZ0JnNXVvMmRHODN3Y05NSmI0TUtPUUlYb2Z2VWM1SXdjdHN5VzdjWGg3LVFsdGQ1dkxORElFSWhacEswUTFwYW9GNEc5T3k2c0oyWEVMN2hpMHZYNnk2NXhKVW1DVGJudy1SSk5kLXA5X0dQQUhqNXhsVnZJRHRwbktZX015M0lJSUdlQ0NjRlBSWXlKMUhhY01RSnJ2QV8ySmhKbUxaTVFTcmJWVkhiT205ZXJNQWVKdnNCMVpRb05GWFpDRDRRMHFtS3NRbUxkdng0dVlWQg?oc=5"
     },
     {
       "id": "feed-b0ecef845e",
@@ -340,6 +353,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5"
     },
     {
+      "id": "feed-0a0d249f0e",
+      "manual": false,
+      "date": "2026-07-02T07:00:00+00:00",
+      "date_label": "2 juillet 2026",
+      "tag": "media",
+      "title": "The hantavirus outbreak is over, WHO declares - Live Science",
+      "title_en": "The hantavirus outbreak is over, WHO declares - Live Science",
+      "body": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
+      "body_en": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5"
+    },
+    {
       "id": "feed-d4adea0f05",
       "manual": false,
       "date": "2026-07-01T22:00:00+00:00",
@@ -364,32 +390,6 @@
       "body_en": "The post Appel à manifestation d’intérêt : développer des solutions diagnostiques et antivirales contre les hantavirus appeared first on ANRS MIE .",
       "source": "ANRS Maladies infectieuses émergentes",
       "source_url": "https://anrs.fr/actualites/actualites/appel-manifestation-hantavirus/"
-    },
-    {
-      "id": "feed-1d0e70f021",
-      "manual": false,
-      "date": "2026-06-30T10:15:43+00:00",
-      "date_label": "30 juin 2026",
-      "tag": "media",
-      "title": "L'Argentine détecte un variant d'hantavirus en Terre de Feu",
-      "title_en": "L'Argentine détecte un variant d'hantavirus en Terre de Feu",
-      "body": "Un nouveau variant d'hantavirus a été détecté chez des souris capturées en Terre de Feu, en Argentine. Les autorités sanitaires précisent qu'il est bien distinct de la souche identifiée à bord du navire de croisière Hondius, responsable de trois décès, et poursuivent leurs investigations pour évaluer les risques…",
-      "body_en": "Un nouveau variant d'hantavirus a été détecté chez des souris capturées en Terre de Feu, en Argentine. Les autorités sanitaires précisent qu'il est bien distinct de la souche identifiée à bord du navire de croisière Hondius, responsable de trois décès, et poursuivent leurs investigations pour évaluer les risques…",
-      "source": "Sciences et Avenir — Santé",
-      "source_url": "https://www.sciencesetavenir.fr/sante/l-argentine-detecte-un-variant-d-hantavirus-en-terre-de-feu_193496?xtor=RSS-16"
-    },
-    {
-      "id": "feed-fc384fc8ca",
-      "manual": false,
-      "date": "2026-06-30T07:00:00+00:00",
-      "date_label": "30 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus: la période d'isolement pour les voyageurs est terminée - Noovo Info",
-      "title_en": "Hantavirus: la période d'isolement pour les voyageurs est terminée - Noovo Info",
-      "body": "Hantavirus: la période d'isolement pour les voyageurs est terminée &nbsp;&nbsp; Noovo Info",
-      "body_en": "Hantavirus: la période d'isolement pour les voyageurs est terminée &nbsp;&nbsp; Noovo Info",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUVUaW9MWXFhN1Q1SE9fQXNaS2J1VHJMZDN6NWxRRWRYMm1yc0RVcEFUcmtnc1doQ0RLbGdERGRGY09VNU0yc0VyajlNcnJkeDFXNHNkWU9wQ3l3Z2owSmgwZ0FlYjRLTk1hbXZ1QldPUHF3bVJMRzM3dlJKOTRmNVVQdS0xTWJzMHhEQkY5MnVJY05PVEFvbEhEbTdzZG9LczlwbVRKekl5MHNRWGVYNjhB?oc=5"
     }
   ]
 }

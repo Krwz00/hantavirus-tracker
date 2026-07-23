@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-07-23T13:56:19.542216+00:00",
+  "updated_at": "2026-07-23T15:56:08.209019+00:00",
   "items": [
-    {
-      "id": "feed-cf9efba010",
-      "manual": false,
-      "date": "2026-07-23T11:36:02+00:00",
-      "date_label": "23 juillet 2026",
-      "tag": "media",
-      "title": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia - UA.NEWS",
-      "title_en": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia - UA.NEWS",
-      "body": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia &nbsp;&nbsp; UA.NEWS",
-      "body_en": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia &nbsp;&nbsp; UA.NEWS",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1l5NXdrZEhzM3JlN0kxRmQ3MjJ5R1BmY1lZaXdJSXBYWmhGZ19lT05VemRNUVpCQVYxX1V6ZkRXX0dvNmREX3RHXzlxYVdMbHBWTU5CaTVFdWdLSmw2Ykp2elUyb1BfRll5UnIwRmRmMkk4blVUdk5iMnNDUEVvUk01aDVGVWQzdVRBazlSM3MwVUNmaXFkcVpjclVDeVhzMjNUT0xvcw?oc=5"
-    },
     {
       "id": "feed-40c1f697e8",
       "manual": false,
@@ -390,6 +377,19 @@
       "body_en": "Eighteen Americans were isolated for weeks in a Nebraska quarantine facility after being exposed to the deadly virus on a cruise ship. Many found the experience traumatic.",
       "source": "The New York Times — Health",
       "source_url": "https://www.nytimes.com/2026/07/21/health/hantavirus-quarantine-americans.html"
+    },
+    {
+      "id": "feed-7e40dbc514",
+      "manual": false,
+      "date": "2026-07-20T20:00:00+00:00",
+      "date_label": "20 juillet 2026",
+      "tag": "media",
+      "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
+      "title_en": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
+      "body": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
+      "body_en": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FEcHlkY2dKRExiZ2Z1eWFHNnFMLWVPWnVJbTEwWVdnVllLZFFMRHV5MWFWdElKMXh6NkVvQld4bkNKM1dHb3JWSU5kaHhrYTZIcTRYRjQ4dHg3TkIzTUpfQUlYSHY0dFBWZE1XMjlISlAzV2YyUVRnZThaY3oyNWFhV1hXeVhaNm5ndVFha0QyOEpvTHFJWElPVklLOGtzNEJTS0UzUHdXV2U3Z1E?oc=5"
     }
   ]
 }

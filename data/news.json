@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-07-24T06:25:20.163444+00:00",
+  "updated_at": "2026-07-24T09:21:11.551634+00:00",
   "items": [
-    {
-      "id": "feed-cf9efba010",
-      "manual": false,
-      "date": "2026-07-23T11:36:02+00:00",
-      "date_label": "23 juillet 2026",
-      "tag": "media",
-      "title": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia - UA.NEWS",
-      "title_en": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia - UA.NEWS",
-      "body": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia &nbsp;&nbsp; UA.NEWS",
-      "body_en": "A man in the Lviv region tested positive for hantavirus after a trip to Croatia &nbsp;&nbsp; UA.NEWS",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1l5NXdrZEhzM3JlN0kxRmQ3MjJ5R1BmY1lZaXdJSXBYWmhGZ19lT05VemRNUVpCQVYxX1V6ZkRXX0dvNmREX3RHXzlxYVdMbHBWTU5CaTVFdWdLSmw2Ykp2elUyb1BfRll5UnIwRmRmMkk4blVUdk5iMnNDUEVvUk01aDVGVWQzdVRBazlSM3MwVUNmaXFkcVpjclVDeVhzMjNUT0xvcw?oc=5"
-    },
     {
       "id": "feed-40c1f697e8",
       "manual": false,
@@ -52,19 +39,6 @@
       "body_en": "As measles, hantavirus and cyclospora spread, experts say lost staff and expertise are slowing the response A series of health challenges – hantavirus , screwworm , Ebola , cyclospora , measles , whooping cough , bird flu – are exposing the widening gaps in America’s ability to prevent, identify and halt infectious…",
       "source": "The Guardian — Health",
       "source_url": "https://www.theguardian.com/us-news/2026/jul/22/cdc-cuts-disease-outbreaks-cyclospora-hantavirus-measles"
-    },
-    {
-      "id": "feed-01922c0477",
-      "manual": false,
-      "date": "2026-07-22T13:00:07+00:00",
-      "date_label": "22 juillet 2026",
-      "tag": "media",
-      "title": "CDC Warns Ebola and Hantavirus Can Both Start Like the Flu: Why Early Diagnosis Matters - Medical Daily",
-      "title_en": "CDC Warns Ebola and Hantavirus Can Both Start Like the Flu: Why Early Diagnosis Matters - Medical Daily",
-      "body": "CDC Warns Ebola and Hantavirus Can Both Start Like the Flu: Why Early Diagnosis Matters &nbsp;&nbsp; Medical Daily",
-      "body_en": "CDC Warns Ebola and Hantavirus Can Both Start Like the Flu: Why Early Diagnosis Matters &nbsp;&nbsp; Medical Daily",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1BQZkswSy1ObG8yY0pKQk9nSnVJb0tMRDk0S3l5MFpvRExpMnRxZTJHVF90WG5iQmVxWmlabnBsTkNUaDdiRHRsMVd4MWI4S19rVnpwc0dUMnpDMlItS1E0dEFMV1p6aVJUa0dUQVJmeDR3a2UybGNyZ0hXdW05Uk5pWlBGOFFaTGFDN0o3WXV4eXdDTVFrZGRicnZWeUIxT0M5RU1B?oc=5"
     },
     {
       "id": "feed-d8e9295097",
@@ -390,6 +364,32 @@
       "body_en": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ &nbsp;&nbsp; The New York Times",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5"
+    },
+    {
+      "id": "feed-418c1db844",
+      "manual": false,
+      "date": "2026-07-21T09:01:06+00:00",
+      "date_label": "21 juillet 2026",
+      "tag": "media",
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’",
+      "title_en": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’",
+      "body": "Eighteen Americans were isolated for weeks in a Nebraska quarantine facility after being exposed to the deadly virus on a cruise ship. Many found the experience traumatic.",
+      "body_en": "Eighteen Americans were isolated for weeks in a Nebraska quarantine facility after being exposed to the deadly virus on a cruise ship. Many found the experience traumatic.",
+      "source": "The New York Times — Health",
+      "source_url": "https://www.nytimes.com/2026/07/21/health/hantavirus-quarantine-americans.html"
+    },
+    {
+      "id": "feed-7e40dbc514",
+      "manual": false,
+      "date": "2026-07-20T20:00:00+00:00",
+      "date_label": "20 juillet 2026",
+      "tag": "media",
+      "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
+      "title_en": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
+      "body": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
+      "body_en": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FEcHlkY2dKRExiZ2Z1eWFHNnFMLWVPWnVJbTEwWVdnVllLZFFMRHV5MWFWdElKMXh6NkVvQld4bkNKM1dHb3JWSU5kaHhrYTZIcTRYRjQ4dHg3TkIzTUpfQUlYSHY0dFBWZE1XMjlISlAzV2YyUVRnZThaY3oyNWFhV1hXeVhaNm5ndVFha0QyOEpvTHFJWElPVklLOGtzNEJTS0UzUHdXV2U3Z1E?oc=5"
     }
   ]
 }

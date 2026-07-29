@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-07-29T04:10:32.892255+00:00",
+  "updated_at": "2026-07-29T07:41:54.602877+00:00",
   "items": [
+    {
+      "id": "feed-b38bed4067",
+      "manual": false,
+      "date": "2026-07-29T04:13:36+00:00",
+      "date_label": "29 juillet 2026",
+      "tag": "media",
+      "title": "Chile declares health alert over hantavirus fatality rate - Report.az",
+      "title_en": "Chile declares health alert over hantavirus fatality rate - Report.az",
+      "body": "Chile declares health alert over hantavirus fatality rate &nbsp;&nbsp; Report.az",
+      "body_en": "Chile declares health alert over hantavirus fatality rate &nbsp;&nbsp; Report.az",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUxEaHUyNUJiLW55cmxaaVo1U283YkRSVHlCRmkxeTIxNll2UzRfZlloa0taU21jWUpJNFB2cUY2dlpHdlRINzdzMmRSNms4OW9QT05xZFFVb2VLRndfQm43eFpTckM1MTRIT3JraFAyN1BRam1LZTZ0UmZJVko4dXlSTjIyZlpiOXdZNGh2YXh5MThWZXdjN0d30gGfAUFVX3lxTE0ySEYxM1RDNkJ5N2RtQTNocU1ydVJ1aVlOZzFXa2dHaWpoRlZnQk1BVDVtM1hXd1pYc040NVlkSnpDdTcySEhBWFBXTUJWOEkxbkdsaThnTTMtOWRHSUdzRHp4VHgtd3Y2X0d4eFM5R1ZuelllTWIzcFBjWXNvWEpTeUVTQzJ6SmVfbnAwTXVwY0Q1Y20zS0x1dXVlWV8xZw?oc=5"
+    },
     {
       "id": "feed-226baa39d5",
       "manual": false,
@@ -13,19 +26,6 @@
       "body_en": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds &nbsp;&nbsp; Medical Daily",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFBLY2tBQ3N6MjdiR1hEZi1PS3o1dXZiRndsZEdOYl9WU1N4NU9yR1FEbGdFTU9XSzAtWEg3S2VuWjR1Wkg1cktIckx0V2g2RXVGMUM3MzlfUVhFUGZVOUxPeUp4c0xZM2lyblBpMjhfN05WcGZiY0tpY3pxN255QUZVcFdHUVlod05IdC1ZeXFabHVPS0lSNg?oc=5"
-    },
-    {
-      "id": "feed-adf5753b46",
-      "manual": false,
-      "date": "2026-07-28T22:24:00+00:00",
-      "date_label": "28 juillet 2026",
-      "tag": "media",
-      "title": "Chile declares health alert over hantavirus fatality rate - Apa.az",
-      "title_en": "Chile declares health alert over hantavirus fatality rate - Apa.az",
-      "body": "Chile declares health alert over hantavirus fatality rate &nbsp;&nbsp; Apa.az",
-      "body_en": "Chile declares health alert over hantavirus fatality rate &nbsp;&nbsp; Apa.az",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXcyMERiWWt3R04wYjZCQ1FteC16TFJiUFJBWXZDUk5IN1pTNW4wY1pZR3JBeXJ2VHowMC1FWjl1UThnSDB6OTB0Z0xFX1U0THFobk1iR29IMG50amxmcEt5b2xnV2dFN19vTmdtOGhWYk12ZTBCV1lQWWtnNU9FaERCZU1ybVg2S0pRZXo0S0w?oc=5"
     },
     {
       "id": "feed-621c748d5c",
@@ -223,6 +223,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5"
     },
     {
+      "id": "feed-d500d788ab",
+      "manual": false,
+      "date": "2026-07-02T07:00:00+00:00",
+      "date_label": "2 juillet 2026",
+      "tag": "media",
+      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
+      "title_en": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
+      "body": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "body_en": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5"
+    },
+    {
       "id": "feed-d4c582d278",
       "manual": false,
       "date": "2026-07-02T07:00:00+00:00",
@@ -234,19 +247,6 @@
       "body_en": "WHO declares cruise-linked hantavirus outbreak officially over &nbsp;&nbsp; Al Jazeera",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5"
-    },
-    {
-      "id": "feed-d4adea0f05",
-      "manual": false,
-      "date": "2026-07-01T22:00:00+00:00",
-      "date_label": "1 juillet 2026",
-      "tag": "media",
-      "title": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - Sénat",
-      "title_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? - Sénat",
-      "body": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; Sénat",
-      "body_en": "Hantavirus, zoonoses, science et société : quelles leçons pour l’avenir ? &nbsp;&nbsp; Sénat",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQVkN2UmhVYkJIZHZ0TTZKZHpiRm1QTE1nbkpMVlY1b1B0aWtVSkdvVTFLTTIzMEIyNUNreTNQZ0hwZHF1QnBXTGdUNExzMkc1c3BzczQ3SVdzSjRSMTVGWWFxSFJnbVJhUU5faFRVeUJLUm9FbkhzZG1CSTlPRTlFbHlpcFhjTlpRQ1FPQjFmTER5N3pnVURnT21TeUNpSzhzUm9SSURUSmFCZFNuTFpFOFlCUy01WHA2UVNDV18tMlpqajh5R1dNbXVoUmprTWdXUE8talQxQk1XeHhUbjRfbTVNM3dGM2xGMmNrVTk2SU9ON3dVcnA3ZlVLamhJU0gzeFRzQnBaVVBSNjVDZEZlenhwTXV0c1FUbXJRMTdlOUtyYWxabEpVNEt2MXhhZnlndFpYVHJLaTFuU1gweF9KM0hFZVBEQnlSRWxDWHF2UHZ6VzNE?oc=5"
     },
     {
       "id": "feed-f6da3b1132",
@@ -384,10 +384,10 @@
       "date": "2026-06-24T07:00:00+00:00",
       "date_label": "24 juin 2026",
       "tag": "media",
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
-      "title_en": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
-      "body": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care® (AJMC®)",
-      "body_en": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care® (AJMC®)",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "title_en": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "body": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
+      "body_en": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5"
     }

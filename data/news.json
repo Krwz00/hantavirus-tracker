@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T07:41:54.602877+00:00",
+  "updated_at": "2026-07-29T10:37:54.352880+00:00",
   "items": [
     {
       "id": "feed-b38bed4067",
@@ -223,19 +223,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5"
     },
     {
-      "id": "feed-d500d788ab",
-      "manual": false,
-      "date": "2026-07-02T07:00:00+00:00",
-      "date_label": "2 juillet 2026",
-      "tag": "media",
-      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
-      "title_en": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
-      "body": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "body_en": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5"
-    },
-    {
       "id": "feed-d4c582d278",
       "manual": false,
       "date": "2026-07-02T07:00:00+00:00",
@@ -390,6 +377,19 @@
       "body_en": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5"
+    },
+    {
+      "id": "feed-37bcf2cff1",
+      "manual": false,
+      "date": "2026-06-24T07:00:00+00:00",
+      "date_label": "24 juin 2026",
+      "tag": "media",
+      "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
+      "title_en": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
+      "body": "US public health agency concludes hantavirus response as outbreak eases &nbsp;&nbsp; Al Jazeera",
+      "body_en": "US public health agency concludes hantavirus response as outbreak eases &nbsp;&nbsp; Al Jazeera",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2d5aE5Lb2xEcWVvaVRRSjZfMmR1Smp2UWhiMTFNbw?oc=5"
     }
   ]
 }

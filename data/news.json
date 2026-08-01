@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-01T11:22:25.089746+00:00",
+  "updated_at": "2026-08-01T13:18:21.038581+00:00",
   "items": [
+    {
+      "id": "feed-ac7560eb91",
+      "manual": false,
+      "date": "2026-08-01T11:41:29+00:00",
+      "date_label": "1 août 2026",
+      "tag": "media",
+      "title": "Chile declares health alert for hantavirus - Outbreak News Today",
+      "title_en": "Chile declares health alert for hantavirus - Outbreak News Today",
+      "body": "Chile declares health alert for hantavirus &nbsp;&nbsp; Outbreak News Today",
+      "body_en": "Chile declares health alert for hantavirus &nbsp;&nbsp; Outbreak News Today",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFl0WXV6UW1lelBIUHQ5ZVpseVAwUUtJX0g3cVBGSFBKTGE1S2pzYk9MTl9UbUdLbGMwczFoaDl6WVRsd1NVSkFQUE9naE5sUzd5a2FjSVYzYktiSmhQMzNCSU5yc1pYUS02WUtnb3dfSHJOa3JKTE52TkYyelQ0U05LSk5HbzFWRlg4?oc=5"
+    },
     {
       "id": "feed-9e4e0ff226",
       "manual": false,
@@ -95,13 +108,13 @@
     {
       "id": "feed-fb2f584c1c",
       "manual": false,
-      "date": "2026-07-22T00:40:48+00:00",
+      "date": "2026-07-22T07:00:00+00:00",
       "date_label": "22 juillet 2026",
       "tag": "media",
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
-      "title_en": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
-      "body": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
-      "body_en": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
+      "title_en": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
+      "body": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+      "body_en": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5"
     },
@@ -377,19 +390,6 @@
       "body_en": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, prévoit l’OMS &nbsp;&nbsp; Libération",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLVpqajRxa0FSWkJjUW1JU0JWUGduUFoxQUkyOUtpd0p5aEFvSlFrNk9NMThQQ0JWRGFDUFdjUU9HYTBIdEdpLVRNaE93b0hfZms0MUl4MUwyZS1MbHlFaG1rM3J1RW0wYmNXME5xWmpvU1FhWllmeG5INmhHTEhFanlYazh3Nk9JNjMxdWU0YTltOFBBaURQY3dnOGhyV1d1MGtQWGtjcFNCLWZUTnpRenNHaGNwdkRIeTFCZDZCbnpCdEE2YUUwU2N5elR0bU5FQ2EzYkE1MEVVbFNsdVJtOHY2b2NNWVJYeXBic01IYlRXSzQ?oc=5"
-    },
-    {
-      "id": "feed-71f5fa1d59",
-      "manual": false,
-      "date": "2026-06-24T07:00:00+00:00",
-      "date_label": "24 juin 2026",
-      "tag": "media",
-      "title": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, selon l’OMS - La Croix",
-      "title_en": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, selon l’OMS - La Croix",
-      "body": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, selon l’OMS &nbsp;&nbsp; La Croix",
-      "body_en": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, selon l’OMS &nbsp;&nbsp; La Croix",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnNIWTJiUW81RWJtU19nMnh4MmE0SlNIYk1CMDJCTWZBYXJRNUtiOUdRQjdZelBJYlNxbS1sOUJJaUUtMFJYeUptVmMyVDl2d3pCeHBHbkFhQmN5SUlHbmQ0Z0pOQkVfWm0wOHZNcU5JNXR1VTlBczNDOXJsdndfRHBDV0ZSYjVMQzc4Nkg5SjU0ejZhcEZLS0dvMjFOY013QTh0QlR1S09TUDhfRjFlM0pYS3hWTS1LQ1JWM2ZGOGk?oc=5"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:12:19.825267+00:00",
+  "updated_at": "2026-08-05T17:28:16.064749+00:00",
   "items": [
     {
       "id": "feed-1e80e328f7",
@@ -54,6 +54,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGE2Si1GNHNLLWFuN3Q3Vk9Fd3BWY3c5Z01KY2RpdDBBMU41aDZNLWZWdDR0MTY4MlBtejM5VktMQkRSaktLaWJiRkhfVDgtQmlRQUNsWGFObUlPbS1ra21FdEtQOWcxZzc1OUxPME92Q2pKVk1Bc2NwYi01LUNaVjIzeWdrODVzNVJCTkZYRHM4VUZQd3pSZkNn0gGfAUFVX3lxTE1oa2QwclIwcFRWY1BlVmE0Qko2N3pkVW84RlNpczhrRThwMHl4X3RfZHVrQlozOGpXWnoyS1dSUjRMQlFDQndmY2hmOU1pLXN6amc4dHB1WXBlbjNMOHFOTDd5Q3UybkJRTXFhR2h2SEFtQ1psWVdscE0wS1NCTXFYQ0JDUmY0UUtTcncwTjUxNzc1ems0enVuaUJHY1Z1Zw?oc=5"
     },
     {
+      "id": "feed-a7087b8f3e",
+      "manual": false,
+      "date": "2026-07-23T00:40:00+00:00",
+      "date_label": "23 juillet 2026",
+      "tag": "media",
+      "title": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise - Newswise",
+      "title_en": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise - Newswise",
+      "body": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise &nbsp;&nbsp; Newswise",
+      "body_en": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise &nbsp;&nbsp; Newswise",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUZxY2pqVkpKYlVkQ0M1djVlOTN2Xy1iLXhQbWtwVWhGNC1VejRJODQ0ZVlBOHAwUDFhWmljcU9jRXg0VWdsTlIxYVZiRE9lYlhlUEhsbExJUmgwSFVIdlpzTmZPTzZ1Sk9pTE53UnMyVzJIMExOSFZkRWNzNXVDRmRfZEZaRDR2QWt0NXFyeVcyVEFQUnlhaWZxLThHU2hKdkpnZ0hwblYxWVFYZy1sZGtfN3dKLVFDdzBCVnlkMzRQcW1XS3pKOVpsaW1jQXVKTWV6NVZZWDZ6VEVaMDhxLTNybFAyUdIB5gFBVV95cUxPLUZxY2pqVkpKYlVkQ0M1djVlOTN2Xy1iLXhQbWtwVWhGNC1VejRJODQ0ZVlBOHAwUDFhWmljcU9jRXg0VWdsTlIxYVZiRE9lYlhlUEhsbExJUmgwSFVIdlpzTmZPTzZ1Sk9pTE53UnMyVzJIMExOSFZkRWNzNXVDRmRfZEZaRDR2QWt0NXFyeVcyVEFQUnlhaWZxLThHU2hKdkpnZ0hwblYxWVFYZy1sZGtfN3dKLVFDdzBCVnlkMzRQcW1XS3pKOVpsaW1jQXVKTWV6NVZZWDZ6VEVaMDhxLTNybFAyUQ?oc=5"
+    },
+    {
       "id": "feed-fb2f584c1c",
       "manual": false,
       "date": "2026-07-22T07:00:00+00:00",
@@ -85,10 +98,10 @@
       "date": "2026-07-21T07:00:00+00:00",
       "date_label": "21 juillet 2026",
       "tag": "media",
-      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ - nytimes.com",
-      "title_en": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ - nytimes.com",
-      "body": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ &nbsp;&nbsp; nytimes.com",
-      "body_en": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ &nbsp;&nbsp; nytimes.com",
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ - The New York Times",
+      "title_en": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ - The New York Times",
+      "body": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ &nbsp;&nbsp; The New York Times",
+      "body_en": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ &nbsp;&nbsp; The New York Times",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5"
     },
@@ -197,17 +210,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPR2pVazl1SW9BWjdFdW5qVWNjVDZDTjhKV29OMC0xMG5xTF9tRkh4TkZJaWhVb3dBbU1kWDlCY3B1WGhtMjlHQ2hrS1hHZ1F5aGo3dTBKenRWVE9pSDVBZU1rNmdLaFpydk5qYWJrdnBmRmM4MnpkZWMtVEhSMzZJeXZydUFleDJ3SmFQQkVmb0hLd0RfSnZ2NVJRdWJqWXJURnB3Y3c3RVp1bjY3X0psM2NURXNvaEZJcklWZWdWSDgzN0d3YUJ5emlKNDlZWHlIY3BUeUNBbXJaandXbC03dVdJUktkREY4cXhYMzdOMW5NcGhRdmtJNmRGdGh0RGRWQWtvT2k2b1hkSmF1T1J3eHJ2ZEROazA?oc=5"
     },
     {
-      "id": "feed-e8bc30fa77",
+      "id": "feed-799c130c9f",
       "manual": false,
       "date": "2026-07-02T07:00:00+00:00",
       "date_label": "2 juillet 2026",
       "tag": "media",
-      "title": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée - Midi Libre",
-      "title_en": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée - Midi Libre",
-      "body": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée &nbsp;&nbsp; Midi Libre",
-      "body_en": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée &nbsp;&nbsp; Midi Libre",
+      "title": "L'épisode d'hantavirus qui s'était déclaré sur un navire de croisière désormais terminé, déclare l'OMS - TF1 Info",
+      "title_en": "L'épisode d'hantavirus qui s'était déclaré sur un navire de croisière désormais terminé, déclare l'OMS - TF1 Info",
+      "body": "L'épisode d'hantavirus qui s'était déclaré sur un navire de croisière désormais terminé, déclare l'OMS &nbsp;&nbsp; TF1 Info",
+      "body_en": "L'épisode d'hantavirus qui s'était déclaré sur un navire de croisière désormais terminé, déclare l'OMS &nbsp;&nbsp; TF1 Info",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd1VHYlRQUVdoUzF1cThib3FpbnNWSWZqQXUwMF9xUS1SQURUV010MG0xcjlCc3h0ekdFYnRORld5cHpndUJ2c3IyQVQySVV4M21LMUMtdXd4aUF0aVhvaHhCbnU3Q0pNYkhiWjhqYjRrMnFZU2FnOWZveHMyYVR6SWRibHVTajNhM3Y3bUN3QzhUemtoUlhZSjA4WDlSYXNWanpuWUxrWUp3bGNBeXNZOE5FOWV3c0lZUnVrdXVobThPVF9BM0J5a3J3MWl0VFMxM2pWcnpKVVJPZlZLVGhtTVlGcnh3eVlmM1U5cHQ0TUlXemdUdGMySGFleVZfbnpl?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMUtGNXljM0dWZXBUb0l0c0h5MFVMS3JzaU9CT0UzcWswVnVKYWVsMlZTN3k3bXg4b0duOHpyYUFMTHBsTi1LRUFwV0hscjgyX2xjdjVhR202VWdhZXlYZlVNMF9CWVItanB1b1lhaDlGakZPaW5pZFREckJuQV9sczU2TmFmMVpNS1liaHBnUGUwUEs5TXI1cE1LNU9qU3RkQ05HZ3NOM3ZtZzdUNzlfT29vN0VRbjZSUlE1N3kxWnE3OHFwbWQ5RTJQSVBieW5WVW84Y19KV3Atdmc?oc=5"
     },
     {
       "id": "feed-1a963ca13d",
@@ -215,10 +228,10 @@
       "date": "2026-07-02T07:00:00+00:00",
       "date_label": "2 juillet 2026",
       "tag": "media",
-      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - forbes.com",
-      "title_en": "Hantavirus Cruise Ship Outbreak Over, WHO Says - forbes.com",
-      "body": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; forbes.com",
-      "body_en": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; forbes.com",
+      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+      "title_en": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+      "body": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
+      "body_en": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5"
     },
@@ -377,19 +390,6 @@
       "body_en": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, selon l’OMS &nbsp;&nbsp; La Croix",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnNIWTJiUW81RWJtU19nMnh4MmE0SlNIYk1CMDJCTWZBYXJRNUtiOUdRQjdZelBJYlNxbS1sOUJJaUUtMFJYeUptVmMyVDl2d3pCeHBHbkFhQmN5SUlHbmQ0Z0pOQkVfWm0wOHZNcU5JNXR1VTlBczNDOXJsdndfRHBDV0ZSYjVMQzc4Nkg5SjU0ejZhcEZLS0dvMjFOY013QTh0QlR1S09TUDhfRjFlM0pYS3hWTS1LQ1JWM2ZGOGk?oc=5"
-    },
-    {
-      "id": "feed-84337ed829",
-      "manual": false,
-      "date": "2026-06-24T07:00:00+00:00",
-      "date_label": "24 juin 2026",
-      "tag": "media",
-      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
-      "title_en": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
-      "body": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
-      "body_en": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5"
     }
   ]
 }

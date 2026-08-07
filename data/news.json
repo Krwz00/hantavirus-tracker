@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-07T04:53:51.286086+00:00",
+  "updated_at": "2026-08-07T06:08:32.951595+00:00",
   "items": [
+    {
+      "id": "feed-05502bd04d",
+      "manual": false,
+      "date": "2026-08-07T05:29:58+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Tourist in France tests positive for hantavirus - RTL Today",
+      "title_en": "Tourist in France tests positive for hantavirus - RTL Today",
+      "body": "Tourist in France tests positive for hantavirus &nbsp;&nbsp; RTL Today",
+      "body_en": "Tourist in France tests positive for hantavirus &nbsp;&nbsp; RTL Today",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDNHS1hDczBZTzZ3aEZ5SXVPQU50VDI2eG9oc3NCN3VJOGNLdVlHMkNHbVhSUG5zNlpfeXlRbHlETDhoaGtqUU1KR0c0TjU1UDdXNjRmNXZuLUJQZEVlYjUtb0pRaUFjclRrMklpZ2JjRHdJMEhualdWUVJQVVVhTEhvdlFwOWZDcWZQcVhyVWFLR28?oc=5"
+    },
     {
       "id": "feed-945bd38185",
       "manual": false,
@@ -59,10 +72,10 @@
       "date": "2026-08-06T19:35:01+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - TF1 Info",
-      "title_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - TF1 Info",
-      "body": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
-      "body_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
+      "title": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - tf1info.fr",
+      "title_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - tf1info.fr",
+      "body": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; tf1info.fr",
+      "body_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; tf1info.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0x4bnlVN2ZwQ1RRSnNqTlVJMnJCWHBCeE40TGNEbUt6bVAyRmxJeFlVQ0pXc2M5WmVidkFrajh6TDNIeU9VRWc0UFdQOXVIT1pmQXBGZnVZTFZpYzc5N1NoeVlsLTlEeXhMX3FnMjVUa3ZMRkh4dWJXaFpHR0VMMGdabmtuY3ZnTmZ2cHNjVl8xRFRwS0xmbVhiSVlueUMzd1lTeWc5RlRxakVCdE9YVkJtQXhnNGFhUUI3MXh1dEEteE1ENTRxbzJYd19wZEhVYURVa3cweGRCZGNLMWNFbUYydWt2c0pCVzJObkEtc3g?oc=5"
     },
@@ -98,10 +111,10 @@
       "date": "2026-08-06T18:03:34+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "France/Espagne : Un touriste ayant transité en France testé positif au hantavirus et placé à l'isolement en Espagne - Anadolu Ajansı",
-      "title_en": "France/Espagne : Un touriste ayant transité en France testé positif au hantavirus et placé à l'isolement en Espagne - Anadolu Ajansı",
-      "body": "France/Espagne : Un touriste ayant transité en France testé positif au hantavirus et placé à l'isolement en Espagne &nbsp;&nbsp; Anadolu Ajansı",
-      "body_en": "France/Espagne : Un touriste ayant transité en France testé positif au hantavirus et placé à l'isolement en Espagne &nbsp;&nbsp; Anadolu Ajansı",
+      "title": "France/Espagne : Un touriste ayant transité en France testé positif au hantavirus et placé à l'isolement en Espagne - aa.com.tr",
+      "title_en": "France/Espagne : Un touriste ayant transité en France testé positif au hantavirus et placé à l'isolement en Espagne - aa.com.tr",
+      "body": "France/Espagne : Un touriste ayant transité en France testé positif au hantavirus et placé à l'isolement en Espagne &nbsp;&nbsp; aa.com.tr",
+      "body_en": "France/Espagne : Un touriste ayant transité en France testé positif au hantavirus et placé à l'isolement en Espagne &nbsp;&nbsp; aa.com.tr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdVVGY3VSNV9adGpnNnhNUm1MakYxNnBmUExHdDdNX0ZCLXVuR3pTZTNjbWN6UFNMb2VMZmNtYlNYcml6SGdxUUtuMDJFQ3NrYVdoN2xGcksxR3pmbTBvUVhMcDI0eThOUHI5aFRHRllIODJoMjhhem1naDBFQVpFODNQa01kMmpKNThGMWd5UWNhU1hzNlBfODg0dlBjVmhlUU1Gb0xpejRhckVxXy1yTVk0SEdScW9Xa1M2dmRTMmZLTmNXck9wVW9rQW81Tnk5UGFiNHpxTUlaNEd2bnFDX3Fxai1uOW5vdk1IZ3EwMUdnZVllNWdmNUR5NVdWXzNu?oc=5"
     },
@@ -111,25 +124,12 @@
       "date": "2026-08-06T17:55:26+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
-      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
-      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
+      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - sudouest.fr",
+      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - sudouest.fr",
+      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; sudouest.fr",
+      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; sudouest.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0N6MmNfR0h4UGg3ajFaUDBrR3NQSVZiOElnUGg0cGVlTXdKUGF4emdkUmdyVzdpQ3hIdU5maGtvcWpIN0ZLQ0RKeVphTnptZVVhc2FHV29aYzRRMFczQ1p3U2Naaml4N3JtNDF4dnBxZGRreVZEZE80SlNhQjlTWHF3ZjVXUzgySzl2RDgyYm4xTFhIdXp4RzlLZlRuRHkwMzRacTh2U3VYRjBSbEVweXNoWkZ4MDZpQnJKbHA2T1RLM1BYdTNFZ1RyeVl2bXJ0cE4xTnlPTi10RmJCSFZQcTlFRnpvX0piZVNuSmVSeEM3SGhhUnc?oc=5"
-    },
-    {
-      "id": "feed-83440d248c",
-      "manual": false,
-      "date": "2026-08-06T17:54:36+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : séjour en France, charge virage faible… Ce que l’on sait du patient franco-argentin isolé en Espagne - Ouest-France",
-      "title_en": "Hantavirus : séjour en France, charge virage faible… Ce que l’on sait du patient franco-argentin isolé en Espagne - Ouest-France",
-      "body": "Hantavirus : séjour en France, charge virage faible… Ce que l’on sait du patient franco-argentin isolé en Espagne &nbsp;&nbsp; Ouest-France",
-      "body_en": "Hantavirus : séjour en France, charge virage faible… Ce que l’on sait du patient franco-argentin isolé en Espagne &nbsp;&nbsp; Ouest-France",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZDZJREd0RGNsMUJPbl9nVnFobUhPVjNEemJrMTNERU5QOUhqSzZ2ZFFtWjV6eGQyTVZ3YkNCSmUyTGRwZi1LMkpPek1HSEI3bG5YNGdXbVFsc0JtZVE4YVM3QkQ4bjJueXB0dllpbWtOTjN4b0pXc3BtWUZYQ0tQWHVVcXVPVTBHelJUNGdFQmMzdkh4WWlZSXdxZGFEMVljSmtsdGpIX0xVN1BFNUtqNHc0eFFVMHpRWUdiVTBjajA3ZlZkZjh6a2ctX1JWRVNtWldzZmRrd09uMmFKYUtWNnVWanVCdUs0S3RBWW9QTmZvbUdLRDNfVVpTeDRlVzZuS0NzM04wODJoTUR3Z3lMV1RBYk9CQm9nS1dMWjVXRDQzUQ?oc=5"
     },
     {
       "id": "feed-2f88f13867",
@@ -176,10 +176,10 @@
       "date": "2026-08-06T17:10:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Isolement en Espagne, symptômes légers, lien avec le MV Hondius : ce que l’on sait du touriste français contaminé à l’hantavirus - La Montagne",
-      "title_en": "Isolement en Espagne, symptômes légers, lien avec le MV Hondius : ce que l’on sait du touriste français contaminé à l’hantavirus - La Montagne",
-      "body": "Isolement en Espagne, symptômes légers, lien avec le MV Hondius : ce que l’on sait du touriste français contaminé à l’hantavirus &nbsp;&nbsp; La Montagne",
-      "body_en": "Isolement en Espagne, symptômes légers, lien avec le MV Hondius : ce que l’on sait du touriste français contaminé à l’hantavirus &nbsp;&nbsp; La Montagne",
+      "title": "Isolement en Espagne, symptômes légers, lien avec le MV Hondius : ce que l’on sait du touriste français contaminé à l’hantavirus - lamontagne.fr",
+      "title_en": "Isolement en Espagne, symptômes légers, lien avec le MV Hondius : ce que l’on sait du touriste français contaminé à l’hantavirus - lamontagne.fr",
+      "body": "Isolement en Espagne, symptômes légers, lien avec le MV Hondius : ce que l’on sait du touriste français contaminé à l’hantavirus &nbsp;&nbsp; lamontagne.fr",
+      "body_en": "Isolement en Espagne, symptômes légers, lien avec le MV Hondius : ce que l’on sait du touriste français contaminé à l’hantavirus &nbsp;&nbsp; lamontagne.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNeTBMMWxjQVJYOUNUeU13cmZpSmxyT0F6OW9TRk9tWGxMMm15WTNiQUtMRDRSQ2NUbzBnVnFMUkdqTHRRWFVqVHJ4aUF0OF9uUnpKZTZWYmZuWlMwOXJBbHNHNVFBZGR5TDM2TkVTWkpBS2FTZ1M1Nkc5bUJwb2pfaHN6eXl4aXA1a0pOWEtrcy1sNk9oODJRZExqR1lqaHZ3LU10TExzUDRQZ3h0Ni1NeUZ1eTVGRkNpVVZPUVdZWUh1emw1S01ZdkRKWk1hRVo5X2RiUmh0OXhuV1lUTDdTdzNwa1laTmEza1hqVzNYdE9wWkdXVXU4WnNGNldhVWhkR3dmZFE3TTJIS19lZ0Rv?oc=5"
     },
@@ -189,10 +189,10 @@
       "date": "2026-08-06T17:08:34+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation - Anadolu Ajansı",
-      "title_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation - Anadolu Ajansı",
-      "body": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; Anadolu Ajansı",
-      "body_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; Anadolu Ajansı",
+      "title": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation - aa.com.tr",
+      "title_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation - aa.com.tr",
+      "body": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; aa.com.tr",
+      "body_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; aa.com.tr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGlqZnJqQlFDTWNVU2tULVN5eGR3LXN0WmM5dl9QclNJLTNGb0sxV2liXzNDM2RkdjhlbG1XVUw2ckpta3FTcGRJMzhUdWoyTy1PRDFId2FvYnlycENaSXRidHpGQmw2T2hNYlRtbFBNSFEzWDRUZDRLbGo1SDVSbE1PWjFFRi14VTZ0R1RTbFRTbVM1VGNfNWs1QkJrZWFZdnJYUDFYd05BaUNqdGMxRkd0b040RFRtRDE1YlplOFBWZ0FHdHlLTDdzamJXMGpkX1hNTHpTTk9lRGRualRjN2pB?oc=5"
     },
@@ -236,17 +236,17 @@
       "source_url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/hantavirus-que-sait-on-du-touriste-contamine-ayant-transite-en-france-1460000"
     },
     {
-      "id": "feed-5e45017a24",
+      "id": "feed-e7d4e0adb1",
       "manual": false,
       "date": "2026-08-06T16:41:37+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Un touriste franco-argentin ayant transité par la France isolé en Galice après un test positif au hantavirus - Yahoo Actualités",
-      "title_en": "Un touriste franco-argentin ayant transité par la France isolé en Galice après un test positif au hantavirus - Yahoo Actualités",
-      "body": "Un touriste franco-argentin ayant transité par la France isolé en Galice après un test positif au hantavirus &nbsp;&nbsp; Yahoo Actualités",
-      "body_en": "Un touriste franco-argentin ayant transité par la France isolé en Galice après un test positif au hantavirus &nbsp;&nbsp; Yahoo Actualités",
+      "title": "Un touriste franco-argentin ayant transité par la France isolé en Galice après un test positif au hantavirus - Euronews.com",
+      "title_en": "Un touriste franco-argentin ayant transité par la France isolé en Galice après un test positif au hantavirus - Euronews.com",
+      "body": "Un touriste franco-argentin ayant transité par la France isolé en Galice après un test positif au hantavirus &nbsp;&nbsp; Euronews.com",
+      "body_en": "Un touriste franco-argentin ayant transité par la France isolé en Galice après un test positif au hantavirus &nbsp;&nbsp; Euronews.com",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUVEclg3Z2tDTXNWa1JzSkxNSjdFanlfS1NvOUctdWY5c19aQjMyUWRod3pCY3ZwdGE1QU9xdVYzaVYzMFdVeGoydXo5eDAyaXhPQVplNExUNTN3U1BRdU1tT09WOWc2bXd0a0dHNUxjOWpyQ2J2N2RGanVvaWZQNkcxQ2R6Z2NBNEZmOVF3?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcmVWbkEwanYxdFYxc2dUWXo4ODA4YnkzT1VZelc3b1p0VW9XaWJGcElSUEFwTEMxU2wxWkhya3dyZWVTQ3BOMmN1SmxNaEx6UnI0MzFxcWF0Z2ZqaXpsUHVnWmE2eHpPcnNZRjhvbEhKbXczWV9SSmh3T2VPdG9vQlN0dmxHZlNIUE9Ma3JPQUlfYm9qbG1vTkg5b2pRei0wM3h3Y3liX0VsMEdTRm9rYmc5NmVVZHVNdWdoakU5VFJYTENxdkR0Tjh2Zw?oc=5"
     },
     {
       "id": "feed-cd2a97ec64",
@@ -254,10 +254,10 @@
       "date": "2026-08-06T16:35:07+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois - TF1 Info",
-      "title_en": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois - TF1 Info",
-      "body": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois &nbsp;&nbsp; TF1 Info",
-      "body_en": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois &nbsp;&nbsp; TF1 Info",
+      "title": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois - tf1info.fr",
+      "title_en": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois - tf1info.fr",
+      "body": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois &nbsp;&nbsp; tf1info.fr",
+      "body_en": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois &nbsp;&nbsp; tf1info.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1BZRzhhU3NNcy14YXZYTTNPXy03WjgtdTdoVGFoeEgtdjdMSmFtNFRNV3psNDRwTTNpcS1fZHdXVVNCSlFzQ1lzODNidF92ODJHWWdQYWY0WEptUF8yY0VWN195YWZ5WmE3U0htTXg1WWhNQmFVMzFlOWpKb0ZZakMyNV9hR3B2U3F5Vm1LYmZTRFdQTUlBdjhfN1E3UHhFVHZoUWxiZ0xLLTVrYmFTZEdhemUzS3VDblR2TlZqd0dKQTVLeHZmSzJB?oc=5"
     },
@@ -340,19 +340,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckNlYlhaX09xLWFBbGE3dVo1RmdnVlJ5dnh6QlJraElRUkcxTFQ2MXVzR2s1SXluSThfR3kwVGlGaVV2NkJ0Qy16TjN1WFR0WWxMNFpTLTJORTYyX2JmSWd6LUo4LVBhQXVJRFUwWnc4QS1lcjd4Sm1ZQUZIQW5fOG1FSGpJQWhLQ1pGdDhjOUhLb2NrX3ZVd3F4WQ?oc=5"
     },
     {
-      "id": "feed-d46f6533b2",
-      "manual": false,
-      "date": "2026-08-06T16:08:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "La Française contaminée au Hantavirus sur le MV Hondius est sortie de réanimation - 20 Minutes",
-      "title_en": "La Française contaminée au Hantavirus sur le MV Hondius est sortie de réanimation - 20 Minutes",
-      "body": "La Française contaminée au Hantavirus sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; 20 Minutes",
-      "body_en": "La Française contaminée au Hantavirus sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; 20 Minutes",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXl3SUpsSVFXeVF3TWRHZzFoclpuZHRKek9lRmwyVXNpZHNicmQwOE1ERXBVNU02elhqQ0JUdFVKNHFFUGI5MFByNU9FUlFHUG1sVHpNR0w5ZVZHLVVIQXA3c0tNZU5ISVNUdmdBNDc1eXdaZ2VHSWx6TU9MYlQ0bDMwbWZPTndUTVRzUlNNZXNhcHByWXExYkdKWHM1MjgtVnM3ZnB1V2JsSVJYdC1HWVRBYjhyd1Z6REVj?oc=5"
-    },
-    {
       "id": "feed-3d4d80930f",
       "manual": false,
       "date": "2026-08-06T16:04:51+00:00",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; The Straits Times",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ19CT05oODR1cDVXSm81M0w4S1FNblh4cy0yUmplX2M3ODNIMVBTRlFQMzhReUltZkhtbk0tZTZ6TkVLeDNSRzRNMUE4aTNPVzRUdHlLTG1tbEFBM0dwQnVrWnRHX1llZ0hpUnpXTk5NVG5wNEVva3R4ajdXYjNQU1lvSUxVNkdKSzRldlk0THFJeEJfQXllSjlYdE5pYXpzZGRn?oc=5"
+    },
+    {
+      "id": "feed-6eb6614e4c",
+      "manual": false,
+      "date": "2026-08-06T15:53:30+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Un cas de hantavirus détecté chez un touriste en France - Blick",
+      "title_en": "Un cas de hantavirus détecté chez un touriste en France - Blick",
+      "body": "Un cas de hantavirus détecté chez un touriste en France &nbsp;&nbsp; Blick",
+      "body_en": "Un cas de hantavirus détecté chez un touriste en France &nbsp;&nbsp; Blick",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVZnZ1VZT0pOcDNhb3hqaUNHamxDa1dKSlRfN21veHBIOTAxdjk4bEIxNURqRzJQeDFvcm51QjZZMjhhVXprMUpIaGw5dENJWjVIdWZLZzdFOXBOR2JiTWhOeE5QZFBlLTdRRkNEckZNZnJhRkRWa1BQZXZQbDdFNWVNQ3g5WUdTQlp4NHEwVUE2MDBwS2FoQ3Y3Vk8zWkUtdHNlTFpWLWJmUmdBUkVIVUFjQ2NhZVdYZkc4bXU5eXR5dEFpemxr?oc=5"
     }
   ]
 }

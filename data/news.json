@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T21:37:34.749874+00:00",
+  "updated_at": "2026-08-07T22:33:51.921001+00:00",
   "items": [
     {
       "id": "feed-8d4b0d3910",
@@ -54,17 +54,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkRoWHgtSzJlZDJESGhETVVmX3lpVjZ1aUZfWXQ2SnNqTEIyc3hfbHo1eGRKUUFTanM5RDFqVk1wem10MDVtNmcydmNxdGFvSHhoaTZ1SXhpQmRTcXRSWngwbERiRm5yYmlmdEplZDg4eE1GZG5naDZhdDhFcFF2TmlQLVFoNXNhczZ0YWZ0RERyek9T?oc=5"
     },
     {
-      "id": "feed-473f3136dd",
+      "id": "feed-099f9e559f",
       "manual": false,
-      "date": "2026-08-07T13:39:34+00:00",
+      "date": "2026-08-07T14:41:00+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - lanouvellerepublique.fr",
-      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - lanouvellerepublique.fr",
-      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; lanouvellerepublique.fr",
-      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; lanouvellerepublique.fr",
+      "title": "L’isolement recommandé pour les proches du touriste positif à l’hantavirus - 20minutes.fr",
+      "title_en": "L’isolement recommandé pour les proches du touriste positif à l’hantavirus - 20minutes.fr",
+      "body": "L’isolement recommandé pour les proches du touriste positif à l’hantavirus &nbsp;&nbsp; 20minutes.fr",
+      "body_en": "L’isolement recommandé pour les proches du touriste positif à l’hantavirus &nbsp;&nbsp; 20minutes.fr",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGxrWUtGbWFhanMteXg0UDFyb1hMSmJRSTlkaE5uM2ZmMUsxcTlSS2l2Q3NjVW9yUHRmeDc5MG12UF9fcWNBSlB3ZmVEQzdUbTJhN1h3MFRiSUw3YXVTRWlsTU9hcXdHWDZ6M1R0Z25Tbm1fQmFzVkFiWG1Wek8wb2JGTkhOQ3lWSnk0YlBfV1VmOHRxXzllTzN2X3B3Wm9aQ1doQU44TmExSWFlQjZlX1RiZWw4SlJ5REFROFNHbm02bEdYbXdHc0dtQjQ3Zmo0M1Zqa3dmRHhOTnpMaEpabnJzTGZGRjA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3dIV0lJdVpxYm1qbnFjUVdqVHU1eENZQy10SFRaNmxNQS1rNVJTNmhHM3diWjJMcFBpUno3NUdZQjZLRDhxa3E2Rm14eXRRX3dMelFaY3VtcVRXdk5EaDlLeW9MSzZoRjlqLTdIRDdoNUlxa1R2Tm9pSEVSZEZsSUc4VnVtVERQYVlIWlFmNk5qbzJYOTR1amFEaXRoS2VLaFZSWUh4anM4TGUzOXVSSWdjWGV0YmNRa3p2LUIzcFBLWjFFbWdqOXZrZ2pMQkdTWWhjWkRR?oc=5"
     },
     {
       "id": "feed-014e4b6e49",
@@ -176,10 +176,10 @@
       "date": "2026-08-07T11:09:17+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : un cas détecté après un passage en France - sevenradio.fr",
-      "title_en": "Hantavirus : un cas détecté après un passage en France - sevenradio.fr",
-      "body": "Hantavirus : un cas détecté après un passage en France &nbsp;&nbsp; sevenradio.fr",
-      "body_en": "Hantavirus : un cas détecté après un passage en France &nbsp;&nbsp; sevenradio.fr",
+      "title": "Hantavirus : un cas détecté après un passage en France - Seven Radio",
+      "title_en": "Hantavirus : un cas détecté après un passage en France - Seven Radio",
+      "body": "Hantavirus : un cas détecté après un passage en France &nbsp;&nbsp; Seven Radio",
+      "body_en": "Hantavirus : un cas détecté après un passage en France &nbsp;&nbsp; Seven Radio",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0hfSU9teW5kdFhXbDk3M0RGOHRNckZESDdUOVdwOW5PQWV5cjBMY0pHbFUteGVTU0VNalBaVnk3ZHNZNXo1YnYxQ1c1bmtaMk9GRHAwN2w4aUY4QVBuMUlmWVd5SzJYMC0wOENseEwxZ1JvemZ4aldMQkRua3BVX0hKZVA3SmpOZTJicGQxbw?oc=5"
     },
@@ -223,15 +223,28 @@
       "source_url": "https://www.liberation.fr/societe/sante/hantavirus-un-patient-positif-isole-en-espagne-a-transite-en-france-fin-juillet-20260806_4D46O3MR7BH47AQ4L7NYTIVVQ4/"
     },
     {
+      "id": "feed-e74ec318b2",
+      "manual": false,
+      "date": "2026-08-07T10:20:28+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - Ouest-France",
+      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - Ouest-France",
+      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Ouest-France",
+      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Ouest-France",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPY0NObzBjWnBDN3NSak1BWFU3bXpOYldtaFhGY3pLSXZ4dkhTRXFCUkdQQ24yZy1IcVV3dmxFVDhHV0NIcXRrWF9ybjhkLXhBZmo0WjJ3SVVZdnp1NElxTUdKR2tQWjYtdmluR2l2bUhQQlAxamRwNXF4ZGNBbXBjN3BEaXpvTVhuSWVhVi1FNVVJZzQwVF9oblIybWRIQlBXa01SX1VqXzBCWE4tdF9jc1FQTk1hRGJKWWh2RmxCa0V5SUdmV0YyNGV5eWtadUo3d19fWXlMLWhzSTZjMk1QeUM4YXk2R1VtQjRfWHBhWm96ZU1EZ1NoOTUwVmZzVWdScVctcG9yQ2NkNHZrX1J2cWtn?oc=5"
+    },
+    {
       "id": "feed-2c0a8e635b",
       "manual": false,
       "date": "2026-08-07T09:59:07+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif - tf1info.fr",
-      "title_en": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif - tf1info.fr",
-      "body": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif &nbsp;&nbsp; tf1info.fr",
-      "body_en": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif &nbsp;&nbsp; tf1info.fr",
+      "title": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif - TF1 Info",
+      "title_en": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif - TF1 Info",
+      "body": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif &nbsp;&nbsp; TF1 Info",
+      "body_en": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif &nbsp;&nbsp; TF1 Info",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcnRhd2NFQ0ZYSURkdnUtMGRRXy1LOG9oVDh1U0hmcWVXMkNNcEpudlNkN0s0MUl4YzZfNWVJU25BTllIdGdMWmpqYVU5d1VNSm94dmdKQ3hOdWljbFlHSEpDZ0wyU0w3ZkVfUmlCRlRDeXlfZjNEeXdSYng5aHJKSEtWaU9JZWdkSUNGY18yUUJuVGdKQllDWUhMY2hDX3FSU3NwMkd3NWNHMGY5aUoyNDFveEZhVVZkZjZ1dUpqTEFWMkxRLS1sdFlHa29wSEVYTnZRVWJEYWZDeFlrdnlkdE9wcVFRamRfRHNkcW45c29YMjZLTFI5T01JRWVuVThSZkZPeGxzT00tUQ?oc=5"
     },
@@ -295,8 +308,8 @@
       "tag": "media",
       "title": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France - BFM",
       "title_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France - BFM",
-      "body": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Ouest-France Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que…",
-      "body_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Ouest-France Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que…",
+      "body": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM",
+      "body_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEQyLXJ6ZXFFdHpsU0w2YThiYVprSWRZUHpBM0VxYk9WWDVjMFdMRS1EeHNlWXN3VnlPMmxUOFBoeVVpZTljQWNNOFpiQzRRYU5JaVhtNnEwcXJ0ci1hRjRNWDE3c3JxN3RWMHNFejdaQy14SGExalExbXNDVjhHdkQ0WjhELUI2ME40TnRRcXBPR3VCSllnNHpaRldYNlBsR0dXdWhMQkpXbHBwSElfZGFSekFBa1lLLU1QeS1mSS1VYUNQcm1xMXU5d3R1VjlpNVRWMXJB?oc=5"
     },
@@ -332,10 +345,10 @@
       "date": "2026-08-07T09:20:11+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Un nouveau cas d'hantavirus détecté sur un touriste ayant transité en France en juillet - tf1info.fr",
-      "title_en": "Un nouveau cas d'hantavirus détecté sur un touriste ayant transité en France en juillet - tf1info.fr",
-      "body": "Un nouveau cas d'hantavirus détecté sur un touriste ayant transité en France en juillet &nbsp;&nbsp; tf1info.fr",
-      "body_en": "Un nouveau cas d'hantavirus détecté sur un touriste ayant transité en France en juillet &nbsp;&nbsp; tf1info.fr",
+      "title": "Un nouveau cas d'hantavirus détecté sur un touriste ayant transité en France en juillet - TF1 Info",
+      "title_en": "Un nouveau cas d'hantavirus détecté sur un touriste ayant transité en France en juillet - TF1 Info",
+      "body": "Un nouveau cas d'hantavirus détecté sur un touriste ayant transité en France en juillet &nbsp;&nbsp; TF1 Info",
+      "body_en": "Un nouveau cas d'hantavirus détecté sur un touriste ayant transité en France en juillet &nbsp;&nbsp; TF1 Info",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT3NoZGo4ZDRDalZJeUJIUWdqMG5TVmdLaktfMlZzcXJ0VWh1N0ZZQS1xaW9FSDlXVV84WDhKRWhkejFadEdPTTJXOVI1V2tYZWwyTEFfWkVQR09oUldES0w2aDVLLUtwaExKbHNWWVk4T0pKMnFBUzRKSTBqYTlSM0dGYkVZSzlhMzM5YVRCMXNjU2FaQnVXX0oxNGhScWhJcElpd0NzcmxONnFzMm5iOWZockFINVh5RmtpcFpCenl2RmIwcmNSZDA3QnpldVhNT3FPeUFhMXJlNXYxY2dtUGJ3?oc=5"
     },
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus : le cas du touriste franco-argentin présente un \"risque de transmission très faible\", assure le gouvernement &nbsp;&nbsp; ici.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRkozZHVEZGpYTlZrcDgyVlR3eDZaR1p4a0FpLXo3WHFOcERMUGwzLWhNRWhZelhRYjdTSTNuWUpXUUpHMTkzNzNNRG93UjlkWTNFc2YzQUR0YlFWZWdOLUxRSmhfc1VPV2R6Q1ZCakpEeXlVWW1FaTNudXFKSWFTZ09POWVqa3YwSG16anp4eVJSZ3ota3h4ek5LOUVmSWNUMllyTlJtY2hFaTZUTGxOVzNiNE1ZZ0JiMG1UYVF1N05YLUhPaXNCU3ZyN2FCWVF1RFdhRUs4NlNHSTFoMURuRzI3UWw2RWxDRmVKck5uWEZxUVRQanc?oc=5"
-    },
-    {
-      "id": "feed-0e57d6b6b2",
-      "manual": false,
-      "date": "2026-08-07T08:41:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? - Linternaute.com",
-      "title_en": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? - Linternaute.com",
-      "body": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? &nbsp;&nbsp; Linternaute.com",
-      "body_en": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? &nbsp;&nbsp; Linternaute.com",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObkQxWWhjaWI4dFVCMVk2ZlMtcVp4N2RDdWNmeFl4Ylg1R2FSdEVQT3NiVmhUdFFOcWpzcldRbFRpTXcxa0VlU2htU1hPNkgwRlNEYlBHaTdEb1NnQ09CVjNuX3prNENPaW02QVEwY1lHOUNSNldSWmg1Mkd4R2ttV3lGbW9KT2c2OGJGZ0JBczdUQ0FxMGJYcGI4Q1d0Vm44RG5iUkwwSl9FajNNaFRScnF3YmU2dWc1MloycjJSUHdka1Q0Qk1fZVVsWDJoS0hRMjhiekZQT2R4UUJPMDZJUTNFd3c?oc=5"
     }
   ]
 }

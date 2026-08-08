@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T05:42:24.233157+00:00",
+  "updated_at": "2026-08-08T06:51:25.410413+00:00",
   "items": [
     {
       "id": "feed-9f25300cd0",
@@ -158,6 +158,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjFZSnB1ZjZiTmlCbUlZSURNcFhiNlBuUWxmMmxUYUNuWFJycGtkYTR4dHRpeDdIZ29ZT2JPVkFSTF96Vk5SXzdMcDhpV1gyY1ZFNUlQRFN1QXQ4dXFjcGNUVFJXV2N0Wjk4WmJpc1NzYVRiUFdFTzY0VzRlS2JkMGJOeEFRQzVMSW9GaGZMb2NwYWhE?oc=5"
     },
     {
+      "id": "feed-5c8bc62b86",
+      "manual": false,
+      "date": "2026-08-07T11:55:44+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Symptômes, isolement des proches... Ce que l'on sait du touriste franco-argentin positif à l'hantavirus - Europe 1",
+      "title_en": "Symptômes, isolement des proches... Ce que l'on sait du touriste franco-argentin positif à l'hantavirus - Europe 1",
+      "body": "Symptômes, isolement des proches... Ce que l'on sait du touriste franco-argentin positif à l'hantavirus &nbsp;&nbsp; Europe 1",
+      "body_en": "Symptômes, isolement des proches... Ce que l'on sait du touriste franco-argentin positif à l'hantavirus &nbsp;&nbsp; Europe 1",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdmp2SEx2QkRlNGE3cFpscVJJNzZSVmxIbHRMZjJtVEtTNFJvMGVxVW9xZkZUV2RPNTBzOHNXOS1uRktQcDk0NFFMM3lzUGR6bnhZWmppc0tkbkZrYmZSTmJNNzRBOWpOV3JEaGhVc280SU1iMlNNWXh4WGkzcmsxMWVNNHNhZ05rS3hBVFN1RFBoajdJMnFxV19pMWxlWExKRzhiN1BhSXFmcVE2eTZ4SWd5SE1XQWN1d0ZUTEhLem04cEI1ZlZtMVpCWmJZMUnSAdQBQVVfeXFMTmlLcmcyUDI3aUJ4NVBnM0Z0YXkzQlVYSkNjR3kxRmlIUUk5dVV6dU1pUk5JQmEzcl9sNnlGQ0s3UkJqdXFVYVJGOExGZkdnYlp3eGlwakFkTnphc2tQVklSMGx3RFluczI3RXRyN1FwRGtKZDFDSVR1c0ZzUlptckNxRmszSmVFUWhjV3QxMkJGcklZZjllWEJlSjNPcDFQSmdnb0RVdVhzcjVVSGcxa0pJTXFCOEVTUmFuX1RCZ1VmZHVsanRKdDByZnNGdW1PSWxiMk0?oc=5"
+    },
+    {
       "id": "feed-db217ca710",
       "manual": false,
       "date": "2026-08-07T11:38:35+02:00",
@@ -195,19 +208,6 @@
       "body_en": "France recommends home isolation for close contacts of hantavirus case, risk 'low' &nbsp;&nbsp; HESPRESS English - Morocco News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkx0RUJnaHVqaHZfOGJCcHR6SlRxTFNuWnZkd2VPUEJSSDZ0a2ktV3hsMklha3FuOUJPdUhvN3VJU2huampwVEtzMlduUEc3dXlJM19SM3BNZUNLczgybzdabUlTZVdVb3dUamkyZ3p1Z1FKLUZ2c2U1X2RNVWYtZXFIbXJKTjZndWcwSXc1RWtMZkpjcWlfWEhsRUVId2sxM3pRMTJaNXZTMkI2cFI4THNUT1ctdw?oc=5"
-    },
-    {
-      "id": "feed-52cf5ce473",
-      "manual": false,
-      "date": "2026-08-07T10:21:33+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet",
-      "title_en": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet",
-      "body": "Des analyses ont confirmé jeudi 6 août que l’individu, qui est passé par l’Ile-de-France, la Normandie et la Nouvelle-Aquitaine, a été infecté par la souche Andes, la même que celle du navire «MV Hondius». Les autorités sanitaires hexagonales sont en train d’établir les mesures à mettre en place.",
-      "body_en": "Des analyses ont confirmé jeudi 6 août que l’individu, qui est passé par l’Ile-de-France, la Normandie et la Nouvelle-Aquitaine, a été infecté par la souche Andes, la même que celle du navire «MV Hondius». Les autorités sanitaires hexagonales sont en train d’établir les mesures à mettre en place.",
-      "source": "Libération",
-      "source_url": "https://www.liberation.fr/societe/sante/hantavirus-un-patient-positif-isole-en-espagne-a-transite-en-france-fin-juillet-20260806_4D46O3MR7BH47AQ4L7NYTIVVQ4/"
     },
     {
       "id": "feed-2c0a8e635b",
@@ -267,25 +267,25 @@
       "date": "2026-08-07T09:38:35+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - lemonde.fr",
-      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - lemonde.fr",
-      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; lemonde.fr",
-      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; lemonde.fr",
+      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - Le Monde.fr",
+      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - Le Monde.fr",
+      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Le Monde.fr",
+      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Le Monde.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjV6RWJDT2ViM2l3TDN0YXVOSEg0N3JfamdYM3JheGdaQzVMcXo3ZnY2d1JYejFtSHFSSWZwQUlVZmdhc0RVeEcxelZOZUpIbTZzSFZDZW5rM1JPOWppNDZ0eF9WbGZSRjNJVlFyUW16c0F3c29kY1dCUUxxZUNqbUkwOTJFT1FMMFh4cHpTQUZXR2NQSUJ3OG81eHJRdzNVQlVvYmwzSE9mRF8yVk0tWGNrSUlMS1RIam80UDM4WmkzbWlWak91WHBSSFNQUjhIcmgxajA5dzdIRVVXWXJ3OUVDUXMwenpaNU4yR1EwU3pqNjZRNWtv?oc=5"
     },
     {
-      "id": "feed-7bebe6ee5b",
+      "id": "feed-64aa294784",
       "manual": false,
-      "date": "2026-08-07T09:31:06+00:00",
+      "date": "2026-08-07T09:30:33+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France - BFM",
-      "title_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France - BFM",
-      "body": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM",
-      "body_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM",
+      "title": "Touriste infecté à l'hantavirus: ses contacts sous surveillance - Sciences et Avenir",
+      "title_en": "Touriste infecté à l'hantavirus: ses contacts sous surveillance - Sciences et Avenir",
+      "body": "Touriste infecté à l'hantavirus: ses contacts sous surveillance &nbsp;&nbsp; Sciences et Avenir",
+      "body_en": "Touriste infecté à l'hantavirus: ses contacts sous surveillance &nbsp;&nbsp; Sciences et Avenir",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEQyLXJ6ZXFFdHpsU0w2YThiYVprSWRZUHpBM0VxYk9WWDVjMFdMRS1EeHNlWXN3VnlPMmxUOFBoeVVpZTljQWNNOFpiQzRRYU5JaVhtNnEwcXJ0ci1hRjRNWDE3c3JxN3RWMHNFejdaQy14SGExalExbXNDVjhHdkQ0WjhELUI2ME40TnRRcXBPR3VCSllnNHpaRldYNlBsR0dXdWhMQkpXbHBwSElfZGFSekFBa1lLLU1QeS1mSS1VYUNQcm1xMXU5d3R1VjlpNVRWMXJB?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONWpNMTdUd09JLXJUU2lfTVZrdldVTTRFdHBJVXVMaFRBU2J2MG9pRHNYWm5kOXdBams2cEpiQ2thVEZSOTBsLTB5MURiRlNfSVZsY1V5dGNHeHduQzh0cGF0eTl0Y19PSWdjLXAzUV91Qng2b1pfWXlRN0gtUVppeFhIcFctU25PMDU1SDlaQ2RZS2N3THdzQVpUMjdMTEx3Ykh6Nzd5cGR2OXlmLUh1cUU0ZW5zbUx1U0s1U3ZpdmdDNmtJMmNpOUM1ajl6NGhlT1ZB?oc=5"
     },
     {
       "id": "feed-6d3b7654b6",

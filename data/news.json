@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T10:31:58.281226+00:00",
+  "updated_at": "2026-08-08T11:27:38.258578+00:00",
   "items": [
     {
       "id": "feed-9f25300cd0",
@@ -7,10 +7,10 @@
       "date": "2026-08-08T01:48:53+00:00",
       "date_label": "8 août 2026",
       "tag": "media",
-      "title": "When The Sun Goes Dark: The 2026 Solar Eclipses Explained Hantavirus Pandemia (EpLlHAutEk) - mshale.com",
-      "title_en": "When The Sun Goes Dark: The 2026 Solar Eclipses Explained Hantavirus Pandemia (EpLlHAutEk) - mshale.com",
-      "body": "When The Sun Goes Dark: The 2026 Solar Eclipses Explained Hantavirus Pandemia (EpLlHAutEk) &nbsp;&nbsp; mshale.com",
-      "body_en": "When The Sun Goes Dark: The 2026 Solar Eclipses Explained Hantavirus Pandemia (EpLlHAutEk) &nbsp;&nbsp; mshale.com",
+      "title": "When The Sun Goes Dark: The 2026 Solar Eclipses Explained Hantavirus Pandemia (EpLlHAutEk) - Mshale",
+      "title_en": "When The Sun Goes Dark: The 2026 Solar Eclipses Explained Hantavirus Pandemia (EpLlHAutEk) - Mshale",
+      "body": "When The Sun Goes Dark: The 2026 Solar Eclipses Explained Hantavirus Pandemia (EpLlHAutEk) &nbsp;&nbsp; Mshale",
+      "body_en": "When The Sun Goes Dark: The 2026 Solar Eclipses Explained Hantavirus Pandemia (EpLlHAutEk) &nbsp;&nbsp; Mshale",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxV3c0R09fQUxfdDluZlNzaTZfWk0tV0hQTGxmWFl1SF9hYi1rMlhHTWNnUlNCN0I0aXhUQVk0UVNmZ195bWo0SkNINlpRdTdnZm8zUmxyVV93TnM?oc=5"
     },
@@ -145,19 +145,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
     },
     {
-      "id": "feed-20a32a6584",
-      "manual": false,
-      "date": "2026-08-07T12:01:53+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "France : un cas importé d’hantavirus détecté chez un touriste - Maroc Diplomatique",
-      "title_en": "France : un cas importé d’hantavirus détecté chez un touriste - Maroc Diplomatique",
-      "body": "France : un cas importé d’hantavirus détecté chez un touriste &nbsp;&nbsp; Maroc Diplomatique",
-      "body_en": "France : un cas importé d’hantavirus détecté chez un touriste &nbsp;&nbsp; Maroc Diplomatique",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjFZSnB1ZjZiTmlCbUlZSURNcFhiNlBuUWxmMmxUYUNuWFJycGtkYTR4dHRpeDdIZ29ZT2JPVkFSTF96Vk5SXzdMcDhpV1gyY1ZFNUlQRFN1QXQ4dXFjcGNUVFJXV2N0Wjk4WmJpc1NzYVRiUFdFTzY0VzRlS2JkMGJOeEFRQzVMSW9GaGZMb2NwYWhE?oc=5"
-    },
-    {
       "id": "feed-5c8bc62b86",
       "manual": false,
       "date": "2026-08-07T11:55:44+00:00",
@@ -182,6 +169,19 @@
       "body_en": "Un cas positif a été confirmé jeudi chez un citoyen franco-argentin, actuellement isolé avec sa famille en Galice après un séjour touristique en France pendant la deuxième quinzaine du mois de juillet, et désormais asymptomatique.",
       "source": "Le Monde — Planète",
       "source_url": "https://www.lemonde.fr/planete/article/2026/08/07/hantavirus-isolement-a-domicile-recommande-pour-les-contacts-proches-du-touriste-franco-argentin_6740480_3244.html"
+    },
+    {
+      "id": "feed-a8a3432716",
+      "manual": false,
+      "date": "2026-08-07T11:00:03+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus, chômage, chute à Crozon : le point à la mi-journée - Le Télégramme",
+      "title_en": "Hantavirus, chômage, chute à Crozon : le point à la mi-journée - Le Télégramme",
+      "body": "Hantavirus, chômage, chute à Crozon : le point à la mi-journée &nbsp;&nbsp; Le Télégramme",
+      "body_en": "Hantavirus, chômage, chute à Crozon : le point à la mi-journée &nbsp;&nbsp; Le Télégramme",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjJxWmZPUHdMLU52SVhkTGR2TXN0X1c0eS1QXy0zUHh0U1pVbEFoT3ZhZWdzM0t1WWRHSTdVNHNaWGhjYU5yejh2SkoxMC1yYVVUc2NoWlZlRjhRY0doRzFyZVZmY3V0ZWo4NVVaVFFIZm5MWjlGb05YR0FkS3BiVkRoajlwMzhJSU5JN3dQdGFRR1BoamF6YVVBMXU1ZVduLWVlSTBNMGQ?oc=5"
     },
     {
       "id": "feed-ef9b301e3d",
@@ -254,12 +254,25 @@
       "date": "2026-08-07T09:38:35+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - lemonde.fr",
-      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - lemonde.fr",
-      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; lemonde.fr",
-      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; lemonde.fr",
+      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - Le Monde.fr",
+      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - Le Monde.fr",
+      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Le Monde.fr",
+      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Le Monde.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjV6RWJDT2ViM2l3TDN0YXVOSEg0N3JfamdYM3JheGdaQzVMcXo3ZnY2d1JYejFtSHFSSWZwQUlVZmdhc0RVeEcxelZOZUpIbTZzSFZDZW5rM1JPOWppNDZ0eF9WbGZSRjNJVlFyUW16c0F3c29kY1dCUUxxZUNqbUkwOTJFT1FMMFh4cHpTQUZXR2NQSUJ3OG81eHJRdzNVQlVvYmwzSE9mRF8yVk0tWGNrSUlMS1RIam80UDM4WmkzbWlWak91WHBSSFNQUjhIcmgxajA5dzdIRVVXWXJ3OUVDUXMwenpaNU4yR1EwU3pqNjZRNWtv?oc=5"
+    },
+    {
+      "id": "feed-7bebe6ee5b",
+      "manual": false,
+      "date": "2026-08-07T09:31:06+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France - BFM",
+      "title_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France - BFM",
+      "body": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM",
+      "body_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEQyLXJ6ZXFFdHpsU0w2YThiYVprSWRZUHpBM0VxYk9WWDVjMFdMRS1EeHNlWXN3VnlPMmxUOFBoeVVpZTljQWNNOFpiQzRRYU5JaVhtNnEwcXJ0ci1hRjRNWDE3c3JxN3RWMHNFejdaQy14SGExalExbXNDVjhHdkQ0WjhELUI2ME40TnRRcXBPR3VCSllnNHpaRldYNlBsR0dXdWhMQkpXbHBwSElfZGFSekFBa1lLLU1QeS1mSS1VYUNQcm1xMXU5d3R1VjlpNVRWMXJB?oc=5"
     },
     {
       "id": "feed-64aa294784",
@@ -267,10 +280,10 @@
       "date": "2026-08-07T09:30:33+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Touriste infecté à l'hantavirus: ses contacts sous surveillance - sciencesetavenir.fr",
-      "title_en": "Touriste infecté à l'hantavirus: ses contacts sous surveillance - sciencesetavenir.fr",
-      "body": "Touriste infecté à l'hantavirus: ses contacts sous surveillance &nbsp;&nbsp; sciencesetavenir.fr",
-      "body_en": "Touriste infecté à l'hantavirus: ses contacts sous surveillance &nbsp;&nbsp; sciencesetavenir.fr",
+      "title": "Touriste infecté à l'hantavirus: ses contacts sous surveillance - Sciences et Avenir",
+      "title_en": "Touriste infecté à l'hantavirus: ses contacts sous surveillance - Sciences et Avenir",
+      "body": "Touriste infecté à l'hantavirus: ses contacts sous surveillance &nbsp;&nbsp; Sciences et Avenir",
+      "body_en": "Touriste infecté à l'hantavirus: ses contacts sous surveillance &nbsp;&nbsp; Sciences et Avenir",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONWpNMTdUd09JLXJUU2lfTVZrdldVTTRFdHBJVXVMaFRBU2J2MG9pRHNYWm5kOXdBams2cEpiQ2thVEZSOTBsLTB5MURiRlNfSVZsY1V5dGNHeHduQzh0cGF0eTl0Y19PSWdjLXAzUV91Qng2b1pfWXlRN0gtUVppeFhIcFctU25PMDU1SDlaQ2RZS2N3THdzQVpUMjdMTEx3Ykh6Nzd5cGR2OXlmLUh1cUU0ZW5zbUx1U0s1U3ZpdmdDNmtJMmNpOUM1ajl6NGhlT1ZB?oc=5"
     },
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus : le touriste français contaminé présente un risque de transmission «très limité», selon le ministère de la Santé &nbsp;&nbsp; CNews",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUJ3aDdBY3kyWjVnQUFOR2FodTlFRnFWV1ZuNHZMcEM4RktBNDc1eE1PMFUzWExLcVhhYmlHellsQ2xiTDRCUTVMNTNQTGNqN0xvTGpkcE5GemxOWEVOUHpJTDVRSndpaFg2OGx0Wm40bGJTeVpoRjZvd0cyY3VQN2Z1ZGo3a1dYQWRvRTFrNWV0ZmNEajJ0Nkc3MlFBTnczaXZZRXk0Q29lRnRMSnhLREMxVDhtVGpTVDAw0gHAAUFVX3lxTE9mVFY1WHpDNXdpSTZMRmtCbDRiYW9xblBQOVNoV3l5azZqX2NSWnpZMmhxeWJWZmZ4aTZXeE15VXl0NEVneXJ4VFdOYXQ3MjRhYmdEazhhcjdoZWRKZFZDR3hnMFZUNDRPRVJhLUlxQ0VoNEdlQkk1Ykp5S2RRbUZ0X04yN2ZuZ2xSMFVGMVBidnJremQ0STJPTU1FVEtmc1RwcE5kdVNoZTBuRVhCY041aVQ0U3UzNGlJOVk3LV8yMg?oc=5"
-    },
-    {
-      "id": "feed-4661cc5f7f",
-      "manual": false,
-      "date": "2026-08-07T07:35:53+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
-      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
-      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0N6MmNfR0h4UGg3ajFaUDBrR3NQSVZiOElnUGg0cGVlTXdKUGF4emdkUmdyVzdpQ3hIdU5maGtvcWpIN0ZLQ0RKeVphTnptZVVhc2FHV29aYzRRMFczQ1p3U2Naaml4N3JtNDF4dnBxZGRreVZEZE80SlNhQjlTWHF3ZjVXUzgySzl2RDgyYm4xTFhIdXp4RzlLZlRuRHkwMzRacTh2U3VYRjBSbEVweXNoWkZ4MDZpQnJKbHA2T1RLM1BYdTNFZ1RyeVl2bXJ0cE4xTnlPTi10RmJCSFZQcTlFRnpvX0piZVNuSmVSeEM3SGhhUnc?oc=5"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:14:33.023762+00:00",
+  "updated_at": "2026-08-14T10:00:04.977919+00:00",
   "items": [
     {
       "id": "feed-e574d266e6",
@@ -20,10 +20,10 @@
       "date": "2026-08-11T13:49:00+00:00",
       "date_label": "11 août 2026",
       "tag": "media",
-      "title": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés - MaVille.com",
-      "title_en": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés - MaVille.com",
-      "body": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés &nbsp;&nbsp; MaVille.com",
-      "body_en": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés &nbsp;&nbsp; MaVille.com",
+      "title": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés - vannes.maville.com",
+      "title_en": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés - vannes.maville.com",
+      "body": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés &nbsp;&nbsp; vannes.maville.com",
+      "body_en": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés &nbsp;&nbsp; vannes.maville.com",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZVpYWUJqU3BZT0ZETkhhYjl0T1l0cHd1N19Xa2tqZzBkZDhOWnktMW5ZamFlMTNyNVRlZXFZeXBTQUFIeXB4Ml9WODVzWEdEdnJQTVlwZTZiQmdFeUNvalplYi1hcWQwMkhseDdXZGlGa0pJQ1ZnLXkxMUIxVlV2NmE1Um1SeHdHZmZIVFNFblV5aFpNenRpRi1HbDVpQ1JDcW5kbk9OYldyZnJ3R2hoUjR0MkZhV3ZqRGFSdlFlLUJQTVUtdjlQQW9nRmVDSzVxTWFPcFJYWUVVbnlVMklDMjI0aEdEeE9qM0tHMFpHcE11cURyaE5nNUxTTlhnWHZ0TXk4OHBCbkE5dw?oc=5"
     },
@@ -210,6 +210,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEQyLXJ6ZXFFdHpsU0w2YThiYVprSWRZUHpBM0VxYk9WWDVjMFdMRS1EeHNlWXN3VnlPMmxUOFBoeVVpZTljQWNNOFpiQzRRYU5JaVhtNnEwcXJ0ci1hRjRNWDE3c3JxN3RWMHNFejdaQy14SGExalExbXNDVjhHdkQ0WjhELUI2ME40TnRRcXBPR3VCSllnNHpaRldYNlBsR0dXdWhMQkpXbHBwSElfZGFSekFBa1lLLU1QeS1mSS1VYUNQcm1xMXU5d3R1VjlpNVRWMXJB?oc=5"
     },
     {
+      "id": "feed-2f9c7bea88",
+      "manual": false,
+      "date": "2026-08-07T09:30:33+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Touriste infecté à l'hantavirus: ses contacts sous surveillance - Sciences et Avenir",
+      "title_en": "Touriste infecté à l'hantavirus: ses contacts sous surveillance - Sciences et Avenir",
+      "body": "Touriste infecté à l'hantavirus: ses contacts sous surveillance &nbsp;&nbsp; Sciences et Avenir",
+      "body_en": "Touriste infecté à l'hantavirus: ses contacts sous surveillance &nbsp;&nbsp; Sciences et Avenir",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFZWb3hoQVNUQ0hYaE8yMDdmVmp4YWhOUlNndHRZcGxrdVBjTUcwSUU2cXBmT1hmREJjWHQydVdHQTVsNWQ0a3JqcF8xOVRxRkdaQ0hFY0NJcUs5QlJiemYyUmpOczFkUnI5X2dyS01abmlIN25mcko2VWJBZmhPY2dSRWtOelJ3TXhLU1ZZTU1CSHZqcHVBN05mbHBPb014QWpUWHVSYVllNEVuaHgxV3JvUEhVOXU3NTFhOS1jU1hfeVE?oc=5"
+    },
+    {
       "id": "feed-6d3b7654b6",
       "manual": false,
       "date": "2026-08-07T09:30:33+00:00",
@@ -223,28 +236,15 @@
       "source_url": "https://www.sciencesetavenir.fr/sante/hantavirus-isolement-a-domicile-recommande-pour-les-contacts-du-touriste-infecte_194153?xtor=RSS-16"
     },
     {
-      "id": "feed-5673484b0f",
-      "manual": false,
-      "date": "2026-08-07T09:30:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Incendies, nouveau cas d’hantavirus et chômage en hausse : les infos à retenir ce midi - Le Parisien",
-      "title_en": "Incendies, nouveau cas d’hantavirus et chômage en hausse : les infos à retenir ce midi - Le Parisien",
-      "body": "Incendies, nouveau cas d’hantavirus et chômage en hausse : les infos à retenir ce midi &nbsp;&nbsp; Le Parisien",
-      "body_en": "Incendies, nouveau cas d’hantavirus et chômage en hausse : les infos à retenir ce midi &nbsp;&nbsp; Le Parisien",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN1ltSzk4ek1nWU9SZF9pVWo4bDJjazRQTWN5ajF5aVlIcDNHMXpxUExMOWYxVGpHN2I0ZjB5RUJYZEVGUHVFYWdMR1pRa2ViRFlMaWpjUklneHNLOGVTc2E4LWVDX0x6ckxzYU5mUzg3dkpaNEJ4OERsR045ZG9qbGZlbXhVTnBwRHYtU3JtM1I1WmZOZjBLX3NZb1locnNZWDJxbmxQc0pwWmdIMGRJVjNXMFNHOHJORmZvelUweG0xbTF6VkZsQkkySy11Z0o0Rm5DbTF2MlVJZUNiNkw3Y1NlVGJkNVp5U0hTajlPZw?oc=5"
-    },
-    {
       "id": "feed-3837fc081b",
       "manual": false,
       "date": "2026-08-07T09:09:55+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus: un touriste passé par la France positif, les autorités à la recherche de cas-contacts - RMC",
-      "title_en": "Hantavirus: un touriste passé par la France positif, les autorités à la recherche de cas-contacts - RMC",
-      "body": "Hantavirus: un touriste passé par la France positif, les autorités à la recherche de cas-contacts &nbsp;&nbsp; RMC",
-      "body_en": "Hantavirus: un touriste passé par la France positif, les autorités à la recherche de cas-contacts &nbsp;&nbsp; RMC",
+      "title": "Hantavirus: un touriste passé par la France positif, les autorités à la recherche de cas-contacts - rmc.bfmtv.com",
+      "title_en": "Hantavirus: un touriste passé par la France positif, les autorités à la recherche de cas-contacts - rmc.bfmtv.com",
+      "body": "Hantavirus: un touriste passé par la France positif, les autorités à la recherche de cas-contacts &nbsp;&nbsp; rmc.bfmtv.com",
+      "body_en": "Hantavirus: un touriste passé par la France positif, les autorités à la recherche de cas-contacts &nbsp;&nbsp; rmc.bfmtv.com",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOXzF5aXhhLTVYU2tKdTQxd2xMMmczM2xGYlJjNUloRjJvdDNaOENUVzBIRjlLUFNTOU02bzczRE8wV3l0d08wY3dEZ3RTU0owRl9hdmxyeThLcDc3V2wyQmMxUDExSUNqbDhNbzBRYXdRZ3pxSlVkT2l5bmttbWpfQTRtNXR0Y09Yc2xDOUh6amdZdFZ4Sm5iUjVfMlAxMEZLdVM1NndmQTNvVXd0WTMtV3NuQUFsLUtGa3FpNE1KSGlDbGNZN0psQUtRdm80bk5vVDZjYTdWRVlIcVhTcTJFTjVzU0g1WXNzcmU0V2wzNHNQTmtpRWc?oc=5"
     },
@@ -267,10 +267,10 @@
       "date": "2026-08-07T06:37:41+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : un touriste ayant transité en France positif - RMC",
-      "title_en": "Hantavirus : un touriste ayant transité en France positif - RMC",
-      "body": "Hantavirus : un touriste ayant transité en France positif &nbsp;&nbsp; RMC",
-      "body_en": "Hantavirus : un touriste ayant transité en France positif &nbsp;&nbsp; RMC",
+      "title": "Hantavirus : un touriste ayant transité en France positif - rmc.bfmtv.com",
+      "title_en": "Hantavirus : un touriste ayant transité en France positif - rmc.bfmtv.com",
+      "body": "Hantavirus : un touriste ayant transité en France positif &nbsp;&nbsp; rmc.bfmtv.com",
+      "body_en": "Hantavirus : un touriste ayant transité en France positif &nbsp;&nbsp; rmc.bfmtv.com",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUhPempNY09fTFZFUzhScG03cV9sRU9ZY1RmeW5pVEdxNzlhQUtXS1FmV1BPQTgzTHpENEI0eVZUM3RncWFsbUFDU3lEakJsVEZjTk1nYXdfOGNINUlNdjd5OWMzNlRGeGltVHdrSzctMXFFWVR1ODNMa2doOWVoemQ4WnlpSDlzMWEzN1UtNXM3bVJrN2FvOU5IYkxsVFBHaHRJODZUTmRfWGdjN1h6eW5nb21EYmlNWFZNTzlpbVI?oc=5"
     },

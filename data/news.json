@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T01:51:24.419479+00:00",
+  "updated_at": "2026-08-14T04:07:45.289576+00:00",
   "items": [
     {
       "id": "feed-e28f564c4d",
@@ -54,19 +54,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1Y5aDRiZjJNcW5EdnFPaWJhTHZFNnRqVU83WlZ3RlNqRlhUb0dHR0ZQY2IyZDlOM29xRzZZRkhsUHJmQ3ZBTUY5Rk0zZ3pncDVLSklXOXpnVjJMRWEtN0ZYc0xJZUNDeGpPMHdOTllKMmhUUHBpaTM4OWNwa0xqTldza0lnaHB6WkJzcm1rSU1QdllLNTVjQkFPSGxJWmh5YmNtS3YwNVRDcmVsTVhMQQ?oc=5"
     },
     {
-      "id": "feed-8d4b0d3910",
-      "manual": false,
-      "date": "2026-08-07T16:29:10+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : quelles mesures mises en place après la détection d’un nouveau cas ? - Le Quotidien du Pharmacien",
-      "title_en": "Hantavirus : quelles mesures mises en place après la détection d’un nouveau cas ? - Le Quotidien du Pharmacien",
-      "body": "Hantavirus : quelles mesures mises en place après la détection d’un nouveau cas ? &nbsp;&nbsp; Le Quotidien du Pharmacien",
-      "body_en": "Hantavirus : quelles mesures mises en place après la détection d’un nouveau cas ? &nbsp;&nbsp; Le Quotidien du Pharmacien",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTko3OFdmQUxHM01jWlFNMTJ6WDBVSzZZaDAxQUlHOGRFLWNXb29sV2NuS1hyVGxfN3dRUzJKLUZ0WE0wMGtUeFRiYkNzNEZwV1djc0hLYmFDaUdlOUhBT1ZKOV9sSThyUUVvV0wxV2Z1MnpId3lRYUlqR05WeC1KRHFDNV9fOG43THltUGtOUy12Y2l5MWFNYmM1NGloS3FOanZkWVpNME1WZlY4SjNSMXhURFRTNXRELU5pSHA4WlRELWVnQ19F?oc=5"
-    },
-    {
       "id": "feed-9ce1a04f6a",
       "manual": false,
       "date": "2026-08-07T15:18:00+00:00",
@@ -119,28 +106,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPUTF5c0UyUlM4bHJjUjFjQzM3WFdfZjdXblJxQnNRd3lzX2hrZV9DbzlJdlhOSm9nd0JMM0psbktRMENnMnBOaDBNUDlYYVNZS054X1NyRnRoWk1jenpKM2MyMlAtVWFKTVZxMU9MQldZcnBILUhBTG5NdHIxX3daY0NYRG82MkczRGkzU3liUHNSUXlIOThiOWpQVWV2TFp6RThfMVJiU0JuRmpCUHlod3pzMU1QdXp5R0sxVlRWRVRfNERwdktBXzJnOUdxcndtcTQtRmRaNHNDcFFob3ZNVFh2YzRmT0xfZVg0Q3pBZjY4c0xlTkpueUkzem9sS2xoR284TjNpaWxJQVk4ZWU2NW1jc1RQWXR3?oc=5"
     },
     {
-      "id": "feed-3581fc7e42",
-      "manual": false,
-      "date": "2026-08-07T13:00:10+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne - franceinfo",
-      "title_en": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne - franceinfo",
-      "body": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne &nbsp;&nbsp; franceinfo",
-      "body_en": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne &nbsp;&nbsp; franceinfo",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORGdhMEg0VWZoaTdNQlZnakVrRmdTbmhrZzhaUFNyNWdtMk5HalRnTy16aExiT2hzWUo4M1ZvOHVjTUQxY0VoSTdFMERWa2hzVVFnR1F4NnVUSGthajR4S0xZaExVQmp0ZTVyNHctTkRGbEpZQ3A1bVJhWTYzanlxQUJodHM1UE9GbjAtTXRRWTVtanRLMGY3ZHNEYmhOakpEQnd4eE5ZVXdlYWF1Z1BaY0R6dGtJVnloTXV0YWZLWWpWUzVBNnJIZFM1bnJFakhqcEZNVXVDMUJGT1BjR3RyQm40dG5hcTdaWHRBWlRtRGlTeTVQaWxQWi1rSWdvZmxRTmhGbEMxZ1VxOUd5UFRqQ3pldUZnRmY3TE92MzB5czBhMkxJX3FiaklB?oc=5"
-    },
-    {
       "id": "feed-4bc52c78b6",
       "manual": false,
       "date": "2026-08-07T12:06:01+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - santepubliquefrance.fr",
-      "title_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - santepubliquefrance.fr",
-      "body": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; santepubliquefrance.fr",
-      "body_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; santepubliquefrance.fr",
+      "title": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
+      "title_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
+      "body": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
+      "body_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
     },
@@ -195,19 +169,6 @@
       "body_en": "Hantavirus : la Française du MV Hondius sort de réanimation, mais un nouveau cas importé relance les questions &nbsp;&nbsp; Doctissimo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUE94dVFjMDZCalNhSjFTcnd1dUhVUnlRbU0xTDl6eTM3cDVfajA1WVJxcUtvV0p4MXYwQjhvSS14dnB0TWljeUtqRmk0RnpGamk0ZXVsU0t0TkEtNGgyREdjdWRYT2EzcTZVRlNjSWVYRkdUaUtXUGFvUUwzNHc4S240MlVtaGFLaE9sZ3BIcFNSZm9PS3B5OE9EMVJ4eHYtdGppRG95SzZQVFZUdkJEU19RMGZBV1BGREJqZ2ViUE5JTGhHa3p5UzFzeGFqTVl0cGd3VlRXZUhodTFlY0VHNFRIc0dNWmQ3V25VU1FrbkU3NFk?oc=5"
-    },
-    {
-      "id": "feed-f8e072e467",
-      "manual": false,
-      "date": "2026-08-07T09:50:41+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - Le Télégramme",
-      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - Le Télégramme",
-      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Le Télégramme",
-      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Le Télégramme",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa0hKUVhFT2F4dDBlc2k3WGE0Q0htTE1Ta2tDNmpWVl8tNGdsVnZCWHF2SUg4TmdKSHV6TEhGcVZmQ3AxQWNoWkltemREdXRySTlPR3lKamxIYU1qQWhmOFl0NVBBN3ZYYjlWdi00LTNaM0E0cFB6QUdZb0NJd0RObzA4UzN2WEhSNzJacjBpMFBIU0VPNFFReXhIYVE0TzlNNGY3ZHRNOXVDWVhwUzZqZEdVQk1VcTl6UXZzR3JmNV81a1pnUjE1VlZFdzhYcmt0b2pGNWU1YWlHcU0?oc=5"
     },
     {
       "id": "feed-acad4cced5",
@@ -293,10 +254,10 @@
       "date": "2026-08-07T08:41:00+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? - Linternaute.com",
-      "title_en": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? - Linternaute.com",
-      "body": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? &nbsp;&nbsp; Linternaute.com",
-      "body_en": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? &nbsp;&nbsp; Linternaute.com",
+      "title": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? - linternaute.com",
+      "title_en": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? - linternaute.com",
+      "body": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? &nbsp;&nbsp; linternaute.com",
+      "body_en": "Hantavirus en France : un touriste testé positif. Quand et où est-il passé en France ? &nbsp;&nbsp; linternaute.com",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObkQxWWhjaWI4dFVCMVk2ZlMtcVp4N2RDdWNmeFl4Ylg1R2FSdEVQT3NiVmhUdFFOcWpzcldRbFRpTXcxa0VlU2htU1hPNkgwRlNEYlBHaTdEb1NnQ09CVjNuX3prNENPaW02QVEwY1lHOUNSNldSWmg1Mkd4R2ttV3lGbW9KT2c2OGJGZ0JBczdUQ0FxMGJYcGI4Q1d0Vm44RG5iUkwwSl9FajNNaFRScnF3YmU2dWc1MloycjJSUHdka1Q0Qk1fZVVsWDJoS0hRMjhiekZQT2R4UUJPMDZJUTNFd3c?oc=5"
     },
@@ -366,6 +327,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWlzdWVmdWVLSnJTRDFVVzk2MlJBbzUzMFp5anNLNHlXUHFXeXZDa2tOMTQxNTZfSW1kZ2VGLTFkdVdUcXU1Q1VEQ0JjUHZsSjRaNElyV3Y0dWZGc0trbHoycFN3ckgwdDEyUmpYWTZXWEFkaG4zSnFBbmJqUXJWZVZxRDlucm5wSTlrendVMUJCek1wVW9aZUFiZDVlQzNrRjVCTlJ0ZnB4R3I0cU1ZNnNtdGpQcTJFNVBzOHZB?oc=5"
     },
     {
+      "id": "feed-016caffa5e",
+      "manual": false,
+      "date": "2026-08-06T19:35:01+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - TF1 Info",
+      "title_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - TF1 Info",
+      "body": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
+      "body_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0x4bnlVN2ZwQ1RRSnNqTlVJMnJCWHBCeE40TGNEbUt6bVAyRmxJeFlVQ0pXc2M5WmVidkFrajh6TDNIeU9VRWc0UFdQOXVIT1pmQXBGZnVZTFZpYzc5N1NoeVlsLTlEeXhMX3FnMjVUa3ZMRkh4dWJXaFpHR0VMMGdabmtuY3ZnTmZ2cHNjVl8xRFRwS0xmbVhiSVlueUMzd1lTeWc5RlRxakVCdE9YVkJtQXhnNGFhUUI3MXh1dEEteE1ENTRxbzJYd19wZEhVYURVa3cweGRCZGNLMWNFbUYydWt2c0pCVzJObkEtc3g?oc=5"
+    },
+    {
       "id": "feed-a2bf26b281",
       "manual": false,
       "date": "2026-08-06T18:30:27+00:00",
@@ -390,6 +364,32 @@
       "body_en": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne &nbsp;&nbsp; Ouest-France",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZDZJREd0RGNsMUJPbl9nVnFobUhPVjNEemJrMTNERU5QOUhqSzZ2ZFFtWjV6eGQyTVZ3YkNCSmUyTGRwZi1LMkpPek1HSEI3bG5YNGdXbVFsc0JtZVE4YVM3QkQ4bjJueXB0dllpbWtOTjN4b0pXc3BtWUZYQ0tQWHVVcXVPVTBHelJUNGdFQmMzdkh4WWlZSXdxZGFEMVljSmtsdGpIX0xVN1BFNUtqNHc0eFFVMHpRWUdiVTBjajA3ZlZkZjh6a2ctX1JWRVNtWldzZmRrd09uMmFKYUtWNnVWanVCdUs0S3RBWW9QTmZvbUdLRDNfVVpTeDRlVzZuS0NzM04wODJoTUR3Z3lMV1RBYk9CQm9nS1dMWjVXRDQzUQ?oc=5"
+    },
+    {
+      "id": "feed-17e3772623",
+      "manual": false,
+      "date": "2026-08-06T17:45:57+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
+      "title_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
+      "body": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdm50N0FmdUpxeHg2c3Rqd191UjljQi1naE5QdW04Q1hWdWw1NGQ1cWZORG5FM0V1TFRDWTNWczRTMEJ2MFBaU0ZQWVJsVWpHSnlOY0RacVdzZjJUYVFpS3BGeEJaSHhEMzhOeTFYSmpBSjNZNl9lbjg2QjB2N2V4ZWFoNDRYc2pvY2NhdmV1TnRpckhkTEszM1pCNEtGZXRSd3RvNHBfcTFsSDl6S2FHX29CVU1PaktwZjVtTUlkUDdZX04wYW9pQ0x6NkhNS2Fx?oc=5"
+    },
+    {
+      "id": "feed-cd2a97ec64",
+      "manual": false,
+      "date": "2026-08-06T16:35:07+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois - TF1 Info",
+      "title_en": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois - TF1 Info",
+      "body": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois &nbsp;&nbsp; TF1 Info",
+      "body_en": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois &nbsp;&nbsp; TF1 Info",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1BZRzhhU3NNcy14YXZYTTNPXy03WjgtdTdoVGFoeEgtdjdMSmFtNFRNV3psNDRwTTNpcS1fZHdXVVNCSlFzQ1lzODNidF92ODJHWWdQYWY0WEptUF8yY0VWN195YWZ5WmE3U0htTXg1WWhNQmFVMzFlOWpKb0ZZakMyNV9hR3B2U3F5Vm1LYmZTRFdQTUlBdjhfN1E3UHhFVHZoUWxiZ0xLLTVrYmFTZEdhemUzS3VDblR2TlZqd0dKQTVLeHZmSzJB?oc=5"
     }
   ]
 }

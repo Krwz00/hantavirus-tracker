@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T01:09:47.677663+00:00",
+  "updated_at": "2026-08-15T02:50:47.236858+00:00",
   "items": [
     {
       "id": "feed-e574d266e6",
@@ -7,10 +7,10 @@
       "date": "2026-08-14T07:43:30+00:00",
       "date_label": "14 août 2026",
       "tag": "media",
-      "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections - Medscape",
-      "title_en": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections - Medscape",
-      "body": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections &nbsp;&nbsp; Medscape",
-      "body_en": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections &nbsp;&nbsp; Medscape",
+      "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections - medscape.com",
+      "title_en": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections - medscape.com",
+      "body": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections &nbsp;&nbsp; medscape.com",
+      "body_en": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections &nbsp;&nbsp; medscape.com",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXRudndVUWs4YVJtTnJqTW5KOElvQWlkUHJlclZ4VnZFVkVCNUVDZ1pINUQ4ZklJYnR6emltblZlbTFYZ1lOOEtQV0tZRWxRSTF1aGZ6MVlEOW5Na0RvdzBxZWItaW00RVl5ZVN0Yjk2OXBLWmhwZ3RTd3MydDJNcEVkQ0lvUEQ0Z0lpeE5sWjBlV0E0MW82dG5MU3NMcXVEN1g0?oc=5"
     },
@@ -301,19 +301,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeXpjZGs0WDM2c2NZci1KY2Z2dEZmYzdSS1lqN3pQQ19Rci1sNTZnUHVnSmloOERocENSUEFJLUVKaXM4aS1HVlpDdFFvTy03X0lndVhEM0wxRnJlQVN2SzBVQmJaTUt1UVp6OFlUQWdUVXFNZjAtaGJRNnlLWGNSN21jeGxGYlJJVUhCMThKVk5hSG5YaTRnZUl2Um1iVlRzV2VQVGlueTBwMGJHUFlFdlFmbzF0M2JUZUpyWVk3bGQ3TnpsUG85RU5GZkpxXzVQeHgwdkNZOWlCVi1NNlI0UmxyWFViS3dPWjdvbA?oc=5"
     },
     {
-      "id": "feed-28036f47ad",
-      "manual": false,
-      "date": "2026-08-06T14:37:03+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : le touriste franco-argentin contaminé aurait transité par la Nouvelle-Aquitaine, la Normandie et l'Île-de-France - cnews.fr",
-      "title_en": "Hantavirus : le touriste franco-argentin contaminé aurait transité par la Nouvelle-Aquitaine, la Normandie et l'Île-de-France - cnews.fr",
-      "body": "Hantavirus : le touriste franco-argentin contaminé aurait transité par la Nouvelle-Aquitaine, la Normandie et l'Île-de-France &nbsp;&nbsp; cnews.fr",
-      "body_en": "Hantavirus : le touriste franco-argentin contaminé aurait transité par la Nouvelle-Aquitaine, la Normandie et l'Île-de-France &nbsp;&nbsp; cnews.fr",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWl9KXzE3UFNxVFNROGdlZm9JNHpHQ1JOUTdzQzd5UHRxVjdOS1ZKZ3UxSFdRVWJkb1VsZjlEcVRXZExWY3FkSlExeXpHYjdzY3g4Y0h0bUFQVndBU3BMZHVGTG1RMmkwODV2cFBKSnk0c1lraDczMG9SR3ZPZ1lmUy1EbWZjeFllRFpNVnZzRmJneWswUkZsUTliRWtZYy1BVGZnckpzdlBrRGNzSFNQNE5TazBPV2PSAbwBQVVfeXFMUFo3cVMxZ1RubWU5WjZ6bktxV0s4azAyMjVyYWxzRGpJTC16aEd2S2xJdVBLVTE3cmRudzJJRTZiUjEwM0Y4YXBUTWlFMHJXcHpIYU5vX1lUYUxERW9xc0VtSFBrbUhpM1NOcUxnYTJuUmMzdVBZdUNIQUxkZHJqVjRKQlZEYWh0NlhjMnR3V2lQOTAxX0NfSlFUNzBGRlNJQldsLUJ3UUpEMU10S2pBaUZ0TjZHdjFFdGZDZ0M?oc=5"
-    },
-    {
       "id": "feed-0ec1383630",
       "manual": false,
       "date": "2026-08-06T08:48:02+00:00",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus : un touriste Franco-Argentin testé positif &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjE0OG9WaGVSeTFob0VTazVkZXJIak9XdUVaQUdhSWRoSzBKNTNwY3FSY1FrNEVrOHBtSzhCRGgyRjd4ajF2OUo5c2hpMHd3MUJBMGVaRE9BUlU5cGRTQ19YQm1mRmRkazFHallsS1cxOW5vcmpocW1IUzZkZWNlUUVaeDhZYUdsT05LTHJEbHh4ZWNXTjlOVlg1eVI5Y254eUk2eHd0M2tBWkxnOThzbHA3S18zN0E?oc=5"
+    },
+    {
+      "id": "feed-ff2b0f1b13",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste de passage en France testé positif - franceinfo",
+      "title_en": "Hantavirus : un touriste de passage en France testé positif - franceinfo",
+      "body": "Hantavirus : un touriste de passage en France testé positif &nbsp;&nbsp; franceinfo",
+      "body_en": "Hantavirus : un touriste de passage en France testé positif &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWlzdWVmdWVLSnJTRDFVVzk2MlJBbzUzMFp5anNLNHlXUHFXeXZDa2tOMTQxNTZfSW1kZ2VGLTFkdVdUcXU1Q1VEQ0JjUHZsSjRaNElyV3Y0dWZGc0trbHoycFN3ckgwdDEyUmpYWTZXWEFkaG4zSnFBbmJqUXJWZVZxRDlucm5wSTlrendVMUJCek1wVW9aZUFiZDVlQzNrRjVCTlJ0ZnB4R3I0cU1ZNnNtdGpQcTJFNVBzOHZB?oc=5"
     }
   ]
 }

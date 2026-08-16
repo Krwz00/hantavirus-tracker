@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T12:36:17.476866+00:00",
+  "updated_at": "2026-08-16T13:30:20.074498+00:00",
   "items": [
     {
       "id": "feed-e574d266e6",
@@ -158,19 +158,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3dIV0lJdVpxYm1qbnFjUVdqVHU1eENZQy10SFRaNmxNQS1rNVJTNmhHM3diWjJMcFBpUno3NUdZQjZLRDhxa3E2Rm14eXRRX3dMelFaY3VtcVRXdk5EaDlLeW9MSzZoRjlqLTdIRDdoNUlxa1R2Tm9pSEVSZEZsSUc4VnVtVERQYVlIWlFmNk5qbzJYOTR1amFEaXRoS2VLaFZSWUh4anM4TGUzOXVSSWdjWGV0YmNRa3p2LUIzcFBLWjFFbWdqOXZrZ2pMQkdTWWhjWkRR?oc=5"
     },
     {
-      "id": "feed-014e4b6e49",
-      "manual": false,
-      "date": "2026-08-07T13:36:30+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days - aa.com.tr",
-      "title_en": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days - aa.com.tr",
-      "body": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days &nbsp;&nbsp; aa.com.tr",
-      "body_en": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days &nbsp;&nbsp; aa.com.tr",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVhHSWhBM0FIeVVILUZqNFM0N2s4MUhweWhQREJab2hLRGlyemwwT2NSZG9jb1JHd093c0w2UXRCZ0VpWm83Tkc5SmZSbjZBS1VPTEMwODNXcnJOamNVZll4bTBHNUU5WERwZHdpME5yQWYxaG1CaGdwLXNpbmp0djhfcmp6Sm1OUS1mZ09mTmNwVHZEclJEdV9Vb0hKa044R1lEVEE2ODVaSnN0NG5rSlBVd01UTjdxeTdtT25tQnJmaVhWcFBzYQ?oc=5"
-    },
-    {
       "id": "feed-4bc52c78b6",
       "manual": false,
       "date": "2026-08-07T12:06:01+00:00",
@@ -228,10 +215,10 @@
       "date": "2026-08-07T07:00:00+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : un homme testé positif après un passage en Normandie - Actu.fr",
-      "title_en": "Hantavirus : un homme testé positif après un passage en Normandie - Actu.fr",
-      "body": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; Actu.fr",
-      "body_en": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; Actu.fr",
+      "title": "Hantavirus : un homme testé positif après un passage en Normandie - actu.fr",
+      "title_en": "Hantavirus : un homme testé positif après un passage en Normandie - actu.fr",
+      "body": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; actu.fr",
+      "body_en": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; actu.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUdPb2I1R2pZdUcxZk5sM1VtcWxUaEtXWnNaUmpPdU9QX2lrVzF2VWsxdG9tNkFZQk5DalIteFhfdjkyMHdYbVM1T2xSUGZkNWVWbHhHazVSdzh5Y1ktb29JVW5zek5CTklWdXFTTFNXLUVJZVpmcjMzclNLU2pWQk1hSmtMeWtpdTg1bW5IMHphSUdibm1qS214UVh4Rm5BUWRn?oc=5"
     },
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; BFM",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTZnLXZ3Vk1RNG9nekdTdEhNYjMzZV84N2otNF9QSVZRMzQxc1BXZjF5SHE1azhjV0YzWTk4dVZJRERPQ0pEYVhjdnRpSHdHdTVnVm5YMnlJWWlYbk10clBTb3BZTnZyNXFyWlE2bEtTV0w2Mm1Na3pOYTRmYmxEeHEtcWY5N3BIMWRVWHhyLU8tS0VYZkV2dkM5Z2VxS2VZX2dEcW5Fc2pmM0xvQ1JmZTZpT1RNTzRmcFY3akd3V1BaTGVtcTQ2MFNR?oc=5"
+    },
+    {
+      "id": "feed-764919d092",
+      "manual": false,
+      "date": "2026-08-06T14:21:42+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste ayant transité par la France testé positif, annonce le ministère de la Santé - ici.fr",
+      "title_en": "Hantavirus : un touriste ayant transité par la France testé positif, annonce le ministère de la Santé - ici.fr",
+      "body": "Hantavirus : un touriste ayant transité par la France testé positif, annonce le ministère de la Santé &nbsp;&nbsp; ici.fr",
+      "body_en": "Hantavirus : un touriste ayant transité par la France testé positif, annonce le ministère de la Santé &nbsp;&nbsp; ici.fr",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkowSE9sYXRlRjBOeFZVOG8weHFCLWNqS2hfeHZvczlqcFdDR0NWbkhYWnhRUWFXTUQtaFhIZzlndG1pR2F3aFMyd3g2aDdZNDhGOXNoR1dTZVpLNGhuVXhsZ0IxeG1JYTJXOXR6TW83RkRrejZGdDJnOTVYM2xHNlNpVWxPOTdrNHp3ZlJUa2l5X1BxUUh1OHJIUGJIR3FWZE9PdnN4S2VhVWdhR2xfQ1pMbm9LX2JRNDVsOTZ4c0dFZw?oc=5"
     }
   ]
 }

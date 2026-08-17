@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-08-17T16:26:05.228053+00:00",
+  "updated_at": "2026-08-17T17:25:44.793775+00:00",
   "items": [
-    {
-      "id": "fc-625736bc52",
-      "manual": false,
-      "date": "2026-06-29T17:48:32+00:00",
-      "date_label": "29 juin 2026",
-      "tag": "alert",
-      "title": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus",
-      "title_en": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus",
-      "body": "Des prélèvements réalisés fin mai par les autorités argentines dans la province de Terre de Feu n’ont pas permis de trouver des traces de la forme d’hantavirus détectée à bord du «MV Hondius».",
-      "body_en": "Des prélèvements réalisés fin mai par les autorités argentines dans la province de Terre de Feu n’ont pas permis de trouver des traces de la forme d’hantavirus détectée à bord du «MV Hondius».",
-      "source": "Libération — CheckNews",
-      "source_url": "https://www.liberation.fr/checknews/hantavirus-la-piste-de-la-decharge-dushuaia-comme-source-de-lepidemie-seloigne-un-peu-plus-20260629_K66XH63JYRC27P3MLUVQGNQX2E/"
-    },
     {
       "id": "manual-new-virus",
       "manual": true,

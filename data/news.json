@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:23:52.901108+00:00",
+  "updated_at": "2026-08-17T12:41:17.305313+00:00",
   "items": [
     {
       "id": "feed-510ebe0aae",
@@ -72,10 +72,10 @@
       "date": "2026-08-11T01:46:00+00:00",
       "date_label": "11 août 2026",
       "tag": "media",
-      "title": "Hantavirus : les cas contacts du touriste positif ayant transité par la France ont été identifiés et contactés - laprovence.com",
-      "title_en": "Hantavirus : les cas contacts du touriste positif ayant transité par la France ont été identifiés et contactés - laprovence.com",
-      "body": "Hantavirus : les cas contacts du touriste positif ayant transité par la France ont été identifiés et contactés &nbsp;&nbsp; laprovence.com",
-      "body_en": "Hantavirus : les cas contacts du touriste positif ayant transité par la France ont été identifiés et contactés &nbsp;&nbsp; laprovence.com",
+      "title": "Hantavirus : les cas contacts du touriste positif ayant transité par la France ont été identifiés et contactés - La Provence",
+      "title_en": "Hantavirus : les cas contacts du touriste positif ayant transité par la France ont été identifiés et contactés - La Provence",
+      "body": "Hantavirus : les cas contacts du touriste positif ayant transité par la France ont été identifiés et contactés &nbsp;&nbsp; La Provence",
+      "body_en": "Hantavirus : les cas contacts du touriste positif ayant transité par la France ont été identifiés et contactés &nbsp;&nbsp; La Provence",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMHk5M2c1NFdSZ3NLVGM5VjQtcnZyTWR4b2NkbjNBWnFBWTZ1M0kydGpRRVpESUlQVl9NbXRCSEtlc1NYck82ejJ2UmpZZ2l3UXhneTVob0NlaDd1b0ZsV1Y0TWlDZVcyNnZDcFlyMFBLcVJZYTNacEtoVnQ5ZnVVUWFYNHlYTWgtc2NqdjlHY2ZrTDlvbWVUX0h0dThSekNYXzg3UmZiN3ZIVGYybjFlTFNMY2RtR2hYNTFFMmFEa2wwZXVlcDEtM3VrbEZHUEVtYU5HT3ozcmUzVUh2RGN1RUJWbTRlcTV6Q29ETVd6VzNhNFBBdXlJQ0Rn?oc=5"
     },
@@ -171,6 +171,19 @@
       "source_url": "https://www.sciencesetavenir.fr/sante/hantavirus-isolement-a-domicile-recommande-pour-les-contacts-du-touriste-infecte_194153?xtor=RSS-16"
     },
     {
+      "id": "feed-9ce1a04f6a",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un homme testé positif après un passage en Normandie - Actu.fr",
+      "title_en": "Hantavirus : un homme testé positif après un passage en Normandie - Actu.fr",
+      "body": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; Actu.fr",
+      "body_en": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; Actu.fr",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUdPb2I1R2pZdUcxZk5sM1VtcWxUaEtXWnNaUmpPdU9QX2lrVzF2VWsxdG9tNkFZQk5DalIteFhfdjkyMHdYbVM1T2xSUGZkNWVWbHhHazVSdzh5Y1ktb29JVW5zek5CTklWdXFTTFNXLUVJZVpmcjMzclNLU2pWQk1hSmtMeWtpdTg1bW5IMHphSUdibm1qS214UVh4Rm5BUWRn?oc=5"
+    },
+    {
       "id": "feed-4a6acd02ec",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
@@ -184,28 +197,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT3NoZGo4ZDRDalZJeUJIUWdqMG5TVmdLaktfMlZzcXJ0VWh1N0ZZQS1xaW9FSDlXVV84WDhKRWhkejFadEdPTTJXOVI1V2tYZWwyTEFfWkVQR09oUldES0w2aDVLLUtwaExKbHNWWVk4T0pKMnFBUzRKSTBqYTlSM0dGYkVZSzlhMzM5YVRCMXNjU2FaQnVXX0oxNGhScWhJcElpd0NzcmxONnFzMm5iOWZockFINVh5RmtpcFpCenl2RmIwcmNSZDA3QnpldVhNT3FPeUFhMXJlNXYxY2dtUGJ3?oc=5"
     },
     {
-      "id": "feed-9ce1a04f6a",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un homme testé positif après un passage en Normandie - actu.fr",
-      "title_en": "Hantavirus : un homme testé positif après un passage en Normandie - actu.fr",
-      "body": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; actu.fr",
-      "body_en": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; actu.fr",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUdPb2I1R2pZdUcxZk5sM1VtcWxUaEtXWnNaUmpPdU9QX2lrVzF2VWsxdG9tNkFZQk5DalIteFhfdjkyMHdYbVM1T2xSUGZkNWVWbHhHazVSdzh5Y1ktb29JVW5zek5CTklWdXFTTFNXLUVJZVpmcjMzclNLU2pWQk1hSmtMeWtpdTg1bW5IMHphSUdibm1qS214UVh4Rm5BUWRn?oc=5"
-    },
-    {
       "id": "feed-4661cc5f7f",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - sudouest.fr",
-      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - sudouest.fr",
-      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; sudouest.fr",
-      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; sudouest.fr",
+      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
+      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
+      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0N6MmNfR0h4UGg3ajFaUDBrR3NQSVZiOElnUGg0cGVlTXdKUGF4emdkUmdyVzdpQ3hIdU5maGtvcWpIN0ZLQ0RKeVphTnptZVVhc2FHV29aYzRRMFczQ1p3U2Naaml4N3JtNDF4dnBxZGRreVZEZE80SlNhQjlTWHF3ZjVXUzgySzl2RDgyYm4xTFhIdXp4RzlLZlRuRHkwMzRacTh2U3VYRjBSbEVweXNoWkZ4MDZpQnJKbHA2T1RLM1BYdTNFZ1RyeVl2bXJ0cE4xTnlPTi10RmJCSFZQcTlFRnpvX0piZVNuSmVSeEM3SGhhUnc?oc=5"
     },
@@ -275,19 +275,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOalJUcURIb29MeE9YNFJTck5fU1JRcVI1RzRWT2gwWDIybEZiTER4RzE4bmdKcmtqMElTUDlBeTVlTEg5cmdSVl9JZjhmSWREME9UbmpSR0hfYUJaZTNaVF9zRXZFem5HaEJMVmpFY01RUk5HX05kRDQ0OGtJR29US29zTjliOURxTW93R25TY1F4ckZ1OF9TelI4WmNBZXFHWkF3RVdSOG05UE5WMzZRelg4UFpYZnhPekNJTlhTWEloSGJ2Nm1xeDROdjRibFRHNFZqTjBZaUF3WS11cWZ5Vzk4UEh4Yy05S1JCMHBKQ1J0SXpobjNTc01TNzNUUWd3bVE4TTgwUW9pUjFIdXRHMVpFU0FGM1prUE05aGo5M0w3cmw5eXphNWhTUzE?oc=5"
     },
     {
-      "id": "feed-fdf89b230b",
-      "manual": false,
-      "date": "2026-08-06T14:22:59+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne - BFM",
-      "title_en": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne - BFM",
-      "body": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; BFM",
-      "body_en": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; BFM",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTZnLXZ3Vk1RNG9nekdTdEhNYjMzZV84N2otNF9QSVZRMzQxc1BXZjF5SHE1azhjV0YzWTk4dVZJRERPQ0pEYVhjdnRpSHdHdTVnVm5YMnlJWWlYbk10clBTb3BZTnZyNXFyWlE2bEtTV0w2Mm1Na3pOYTRmYmxEeHEtcWY5N3BIMWRVWHhyLU8tS0VYZkV2dkM5Z2VxS2VZX2dEcW5Fc2pmM0xvQ1JmZTZpT1RNTzRmcFY3akd3V1BaTGVtcTQ2MFNR?oc=5"
-    },
-    {
       "id": "feed-764919d092",
       "manual": false,
       "date": "2026-08-06T14:21:42+00:00",
@@ -332,10 +319,10 @@
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo.fr",
-      "title_en": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo.fr",
-      "body": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé &nbsp;&nbsp; franceinfo.fr",
-      "body_en": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé &nbsp;&nbsp; franceinfo.fr",
+      "title": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo",
+      "title_en": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo",
+      "body": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé &nbsp;&nbsp; franceinfo",
+      "body_en": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVlTdElUNVRtYWJCdUF2TG93Si1PLTNhTHIwLTJSelpsNWM2SEFRa01yQkRuMEE3ZUJyVW9OeUlsYkdoWkdJckxCWkJfNl81Y08zbFVhWkNRalpVUUpnRE8xa2V5YUhMUy0ta1Utdl8zV3k3TFQ0U0tOTmdBTkVFN0wwdjAtTzRadndOcV8tVTJwVy04LWpZTjY0WEVQdG91akZoZnhKTFQ0TXdSUXNxaE8ya01nMGZDUUVhR1NIWkVmMngxSnlGeVVwcnZsRDcyOFZwejhKRDNKa2lYY3Jib0hFTDVuWDA2aW85dk1mZmtUUUEybjViN25zMXJmb1Z0aW1GMXEtUnc?oc=5"
     },
@@ -345,10 +332,10 @@
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - sudouest.fr",
-      "title_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - sudouest.fr",
-      "body": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; sudouest.fr",
-      "body_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; sudouest.fr",
+      "title": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
+      "title_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
+      "body": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdm50N0FmdUpxeHg2c3Rqd191UjljQi1naE5QdW04Q1hWdWw1NGQ1cWZORG5FM0V1TFRDWTNWczRTMEJ2MFBaU0ZQWVJsVWpHSnlOY0RacVdzZjJUYVFpS3BGeEJaSHhEMzhOeTFYSmpBSjNZNl9lbjg2QjB2N2V4ZWFoNDRYc2pvY2NhdmV1TnRpckhkTEszM1pCNEtGZXRSd3RvNHBfcTFsSDl6S2FHX29CVU1PaktwZjVtTUlkUDdZX04wYW9pQ0x6NkhNS2Fx?oc=5"
     },
@@ -384,12 +371,25 @@
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo.fr",
-      "title_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo.fr",
-      "body": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo.fr",
-      "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo.fr",
+      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
+      "title_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
+      "body": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
+      "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
+    },
+    {
+      "id": "feed-a2bf26b281",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste Franco-Argentin testé positif - franceinfo",
+      "title_en": "Hantavirus : un touriste Franco-Argentin testé positif - franceinfo",
+      "body": "Hantavirus : un touriste Franco-Argentin testé positif &nbsp;&nbsp; franceinfo",
+      "body_en": "Hantavirus : un touriste Franco-Argentin testé positif &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjE0OG9WaGVSeTFob0VTazVkZXJIak9XdUVaQUdhSWRoSzBKNTNwY3FSY1FrNEVrOHBtSzhCRGgyRjd4ajF2OUo5c2hpMHd3MUJBMGVaRE9BUlU5cGRTQ19YQm1mRmRkazFHallsS1cxOW5vcmpocW1IUzZkZWNlUUVaeDhZYUdsT05LTHJEbHh4ZWNXTjlOVlg1eVI5Y254eUk2eHd0M2tBWkxnOThzbHA3S18zN0E?oc=5"
     }
   ]
 }

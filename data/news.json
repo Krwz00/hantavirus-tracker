@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T18:36:22.739015+00:00",
+  "updated_at": "2026-08-18T19:26:16.805664+00:00",
   "items": [
     {
       "id": "feed-fa87a7d784",
@@ -210,28 +210,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEJxOHNfeVg1ZW9lbFFhcy1GaVFDQThVREtXRnY4dXYxaUI2T3Q0QkQ1UHUwUjJ4N3pKNTJMODNuVExsUnYwTzVsUU1aOVlNS0N6ZndIa21rSUlhaElCRjJKbEpmTDY3QXRYNi00UDEtRkZiU003dWhLX0Z3UFYxMFBWZ3ZyTEtoaUJoa1BibThUa1dzck9TcUltRFJ5NFFNelB1Umhkd2NnYlU1dllyZWtxbVBkUlNiLU96QUhEcTI2aVFNWHJVbg?oc=5"
     },
     {
-      "id": "feed-5a2be789f0",
-      "manual": false,
-      "date": "2026-08-02T19:44:33+00:00",
-      "date_label": "2 août 2026",
-      "tag": "media",
-      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-      "title_en": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-      "body": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-      "body_en": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5"
-    },
-    {
       "id": "feed-fb2f584c1c",
       "manual": false,
       "date": "2026-07-22T07:00:00+00:00",
       "date_label": "22 juillet 2026",
       "tag": "media",
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
-      "title_en": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
-      "body": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
-      "body_en": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
+      "title_en": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
+      "body": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
+      "body_en": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5"
     },
@@ -241,10 +228,10 @@
       "date": "2026-07-21T07:00:00+00:00",
       "date_label": "21 juillet 2026",
       "tag": "media",
-      "title": "Hantavirus au Venezuela : le ministère de la Santé confirme trois décès et écarte toute transmission interhumaine - Le Parisien",
-      "title_en": "Hantavirus au Venezuela : le ministère de la Santé confirme trois décès et écarte toute transmission interhumaine - Le Parisien",
-      "body": "Hantavirus au Venezuela : le ministère de la Santé confirme trois décès et écarte toute transmission interhumaine &nbsp;&nbsp; Le Parisien",
-      "body_en": "Hantavirus au Venezuela : le ministère de la Santé confirme trois décès et écarte toute transmission interhumaine &nbsp;&nbsp; Le Parisien",
+      "title": "Hantavirus au Venezuela : le ministère de la Santé confirme trois décès et écarte toute transmission interhumaine - leparisien.fr",
+      "title_en": "Hantavirus au Venezuela : le ministère de la Santé confirme trois décès et écarte toute transmission interhumaine - leparisien.fr",
+      "body": "Hantavirus au Venezuela : le ministère de la Santé confirme trois décès et écarte toute transmission interhumaine &nbsp;&nbsp; leparisien.fr",
+      "body_en": "Hantavirus au Venezuela : le ministère de la Santé confirme trois décès et écarte toute transmission interhumaine &nbsp;&nbsp; leparisien.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQZWtCUlRKbXVyWGtSR1JwdUgzYWZ0dDIxTC15SThOVFBBNlZMeHhiUnpTMkNlQXJnYlNldk5lQTNBMkp2T0VPUWs0eWN4Yk5nU2MzQTlEWDFiOTdpQll6TDRoS0hqbmhyS2NTcGhiVHllUTZ6eTlzdk5OU1dTSXlOc0N1eVlSQUpiV1Rpa2pNc3gyQmFadkZRbElCSURPRU5ZMFA1V0g5TkYzb01ubm15b05oSFlVQU9qQ3g2d0tNZ0M3SV9SalBsNGljV2VPU3hrZmtGZnJ2MlFUY083dWx3a3I3NDNyUXNnS2hoWUtBNFVBa2hCUTV1LVlLNElNdTZPdExSRFBTOWpzSDd0YUkyLUc2QnVHVUFJcmZaQzFn?oc=5"
     },
@@ -390,6 +377,19 @@
       "body_en": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, prévoit l’OMS &nbsp;&nbsp; Libération",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLVpqajRxa0FSWkJjUW1JU0JWUGduUFoxQUkyOUtpd0p5aEFvSlFrNk9NMThQQ0JWRGFDUFdjUU9HYTBIdEdpLVRNaE93b0hfZms0MUl4MUwyZS1MbHlFaG1rM3J1RW0wYmNXME5xWmpvU1FhWllmeG5INmhHTEhFanlYazh3Nk9JNjMxdWU0YTltOFBBaURQY3dnOGhyV1d1MGtQWGtjcFNCLWZUTnpRenNHaGNwdkRIeTFCZDZCbnpCdEE2YUUwU2N5elR0bU5FQ2EzYkE1MEVVbFNsdVJtOHY2b2NNWVJYeXBic01IYlRXSzQ?oc=5"
+    },
+    {
+      "id": "feed-4c4b9769a4",
+      "manual": false,
+      "date": "2026-06-24T07:00:00+00:00",
+      "date_label": "24 juin 2026",
+      "tag": "media",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "title_en": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "body": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
+      "body_en": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5"
     }
   ]
 }

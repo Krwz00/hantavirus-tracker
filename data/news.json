@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-20T22:26:20.142374+00:00",
+  "updated_at": "2026-08-20T23:24:33.813720+00:00",
   "items": [
+    {
+      "id": "feed-f9da04e17e",
+      "manual": false,
+      "date": "2026-08-20T23:24:33.812846+00:00",
+      "date_label": "20 août 2026",
+      "tag": "research",
+      "title": "[Correspondence] Hantavirus outbreak: a model of regional and global cooperation",
+      "title_en": "[Correspondence] Hantavirus outbreak: a model of regional and global cooperation",
+      "body": "We write in response to Patricia J Garcia and colleagues’ Comment, which mischaracterises the 2026 MV Hondius hantavirus outbreak as indicative of “weak surveillance and coordinated response capacities in Latin America”.1 We agree that regional preparedness should be strengthened. However, this outbreak did not…",
+      "body_en": "We write in response to Patricia J Garcia and colleagues’ Comment, which mischaracterises the 2026 MV Hondius hantavirus outbreak as indicative of “weak surveillance and coordinated response capacities in Latin America”.1 We agree that regional preparedness should be strengthened. However, this outbreak did not…",
+      "source": "The Lancet",
+      "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01431-5/fulltext?rss=yes"
+    },
     {
       "id": "feed-d5eea5377b",
       "manual": false,
@@ -13,6 +26,19 @@
       "body_en": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.&nbsp;",
       "source": "ECDC — News & press releases",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea"
+    },
+    {
+      "id": "feed-621c748d5c",
+      "manual": false,
+      "date": "2026-08-18T00:44:36+00:00",
+      "date_label": "18 août 2026",
+      "tag": "media",
+      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
+      "title_en": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
+      "body": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "body_en": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5"
     },
     {
       "id": "feed-510ebe0aae",
@@ -158,19 +184,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObkQxWWhjaWI4dFVCMVk2ZlMtcVp4N2RDdWNmeFl4Ylg1R2FSdEVQT3NiVmhUdFFOcWpzcldRbFRpTXcxa0VlU2htU1hPNkgwRlNEYlBHaTdEb1NnQ09CVjNuX3prNENPaW02QVEwY1lHOUNSNldSWmg1Mkd4R2ttV3lGbW9KT2c2OGJGZ0JBczdUQ0FxMGJYcGI4Q1d0Vm44RG5iUkwwSl9FajNNaFRScnF3YmU2dWc1MloycjJSUHdka1Q0Qk1fZVVsWDJoS0hRMjhiekZQT2R4UUJPMDZJUTNFd3c?oc=5"
     },
     {
-      "id": "feed-6e5d5647b6",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif - Sud Ouest",
-      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif - Sud Ouest",
-      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif &nbsp;&nbsp; Sud Ouest",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQakc2M2NEb1ZWRXl3R3VmeEpvUkIwLTJOUFNUZl9SUmVjZTd0UkNpUU5JU0laSjQ3WDUwRE9CRkxSS3RGRDNnNW1QMXBKYmFLZ2FrRUg3ZU8xYXRPc0FJSlgxMXBlcVV2ZFRHaEdvYTJVTk4wMFdrNXo4NEZueW5YUDFpeHZ2T0dSRVUzc2liLThMVTBZTC1JVzlEeUh4TFdFcllSVjdNeGV3N3NqcFFBbUR1dUNEWlBhcHhqSkNPaFNiVUk4R3V3cmFlN2RKWWVMc19GMGNmYWU5WGdwQXJCOUl5dHRfMm5qQWVEYlNJMlBOdE9ZZ3dR?oc=5"
-    },
-    {
       "id": "feed-0ec1383630",
       "manual": false,
       "date": "2026-08-06T08:48:02+00:00",
@@ -301,6 +314,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWVZoVWdKTXFHN0tDaE5hWUZTOUQ5dzA0d3FkcjVBVlRUeWdhVlJJa3I1TkVaQ3pySFV1ZnBZdU81X2dTblpfbWRpZS10cEVMOV80c0hvaFc5SjhhQVpEaUNITEdHOFJLWUlvSzNBS2tzd0FfV0RTMVhscTlXNVcyUlBienlIZWZMbW5IWnR4dXYzWEM0TnFlckZlREFkOVoySDRGcTNwQXEtR1VTak9wcTdaNDFnanpRQ1dKdkU5VExNN3VpU0xJcVpLaEhYRUU4bTdOaGFWb2FRaksxcmNyV0dpdUhqYzdnOVRwX2xEZjl4WlM5RndwZThn?oc=5"
     },
     {
+      "id": "feed-ff2b0f1b13",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste de passage en France testé positif - franceinfo",
+      "title_en": "Hantavirus : un touriste de passage en France testé positif - franceinfo",
+      "body": "Hantavirus : un touriste de passage en France testé positif &nbsp;&nbsp; franceinfo",
+      "body_en": "Hantavirus : un touriste de passage en France testé positif &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWlzdWVmdWVLSnJTRDFVVzk2MlJBbzUzMFp5anNLNHlXUHFXeXZDa2tOMTQxNTZfSW1kZ2VGLTFkdVdUcXU1Q1VEQ0JjUHZsSjRaNElyV3Y0dWZGc0trbHoycFN3ckgwdDEyUmpYWTZXWEFkaG4zSnFBbmJqUXJWZVZxRDlucm5wSTlrendVMUJCek1wVW9aZUFiZDVlQzNrRjVCTlJ0ZnB4R3I0cU1ZNnNtdGpQcTJFNVBzOHZB?oc=5"
+    },
+    {
       "id": "feed-a2bf26b281",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -340,19 +366,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
     },
     {
-      "id": "feed-0954ef0ecc",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
-      "title_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
-      "body": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
-      "body_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMVZyMnNoTEZFekNxaDFUSGkwbXlfdjh2QTFqRHR1d1VrWExPRmFhNUI5MTJfUVRKS2xQRUQ0Y3I2c25fMTVZUDctN3drcWdMa21ZMFJwRVVKd0VGNEJWNWFINkFOYXNfY0hCbkw4Z2VWNWljZzJPeFNHc0ZjTkpMWm5VYXZrU1R5QWRjUHctOEpHQkNfdlZDMmwyQVNPQk0ySUUwRmdhbDgxbDJZZTlWVGdtWTJndUlwNGFaY1B1Z2FVT21kQy0yTEtxcjF6TmZSS0xvQWFLS2IxZXY0c3RpazJiLTRNOUdmcWp3eWw4eVVKTC1HWHQtdEFsRlE3cWp2X1FfRzg3TTc5cHFXNTB3S2pCbTdrTDJYZExmQ3JTcFFRLTg1WnVYVXIteHBSV1FMSndIa3ppX19RUQ?oc=5"
-    },
-    {
       "id": "feed-5b36736d4a",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -366,30 +379,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2lYYi1neGpIdzhWVlpodjZabW5oQ1otZUJvMThqdVU3V0xCa1dnVC1JX3lDUVp3enNNaEd5a1VtYnpaWVdWWlMxc3Z4Sll5X29mRlltNXpSajMyVXNHMmxVa0xVS2dUZFRPWGFLNWRGUTJCYzBUWm9hdDB0Mm13bENqc3JqNHlWUUdHRDFwZ1VZdkYzM0xVdnZkZ0hJa01iYkxtOXRraEVzRHMtSFI5NlFqR0htRWc?oc=5"
     },
     {
-      "id": "feed-2f952d85c2",
+      "id": "feed-0954ef0ecc",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation - Anadolu Ajansı",
-      "title_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation - Anadolu Ajansı",
-      "body": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; Anadolu Ajansı",
-      "body_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; Anadolu Ajansı",
+      "title": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
+      "title_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
+      "body": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
+      "body_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGlqZnJqQlFDTWNVU2tULVN5eGR3LXN0WmM5dl9QclNJLTNGb0sxV2liXzNDM2RkdjhlbG1XVUw2ckpta3FTcGRJMzhUdWoyTy1PRDFId2FvYnlycENaSXRidHpGQmw2T2hNYlRtbFBNSFEzWDRUZDRLbGo1SDVSbE1PWjFFRi14VTZ0R1RTbFRTbVM1VGNfNWs1QkJrZWFZdnJYUDFYd05BaUNqdGMxRkd0b040RFRtRDE1YlplOFBWZ0FHdHlLTDdzamJXMGpkX1hNTHpTTk9lRGRualRjN2pB?oc=5"
-    },
-    {
-      "id": "feed-4e6dac9d5e",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne - Le Populaire du Centre",
-      "title_en": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne - Le Populaire du Centre",
-      "body": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne &nbsp;&nbsp; Le Populaire du Centre",
-      "body_en": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne &nbsp;&nbsp; Le Populaire du Centre",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQTRacnBlSHdGNGtGRHlsellYbWxIRjR2elF4bDNpQWU4bW8yMjJsd3FNQ0dIbVBIUGdkSEpjdVhoeTBXRjV5eTBxdDVXN1hGeWxXbEZDSEZWOF9PdTRBcFR4S3ZrOFphMVh3Y0JEUGFoMmp2UTZvS0haeHBkVzFOODRkYWI1aUZ1RWpHMlVNZ2I5WFhvZktHQ0ktT0JTdGp2YWF5enN6VXo2aklZdDFCM2VGMlRscXFkMGNGdUx5ZE9GaEdERE1mSnZaQnZIVFJ2cWg1VUhkbFZGcTB0aG5QWTNPakExNk5kMHB6MHZkWGFtUXM?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMVZyMnNoTEZFekNxaDFUSGkwbXlfdjh2QTFqRHR1d1VrWExPRmFhNUI5MTJfUVRKS2xQRUQ0Y3I2c25fMTVZUDctN3drcWdMa21ZMFJwRVVKd0VGNEJWNWFINkFOYXNfY0hCbkw4Z2VWNWljZzJPeFNHc0ZjTkpMWm5VYXZrU1R5QWRjUHctOEpHQkNfdlZDMmwyQVNPQk0ySUUwRmdhbDgxbDJZZTlWVGdtWTJndUlwNGFaY1B1Z2FVT21kQy0yTEtxcjF6TmZSS0xvQWFLS2IxZXY0c3RpazJiLTRNOUdmcWp3eWw4eVVKTC1HWHQtdEFsRlE3cWp2X1FfRzg3TTc5cHFXNTB3S2pCbTdrTDJYZExmQ3JTcFFRLTg1WnVYVXIteHBSV1FMSndIa3ppX19RUQ?oc=5"
     }
   ]
 }

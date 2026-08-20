@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:26:22.042891+00:00",
+  "updated_at": "2026-08-20T22:26:20.142374+00:00",
   "items": [
     {
       "id": "feed-d5eea5377b",
@@ -13,19 +13,6 @@
       "body_en": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.&nbsp;",
       "source": "ECDC — News & press releases",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea"
-    },
-    {
-      "id": "feed-621c748d5c",
-      "manual": false,
-      "date": "2026-08-18T00:44:36+00:00",
-      "date_label": "18 août 2026",
-      "tag": "media",
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "title_en": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "body": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "body_en": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5"
     },
     {
       "id": "feed-510ebe0aae",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; Anadolu Ajansı",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGlqZnJqQlFDTWNVU2tULVN5eGR3LXN0WmM5dl9QclNJLTNGb0sxV2liXzNDM2RkdjhlbG1XVUw2ckpta3FTcGRJMzhUdWoyTy1PRDFId2FvYnlycENaSXRidHpGQmw2T2hNYlRtbFBNSFEzWDRUZDRLbGo1SDVSbE1PWjFFRi14VTZ0R1RTbFRTbVM1VGNfNWs1QkJrZWFZdnJYUDFYd05BaUNqdGMxRkd0b040RFRtRDE1YlplOFBWZ0FHdHlLTDdzamJXMGpkX1hNTHpTTk9lRGRualRjN2pB?oc=5"
+    },
+    {
+      "id": "feed-4e6dac9d5e",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne - Le Populaire du Centre",
+      "title_en": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne - Le Populaire du Centre",
+      "body": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne &nbsp;&nbsp; Le Populaire du Centre",
+      "body_en": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne &nbsp;&nbsp; Le Populaire du Centre",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQTRacnBlSHdGNGtGRHlsellYbWxIRjR2elF4bDNpQWU4bW8yMjJsd3FNQ0dIbVBIUGdkSEpjdVhoeTBXRjV5eTBxdDVXN1hGeWxXbEZDSEZWOF9PdTRBcFR4S3ZrOFphMVh3Y0JEUGFoMmp2UTZvS0haeHBkVzFOODRkYWI1aUZ1RWpHMlVNZ2I5WFhvZktHQ0ktT0JTdGp2YWF5enN6VXo2aklZdDFCM2VGMlRscXFkMGNGdUx5ZE9GaEdERE1mSnZaQnZIVFJ2cWg1VUhkbFZGcTB0aG5QWTNPakExNk5kMHB6MHZkWGFtUXM?oc=5"
     }
   ]
 }

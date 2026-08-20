@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:28:36.115744+00:00",
+  "updated_at": "2026-08-20T11:25:04.093287+00:00",
   "items": [
     {
       "id": "feed-3de42fcee7",
@@ -275,6 +275,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEJxOHNfeVg1ZW9lbFFhcy1GaVFDQThVREtXRnY4dXYxaUI2T3Q0QkQ1UHUwUjJ4N3pKNTJMODNuVExsUnYwTzVsUU1aOVlNS0N6ZndIa21rSUlhaElCRjJKbEpmTDY3QXRYNi00UDEtRkZiU003dWhLX0Z3UFYxMFBWZ3ZyTEtoaUJoa1BibThUa1dzck9TcUltRFJ5NFFNelB1Umhkd2NnYlU1dllyZWtxbVBkUlNiLU96QUhEcTI2aVFNWHJVbg?oc=5"
     },
     {
+      "id": "feed-83440d248c",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne - Ouest-France",
+      "title_en": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne - Ouest-France",
+      "body": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne &nbsp;&nbsp; Ouest-France",
+      "body_en": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne &nbsp;&nbsp; Ouest-France",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZDZJREd0RGNsMUJPbl9nVnFobUhPVjNEemJrMTNERU5QOUhqSzZ2ZFFtWjV6eGQyTVZ3YkNCSmUyTGRwZi1LMkpPek1HSEI3bG5YNGdXbVFsc0JtZVE4YVM3QkQ4bjJueXB0dllpbWtOTjN4b0pXc3BtWUZYQ0tQWHVVcXVPVTBHelJUNGdFQmMzdkh4WWlZSXdxZGFEMVljSmtsdGpIX0xVN1BFNUtqNHc0eFFVMHpRWUdiVTBjajA3ZlZkZjh6a2ctX1JWRVNtWldzZmRrd09uMmFKYUtWNnVWanVCdUs0S3RBWW9QTmZvbUdLRDNfVVpTeDRlVzZuS0NzM04wODJoTUR3Z3lMV1RBYk9CQm9nS1dMWjVXRDQzUQ?oc=5"
+    },
+    {
       "id": "feed-17e3772623",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; Anadolu Ajansı",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGlqZnJqQlFDTWNVU2tULVN5eGR3LXN0WmM5dl9QclNJLTNGb0sxV2liXzNDM2RkdjhlbG1XVUw2ckpta3FTcGRJMzhUdWoyTy1PRDFId2FvYnlycENaSXRidHpGQmw2T2hNYlRtbFBNSFEzWDRUZDRLbGo1SDVSbE1PWjFFRi14VTZ0R1RTbFRTbVM1VGNfNWs1QkJrZWFZdnJYUDFYd05BaUNqdGMxRkd0b040RFRtRDE1YlplOFBWZ0FHdHlLTDdzamJXMGpkX1hNTHpTTk9lRGRualRjN2pB?oc=5"
-    },
-    {
-      "id": "feed-016caffa5e",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - TF1 Info",
-      "title_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - TF1 Info",
-      "body": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
-      "body_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0x4bnlVN2ZwQ1RRSnNqTlVJMnJCWHBCeE40TGNEbUt6bVAyRmxJeFlVQ0pXc2M5WmVidkFrajh6TDNIeU9VRWc0UFdQOXVIT1pmQXBGZnVZTFZpYzc5N1NoeVlsLTlEeXhMX3FnMjVUa3ZMRkh4dWJXaFpHR0VMMGdabmtuY3ZnTmZ2cHNjVl8xRFRwS0xmbVhiSVlueUMzd1lTeWc5RlRxakVCdE9YVkJtQXhnNGFhUUI3MXh1dEEteE1ENTRxbzJYd19wZEhVYURVa3cweGRCZGNLMWNFbUYydWt2c0pCVzJObkEtc3g?oc=5"
     }
   ]
 }

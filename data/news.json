@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-20T11:25:04.093287+00:00",
+  "updated_at": "2026-08-20T12:46:25.471807+00:00",
   "items": [
+    {
+      "id": "feed-d5eea5377b",
+      "manual": false,
+      "date": "2026-08-20T13:39:42+02:00",
+      "date_label": "20 août 2026",
+      "tag": "who",
+      "title": "Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA",
+      "title_en": "Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA",
+      "body": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.&nbsp;",
+      "body_en": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.&nbsp;",
+      "source": "ECDC — News & press releases",
+      "source_url": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea"
+    },
     {
       "id": "feed-3de42fcee7",
       "manual": false,
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus : un cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; ladepeche.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2lYYi1neGpIdzhWVlpodjZabW5oQ1otZUJvMThqdVU3V0xCa1dnVC1JX3lDUVp3enNNaEd5a1VtYnpaWVdWWlMxc3Z4Sll5X29mRlltNXpSajMyVXNHMmxVa0xVS2dUZFRPWGFLNWRGUTJCYzBUWm9hdDB0Mm13bENqc3JqNHlWUUdHRDFwZ1VZdkYzM0xVdnZkZ0hJa01iYkxtOXRraEVzRHMtSFI5NlFqR0htRWc?oc=5"
-    },
-    {
-      "id": "feed-2f952d85c2",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation - Anadolu Ajansı",
-      "title_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation - Anadolu Ajansı",
-      "body": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; Anadolu Ajansı",
-      "body_en": "Hantavirus : la Française contaminée sur le navire de croisière MV Hondius sortie de réanimation &nbsp;&nbsp; Anadolu Ajansı",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGlqZnJqQlFDTWNVU2tULVN5eGR3LXN0WmM5dl9QclNJLTNGb0sxV2liXzNDM2RkdjhlbG1XVUw2ckpta3FTcGRJMzhUdWoyTy1PRDFId2FvYnlycENaSXRidHpGQmw2T2hNYlRtbFBNSFEzWDRUZDRLbGo1SDVSbE1PWjFFRi14VTZ0R1RTbFRTbVM1VGNfNWs1QkJrZWFZdnJYUDFYd05BaUNqdGMxRkd0b040RFRtRDE1YlplOFBWZ0FHdHlLTDdzamJXMGpkX1hNTHpTTk9lRGRualRjN2pB?oc=5"
     }
   ]
 }

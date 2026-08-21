@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-21T01:13:25.820241+00:00",
+  "updated_at": "2026-08-21T03:01:13.724195+00:00",
   "items": [
     {
       "id": "feed-f9da04e17e",
       "manual": false,
-      "date": "2026-08-21T01:13:25.819339+00:00",
+      "date": "2026-08-21T03:01:13.723261+00:00",
       "date_label": "21 août 2026",
       "tag": "research",
       "title": "[Correspondence] Hantavirus outbreak: a model of regional and global cooperation",
@@ -223,6 +223,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObkQxWWhjaWI4dFVCMVk2ZlMtcVp4N2RDdWNmeFl4Ylg1R2FSdEVQT3NiVmhUdFFOcWpzcldRbFRpTXcxa0VlU2htU1hPNkgwRlNEYlBHaTdEb1NnQ09CVjNuX3prNENPaW02QVEwY1lHOUNSNldSWmg1Mkd4R2ttV3lGbW9KT2c2OGJGZ0JBczdUQ0FxMGJYcGI4Q1d0Vm44RG5iUkwwSl9FajNNaFRScnF3YmU2dWc1MloycjJSUHdka1Q0Qk1fZVVsWDJoS0hRMjhiekZQT2R4UUJPMDZJUTNFd3c?oc=5"
     },
     {
+      "id": "feed-6e5d5647b6",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif - Sud Ouest",
+      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif - Sud Ouest",
+      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif &nbsp;&nbsp; Sud Ouest",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQakc2M2NEb1ZWRXl3R3VmeEpvUkIwLTJOUFNUZl9SUmVjZTd0UkNpUU5JU0laSjQ3WDUwRE9CRkxSS3RGRDNnNW1QMXBKYmFLZ2FrRUg3ZU8xYXRPc0FJSlgxMXBlcVV2ZFRHaEdvYTJVTk4wMFdrNXo4NEZueW5YUDFpeHZ2T0dSRVUzc2liLThMVTBZTC1JVzlEeUh4TFdFcllSVjdNeGV3N3NqcFFBbUR1dUNEWlBhcHhqSkNPaFNiVUk4R3V3cmFlN2RKWWVMc19GMGNmYWU5WGdwQXJCOUl5dHRfMm5qQWVEYlNJMlBOdE9ZZ3dR?oc=5"
+    },
+    {
       "id": "feed-0ec1383630",
       "manual": false,
       "date": "2026-08-06T08:48:02+00:00",
@@ -353,6 +366,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWVZoVWdKTXFHN0tDaE5hWUZTOUQ5dzA0d3FkcjVBVlRUeWdhVlJJa3I1TkVaQ3pySFV1ZnBZdU81X2dTblpfbWRpZS10cEVMOV80c0hvaFc5SjhhQVpEaUNITEdHOFJLWUlvSzNBS2tzd0FfV0RTMVhscTlXNVcyUlBienlIZWZMbW5IWnR4dXYzWEM0TnFlckZlREFkOVoySDRGcTNwQXEtR1VTak9wcTdaNDFnanpRQ1dKdkU5VExNN3VpU0xJcVpLaEhYRUU4bTdOaGFWb2FRaksxcmNyV0dpdUhqYzdnOVRwX2xEZjl4WlM5RndwZThn?oc=5"
     },
     {
+      "id": "feed-d0fd8d68c4",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
+      "title_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
+      "body": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
+      "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
+    },
+    {
       "id": "feed-ff2b0f1b13",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -364,32 +390,6 @@
       "body_en": "Hantavirus : un touriste de passage en France testé positif &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWlzdWVmdWVLSnJTRDFVVzk2MlJBbzUzMFp5anNLNHlXUHFXeXZDa2tOMTQxNTZfSW1kZ2VGLTFkdVdUcXU1Q1VEQ0JjUHZsSjRaNElyV3Y0dWZGc0trbHoycFN3ckgwdDEyUmpYWTZXWEFkaG4zSnFBbmJqUXJWZVZxRDlucm5wSTlrendVMUJCek1wVW9aZUFiZDVlQzNrRjVCTlJ0ZnB4R3I0cU1ZNnNtdGpQcTJFNVBzOHZB?oc=5"
-    },
-    {
-      "id": "feed-a2bf26b281",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un touriste Franco-Argentin testé positif - franceinfo",
-      "title_en": "Hantavirus : un touriste Franco-Argentin testé positif - franceinfo",
-      "body": "Hantavirus : un touriste Franco-Argentin testé positif &nbsp;&nbsp; franceinfo",
-      "body_en": "Hantavirus : un touriste Franco-Argentin testé positif &nbsp;&nbsp; franceinfo",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjE0OG9WaGVSeTFob0VTazVkZXJIak9XdUVaQUdhSWRoSzBKNTNwY3FSY1FrNEVrOHBtSzhCRGgyRjd4ajF2OUo5c2hpMHd3MUJBMGVaRE9BUlU5cGRTQ19YQm1mRmRkazFHallsS1cxOW5vcmpocW1IUzZkZWNlUUVaeDhZYUdsT05LTHJEbHh4ZWNXTjlOVlg1eVI5Y254eUk2eHd0M2tBWkxnOThzbHA3S18zN0E?oc=5"
-    },
-    {
-      "id": "feed-960ed65d92",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne - Le Parisien",
-      "title_en": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne - Le Parisien",
-      "body": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne &nbsp;&nbsp; Le Parisien",
-      "body_en": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne &nbsp;&nbsp; Le Parisien",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDIyQUxOalJNcFgwUjh4ckp3MnQ3WVFiSnk4ZW5xMXBXYkQtbzE4dG5hR1lTZmI0ME5Hc0V2bHJMRUp0TzBYU3BmNmR2bUw3cFdFRWNIcHBVTjNiSms0NVpMNUc4YUVES1VvVjNUbks1ZjJPcmlYVjVUcVFqVEhwSkNlZU9vbWgwdnNmSmhfQTF6c3I3LWtTSGNPb1ZfbW9lZ0xFbWpjQy1ERGJlc2tMUmxmTk0xVVMtZ0ZqRjdYN2ZRWWxKR3JVb0VrbExBVFN2OHRZb1R1aC1wSWZmZlhNWVhITGFPdDhPVl9GdHhDT3BEQXcwWHZpd2RjcnR1TVc1ck5LT3hkRQ?oc=5"
     }
   ]
 }

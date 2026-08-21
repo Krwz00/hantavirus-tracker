@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-21T15:31:57.571401+00:00",
+  "updated_at": "2026-08-21T16:32:34.218090+00:00",
   "items": [
     {
       "id": "feed-f9da04e17e",
       "manual": false,
-      "date": "2026-08-21T15:31:57.570491+00:00",
+      "date": "2026-08-21T16:32:34.217112+00:00",
       "date_label": "21 août 2026",
       "tag": "research",
       "title": "[Correspondence] Hantavirus outbreak: a model of regional and global cooperation",
@@ -54,19 +54,6 @@
       "source_url": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea"
     },
     {
-      "id": "feed-510ebe0aae",
-      "manual": false,
-      "date": "2026-08-13T07:00:00+00:00",
-      "date_label": "13 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : le point sur les mesures sanitaires en France - info.gouv.fr",
-      "title_en": "Hantavirus : le point sur les mesures sanitaires en France - info.gouv.fr",
-      "body": "Hantavirus : le point sur les mesures sanitaires en France &nbsp;&nbsp; info.gouv.fr",
-      "body_en": "Hantavirus : le point sur les mesures sanitaires en France &nbsp;&nbsp; info.gouv.fr",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbW1UZ1FxSThOTjVQRnhDcVcxRXdYOGNtUTBnY21rbXBYNHNpWHJpSjBTdWZOeDh2YlBsY1lnYTBUc2lZalVQOXRkbVhfS1QwNF8yZHRpS0xZR3Y4Ny1BWU44dVQ3X2d6M0dlUjRmc0dYdDJaMVZra1RDMG40R20weXBsaXMxdG9IUDJUV3BmN0xHZUQ3UXc?oc=5"
-    },
-    {
       "id": "feed-846c599535",
       "manual": false,
       "date": "2026-08-11T07:00:00+00:00",
@@ -91,19 +78,6 @@
       "body_en": "Sars-CoV-2, mpox, chikungunya, hantavirus, Ebola… Pourquoi les émergences virales se multiplient-elles ? &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVMtSEs5YXFmT09MZDI0dGxUejkwQVc0SFl2MGlXaFFMdkFNT2psOTU2NEdpcWRHVjdyTVVuaWtwUnc2ZC05aXM0aEpydGgyVTdJZlFSemJyS1Z4TFVBN0ozZEhrVDdXNXBGYUJxWkpPY0ZNcGNTSDI3VGVyZ2dvTU9UU2ZlSmhxMV9pdFZWNkVFemlWRlY2c1JkNWNTZHdadXhZR2QteWFSeXk0bmxlQnRPQW1zeU54Z0VwS3AyWW9nV1JpamZjcldLV3hhdXdyNW1hQ3FBNndKdVFuVWpNQ2MyMVNrUQ?oc=5"
-    },
-    {
-      "id": "feed-4bc52c78b6",
-      "manual": false,
-      "date": "2026-08-07T12:06:01+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
-      "title_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
-      "body": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
-      "body_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
     },
     {
       "id": "feed-6d3b7654b6",
@@ -150,12 +124,25 @@
       "date": "2026-08-07T07:00:00+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : Nouvelle-Aquitaine, Île-de-France... où est passé le touriste testé positif lors de son séjour en France - lamontagne.fr",
-      "title_en": "Hantavirus : Nouvelle-Aquitaine, Île-de-France... où est passé le touriste testé positif lors de son séjour en France - lamontagne.fr",
-      "body": "Hantavirus : Nouvelle-Aquitaine, Île-de-France... où est passé le touriste testé positif lors de son séjour en France &nbsp;&nbsp; lamontagne.fr",
-      "body_en": "Hantavirus : Nouvelle-Aquitaine, Île-de-France... où est passé le touriste testé positif lors de son séjour en France &nbsp;&nbsp; lamontagne.fr",
+      "title": "Hantavirus : Nouvelle-Aquitaine, Île-de-France... où est passé le touriste testé positif lors de son séjour en France - La Montagne",
+      "title_en": "Hantavirus : Nouvelle-Aquitaine, Île-de-France... où est passé le touriste testé positif lors de son séjour en France - La Montagne",
+      "body": "Hantavirus : Nouvelle-Aquitaine, Île-de-France... où est passé le touriste testé positif lors de son séjour en France &nbsp;&nbsp; La Montagne",
+      "body_en": "Hantavirus : Nouvelle-Aquitaine, Île-de-France... où est passé le touriste testé positif lors de son séjour en France &nbsp;&nbsp; La Montagne",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2o2WmhQZWd3R3RyZ094SDRQSTBqVmswVmFLbXFKN1Q3cG80YXpYNlNkQzEtcW5pamxCdmVUaHRSTnAwRDhlRXJORHIxYV9oSDZKbEt0emRaZjBQTU9kN0hhM25MR0lVc1JYdk5pU013VXFGeWRpYmVPblZQcklDMUVmU1ZkVXdSLXlyeW5SVlRta0F3eXp5WUwzTVNFVXE2dzNEYlV5d1Y5NkVCY0V0amwzSm1JS2FYVVR3Um9INVNaQ2dKVGZLVFprOHFWUUpWSmxBSF96OFhRWmtOcVZUZmZpUnQ3REFoc3pKdktiNnZvdFVtQTNjVVdxMkVuWlQ1?oc=5"
+    },
+    {
+      "id": "feed-4bc52c78b6",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
+      "title_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
+      "body": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
+      "body_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
     },
     {
       "id": "feed-f34f4b8bba",
@@ -390,6 +377,19 @@
       "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
+    },
+    {
+      "id": "feed-960ed65d92",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne - Le Parisien",
+      "title_en": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne - Le Parisien",
+      "body": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne &nbsp;&nbsp; Le Parisien",
+      "body_en": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne &nbsp;&nbsp; Le Parisien",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDIyQUxOalJNcFgwUjh4ckp3MnQ3WVFiSnk4ZW5xMXBXYkQtbzE4dG5hR1lTZmI0ME5Hc0V2bHJMRUp0TzBYU3BmNmR2bUw3cFdFRWNIcHBVTjNiSms0NVpMNUc4YUVES1VvVjNUbks1ZjJPcmlYVjVUcVFqVEhwSkNlZU9vbWgwdnNmSmhfQTF6c3I3LWtTSGNPb1ZfbW9lZ0xFbWpjQy1ERGJlc2tMUmxmTk0xVVMtZ0ZqRjdYN2ZRWWxKR3JVb0VrbExBVFN2OHRZb1R1aC1wSWZmZlhNWVhITGFPdDhPVl9GdHhDT3BEQXcwWHZpd2RjcnR1TVc1ck5LT3hkRQ?oc=5"
     }
   ]
 }

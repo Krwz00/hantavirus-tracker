@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-21T08:39:07.562813+00:00",
+  "updated_at": "2026-08-21T09:34:59.451969+00:00",
   "items": [
     {
       "id": "feed-f9da04e17e",
       "manual": false,
-      "date": "2026-08-21T08:39:07.561920+00:00",
+      "date": "2026-08-21T09:34:59.450989+00:00",
       "date_label": "21 août 2026",
       "tag": "research",
       "title": "[Correspondence] Hantavirus outbreak: a model of regional and global cooperation",
@@ -39,19 +39,6 @@
       "body_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5"
-    },
-    {
-      "id": "feed-46975d1345",
-      "manual": false,
-      "date": "2026-08-20T23:00:34+00:00",
-      "date_label": "20 août 2026",
-      "tag": "media",
-      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Yahoo",
-      "title_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Yahoo",
-      "body": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Yahoo",
-      "body_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Yahoo",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTVILVNNODRtSTFwVTZfYXBLSjBidlM0NzA5Rmx5aXE4ZWdHbmJPRUdPMHZ2d2c3TWRxREg2TjNrdXA5NkoxMkRnMHBoWkMtb1V2Tk92YUVJOEdVYmJuTWY5UVQxR0ljU0FfaC1wZ2trdGRDTlBPaC1PMm01bzdTOE9xUUV5NTVr?oc=5"
     },
     {
       "id": "feed-d5eea5377b",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation &nbsp;&nbsp; BFM",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWVZoVWdKTXFHN0tDaE5hWUZTOUQ5dzA0d3FkcjVBVlRUeWdhVlJJa3I1TkVaQ3pySFV1ZnBZdU81X2dTblpfbWRpZS10cEVMOV80c0hvaFc5SjhhQVpEaUNITEdHOFJLWUlvSzNBS2tzd0FfV0RTMVhscTlXNVcyUlBienlIZWZMbW5IWnR4dXYzWEM0TnFlckZlREFkOVoySDRGcTNwQXEtR1VTak9wcTdaNDFnanpRQ1dKdkU5VExNN3VpU0xJcVpLaEhYRUU4bTdOaGFWb2FRaksxcmNyV0dpdUhqYzdnOVRwX2xEZjl4WlM5RndwZThn?oc=5"
+    },
+    {
+      "id": "feed-d0fd8d68c4",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
+      "title_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
+      "body": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
+      "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
     }
   ]
 }

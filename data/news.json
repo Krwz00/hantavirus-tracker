@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-20T23:24:33.813720+00:00",
+  "updated_at": "2026-08-21T01:13:25.820241+00:00",
   "items": [
     {
       "id": "feed-f9da04e17e",
       "manual": false,
-      "date": "2026-08-20T23:24:33.812846+00:00",
-      "date_label": "20 août 2026",
+      "date": "2026-08-21T01:13:25.819339+00:00",
+      "date_label": "21 août 2026",
       "tag": "research",
       "title": "[Correspondence] Hantavirus outbreak: a model of regional and global cooperation",
       "title_en": "[Correspondence] Hantavirus outbreak: a model of regional and global cooperation",
@@ -13,6 +13,45 @@
       "body_en": "We write in response to Patricia J Garcia and colleagues’ Comment, which mischaracterises the 2026 MV Hondius hantavirus outbreak as indicative of “weak surveillance and coordinated response capacities in Latin America”.1 We agree that regional preparedness should be strengthened. However, this outbreak did not…",
       "source": "The Lancet",
       "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01431-5/fulltext?rss=yes"
+    },
+    {
+      "id": "feed-207c0fd7fa",
+      "manual": false,
+      "date": "2026-08-21T00:15:00+00:00",
+      "date_label": "21 août 2026",
+      "tag": "media",
+      "title": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's Hantavirus response - KETV",
+      "title_en": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's Hantavirus response - KETV",
+      "body": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's Hantavirus response &nbsp;&nbsp; KETV",
+      "body_en": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's Hantavirus response &nbsp;&nbsp; KETV",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1bWl1bVkxdzRUQXpmLUlJQWJYa25TVG5BQ2JlT3drN0xjRFpLV1R4UlZ5TExWcDdkUjBuLWFRMkdjUk9ObWt0Z29BX1hXZ09USkFqZlkwSnBzWk9VaVBmTGtCN3ZIT0U?oc=5"
+    },
+    {
+      "id": "feed-6f03e812f5",
+      "manual": false,
+      "date": "2026-08-20T23:25:48+00:00",
+      "date_label": "20 août 2026",
+      "tag": "media",
+      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
+      "title_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
+      "body": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
+      "body_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5"
+    },
+    {
+      "id": "feed-46975d1345",
+      "manual": false,
+      "date": "2026-08-20T23:00:34+00:00",
+      "date_label": "20 août 2026",
+      "tag": "media",
+      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Yahoo",
+      "title_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Yahoo",
+      "body": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Yahoo",
+      "body_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Yahoo",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTVILVNNODRtSTFwVTZfYXBLSjBidlM0NzA5Rmx5aXE4ZWdHbmJPRUdPMHZ2d2c3TWRxREg2TjNrdXA5NkoxMkRnMHBoWkMtb1V2Tk92YUVJOEdVYmJuTWY5UVQxR0ljU0FfaC1wZ2trdGRDTlBPaC1PMm01bzdTOE9xUUV5NTVr?oc=5"
     },
     {
       "id": "feed-d5eea5377b",
@@ -26,19 +65,6 @@
       "body_en": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.&nbsp;",
       "source": "ECDC — News & press releases",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea"
-    },
-    {
-      "id": "feed-621c748d5c",
-      "manual": false,
-      "date": "2026-08-18T00:44:36+00:00",
-      "date_label": "18 août 2026",
-      "tag": "media",
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "title_en": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "body": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "body_en": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5"
     },
     {
       "id": "feed-510ebe0aae",
@@ -65,6 +91,19 @@
       "body_en": "INFO BFM. Hantavirus: les cas contact du touriste ayant transité en France identifiés et contactés &nbsp;&nbsp; BFM",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdG5PWGFKaERGb0hSTEJ5YmFabVdlWDFxNWh1UVc5b2ZBdmNTSmZXOUtLRHdDUDgwV3BPUVZjbnoyR3dUWnptRjNxOVV6SEdfaDFfbXZZZFk3VmZzYThOTktvdUh2NzVaeUVfQnloZDJlbEU1aS00bk5TcHI2MEhoaGJZRExmTmVaZ3dVNWNXTW9uWFYwYlBMRGJPMnUtZjBod3ZYUGRwMUlPMlRDUzJBY3RYcU8ybzMzc0JzNGV0WWU1Zk9OaHdRckJPdFVxTzAzUnRXTHNzaTFJTTBNTGI0eE9qQWM?oc=5"
+    },
+    {
+      "id": "feed-d635db6d0d",
+      "manual": false,
+      "date": "2026-08-11T07:00:00+00:00",
+      "date_label": "11 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : tous les cas contacts du touriste positif ayant séjourné en France ont été identifiés - Nice-Matin",
+      "title_en": "Hantavirus : tous les cas contacts du touriste positif ayant séjourné en France ont été identifiés - Nice-Matin",
+      "body": "Hantavirus : tous les cas contacts du touriste positif ayant séjourné en France ont été identifiés &nbsp;&nbsp; Nice-Matin",
+      "body_en": "Hantavirus : tous les cas contacts du touriste positif ayant séjourné en France ont été identifiés &nbsp;&nbsp; Nice-Matin",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeU01eFRZc0NRRXVLMjF1bGs1TzgwZGlIVFF6Und5Q2d4eHJGdU4xeTFTQ0tSR0M0Sm5kbGlhN3ljX1RjMWdUMWltSm5tV1dXV1o1WVZGbG91WjJuV0VqQXAzZmZIcFRZa2ZmcnFqcXlYZXY0NGpkR1RVOFpkc1k1MXpWX3p2dk1KN1VCWUFhVmJLb20tYV80d0FFLWhfN1ExQTFERzVCYkg5ZVFlUjV5LU5OZmRYaUZLcGJGUEYtX1BJY3o2cm5JenJJTzM0OUF1WnBCMEZzeXZSc1N5MWl1TUFB?oc=5"
     },
     {
       "id": "feed-463465ab55",
@@ -351,45 +390,6 @@
       "body_en": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne &nbsp;&nbsp; Le Parisien",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDIyQUxOalJNcFgwUjh4ckp3MnQ3WVFiSnk4ZW5xMXBXYkQtbzE4dG5hR1lTZmI0ME5Hc0V2bHJMRUp0TzBYU3BmNmR2bUw3cFdFRWNIcHBVTjNiSms0NVpMNUc4YUVES1VvVjNUbks1ZjJPcmlYVjVUcVFqVEhwSkNlZU9vbWgwdnNmSmhfQTF6c3I3LWtTSGNPb1ZfbW9lZ0xFbWpjQy1ERGJlc2tMUmxmTk0xVVMtZ0ZqRjdYN2ZRWWxKR3JVb0VrbExBVFN2OHRZb1R1aC1wSWZmZlhNWVhITGFPdDhPVl9GdHhDT3BEQXcwWHZpd2RjcnR1TVc1ck5LT3hkRQ?oc=5"
-    },
-    {
-      "id": "feed-d0fd8d68c4",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
-      "title_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
-      "body": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
-      "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
-    },
-    {
-      "id": "feed-5b36736d4a",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un cas détecté chez un touriste ayant séjourné en France - ladepeche.fr",
-      "title_en": "Hantavirus : un cas détecté chez un touriste ayant séjourné en France - ladepeche.fr",
-      "body": "Hantavirus : un cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; ladepeche.fr",
-      "body_en": "Hantavirus : un cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; ladepeche.fr",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2lYYi1neGpIdzhWVlpodjZabW5oQ1otZUJvMThqdVU3V0xCa1dnVC1JX3lDUVp3enNNaEd5a1VtYnpaWVdWWlMxc3Z4Sll5X29mRlltNXpSajMyVXNHMmxVa0xVS2dUZFRPWGFLNWRGUTJCYzBUWm9hdDB0Mm13bENqc3JqNHlWUUdHRDFwZ1VZdkYzM0xVdnZkZ0hJa01iYkxtOXRraEVzRHMtSFI5NlFqR0htRWc?oc=5"
-    },
-    {
-      "id": "feed-0954ef0ecc",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
-      "title_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
-      "body": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
-      "body_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMVZyMnNoTEZFekNxaDFUSGkwbXlfdjh2QTFqRHR1d1VrWExPRmFhNUI5MTJfUVRKS2xQRUQ0Y3I2c25fMTVZUDctN3drcWdMa21ZMFJwRVVKd0VGNEJWNWFINkFOYXNfY0hCbkw4Z2VWNWljZzJPeFNHc0ZjTkpMWm5VYXZrU1R5QWRjUHctOEpHQkNfdlZDMmwyQVNPQk0ySUUwRmdhbDgxbDJZZTlWVGdtWTJndUlwNGFaY1B1Z2FVT21kQy0yTEtxcjF6TmZSS0xvQWFLS2IxZXY0c3RpazJiLTRNOUdmcWp3eWw4eVVKTC1HWHQtdEFsRlE3cWp2X1FfRzg3TTc5cHFXNTB3S2pCbTdrTDJYZExmQ3JTcFFRLTg1WnVYVXIteHBSV1FMSndIa3ppX19RUQ?oc=5"
     }
   ]
 }

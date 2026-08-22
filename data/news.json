@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T22:20:10.271271+00:00",
+  "updated_at": "2026-08-22T23:19:33.460899+00:00",
   "items": [
     {
       "id": "feed-f9da04e17e",
@@ -249,19 +249,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2ZRSEJkNjVxdzd2cV9WVWhNOGFPa0wwZzd6aF9peHpfODl0MUUybWdVYm54U3Nrb1MyX3RkQ1pCNkVtS2l5X3AwUldLN040QTN2RnFtUWNrS09INGdiLU5tSHQ5VTEweGtuaURxN3JqN2ZZczlMSDRYTHNaRFpEcEkySDdnY3dTc2RtZ0JRWUlQZHk1TzFpdmdMVUcta3oyQ0dmYTV3Q3RrSEJyWGpid3lzNTgzMkl6aVlJS0ctX1NnUzdY?oc=5"
     },
     {
-      "id": "feed-af96b3faf8",
-      "manual": false,
-      "date": "2026-08-06T17:22:15+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne - vidal.fr",
-      "title_en": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne - vidal.fr",
-      "body": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne &nbsp;&nbsp; vidal.fr",
-      "body_en": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne &nbsp;&nbsp; vidal.fr",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcWhXU3NqdzhZV1NzWGJ0NTlQYTRyM05UYUVGcWxVeWFJb2lhVURJRTMwVTJ2ZUROS2FqT3B3bGlYSDdoOEdtRV90clEwN3BIT2hWTndoeDZBb2NqcTNmNzNQUUg5YndVZHlvYy1VTG9nbVJzS3hkekZBZ2dLRFF1MzBadHIwMVp2MDlMQzRJUXFYMUVWUWIyMEEzZjBaTWlrRlFNeVlYNEs5NzY0OVBNU2JHWUNIb0RBa3c?oc=5"
-    },
-    {
       "id": "feed-0ec1383630",
       "manual": false,
       "date": "2026-08-06T08:48:02+00:00",
@@ -390,6 +377,19 @@
       "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
+    },
+    {
+      "id": "feed-0954ef0ecc",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
+      "title_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
+      "body": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
+      "body_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMVZyMnNoTEZFekNxaDFUSGkwbXlfdjh2QTFqRHR1d1VrWExPRmFhNUI5MTJfUVRKS2xQRUQ0Y3I2c25fMTVZUDctN3drcWdMa21ZMFJwRVVKd0VGNEJWNWFINkFOYXNfY0hCbkw4Z2VWNWljZzJPeFNHc0ZjTkpMWm5VYXZrU1R5QWRjUHctOEpHQkNfdlZDMmwyQVNPQk0ySUUwRmdhbDgxbDJZZTlWVGdtWTJndUlwNGFaY1B1Z2FVT21kQy0yTEtxcjF6TmZSS0xvQWFLS2IxZXY0c3RpazJiLTRNOUdmcWp3eWw4eVVKTC1HWHQtdEFsRlE3cWp2X1FfRzg3TTc5cHFXNTB3S2pCbTdrTDJYZExmQ3JTcFFRLTg1WnVYVXIteHBSV1FMSndIa3ppX19RUQ?oc=5"
     }
   ]
 }

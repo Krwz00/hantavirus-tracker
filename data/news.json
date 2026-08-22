@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:36:18.867789+00:00",
+  "updated_at": "2026-08-22T13:30:30.250308+00:00",
   "items": [
     {
       "id": "feed-f9da04e17e",
@@ -197,6 +197,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObkQxWWhjaWI4dFVCMVk2ZlMtcVp4N2RDdWNmeFl4Ylg1R2FSdEVQT3NiVmhUdFFOcWpzcldRbFRpTXcxa0VlU2htU1hPNkgwRlNEYlBHaTdEb1NnQ09CVjNuX3prNENPaW02QVEwY1lHOUNSNldSWmg1Mkd4R2ttV3lGbW9KT2c2OGJGZ0JBczdUQ0FxMGJYcGI4Q1d0Vm44RG5iUkwwSl9FajNNaFRScnF3YmU2dWc1MloycjJSUHdka1Q0Qk1fZVVsWDJoS0hRMjhiekZQT2R4UUJPMDZJUTNFd3c?oc=5"
     },
     {
+      "id": "feed-6e5d5647b6",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif - Sud Ouest",
+      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif - Sud Ouest",
+      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin testé positif &nbsp;&nbsp; Sud Ouest",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQakc2M2NEb1ZWRXl3R3VmeEpvUkIwLTJOUFNUZl9SUmVjZTd0UkNpUU5JU0laSjQ3WDUwRE9CRkxSS3RGRDNnNW1QMXBKYmFLZ2FrRUg3ZU8xYXRPc0FJSlgxMXBlcVV2ZFRHaEdvYTJVTk4wMFdrNXo4NEZueW5YUDFpeHZ2T0dSRVUzc2liLThMVTBZTC1JVzlEeUh4TFdFcllSVjdNeGV3N3NqcFFBbUR1dUNEWlBhcHhqSkNPaFNiVUk4R3V3cmFlN2RKWWVMc19GMGNmYWU5WGdwQXJCOUl5dHRfMm5qQWVEYlNJMlBOdE9ZZ3dR?oc=5"
+    },
+    {
       "id": "feed-c218469e08",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
@@ -377,19 +390,6 @@
       "body_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMVZyMnNoTEZFekNxaDFUSGkwbXlfdjh2QTFqRHR1d1VrWExPRmFhNUI5MTJfUVRKS2xQRUQ0Y3I2c25fMTVZUDctN3drcWdMa21ZMFJwRVVKd0VGNEJWNWFINkFOYXNfY0hCbkw4Z2VWNWljZzJPeFNHc0ZjTkpMWm5VYXZrU1R5QWRjUHctOEpHQkNfdlZDMmwyQVNPQk0ySUUwRmdhbDgxbDJZZTlWVGdtWTJndUlwNGFaY1B1Z2FVT21kQy0yTEtxcjF6TmZSS0xvQWFLS2IxZXY0c3RpazJiLTRNOUdmcWp3eWw4eVVKTC1HWHQtdEFsRlE3cWp2X1FfRzg3TTc5cHFXNTB3S2pCbTdrTDJYZExmQ3JTcFFRLTg1WnVYVXIteHBSV1FMSndIa3ppX19RUQ?oc=5"
-    },
-    {
-      "id": "feed-83440d248c",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne - Ouest-France",
-      "title_en": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne - Ouest-France",
-      "body": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne &nbsp;&nbsp; Ouest-France",
-      "body_en": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne &nbsp;&nbsp; Ouest-France",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZDZJREd0RGNsMUJPbl9nVnFobUhPVjNEemJrMTNERU5QOUhqSzZ2ZFFtWjV6eGQyTVZ3YkNCSmUyTGRwZi1LMkpPek1HSEI3bG5YNGdXbVFsc0JtZVE4YVM3QkQ4bjJueXB0dllpbWtOTjN4b0pXc3BtWUZYQ0tQWHVVcXVPVTBHelJUNGdFQmMzdkh4WWlZSXdxZGFEMVljSmtsdGpIX0xVN1BFNUtqNHc0eFFVMHpRWUdiVTBjajA3ZlZkZjh6a2ctX1JWRVNtWldzZmRrd09uMmFKYUtWNnVWanVCdUs0S3RBWW9QTmZvbUdLRDNfVVpTeDRlVzZuS0NzM04wODJoTUR3Z3lMV1RBYk9CQm9nS1dMWjVXRDQzUQ?oc=5"
     }
   ]
 }

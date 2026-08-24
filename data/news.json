@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:28:51.607952+00:00",
+  "updated_at": "2026-08-24T21:27:04.350732+00:00",
   "items": [
     {
       "id": "feed-52f32411a6",
@@ -17,7 +17,7 @@
     {
       "id": "feed-f522ee8a8b",
       "manual": false,
-      "date": "2026-08-24T14:39:53+00:00",
+      "date": "2026-08-24T17:09:18+00:00",
       "date_label": "24 août 2026",
       "tag": "media",
       "title": "National Quarantine Unit (NQU) & Hantavirus Response - National Emerging Special Pathogens Training & Education Center",
@@ -26,6 +26,19 @@
       "body_en": "National Quarantine Unit (NQU) & Hantavirus Response &nbsp;&nbsp; National Emerging Special Pathogens Training & Education Center",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlh5MmRkSzdSeV9BT0NFR1A5MnJkejV2cmJVeW1ySGZPNFFFc2ZBaUpJNkJ3amJMR2M4OGVaZ0ZiYjlkT2ZzTm8wZGpBLTB6SFNlaDdhQzdzQmFfaTFNa24xM2lzSjZyQnJ0QUQwYlZhOWxZRk9TRzkwT3IxQjNBUHFFSno?oc=5"
+    },
+    {
+      "id": "feed-72dbb81434",
+      "manual": false,
+      "date": "2026-08-24T00:51:45+00:00",
+      "date_label": "24 août 2026",
+      "tag": "media",
+      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
+      "title_en": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
+      "body": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; KOTA Territory News",
+      "body_en": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; KOTA Territory News",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXQwTWlkZncyMkt2VmpOQXRZUGRnVk0xQkcyOERuV08tNGJaVFhtb2ZDNkRNRktGMG1jLVZqTGpyYWF0WGxlYUdPdUtQcW9Ob0wwQUt1RE5Pb09KaFIxb0dOaUk4SEdwR0NqX2FmdlM0RnlOOXQ0Y0M0WGNETk1SNzdEc1pwQlVKMThuanAyWXo3WWpOTXlRTHJuWWtaSzlOOG1sQ3pOUVhsZnVoM3VJ?oc=5"
     },
     {
       "id": "feed-6560b3176c",
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus : séjour en France, charge virale faible… Ce que l’on sait du patient franco-argentin isolé en Espagne &nbsp;&nbsp; Ouest-France",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZDZJREd0RGNsMUJPbl9nVnFobUhPVjNEemJrMTNERU5QOUhqSzZ2ZFFtWjV6eGQyTVZ3YkNCSmUyTGRwZi1LMkpPek1HSEI3bG5YNGdXbVFsc0JtZVE4YVM3QkQ4bjJueXB0dllpbWtOTjN4b0pXc3BtWUZYQ0tQWHVVcXVPVTBHelJUNGdFQmMzdkh4WWlZSXdxZGFEMVljSmtsdGpIX0xVN1BFNUtqNHc0eFFVMHpRWUdiVTBjajA3ZlZkZjh6a2ctX1JWRVNtWldzZmRrd09uMmFKYUtWNnVWanVCdUs0S3RBWW9QTmZvbUdLRDNfVVpTeDRlVzZuS0NzM04wODJoTUR3Z3lMV1RBYk9CQm9nS1dMWjVXRDQzUQ?oc=5"
-    },
-    {
-      "id": "feed-17e3772623",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
-      "title_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
-      "body": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdm50N0FmdUpxeHg2c3Rqd191UjljQi1naE5QdW04Q1hWdWw1NGQ1cWZORG5FM0V1TFRDWTNWczRTMEJ2MFBaU0ZQWVJsVWpHSnlOY0RacVdzZjJUYVFpS3BGeEJaSHhEMzhOeTFYSmpBSjNZNl9lbjg2QjB2N2V4ZWFoNDRYc2pvY2NhdmV1TnRpckhkTEszM1pCNEtGZXRSd3RvNHBfcTFsSDl6S2FHX29CVU1PaktwZjVtTUlkUDdZX04wYW9pQ0x6NkhNS2Fx?oc=5"
     }
   ]
 }

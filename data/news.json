@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T14:42:48.456897+00:00",
+  "updated_at": "2026-08-26T16:17:12.806258+00:00",
   "items": [
     {
       "id": "feed-6560b3176c",
@@ -130,19 +130,6 @@
       "body_en": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes &nbsp;&nbsp; RTL",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWIwaXY3UmxkZDNVSmZsLUFBdlFxeWtfNEpETlowdHNfMG44bTBEZzA2UnJ3X3NONzZUdlhTc0ZDTW16aFJLZjJYcVVTd2NGc3lBZGZldWxDTFU2Z1h2M2V2Zk1jaHhXMHV4NWNnelU0MmVYWXhvaDg3VzROcnYzRjREYlhPSGZZMW1mZi10NGdlMTZlM0p2b0s4Nk1sN2hMX2ROSEhZVG5HZDlDZk8zMnRtRTNBMlJBbnhCaUtLazBGb21nTmdCZk1tNUZsMTFfUUhHQUxONExaa3dpbUM5NDJNTDVUSTRlNlZCWUlISU53MlhNbGlQTFFWN1daUFAyNXludXVlMHNsRzRyRk1TV1J3U3lRT3NFd1lfNg?oc=5"
-    },
-    {
-      "id": "feed-4bc52c78b6",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
-      "title_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
-      "body": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
-      "body_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
     },
     {
       "id": "feed-f34f4b8bba",
@@ -390,6 +377,19 @@
       "body_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0x4bnlVN2ZwQ1RRSnNqTlVJMnJCWHBCeE40TGNEbUt6bVAyRmxJeFlVQ0pXc2M5WmVidkFrajh6TDNIeU9VRWc0UFdQOXVIT1pmQXBGZnVZTFZpYzc5N1NoeVlsLTlEeXhMX3FnMjVUa3ZMRkh4dWJXaFpHR0VMMGdabmtuY3ZnTmZ2cHNjVl8xRFRwS0xmbVhiSVlueUMzd1lTeWc5RlRxakVCdE9YVkJtQXhnNGFhUUI3MXh1dEEteE1ENTRxbzJYd19wZEhVYURVa3cweGRCZGNLMWNFbUYydWt2c0pCVzJObkEtc3g?oc=5"
+    },
+    {
+      "id": "feed-bba9ab740d",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste ayant transité en France testé positif, aujourd'hui isolé en Espagne (gouvernement français) - France 24",
+      "title_en": "Hantavirus : un touriste ayant transité en France testé positif, aujourd'hui isolé en Espagne (gouvernement français) - France 24",
+      "body": "Hantavirus : un touriste ayant transité en France testé positif, aujourd'hui isolé en Espagne (gouvernement français) &nbsp;&nbsp; France 24",
+      "body_en": "Hantavirus : un touriste ayant transité en France testé positif, aujourd'hui isolé en Espagne (gouvernement français) &nbsp;&nbsp; France 24",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWWJGWVRnQS16eDd4THZ5NEZ1OWVxb1hqTnlLcnc3Yk1zbFpib2hVSmQzc3hrbGZSZTJJZC13UjRXMXREUkUzQzFZcGNZQnVhQUJhc25lOWRLX3NnZVIzeVpNSk45RkpWZk9Zc1hHLS1BSkx2Qkp1QTdTLThNQTJzajhja0NmSFhpWnBYbVc5OENWUUhCRExNRURVU3Bvelhuc1NEc3lxYlZLamFHLWFVQV95eGgtMWdSbEJ3cU9mOW5EcTdxU1VlNkxILWQyd0trNHRUUzZWSUZSYjlHX3N0TWI4UllLUlRNazRjbjFya25TWkI5dVNqM0duUUliMG5hZTJSOGVTcUppcXVlUUhpMGRlcw?oc=5"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-26T22:44:32.549660+00:00",
+  "updated_at": "2026-08-27T04:16:02.904551+00:00",
   "items": [
     {
-      "id": "feed-6560b3176c",
+      "id": "feed-4123d067a3",
       "manual": false,
-      "date": "2026-08-23T16:12:03+00:00",
-      "date_label": "23 août 2026",
+      "date": "2026-08-27T02:25:00+00:00",
+      "date_label": "27 août 2026",
       "tag": "media",
-      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
-      "title_en": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
-      "body": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
-      "body_en": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
+      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
+      "title_en": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
+      "body": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
+      "body_en": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5"
     },
     {
       "id": "feed-8cb24d8432",
@@ -39,19 +39,6 @@
       "body_en": "We write in response to Patricia J Garcia and colleagues’ Comment, which mischaracterises the 2026 MV Hondius hantavirus outbreak as indicative of “weak surveillance and coordinated response capacities in Latin America”.1 We agree that regional preparedness should be strengthened. However, this outbreak did not…",
       "source": "The Lancet",
       "source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01431-5/fulltext?rss=yes"
-    },
-    {
-      "id": "feed-6f03e812f5",
-      "manual": false,
-      "date": "2026-08-20T23:24:59+00:00",
-      "date_label": "20 août 2026",
-      "tag": "media",
-      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
-      "title_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
-      "body": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
-      "body_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5"
     },
     {
       "id": "feed-d5eea5377b",
@@ -390,6 +377,19 @@
       "body_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMVZyMnNoTEZFekNxaDFUSGkwbXlfdjh2QTFqRHR1d1VrWExPRmFhNUI5MTJfUVRKS2xQRUQ0Y3I2c25fMTVZUDctN3drcWdMa21ZMFJwRVVKd0VGNEJWNWFINkFOYXNfY0hCbkw4Z2VWNWljZzJPeFNHc0ZjTkpMWm5VYXZrU1R5QWRjUHctOEpHQkNfdlZDMmwyQVNPQk0ySUUwRmdhbDgxbDJZZTlWVGdtWTJndUlwNGFaY1B1Z2FVT21kQy0yTEtxcjF6TmZSS0xvQWFLS2IxZXY0c3RpazJiLTRNOUdmcWp3eWw4eVVKTC1HWHQtdEFsRlE3cWp2X1FfRzg3TTc5cHFXNTB3S2pCbTdrTDJYZExmQ3JTcFFRLTg1WnVYVXIteHBSV1FMSndIa3ppX19RUQ?oc=5"
+    },
+    {
+      "id": "feed-016caffa5e",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - TF1 Info",
+      "title_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne - TF1 Info",
+      "body": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
+      "body_en": "En transit en France, pas de symptômes... Que sait-on du patient testé positif à l'hantavirus et à l'isolement en Espagne &nbsp;&nbsp; TF1 Info",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0x4bnlVN2ZwQ1RRSnNqTlVJMnJCWHBCeE40TGNEbUt6bVAyRmxJeFlVQ0pXc2M5WmVidkFrajh6TDNIeU9VRWc0UFdQOXVIT1pmQXBGZnVZTFZpYzc5N1NoeVlsLTlEeXhMX3FnMjVUa3ZMRkh4dWJXaFpHR0VMMGdabmtuY3ZnTmZ2cHNjVl8xRFRwS0xmbVhiSVlueUMzd1lTeWc5RlRxakVCdE9YVkJtQXhnNGFhUUI3MXh1dEEteE1ENTRxbzJYd19wZEhVYURVa3cweGRCZGNLMWNFbUYydWt2c0pCVzJObkEtc3g?oc=5"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T01:05:05.840814+00:00",
+  "updated_at": "2026-08-30T07:55:18.927481+00:00",
   "items": [
     {
       "id": "feed-4123d067a3",
@@ -39,19 +39,6 @@
       "body_en": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.&nbsp;",
       "source": "ECDC — News & press releases",
       "source_url": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea"
-    },
-    {
-      "id": "feed-6f03e812f5",
-      "manual": false,
-      "date": "2026-08-20T07:00:00+00:00",
-      "date_label": "20 août 2026",
-      "tag": "media",
-      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
-      "title_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
-      "body": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
-      "body_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5"
     },
     {
       "id": "feed-510ebe0aae",
@@ -262,15 +249,28 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2o2WmhQZWd3R3RyZ094SDRQSTBqVmswVmFLbXFKN1Q3cG80YXpYNlNkQzEtcW5pamxCdmVUaHRSTnAwRDhlRXJORHIxYV9oSDZKbEt0emRaZjBQTU9kN0hhM25MR0lVc1JYdk5pU013VXFGeWRpYmVPblZQcklDMUVmU1ZkVXdSLXlyeW5SVlRta0F3eXp5WUwzTVNFVXE2dzNEYlV5d1Y5NkVCY0V0amwzSm1JS2FYVVR3Um9INVNaQ2dKVGZLVFprOHFWUUpWSmxBSF96OFhRWmtOcVZUZmZpUnQ3REFoc3pKdktiNnZvdFVtQTNjVVdxMkVuWlQ1?oc=5"
     },
     {
+      "id": "feed-7bebe6ee5b",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France - BFM",
+      "title_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France - BFM",
+      "body": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM",
+      "body_en": "Hantavirus: ce que l'on sait du cas détecté chez un touriste ayant séjourné en France &nbsp;&nbsp; BFM",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEQyLXJ6ZXFFdHpsU0w2YThiYVprSWRZUHpBM0VxYk9WWDVjMFdMRS1EeHNlWXN3VnlPMmxUOFBoeVVpZTljQWNNOFpiQzRRYU5JaVhtNnEwcXJ0ci1hRjRNWDE3c3JxN3RWMHNFejdaQy14SGExalExbXNDVjhHdkQ0WjhELUI2ME40TnRRcXBPR3VCSllnNHpaRldYNlBsR0dXdWhMQkpXbHBwSElfZGFSekFBa1lLLU1QeS1mSS1VYUNQcm1xMXU5d3R1VjlpNVRWMXJB?oc=5"
+    },
+    {
       "id": "feed-9ce1a04f6a",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus : un homme testé positif après un passage en Normandie - actu.fr",
-      "title_en": "Hantavirus : un homme testé positif après un passage en Normandie - actu.fr",
-      "body": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; actu.fr",
-      "body_en": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; actu.fr",
+      "title": "Hantavirus : un homme testé positif après un passage en Normandie - Actu.fr",
+      "title_en": "Hantavirus : un homme testé positif après un passage en Normandie - Actu.fr",
+      "body": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; Actu.fr",
+      "body_en": "Hantavirus : un homme testé positif après un passage en Normandie &nbsp;&nbsp; Actu.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUdPb2I1R2pZdUcxZk5sM1VtcWxUaEtXWnNaUmpPdU9QX2lrVzF2VWsxdG9tNkFZQk5DalIteFhfdjkyMHdYbVM1T2xSUGZkNWVWbHhHazVSdzh5Y1ktb29JVW5zek5CTklWdXFTTFNXLUVJZVpmcjMzclNLU2pWQk1hSmtMeWtpdTg1bW5IMHphSUdibm1qS214UVh4Rm5BUWRn?oc=5"
     },

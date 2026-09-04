@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:07:12.915129+00:00",
+  "updated_at": "2026-09-04T21:15:08.708931+00:00",
   "items": [
     {
       "id": "feed-a3f506b812",
@@ -80,6 +80,19 @@
       "source_url": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-11-august-2026-imported-case-andes-hantavirus-eueea"
     },
     {
+      "id": "feed-6f03e812f5",
+      "manual": false,
+      "date": "2026-08-20T07:00:00+00:00",
+      "date_label": "20 août 2026",
+      "tag": "media",
+      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
+      "title_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
+      "body": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
+      "body_en": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5"
+    },
+    {
       "id": "feed-510ebe0aae",
       "manual": false,
       "date": "2026-08-13T07:00:00+00:00",
@@ -117,6 +130,19 @@
       "body_en": "Hantavirus : soignants, passagers de train et d’avion… Les cas contact du touriste ayant séjourné en France identifiés &nbsp;&nbsp; Ouest-France",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPN0Fua3RBS1ZZaFVFMkliM2M5T1A1WERIa3d2d3lzd2V3QzlhRlE0ejFPV2R6M1RqM3BOblNZamlNY2hDWGlMWVBTSE5hLTRFa0ZYTjJES25GZWw2R1BVb1VtaS13RzFQRlZaejJ2dmhzLTItUkQwS190SWZORGZWOTdnUWV2LUtjQjdQWXNiUVNyZEtEcVFrZGlNelkxY3RIM3JsYzRvS3dtVTF6M3JHb0E5SFhUVzBSRnhfNFpVWms3QUk1MUhOcTdBSWdjeDJ4WS1fcDNRcnVSN00tYlFXSjUtVEd1V1ZVV0w0cXEtTUNEcWxEWjMwMXBzTFM4VXJzVFlFeEtzREp2QTJfUTJweXpkMkFBSG1HWldqYWZUbmdOSHdidTJPTg?oc=5"
+    },
+    {
+      "id": "feed-5eead695d6",
+      "manual": false,
+      "date": "2026-08-10T07:00:00+00:00",
+      "date_label": "10 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un mois après la fin de l'épidémie, la France détecte un nouveau cas et teste sa vigilance - Politique Matin",
+      "title_en": "Hantavirus : un mois après la fin de l'épidémie, la France détecte un nouveau cas et teste sa vigilance - Politique Matin",
+      "body": "Hantavirus : un mois après la fin de l'épidémie, la France détecte un nouveau cas et teste sa vigilance &nbsp;&nbsp; Politique Matin",
+      "body_en": "Hantavirus : un mois après la fin de l'épidémie, la France détecte un nouveau cas et teste sa vigilance &nbsp;&nbsp; Politique Matin",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWl0Q245Sm5scGZLc1BtZ2gwQ2NtMmpfVTRaWktWRWNhaTJNR3FlOVBFNDFuQ0tXYVV0T3NVdGRJRXNzeUctSnZUYTJaYW41Q1d5bm9jWXJBaFNXTmt2TkRRNmRpQXF6dTdrQVdtX0R5LWZETnRFTFpXTGhIc0RfTFFvSjc5VWJPb1ZlWHc4Q3l6Z0J1ZG5GVExPdW84OTdoMWFJ?oc=5"
     },
     {
       "id": "feed-463465ab55",
@@ -171,19 +197,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjV6RWJDT2ViM2l3TDN0YXVOSEg0N3JfamdYM3JheGdaQzVMcXo3ZnY2d1JYejFtSHFSSWZwQUlVZmdhc0RVeEcxelZOZUpIbTZzSFZDZW5rM1JPOWppNDZ0eF9WbGZSRjNJVlFyUW16c0F3c29kY1dCUUxxZUNqbUkwOTJFT1FMMFh4cHpTQUZXR2NQSUJ3OG81eHJRdzNVQlVvYmwzSE9mRF8yVk0tWGNrSUlMS1RIam80UDM4WmkzbWlWak91WHBSSFNQUjhIcmgxajA5dzdIRVVXWXJ3OUVDUXMwenpaNU4yR1EwU3pqNjZRNWtv?oc=5"
     },
     {
-      "id": "feed-c218469e08",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes - RTL",
-      "title_en": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes - RTL",
-      "body": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes &nbsp;&nbsp; RTL",
-      "body_en": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes &nbsp;&nbsp; RTL",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWIwaXY3UmxkZDNVSmZsLUFBdlFxeWtfNEpETlowdHNfMG44bTBEZzA2UnJ3X3NONzZUdlhTc0ZDTW16aFJLZjJYcVVTd2NGc3lBZGZldWxDTFU2Z1h2M2V2Zk1jaHhXMHV4NWNnelU0MmVYWXhvaDg3VzROcnYzRjREYlhPSGZZMW1mZi10NGdlMTZlM0p2b0s4Nk1sN2hMX2ROSEhZVG5HZDlDZk8zMnRtRTNBMlJBbnhCaUtLazBGb21nTmdCZk1tNUZsMTFfUUhHQUxONExaa3dpbUM5NDJNTDVUSTRlNlZCWUlISU53MlhNbGlQTFFWN1daUFAyNXludXVlMHNsRzRyRk1TV1J3U3lRT3NFd1lfNg?oc=5"
-    },
-    {
       "id": "feed-f34f4b8bba",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
@@ -195,6 +208,19 @@
       "body_en": "Nouvelle-Aquitaine, Normandie... Que sait-on des déplacements du patient testé positif à l'hantavirus? &nbsp;&nbsp; BFM",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZm9wZ2xTZVozSTltcFZOaHF3c0JScWxSdnd2U0J0LW1oSzFSWEc1VFRZUUlERGFXTkZVNU9UeEpVZjFORW5wVVI2RzliRHFnQ3NHbGRwbWMyMXA2OUJzY1NwNHZxby1OZkFLbTZmY2ZSZHVoSzQ1dHgwQkxhb3dBR3BrcU9WckxDWVZaVkJOaGliNkFvS2FfamtNeVlZY1RBRElzQ2t2bG1TS184RVlvb25kUi1OSkxtTEk3U1Q5ckZLVFI1VFFaSWZuUWFlOEo0SlZyZU5RbXFtOER3cVpV?oc=5"
+    },
+    {
+      "id": "feed-c218469e08",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes - RTL",
+      "title_en": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes - RTL",
+      "body": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes &nbsp;&nbsp; RTL",
+      "body_en": "\"La transmissibilité nécessite des contacts très étroits\" : après la détection d'un nouveau cas d'hantavirus en Europe, les autorités se veulent rassurantes &nbsp;&nbsp; RTL",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWIwaXY3UmxkZDNVSmZsLUFBdlFxeWtfNEpETlowdHNfMG44bTBEZzA2UnJ3X3NONzZUdlhTc0ZDTW16aFJLZjJYcVVTd2NGc3lBZGZldWxDTFU2Z1h2M2V2Zk1jaHhXMHV4NWNnelU0MmVYWXhvaDg3VzROcnYzRjREYlhPSGZZMW1mZi10NGdlMTZlM0p2b0s4Nk1sN2hMX2ROSEhZVG5HZDlDZk8zMnRtRTNBMlJBbnhCaUtLazBGb21nTmdCZk1tNUZsMTFfUUhHQUxONExaa3dpbUM5NDJNTDVUSTRlNlZCWUlISU53MlhNbGlQTFFWN1daUFAyNXludXVlMHNsRzRyRk1TV1J3U3lRT3NFd1lfNg?oc=5"
     },
     {
       "id": "feed-099f9e559f",
@@ -236,6 +262,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkRoWHgtSzJlZDJESGhETVVmX3lpVjZ1aUZfWXQ2SnNqTEIyc3hfbHo1eGRKUUFTanM5RDFqVk1wem10MDVtNmcydmNxdGFvSHhoaTZ1SXhpQmRTcXRSWngwbERiRm5yYmlmdEplZDg4eE1GZG5naDZhdDhFcFF2TmlQLVFoNXNhczZ0YWZ0RERyek9T?oc=5"
     },
     {
+      "id": "feed-5509081eb1",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus détecté chez un touriste passé en France : ce que l’on sait - Le Nouvel Obs",
+      "title_en": "Hantavirus détecté chez un touriste passé en France : ce que l’on sait - Le Nouvel Obs",
+      "body": "Hantavirus détecté chez un touriste passé en France : ce que l’on sait &nbsp;&nbsp; Le Nouvel Obs",
+      "body_en": "Hantavirus détecté chez un touriste passé en France : ce que l’on sait &nbsp;&nbsp; Le Nouvel Obs",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2ZRSEJkNjVxdzd2cV9WVWhNOGFPa0wwZzd6aF9peHpfODl0MUUybWdVYm54U3Nrb1MyX3RkQ1pCNkVtS2l5X3AwUldLN040QTN2RnFtUWNrS09INGdiLU5tSHQ5VTEweGtuaURxN3JqN2ZZczlMSDRYTHNaRFpEcEkySDdnY3dTc2RtZ0JRWUlQZHk1TzFpdmdMVUcta3oyQ0dmYTV3Q3RrSEJyWGpid3lzNTgzMkl6aVlJS0ctX1NnUzdY?oc=5"
+    },
+    {
       "id": "feed-9d53329d87",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -267,25 +306,25 @@
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus : que sait-on du touriste contaminé ayant transité en France ? - Radio France",
-      "title_en": "Hantavirus : que sait-on du touriste contaminé ayant transité en France ? - Radio France",
-      "body": "Hantavirus : que sait-on du touriste contaminé ayant transité en France ? &nbsp;&nbsp; Radio France",
-      "body_en": "Hantavirus : que sait-on du touriste contaminé ayant transité en France ? &nbsp;&nbsp; Radio France",
+      "title": "Hantavirus : que sait-on du touriste contaminé ayant transité en France ? - radiofrance.fr",
+      "title_en": "Hantavirus : que sait-on du touriste contaminé ayant transité en France ? - radiofrance.fr",
+      "body": "Hantavirus : que sait-on du touriste contaminé ayant transité en France ? &nbsp;&nbsp; radiofrance.fr",
+      "body_en": "Hantavirus : que sait-on du touriste contaminé ayant transité en France ? &nbsp;&nbsp; radiofrance.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMUVBX19xNjZiS3hOVzFRUjlkeEdGbWZiWllKNk5pLVBwNFQxeWlmN2Q0UG5mVld3cmI4N0dpTktUV0wyUXFGLU0wekNEVF9ldkJpYUhZeHlxV25NLVJUMWwySks4dlpTTnlZMDZJMEVtY1dfMVNDMUF2ek1jcXZ4SnVFTjFaUXJzMkJNV1Q5anktX1VzSy1od2RwejBscXgyYlJGbGNvQ3lzWGxfcWh4dXlReUhBQ3kzZTQwLVM5bnUtbmIxS1otNlhvVDJIUHgySG0xU2hrdEZ2cy1vN1lybjVn?oc=5"
     },
     {
-      "id": "feed-fdf89b230b",
+      "id": "feed-641e7a374c",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne - BFM",
-      "title_en": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne - BFM",
-      "body": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; BFM",
-      "body_en": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; BFM",
+      "title": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet - Libération",
+      "title_en": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet - Libération",
+      "body": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet &nbsp;&nbsp; Libération",
+      "body_en": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet &nbsp;&nbsp; Libération",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTZnLXZ3Vk1RNG9nekdTdEhNYjMzZV84N2otNF9QSVZRMzQxc1BXZjF5SHE1azhjV0YzWTk4dVZJRERPQ0pEYVhjdnRpSHdHdTVnVm5YMnlJWWlYbk10clBTb3BZTnZyNXFyWlE2bEtTV0w2Mm1Na3pOYTRmYmxEeHEtcWY5N3BIMWRVWHhyLU8tS0VYZkV2dkM5Z2VxS2VZX2dEcW5Fc2pmM0xvQ1JmZTZpT1RNTzRmcFY3akd3V1BaTGVtcTQ2MFNR?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeXpjZGs0WDM2c2NZci1KY2Z2dEZmYzdSS1lqN3pQQ19Rci1sNTZnUHVnSmloOERocENSUEFJLUVKaXM4aS1HVlpDdFFvTy03X0lndVhEM0wxRnJlQVN2SzBVQmJaTUt1UVp6OFlUQWdUVXFNZjAtaGJRNnlLWGNSN21jeGxGYlJJVUhCMThKVk5hSG5YaTRnZUl2Um1iVlRzV2VQVGlueTBwMGJHUFlFdlFmbzF0M2JUZUpyWVk3bGQ3TnpsUG85RU5GZkpxXzVQeHgwdkNZOWlCVi1NNlI0UmxyWFViS3dPWjdvbA?oc=5"
     },
     {
       "id": "feed-d46f6533b2",
@@ -301,6 +340,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXl3SUpsSVFXeVF3TWRHZzFoclpuZHRKek9lRmwyVXNpZHNicmQwOE1ERXBVNU02elhqQ0JUdFVKNHFFUGI5MFByNU9FUlFHUG1sVHpNR0w5ZVZHLVVIQXA3c0tNZU5ISVNUdmdBNDc1eXdaZ2VHSWx6TU9MYlQ0bDMwbWZPTndUTVRzUlNNZXNhcHByWXExYkdKWHM1MjgtVnM3ZnB1V2JsSVJYdC1HWVRBYjhyd1Z6REVj?oc=5"
     },
     {
+      "id": "feed-fdf89b230b",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne - BFM",
+      "title_en": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne - BFM",
+      "body": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; BFM",
+      "body_en": "Hantavirus: un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; BFM",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTZnLXZ3Vk1RNG9nekdTdEhNYjMzZV84N2otNF9QSVZRMzQxc1BXZjF5SHE1azhjV0YzWTk4dVZJRERPQ0pEYVhjdnRpSHdHdTVnVm5YMnlJWWlYbk10clBTb3BZTnZyNXFyWlE2bEtTV0w2Mm1Na3pOYTRmYmxEeHEtcWY5N3BIMWRVWHhyLU8tS0VYZkV2dkM5Z2VxS2VZX2dEcW5Fc2pmM0xvQ1JmZTZpT1RNTzRmcFY3akd3V1BaTGVtcTQ2MFNR?oc=5"
+    },
+    {
       "id": "feed-33d7d1e071",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -312,19 +364,6 @@
       "body_en": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation &nbsp;&nbsp; BFM",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWVZoVWdKTXFHN0tDaE5hWUZTOUQ5dzA0d3FkcjVBVlRUeWdhVlJJa3I1TkVaQ3pySFV1ZnBZdU81X2dTblpfbWRpZS10cEVMOV80c0hvaFc5SjhhQVpEaUNITEdHOFJLWUlvSzNBS2tzd0FfV0RTMVhscTlXNVcyUlBienlIZWZMbW5IWnR4dXYzWEM0TnFlckZlREFkOVoySDRGcTNwQXEtR1VTak9wcTdaNDFnanpRQ1dKdkU5VExNN3VpU0xJcVpLaEhYRUU4bTdOaGFWb2FRaksxcmNyV0dpdUhqYzdnOVRwX2xEZjl4WlM5RndwZThn?oc=5"
-    },
-    {
-      "id": "feed-17e3772623",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
-      "title_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
-      "body": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdm50N0FmdUpxeHg2c3Rqd191UjljQi1naE5QdW04Q1hWdWw1NGQ1cWZORG5FM0V1TFRDWTNWczRTMEJ2MFBaU0ZQWVJsVWpHSnlOY0RacVdzZjJUYVFpS3BGeEJaSHhEMzhOeTFYSmpBSjNZNl9lbjg2QjB2N2V4ZWFoNDRYc2pvY2NhdmV1TnRpckhkTEszM1pCNEtGZXRSd3RvNHBfcTFsSDl6S2FHX29CVU1PaktwZjVtTUlkUDdZX04wYW9pQ0x6NkhNS2Fx?oc=5"
     },
     {
       "id": "feed-d0fd8d68c4",
@@ -340,56 +379,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
     },
     {
-      "id": "feed-cd2a97ec64",
+      "id": "feed-0ec1383630",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois - TF1 Info",
-      "title_en": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois - TF1 Info",
-      "body": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois &nbsp;&nbsp; TF1 Info",
-      "body_en": "Hantavirus : la seule Française contaminée est sortie de réanimation au bout de trois mois &nbsp;&nbsp; TF1 Info",
+      "title": "Ebola, hantavirus, variole du singe… Faut-il craindre de nouvelles épidémies en Europe ? - Touteleurope.eu",
+      "title_en": "Ebola, hantavirus, variole du singe… Faut-il craindre de nouvelles épidémies en Europe ? - Touteleurope.eu",
+      "body": "Ebola, hantavirus, variole du singe… Faut-il craindre de nouvelles épidémies en Europe ? &nbsp;&nbsp; Touteleurope.eu",
+      "body_en": "Ebola, hantavirus, variole du singe… Faut-il craindre de nouvelles épidémies en Europe ? &nbsp;&nbsp; Touteleurope.eu",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1BZRzhhU3NNcy14YXZYTTNPXy03WjgtdTdoVGFoeEgtdjdMSmFtNFRNV3psNDRwTTNpcS1fZHdXVVNCSlFzQ1lzODNidF92ODJHWWdQYWY0WEptUF8yY0VWN195YWZ5WmE3U0htTXg1WWhNQmFVMzFlOWpKb0ZZakMyNV9hR3B2U3F5Vm1LYmZTRFdQTUlBdjhfN1E3UHhFVHZoUWxiZ0xLLTVrYmFTZEdhemUzS3VDblR2TlZqd0dKQTVLeHZmSzJB?oc=5"
-    },
-    {
-      "id": "feed-0954ef0ecc",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
-      "title_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités - Le Parisien",
-      "body": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
-      "body_en": "Passé par la France en juillet, isolé en Espagne avec sa famille : ce que l’on sait du nouveau cas d’hantavirus détecté par les autorités &nbsp;&nbsp; Le Parisien",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMVZyMnNoTEZFekNxaDFUSGkwbXlfdjh2QTFqRHR1d1VrWExPRmFhNUI5MTJfUVRKS2xQRUQ0Y3I2c25fMTVZUDctN3drcWdMa21ZMFJwRVVKd0VGNEJWNWFINkFOYXNfY0hCbkw4Z2VWNWljZzJPeFNHc0ZjTkpMWm5VYXZrU1R5QWRjUHctOEpHQkNfdlZDMmwyQVNPQk0ySUUwRmdhbDgxbDJZZTlWVGdtWTJndUlwNGFaY1B1Z2FVT21kQy0yTEtxcjF6TmZSS0xvQWFLS2IxZXY0c3RpazJiLTRNOUdmcWp3eWw4eVVKTC1HWHQtdEFsRlE3cWp2X1FfRzg3TTc5cHFXNTB3S2pCbTdrTDJYZExmQ3JTcFFRLTg1WnVYVXIteHBSV1FMSndIa3ppX19RUQ?oc=5"
-    },
-    {
-      "id": "feed-960ed65d92",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne - Le Parisien",
-      "title_en": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne - Le Parisien",
-      "body": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne &nbsp;&nbsp; Le Parisien",
-      "body_en": "Hantavirus : la Française contaminée sur le MV Hondius sortie de réanimation, un touriste passé par la France testé positif et placé à l’isolement en Espagne &nbsp;&nbsp; Le Parisien",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDIyQUxOalJNcFgwUjh4ckp3MnQ3WVFiSnk4ZW5xMXBXYkQtbzE4dG5hR1lTZmI0ME5Hc0V2bHJMRUp0TzBYU3BmNmR2bUw3cFdFRWNIcHBVTjNiSms0NVpMNUc4YUVES1VvVjNUbks1ZjJPcmlYVjVUcVFqVEhwSkNlZU9vbWgwdnNmSmhfQTF6c3I3LWtTSGNPb1ZfbW9lZ0xFbWpjQy1ERGJlc2tMUmxmTk0xVVMtZ0ZqRjdYN2ZRWWxKR3JVb0VrbExBVFN2OHRZb1R1aC1wSWZmZlhNWVhITGFPdDhPVl9GdHhDT3BEQXcwWHZpd2RjcnR1TVc1ck5LT3hkRQ?oc=5"
-    },
-    {
-      "id": "feed-bba9ab740d",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un touriste ayant transité en France testé positif, aujourd'hui isolé en Espagne (gouvernement français) - France 24",
-      "title_en": "Hantavirus : un touriste ayant transité en France testé positif, aujourd'hui isolé en Espagne (gouvernement français) - France 24",
-      "body": "Hantavirus : un touriste ayant transité en France testé positif, aujourd'hui isolé en Espagne (gouvernement français) &nbsp;&nbsp; France 24",
-      "body_en": "Hantavirus : un touriste ayant transité en France testé positif, aujourd'hui isolé en Espagne (gouvernement français) &nbsp;&nbsp; France 24",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWWJGWVRnQS16eDd4THZ5NEZ1OWVxb1hqTnlLcnc3Yk1zbFpib2hVSmQzc3hrbGZSZTJJZC13UjRXMXREUkUzQzFZcGNZQnVhQUJhc25lOWRLX3NnZVIzeVpNSk45RkpWZk9Zc1hHLS1BSkx2Qkp1QTdTLThNQTJzajhja0NmSFhpWnBYbVc5OENWUUhCRExNRURVU3Bvelhuc1NEc3lxYlZLamFHLWFVQV95eGgtMWdSbEJ3cU9mOW5EcTdxU1VlNkxILWQyd0trNHRUUzZWSUZSYjlHX3N0TWI4UllLUlRNazRjbjFya25TWkI5dVNqM0duUUliMG5hZTJSOGVTcUppcXVlUUhpMGRlcw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGZrVGJqX2ZMaEpaUVQ0dUV2b0YzNDhQN2dJaVRSMmJyZ2djeDFwQjB5a0xNWVdlX29ZZzF1SVV1RE96ejQyVDBKbUVoNEJBelFrZmg4UTZ1WTB4aHZPV3RlSVhoWnBrVjZVVkp1ZHFSZk4zZzhxWmo2dEtMekc5X0pQY000Z2RSUllkTFpkc0txQXVkeDFTZENXLUVPNUx6SmJ0X2ljelB3X09fRTJDZ24zX3MtNFpjVlo5VA?oc=5"
     }
   ]
 }

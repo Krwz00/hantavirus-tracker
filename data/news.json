@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-15T23:24:49.090659+00:00",
+  "updated_at": "2026-09-16T03:30:46.390240+00:00",
   "items": [
     {
       "id": "feed-43f220f2a9",
       "manual": false,
-      "date": "2026-09-08T19:53:54+00:00",
-      "date_label": "8 septembre 2026",
+      "date": "2026-09-09T07:00:00+00:00",
+      "date_label": "9 septembre 2026",
       "tag": "media",
       "title": "Hantavirus : une alerte sanitaire passée au filtre post-Covid - Ifop Group",
       "title_en": "Hantavirus : une alerte sanitaire passée au filtre post-Covid - Ifop Group",
@@ -54,6 +54,45 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQanVocUhvTjAycWdLUFJFRFJGaHFUZVhMSVlRU2Z2eUVxdWtrNmJLeU9YMDFsbDhpRWZPS0V1WWwwckx0TFpMMks0WEdHSGdhbXZ2RlVvaE9vdnAxMGdUT3NiUHRVcTBlel9aN2tUM0ZrNEdWRWM5QkZHeklucFlkcFJHeU9xVVVua1BkbG1iZERNMThURGpPTHJ2Nmg2SjBSQWZuLV9faUt1THljRFhxYnFmaW1NUF9ScDU2a25memtCV1ZoMHBpdTJmXzBVamFaRkExaUhzQVJ5eDBWR3ZCMGxEcWFtaFdaNDhMd2NwekppRXZoZGh4ckRWR25KTDhiMmVCcVA2cDRwSkU?oc=5"
     },
     {
+      "id": "feed-a9ee5502e8",
+      "manual": false,
+      "date": "2026-09-07T07:00:00+00:00",
+      "date_label": "7 septembre 2026",
+      "tag": "media",
+      "title": "Un vaccin contre l’hantavirus bientôt disponible ? - Gavi, the Vaccine Alliance",
+      "title_en": "Un vaccin contre l’hantavirus bientôt disponible ? - Gavi, the Vaccine Alliance",
+      "body": "Un vaccin contre l’hantavirus bientôt disponible ? &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+      "body_en": "Un vaccin contre l’hantavirus bientôt disponible ? &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2xNZFVMU0pwT09welVfb0NvTUpFVTl3eW9mXzZFM1VQZWJpSFh3T2ttXzRCTWcwMHJWTmFzcUxfS0ZuZGw5UHJ2bjFRYXBLVEh3R2JwSVFXNG82RlpBVTE3TTF1SU9BNDg0dmMwbVY1Z05icDZxdWtfdkpDUkNhM0ItelpZVWM?oc=5"
+    },
+    {
+      "id": "feed-611e6f16da",
+      "manual": false,
+      "date": "2026-09-07T07:00:00+00:00",
+      "date_label": "7 septembre 2026",
+      "tag": "media",
+      "title": "Hantavirus : délai trop long, infirmières absentes, rapatriement en jet privé... comment la contamination d'un jeune français a entraîné la quarantaine de 45 personnes cet été - ladepeche.fr",
+      "title_en": "Hantavirus : délai trop long, infirmières absentes, rapatriement en jet privé... comment la contamination d'un jeune français a entraîné la quarantaine de 45 personnes cet été - ladepeche.fr",
+      "body": "Hantavirus : délai trop long, infirmières absentes, rapatriement en jet privé... comment la contamination d'un jeune français a entraîné la quarantaine de 45 personnes cet été &nbsp;&nbsp; ladepeche.fr",
+      "body_en": "Hantavirus : délai trop long, infirmières absentes, rapatriement en jet privé... comment la contamination d'un jeune français a entraîné la quarantaine de 45 personnes cet été &nbsp;&nbsp; ladepeche.fr",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSHlBbHdvSlo3T1pTc0FPOEZmZDZTVmpMNmZXX3B5X2lnejNlb0pTXzRHN05qemZNNFNyWTdJSnpoNDBSMGFlMXJqNUdlMlRUZ3dlX3k0R01VVlpwVGtjWWhWWEFHQXQ3Zno5VkEzakdrOXgtemJLWXNGWTBLVlZfUFdaclJqTFBMdVhxM0xOanMxbl9QTDg3a291Qk5NSzNJR3QtaHlXY3NYLVFBZHlINkdvUGNsanRicnozazY4UGdiNHJybkhLX3ltMERpNnhjMGRQcXZ6UlFqazN1clhQQ0hiOTU3VTVlRGNjQTFmU2NWN001b09JangxZTlOWkhJQ29PbDJRMmtueUJFS0F6d1c3WV81bmczRzUzYkwxejl1aU43?oc=5"
+    },
+    {
+      "id": "feed-43cf739a7f",
+      "manual": false,
+      "date": "2026-09-07T07:00:00+00:00",
+      "date_label": "7 septembre 2026",
+      "tag": "media",
+      "title": "INFO RADIOFRANCE. Hantavirus : 45 personnes ont dû être placées en quarantaine après la détection d'un cas isolé en France cet été - franceinfo",
+      "title_en": "INFO RADIOFRANCE. Hantavirus : 45 personnes ont dû être placées en quarantaine après la détection d'un cas isolé en France cet été - franceinfo",
+      "body": "INFO RADIOFRANCE. Hantavirus : 45 personnes ont dû être placées en quarantaine après la détection d'un cas isolé en France cet été &nbsp;&nbsp; franceinfo",
+      "body_en": "INFO RADIOFRANCE. Hantavirus : 45 personnes ont dû être placées en quarantaine après la détection d'un cas isolé en France cet été &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaHhFa0pUOE4xT2VDd0l3WDNiN2NwU3lOVDZmNVBGX2tBcVMwQ2NBcnVDMkxjV21wbEVfRzA3TXpiMFI2cmVlbDFXcXozWmxBZVpDNzFOWkw4cldvSUQweTA4MkpzTENQd1lzdk5Md2VoUlRoZHBIR01icGZ5TUt2SGNRcFNhU1A1TS1iNzc3cmhDU0FpUUZTV2laN19oRWZXR1pJbkd1ZUtFRGFhN2ZvcTBmQnRYVmdnVUdqU3FUS0lmVUFwUGF6ZjVWd1g1a291ZmVRaGg1WWlVaGt0a25qWEEtcV9ndkRRYXlxUnMyWUQybFpkLVNQZmZhR09BOUh1c2lsaw?oc=5"
+    },
+    {
       "id": "feed-c9a0d788de",
       "manual": false,
       "date": "2026-09-06T07:00:00+00:00",
@@ -85,10 +124,10 @@
       "date": "2026-08-26T07:00:00+00:00",
       "date_label": "26 août 2026",
       "tag": "media",
-      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
-      "title_en": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
-      "body": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
-      "body_en": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
+      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - theconversation.com",
+      "title_en": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - theconversation.com",
+      "body": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; theconversation.com",
+      "body_en": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; theconversation.com",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5"
     },
@@ -111,10 +150,10 @@
       "date": "2026-08-21T07:00:00+00:00",
       "date_label": "21 août 2026",
       "tag": "media",
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - kotatv.com",
-      "title_en": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - kotatv.com",
-      "body": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; kotatv.com",
-      "body_en": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; kotatv.com",
+      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
+      "title_en": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
+      "body": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; KOTA Territory News",
+      "body_en": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; KOTA Territory News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5"
     },
@@ -184,19 +223,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
     },
     {
-      "id": "feed-4661cc5f7f",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
-      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
-      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0N6MmNfR0h4UGg3ajFaUDBrR3NQSVZiOElnUGg0cGVlTXdKUGF4emdkUmdyVzdpQ3hIdU5maGtvcWpIN0ZLQ0RKeVphTnptZVVhc2FHV29aYzRRMFczQ1p3U2Naaml4N3JtNDF4dnBxZGRreVZEZE80SlNhQjlTWHF3ZjVXUzgySzl2RDgyYm4xTFhIdXp4RzlLZlRuRHkwMzRacTh2U3VYRjBSbEVweXNoWkZ4MDZpQnJKbHA2T1RLM1BYdTNFZ1RyeVl2bXJ0cE4xTnlPTi10RmJCSFZQcTlFRnpvX0piZVNuSmVSeEM3SGhhUnc?oc=5"
-    },
-    {
       "id": "feed-acad4cced5",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
@@ -208,6 +234,19 @@
       "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Le Monde.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjV6RWJDT2ViM2l3TDN0YXVOSEg0N3JfamdYM3JheGdaQzVMcXo3ZnY2d1JYejFtSHFSSWZwQUlVZmdhc0RVeEcxelZOZUpIbTZzSFZDZW5rM1JPOWppNDZ0eF9WbGZSRjNJVlFyUW16c0F3c29kY1dCUUxxZUNqbUkwOTJFT1FMMFh4cHpTQUZXR2NQSUJ3OG81eHJRdzNVQlVvYmwzSE9mRF8yVk0tWGNrSUlMS1RIam80UDM4WmkzbWlWak91WHBSSFNQUjhIcmgxajA5dzdIRVVXWXJ3OUVDUXMwenpaNU4yR1EwU3pqNjZRNWtv?oc=5"
+    },
+    {
+      "id": "feed-4661cc5f7f",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
+      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
+      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0N6MmNfR0h4UGg3ajFaUDBrR3NQSVZiOElnUGg0cGVlTXdKUGF4emdkUmdyVzdpQ3hIdU5maGtvcWpIN0ZLQ0RKeVphTnptZVVhc2FHV29aYzRRMFczQ1p3U2Naaml4N3JtNDF4dnBxZGRreVZEZE80SlNhQjlTWHF3ZjVXUzgySzl2RDgyYm4xTFhIdXp4RzlLZlRuRHkwMzRacTh2U3VYRjBSbEVweXNoWkZ4MDZpQnJKbHA2T1RLM1BYdTNFZ1RyeVl2bXJ0cE4xTnlPTi10RmJCSFZQcTlFRnpvX0piZVNuSmVSeEM3SGhhUnc?oc=5"
     },
     {
       "id": "feed-9ce1a04f6a",
@@ -228,77 +267,12 @@
       "date": "2026-08-07T07:00:00+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne - franceinfo",
-      "title_en": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne - franceinfo",
-      "body": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne &nbsp;&nbsp; franceinfo",
-      "body_en": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne &nbsp;&nbsp; franceinfo",
+      "title": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un ... - franceinfo",
+      "title_en": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un ... - franceinfo",
+      "body": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un ... &nbsp;&nbsp; franceinfo",
+      "body_en": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un ... &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORGdhMEg0VWZoaTdNQlZnakVrRmdTbmhrZzhaUFNyNWdtMk5HalRnTy16aExiT2hzWUo4M1ZvOHVjTUQxY0VoSTdFMERWa2hzVVFnR1F4NnVUSGthajR4S0xZaExVQmp0ZTVyNHctTkRGbEpZQ3A1bVJhWTYzanlxQUJodHM1UE9GbjAtTXRRWTVtanRLMGY3ZHNEYmhOakpEQnd4eE5ZVXdlYWF1Z1BaY0R6dGtJVnloTXV0YWZLWWpWUzVBNnJIZFM1bnJFakhqcEZNVXVDMUJGT1BjR3RyQm40dG5hcTdaWHRBWlRtRGlTeTVQaWxQWi1rSWdvZmxRTmhGbEMxZ1VxOUd5UFRqQ3pldUZnRmY3TE92MzB5czBhMkxJX3FiaklB?oc=5"
-    },
-    {
-      "id": "feed-473f3136dd",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - lanouvellerepublique.fr",
-      "title_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin - lanouvellerepublique.fr",
-      "body": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; lanouvellerepublique.fr",
-      "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; lanouvellerepublique.fr",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGxrWUtGbWFhanMteXg0UDFyb1hMSmJRSTlkaE5uM2ZmMUsxcTlSS2l2Q3NjVW9yUHRmeDc5MG12UF9fcWNBSlB3ZmVEQzdUbTJhN1h3MFRiSUw3YXVTRWlsTU9hcXdHWDZ6M1R0Z25Tbm1fQmFzVkFiWG1Wek8wb2JGTkhOQ3lWSnk0YlBfV1VmOHRxXzllTzN2X3B3Wm9aQ1doQU44TmExSWFlQjZlX1RiZWw4SlJ5REFROFNHbm02bEdYbXdHc0dtQjQ3Zmo0M1Zqa3dmRHhOTnpMaEpabnJzTGZGRjA?oc=5"
-    },
-    {
-      "id": "feed-2dc61bc4e6",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un cas détecté chez un touriste en France - Pourquoi Docteur",
-      "title_en": "Hantavirus : un cas détecté chez un touriste en France - Pourquoi Docteur",
-      "body": "Hantavirus : un cas détecté chez un touriste en France &nbsp;&nbsp; Pourquoi Docteur",
-      "body_en": "Hantavirus : un cas détecté chez un touriste en France &nbsp;&nbsp; Pourquoi Docteur",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkRoWHgtSzJlZDJESGhETVVmX3lpVjZ1aUZfWXQ2SnNqTEIyc3hfbHo1eGRKUUFTanM5RDFqVk1wem10MDVtNmcydmNxdGFvSHhoaTZ1SXhpQmRTcXRSWngwbERiRm5yYmlmdEplZDg4eE1GZG5naDZhdDhFcFF2TmlQLVFoNXNhczZ0YWZ0RERyek9T?oc=5"
-    },
-    {
-      "id": "feed-2c0a8e635b",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif - TF1 Info",
-      "title_en": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif - TF1 Info",
-      "body": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif &nbsp;&nbsp; TF1 Info",
-      "body_en": "Hantavirus : les autorités recommandent l'isolement à domicile des \"personnes contacts les plus proches\" du touriste positif &nbsp;&nbsp; TF1 Info",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcnRhd2NFQ0ZYSURkdnUtMGRRXy1LOG9oVDh1U0hmcWVXMkNNcEpudlNkN0s0MUl4YzZfNWVJU25BTllIdGdMWmpqYVU5d1VNSm94dmdKQ3hOdWljbFlHSEpDZ0wyU0w3ZkVfUmlCRlRDeXlfZjNEeXdSYng5aHJKSEtWaU9JZWdkSUNGY18yUUJuVGdKQllDWUhMY2hDX3FSU3NwMkd3NWNHMGY5aUoyNDFveEZhVVZkZjZ1dUpqTEFWMkxRLS1sdFlHa29wSEVYTnZRVWJEYWZDeFlrdnlkdE9wcVFRamRfRHNkcW45c29YMjZLTFI5T01JRWVuVThSZkZPeGxzT00tUQ?oc=5"
-    },
-    {
-      "id": "feed-099f9e559f",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "L’isolement recommandé pour les proches du touriste positif à l’hantavirus - 20 Minutes",
-      "title_en": "L’isolement recommandé pour les proches du touriste positif à l’hantavirus - 20 Minutes",
-      "body": "L’isolement recommandé pour les proches du touriste positif à l’hantavirus &nbsp;&nbsp; 20 Minutes",
-      "body_en": "L’isolement recommandé pour les proches du touriste positif à l’hantavirus &nbsp;&nbsp; 20 Minutes",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3dIV0lJdVpxYm1qbnFjUVdqVHU1eENZQy10SFRaNmxNQS1rNVJTNmhHM3diWjJMcFBpUno3NUdZQjZLRDhxa3E2Rm14eXRRX3dMelFaY3VtcVRXdk5EaDlLeW9MSzZoRjlqLTdIRDdoNUlxa1R2Tm9pSEVSZEZsSUc4VnVtVERQYVlIWlFmNk5qbzJYOTR1amFEaXRoS2VLaFZSWUh4anM4TGUzOXVSSWdjWGV0YmNRa3p2LUIzcFBLWjFFbWdqOXZrZ2pMQkdTWWhjWkRR?oc=5"
-    },
-    {
-      "id": "feed-f883d55e2c",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que l’on sait que du touriste contaminé ayant transité en France - Midi Libre",
-      "title_en": "Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que l’on sait que du touriste contaminé ayant transité en France - Midi Libre",
-      "body": "Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que l’on sait que du touriste contaminé ayant transité en France &nbsp;&nbsp; Midi Libre",
-      "body_en": "Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que l’on sait que du touriste contaminé ayant transité en France &nbsp;&nbsp; Midi Libre",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPUTF5c0UyUlM4bHJjUjFjQzM3WFdfZjdXblJxQnNRd3lzX2hrZV9DbzlJdlhOSm9nd0JMM0psbktRMENnMnBOaDBNUDlYYVNZS054X1NyRnRoWk1jenpKM2MyMlAtVWFKTVZxMU9MQldZcnBILUhBTG5NdHIxX3daY0NYRG82MkczRGkzU3liUHNSUXlIOThiOWpQVWV2TFp6RThfMVJiU0JuRmpCUHlod3pzMU1QdXp5R0sxVlRWRVRfNERwdktBXzJnOUdxcndtcTQtRmRaNHNDcFFob3ZNVFh2YzRmT0xfZVg0Q3pBZjY4c0xlTkpueUkzem9sS2xoR284TjNpaWxJQVk4ZWU2NW1jc1RQWXR3?oc=5"
     },
     {
       "id": "feed-9d53329d87",
@@ -390,6 +364,32 @@
       "body_en": "Le hantavirus Andes refait apparition sur le territoire français : un touriste testé positif après avoir transité par l’Hexagone &nbsp;&nbsp; Midi Libre",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeGw0b3dRUl9xQUF6RDlUTWJ3Yi1Va3dBTjF1a0VKMmk2SVF2N0xOMFJqTUQ4aWMwZ29WMVZEY09TdWFtaFU2WFpwd1dndkMzU2kzRnctU2NNczBTaVRZQWF3U3F2SnZBZDh5bkgtT01Fd0FjODI2dG5TUGk0TjJQc29TekNyNHhMWFBvOFRFM1d5dkpoNlk4TUE2dXctT3FJOVMxaXh1YkVfSU9LUldtSzlBSGVSS0FTSHJtM2VJR0VRYWtId1NKLVhxVE5lQmxWeVdfLVdQM2p5NDU3aFpBTnJfTDU5Mjh5YU81WmtLdmVIb3BESEIzbEpxYUw2Rjd5RUpLSQ?oc=5"
+    },
+    {
+      "id": "feed-8a129fb8fe",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste ayant transité en France testé positif - Le Figaro Santé",
+      "title_en": "Hantavirus : un touriste ayant transité en France testé positif - Le Figaro Santé",
+      "body": "Hantavirus : un touriste ayant transité en France testé positif &nbsp;&nbsp; Le Figaro Santé",
+      "body_en": "Hantavirus : un touriste ayant transité en France testé positif &nbsp;&nbsp; Le Figaro Santé",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGhfMktyZWdFY0c5M21qZWhBUFRCS3J0aEdBU1ZSWHdaNS1sYVgwVlF3cWlXSUJSV29iTTBEb3dHQlZTdV9xTmxzYWxWOFBEaUxVSU45VktIVEROOGVkbktjd1BXOTFFODJrMkxMbkFkNGJpUEg0dUU1cUVtVV81OW9kTC1oYkFvTE5IQkxrNks1NVF3WUhYNFVYcVFLY2MyY0NQSU9jRE5LZWpRNXhnSjg2cF9MODNVTEE?oc=5"
+    },
+    {
+      "id": "feed-615249252c",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : un touriste qui a transité par la France positif à la souche Andes - corsematin.com",
+      "title_en": "Hantavirus : un touriste qui a transité par la France positif à la souche Andes - corsematin.com",
+      "body": "Hantavirus : un touriste qui a transité par la France positif à la souche Andes &nbsp;&nbsp; corsematin.com",
+      "body_en": "Hantavirus : un touriste qui a transité par la France positif à la souche Andes &nbsp;&nbsp; corsematin.com",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOWRfLUx2aWRfZ1I0WDhaM1dYNzVGOXNxQkM0akdOQlFrMXpPZEVmTWNwQUNocDcxOS03aHdHLVBFTDBnM0ktdDBuXzh3aFlZOGEtWlM4cnZncTlUZWpwWmRYZHpoeHMwS0tSTEExMlVLRHh1dmxDWFFGc0hxWUQ2MHpzNTBSYk1ncGMwc0dVcDJFd3U3OEN0R2NqMjRYWTk4dW9Id0xzX1VLZU5oVkFlR3ZQVnJITXFGT2Z1QUxQWEl0RWFiSjNtMjlveVAzVGpi?oc=5"
     }
   ]
 }

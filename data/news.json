@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-12T01:01:09.941264+00:00",
+  "updated_at": "2026-10-12T08:39:51.381958+00:00",
   "items": [
+    {
+      "id": "feed-203970b0a1",
+      "manual": false,
+      "date": "2026-10-12T05:13:48+00:00",
+      "date_label": "12 octobre 2026",
+      "tag": "media",
+      "title": "Trois morts sur un bateau de croisière : c'est quoi l'hantavirus ? - Orange Actualités",
+      "title_en": "Trois morts sur un bateau de croisière : c'est quoi l'hantavirus ? - Orange Actualités",
+      "body": "Trois morts sur un bateau de croisière : c'est quoi l'hantavirus ? &nbsp;&nbsp; Orange Actualités",
+      "body_en": "Trois morts sur un bateau de croisière : c'est quoi l'hantavirus ? &nbsp;&nbsp; Orange Actualités",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmd5U1B5QUtrVV9TQVpla0NIOTZwY2l4Z3FNMXczZVRkdFBXZE55emxzdkhacDhUTkRDQWJYZ0xnMkNva1FZRmtwems3c0RxVmtvVklndXlCeXNjeV92RGdsbDVmTTdBNzNjZ0hOTm5LSFR6WFlrSDRrR3U2bEhpNldjOXhqODh0ejB1ZjZvb0ZaNDBYMDFyLUVSQmhXYmIwNGFrYXFRR2xxZk5kRWpzcUVNQkxQYnZRZkRDX1oxQQ?oc=5"
+    },
     {
       "id": "feed-621c748d5c",
       "manual": false,
@@ -91,19 +104,6 @@
       "body_en": "Of mice and men: Examining how hantavirus leaps from rodent to human &nbsp;&nbsp; Virginia Tech News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5"
-    },
-    {
-      "id": "feed-e7b6b74128",
-      "manual": false,
-      "date": "2026-09-23T07:00:00+00:00",
-      "date_label": "23 septembre 2026",
-      "tag": "media",
-      "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
-      "title_en": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
-      "body": "CDC testing finds no confirmed hantavirus infection in Pine Ridge &nbsp;&nbsp; KOTA Territory News",
-      "body_en": "CDC testing finds no confirmed hantavirus infection in Pine Ridge &nbsp;&nbsp; KOTA Territory News",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmoxM1RvNllOMThUM1BHYTRONThqaWF0VG1JWmF0RVZIRDNORjFraWpHa0NMRXd6LXdfNUJiMTc1YVBNLURuNFdEUGpyWTM1X0VNNE5pWDBwS0pmRFk5dmd2UWh0NHMwRTloLU5udVZPZmtGWl9OSTdJMzdFT2RleXBhM0IzOVJSTDBGZVhfMTlEempkY19OVGE4dkpSd9IBsgFBVV95cUxNM3p3RVR1Ym52WjhjTUhBQW12bTRobmRkOVUxd2x6NW1lSzJMcHF1bWt3OXdCTTBkeElGTDNYa29mdXNnZ1JPajlFZ05WdjdDUHdCb0I1TzltWTFhMW5GOVFFWVFFVm5hSVhnc3FuTlNud21meHRDTHlpdWgwYTgwNzRHazlGcFBvWlpTQUhmT1diNGlEeHhWUGJWLVJWTldqR2YyUHlLYW5JazV4NTc1NE1n?oc=5"
     },
     {
       "id": "feed-56ab46f440",
@@ -327,19 +327,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVkdfbVc3UFUzY3lLU1prSEF6TDJaRVNUcXJXeWI2V0lOTE1DdEVmalJrOHBOaVRSdEtkdDBpeGxIUkIwVm5kYlhhV2NUQ181dTVtUXhQa2REYzBacFR3azNkUDZzUlhRTU5uaVRsU1ZiT1M0bmYzZU9KS1I0ZFdxNGhITE80eEJZdWVkVXJMbGVqMXNZMUIyU0FEV05tbVV4cVc2dUx2anhYN3AtaDFrSWp0RGRUVTYteHZtbm5tRUE0QXBYaV9qX0d3RFg1YjBOYUNzSFgwcXRWekNud0hjSlVZOWJSSDl6c3hEWg?oc=5"
     },
     {
-      "id": "feed-d635db6d0d",
-      "manual": false,
-      "date": "2026-08-11T07:00:00+00:00",
-      "date_label": "11 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : tous les cas contacts du touriste positif ayant séjourné en France ont été identifiés - Nice-Matin",
-      "title_en": "Hantavirus : tous les cas contacts du touriste positif ayant séjourné en France ont été identifiés - Nice-Matin",
-      "body": "Hantavirus : tous les cas contacts du touriste positif ayant séjourné en France ont été identifiés &nbsp;&nbsp; Nice-Matin",
-      "body_en": "Hantavirus : tous les cas contacts du touriste positif ayant séjourné en France ont été identifiés &nbsp;&nbsp; Nice-Matin",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeU01eFRZc0NRRXVLMjF1bGs1TzgwZGlIVFF6Und5Q2d4eHJGdU4xeTFTQ0tSR0M0Sm5kbGlhN3ljX1RjMWdUMWltSm5tV1dXV1o1WVZGbG91WjJuV0VqQXAzZmZIcFRZa2ZmcnFqcXlYZXY0NGpkR1RVOFpkc1k1MXpWX3p2dk1KN1VCWUFhVmJLb20tYV80d0FFLWhfN1ExQTFERzVCYkg5ZVFlUjV5LU5OZmRYaUZLcGJGUEYtX1BJY3o2cm5JenJJTzM0OUF1WnBCMEZzeXZSc1N5MWl1TUFB?oc=5"
-    },
-    {
       "id": "feed-463465ab55",
       "manual": false,
       "date": "2026-08-09T07:00:00+00:00",
@@ -351,6 +338,19 @@
       "body_en": "Sars-CoV-2, mpox, chikungunya, hantavirus, Ebola… Pourquoi les émergences virales se multiplient-elles ? &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVMtSEs5YXFmT09MZDI0dGxUejkwQVc0SFl2MGlXaFFMdkFNT2psOTU2NEdpcWRHVjdyTVVuaWtwUnc2ZC05aXM0aEpydGgyVTdJZlFSemJyS1Z4TFVBN0ozZEhrVDdXNXBGYUJxWkpPY0ZNcGNTSDI3VGVyZ2dvTU9UU2ZlSmhxMV9pdFZWNkVFemlWRlY2c1JkNWNTZHdadXhZR2QteWFSeXk0bmxlQnRPQW1zeU54Z0VwS3AyWW9nV1JpamZjcldLV3hhdXdyNW1hQ3FBNndKdVFuVWpNQ2MyMVNrUQ?oc=5"
+    },
+    {
+      "id": "feed-4bc52c78b6",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
+      "title_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
+      "body": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
+      "body_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
     },
     {
       "id": "feed-c218469e08",
@@ -366,17 +366,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWIwaXY3UmxkZDNVSmZsLUFBdlFxeWtfNEpETlowdHNfMG44bTBEZzA2UnJ3X3NONzZUdlhTc0ZDTW16aFJLZjJYcVVTd2NGc3lBZGZldWxDTFU2Z1h2M2V2Zk1jaHhXMHV4NWNnelU0MmVYWXhvaDg3VzROcnYzRjREYlhPSGZZMW1mZi10NGdlMTZlM0p2b0s4Nk1sN2hMX2ROSEhZVG5HZDlDZk8zMnRtRTNBMlJBbnhCaUtLazBGb21nTmdCZk1tNUZsMTFfUUhHQUxONExaa3dpbUM5NDJNTDVUSTRlNlZCWUlISU53MlhNbGlQTFFWN1daUFAyNXludXVlMHNsRzRyRk1TV1J3U3lRT3NFd1lfNg?oc=5"
     },
     {
-      "id": "feed-4bc52c78b6",
+      "id": "feed-4661cc5f7f",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
       "date_label": "7 août 2026",
       "tag": "media",
-      "title": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
-      "title_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
-      "body": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
-      "body_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
+      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
+      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
+      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0N6MmNfR0h4UGg3ajFaUDBrR3NQSVZiOElnUGg0cGVlTXdKUGF4emdkUmdyVzdpQ3hIdU5maGtvcWpIN0ZLQ0RKeVphTnptZVVhc2FHV29aYzRRMFczQ1p3U2Naaml4N3JtNDF4dnBxZGRreVZEZE80SlNhQjlTWHF3ZjVXUzgySzl2RDgyYm4xTFhIdXp4RzlLZlRuRHkwMzRacTh2U3VYRjBSbEVweXNoWkZ4MDZpQnJKbHA2T1RLM1BYdTNFZ1RyeVl2bXJ0cE4xTnlPTi10RmJCSFZQcTlFRnpvX0piZVNuSmVSeEM3SGhhUnc?oc=5"
     },
     {
       "id": "feed-acad4cced5",

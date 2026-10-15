@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T13:00:00+00:00",
+  "updated_at": "2026-07-22T10:00:00+00:00",
   "stats": {
     "suspected": 3,
     "contacts_monitored": 27,
@@ -181,7 +181,7 @@
       "detail_en": "Two MV Hondius passengers in quarantine expected to return to New York the week of June 2, 2026, according to ABC7 Eyewitness News (30 May 2026).",
       "date": "2026-05-30",
       "source": "ABC7 Eyewitness News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2UzMHktYU83bHF0anM2SEpic21UMU9mck41bUFnYnRPcDZwZXhvd2dlXzVWSEt0NjlvTzVBWVp3TGNPY1dNT1hTaElncnYtRXFmSTZpeWhjR3YzQThXc19WaVdzNUtLdEVuUDJtdUk4a29nNzhFaWNCMWM1VnQ5T0EyZERBaEFqY3NwdzZoREduQVJUQ2R4X2pIR1ZIb1hROFJ2cEVRMl9ITi00dHgxMFBJQjdVZFROUnln"
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2UzMHktYU83bHF0anM2SEpic21UMU9mck41bUFnYnRPcDZwZXhvd2dlXzVWSEt0NjlvTzVBWVp3TGNPY1dNT1hTaElncnYtRXFmSTZpeWhjR3YzQThXc19WaVdzNUtLdEVuUDJtdUk0a29nNzhFaWNCMWM1VnQ5T0EyZERBaEFqY3NwdzZoREduQVJUQ2R4X2pIR1ZIb1hROFJ2cEVRMl9ITi00dHgxMFBJQjdVZFROUnln"
     },
     {
       "id": "us-tx-mon",
@@ -198,6 +198,22 @@
       "date": "2026-06-07",
       "source": "Texas Department of State Health Services, FOX 7 Austin, KERA News, ABC13 Houston",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnRFdzY2REJBemFVcGlhVTlFRExNNlYtZzNITTZqcktRelZpUXpTX3l2bEJRYkdPN0NPNkJ3SkUxeF90QUh1anI4dVdCTTR3OWstMlVXclJQbmxWNER2RlBuWVZTR2lvZlJxejY5alEzN3Q0MUNZc01CckJJTkJyblA5Mk92SE5kZ1NqLU54djhWNkJuZVlhb1NmTWNYSlRaZzJmc2xB"
+    },
+    {
+      "id": "ve-001",
+      "type": "death",
+      "count": 3,
+      "lat": 6.4238,
+      "lng": -66.5897,
+      "location": "Venezuela",
+      "location_en": "Venezuela",
+      "title": "Trois décès confirmés au Venezuela (hantavirus)",
+      "title_en": "Three confirmed hantavirus deaths in Venezuela",
+      "detail": "Le ministère de la Santé vénézuélien confirme trois décès dus à l'hantavirus. Deux décès supplémentaires sont suspectés. Les autorités écartent toute transmission interhumaine. Foyer distinct du cluster MV Hondius.",
+      "detail_en": "Venezuelan Health Ministry confirms three hantavirus deaths. Two additional deaths are suspected. Authorities rule out person-to-person transmission. Outbreak distinct from the MV Hondius cluster.",
+      "date": "2026-07-21",
+      "source": "AP News, Le Parisien, Outbreak News Today",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c"
     }
   ],
   "endemic_zones": [

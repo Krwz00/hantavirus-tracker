@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:59:08.415662+00:00",
+  "updated_at": "2026-10-18T16:26:47.183698+00:00",
   "items": [
     {
       "id": "feed-5d17549e3b",
@@ -132,19 +132,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaHhFa0pUOE4xT2VDd0l3WDNiN2NwU3lOVDZmNVBGX2tBcVMwQ2NBcnVDMkxjV21wbEVfRzA3TXpiMFI2cmVlbDFXcXozWmxBZVpDNzFOWkw4cldvSUQweTA4MkpzTENQd1lzdk5Md2VoUlRoZHBIR01icGZ5TUt2SGNRcFNhU1A1TS1iNzc3cmhDU0FpUUZTV2laN19oRWZXR1pJbkd1ZUtFRGFhN2ZvcTBmQnRYVmdnVUdqU3FUS0lmVUFwUGF6ZjVWd1g1a291ZmVRaGg1WWlVaGt0a25qWEEtcV9ndkRRYXlxUnMyWUQybFpkLVNQZmZhR09BOUh1c2lsaw?oc=5"
     },
     {
-      "id": "feed-a9ee5502e8",
-      "manual": false,
-      "date": "2026-09-07T07:00:00+00:00",
-      "date_label": "7 septembre 2026",
-      "tag": "media",
-      "title": "Un vaccin contre l’hantavirus bientôt disponible ? - Gavi, the Vaccine Alliance",
-      "title_en": "Un vaccin contre l’hantavirus bientôt disponible ? - Gavi, the Vaccine Alliance",
-      "body": "Un vaccin contre l’hantavirus bientôt disponible ? &nbsp;&nbsp; Gavi, the Vaccine Alliance",
-      "body_en": "Un vaccin contre l’hantavirus bientôt disponible ? &nbsp;&nbsp; Gavi, the Vaccine Alliance",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2xNZFVMU0pwT09welVfb0NvTUpFVTl3eW9mXzZFM1VQZWJpSFh3T2ttXzRCTWcwMHJWTmFzcUxfS0ZuZGw5UHJ2bjFRYXBLVEh3R2JwSVFXNG82RlpBVTE3TTF1SU9BNDg0dmMwbVY1Z05icDZxdWtfdkpDUkNhM0ItelpZVWM?oc=5"
-    },
-    {
       "id": "feed-c9a0d788de",
       "manual": false,
       "date": "2026-09-06T07:00:00+00:00",
@@ -223,6 +210,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdG5PWGFKaERGb0hSTEJ5YmFabVdlWDFxNWh1UVc5b2ZBdmNTSmZXOUtLRHdDUDgwV3BPUVZjbnoyR3dUWnptRjNxOVV6SEdfaDFfbXZZZFk3VmZzYThOTktvdUh2NzVaeUVfQnloZDJlbEU1aS00bk5TcHI2MEhoaGJZRExmTmVaZ3dVNWNXTW9uWFYwYlBMRGJPMnUtZjBod3ZYUGRwMUlPMlRDUzJBY3RYcU8ybzMzc0JzNGV0WWU1Zk9OaHdRckJPdFVxTzAzUnRXTHNzaTFJTTBNTGI0eE9qQWM?oc=5"
     },
     {
+      "id": "feed-3349a137f0",
+      "manual": false,
+      "date": "2026-08-11T07:00:00+00:00",
+      "date_label": "11 août 2026",
+      "tag": "media",
+      "title": "Hantavirus : les cas contacts du touriste franco-argentin ont été identifiés - Le Parisien",
+      "title_en": "Hantavirus : les cas contacts du touriste franco-argentin ont été identifiés - Le Parisien",
+      "body": "Hantavirus : les cas contacts du touriste franco-argentin ont été identifiés &nbsp;&nbsp; Le Parisien",
+      "body_en": "Hantavirus : les cas contacts du touriste franco-argentin ont été identifiés &nbsp;&nbsp; Le Parisien",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVkdfbVc3UFUzY3lLU1prSEF6TDJaRVNUcXJXeWI2V0lOTE1DdEVmalJrOHBOaVRSdEtkdDBpeGxIUkIwVm5kYlhhV2NUQ181dTVtUXhQa2REYzBacFR3azNkUDZzUlhRTU5uaVRsU1ZiT1M0bmYzZU9KS1I0ZFdxNGhITE80eEJZdWVkVXJMbGVqMXNZMUIyU0FEV05tbVV4cVc2dUx2anhYN3AtaDFrSWp0RGRUVTYteHZtbm5tRUE0QXBYaV9qX0d3RFg1YjBOYUNzSFgwcXRWekNud0hjSlVZOWJSSDl6c3hEWg?oc=5"
+    },
+    {
       "id": "feed-4bc52c78b6",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
@@ -249,19 +249,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWIwaXY3UmxkZDNVSmZsLUFBdlFxeWtfNEpETlowdHNfMG44bTBEZzA2UnJ3X3NONzZUdlhTc0ZDTW16aFJLZjJYcVVTd2NGc3lBZGZldWxDTFU2Z1h2M2V2Zk1jaHhXMHV4NWNnelU0MmVYWXhvaDg3VzROcnYzRjREYlhPSGZZMW1mZi10NGdlMTZlM0p2b0s4Nk1sN2hMX2ROSEhZVG5HZDlDZk8zMnRtRTNBMlJBbnhCaUtLazBGb21nTmdCZk1tNUZsMTFfUUhHQUxONExaa3dpbUM5NDJNTDVUSTRlNlZCWUlISU53MlhNbGlQTFFWN1daUFAyNXludXVlMHNsRzRyRk1TV1J3U3lRT3NFd1lfNg?oc=5"
     },
     {
-      "id": "feed-4661cc5f7f",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
-      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
-      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
-      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0N6MmNfR0h4UGg3ajFaUDBrR3NQSVZiOElnUGg0cGVlTXdKUGF4emdkUmdyVzdpQ3hIdU5maGtvcWpIN0ZLQ0RKeVphTnptZVVhc2FHV29aYzRRMFczQ1p3U2Naaml4N3JtNDF4dnBxZGRreVZEZE80SlNhQjlTWHF3ZjVXUzgySzl2RDgyYm4xTFhIdXp4RzlLZlRuRHkwMzRacTh2U3VYRjBSbEVweXNoWkZ4MDZpQnJKbHA2T1RLM1BYdTNFZ1RyeVl2bXJ0cE4xTnlPTi10RmJCSFZQcTlFRnpvX0piZVNuSmVSeEM3SGhhUnc?oc=5"
-    },
-    {
       "id": "feed-acad4cced5",
       "manual": false,
       "date": "2026-08-07T07:00:00+00:00",
@@ -273,6 +260,19 @@
       "body_en": "Hantavirus : isolement à domicile recommandé pour les contacts proches du touriste franco-argentin &nbsp;&nbsp; Le Monde.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQjV6RWJDT2ViM2l3TDN0YXVOSEg0N3JfamdYM3JheGdaQzVMcXo3ZnY2d1JYejFtSHFSSWZwQUlVZmdhc0RVeEcxelZOZUpIbTZzSFZDZW5rM1JPOWppNDZ0eF9WbGZSRjNJVlFyUW16c0F3c29kY1dCUUxxZUNqbUkwOTJFT1FMMFh4cHpTQUZXR2NQSUJ3OG81eHJRdzNVQlVvYmwzSE9mRF8yVk0tWGNrSUlMS1RIam80UDM4WmkzbWlWak91WHBSSFNQUjhIcmgxajA5dzdIRVVXWXJ3OUVDUXMwenpaNU4yR1EwU3pqNjZRNWtv?oc=5"
+    },
+    {
+      "id": "feed-4661cc5f7f",
+      "manual": false,
+      "date": "2026-08-07T07:00:00+00:00",
+      "date_label": "7 août 2026",
+      "tag": "media",
+      "title": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
+      "title_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine - Sud Ouest",
+      "body": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Un patient franco-argentin positif à l’hantavirus a transité par la France, et notamment la Nouvelle-Aquitaine &nbsp;&nbsp; Sud Ouest",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0N6MmNfR0h4UGg3ajFaUDBrR3NQSVZiOElnUGg0cGVlTXdKUGF4emdkUmdyVzdpQ3hIdU5maGtvcWpIN0ZLQ0RKeVphTnptZVVhc2FHV29aYzRRMFczQ1p3U2Naaml4N3JtNDF4dnBxZGRreVZEZE80SlNhQjlTWHF3ZjVXUzgySzl2RDgyYm4xTFhIdXp4RzlLZlRuRHkwMzRacTh2U3VYRjBSbEVweXNoWkZ4MDZpQnJKbHA2T1RLM1BYdTNFZ1RyeVl2bXJ0cE4xTnlPTi10RmJCSFZQcTlFRnpvX0piZVNuSmVSeEM3SGhhUnc?oc=5"
     },
     {
       "id": "feed-e74ec318b2",
@@ -327,6 +327,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGZrVGJqX2ZMaEpaUVQ0dUV2b0YzNDhQN2dJaVRSMmJyZ2djeDFwQjB5a0xNWVdlX29ZZzF1SVV1RE96ejQyVDBKbUVoNEJBelFrZmg4UTZ1WTB4aHZPV3RlSVhoWnBrVjZVVkp1ZHFSZk4zZzhxWmo2dEtMekc5X0pQY000Z2RSUllkTFpkc0txQXVkeDFTZENXLUVPNUx6SmJ0X2ljelB3X09fRTJDZ24zX3MtNFpjVlo5VA?oc=5"
     },
     {
+      "id": "feed-33d7d1e071",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation - BFM",
+      "title_en": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation - BFM",
+      "body": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation &nbsp;&nbsp; BFM",
+      "body_en": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation &nbsp;&nbsp; BFM",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWVZoVWdKTXFHN0tDaE5hWUZTOUQ5dzA0d3FkcjVBVlRUeWdhVlJJa3I1TkVaQ3pySFV1ZnBZdU81X2dTblpfbWRpZS10cEVMOV80c0hvaFc5SjhhQVpEaUNITEdHOFJLWUlvSzNBS2tzd0FfV0RTMVhscTlXNVcyUlBienlIZWZMbW5IWnR4dXYzWEM0TnFlckZlREFkOVoySDRGcTNwQXEtR1VTak9wcTdaNDFnanpRQ1dKdkU5VExNN3VpU0xJcVpLaEhYRUU4bTdOaGFWb2FRaksxcmNyV0dpdUhqYzdnOVRwX2xEZjl4WlM5RndwZThn?oc=5"
+    },
+    {
       "id": "feed-75013e9f13",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -353,19 +366,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcWhXU3NqdzhZV1NzWGJ0NTlQYTRyM05UYUVGcWxVeWFJb2lhVURJRTMwVTJ2ZUROS2FqT3B3bGlYSDdoOEdtRV90clEwN3BIT2hWTndoeDZBb2NqcTNmNzNQUUg5YndVZHlvYy1VTG9nbVJzS3hkekZBZ2dLRFF1MzBadHIwMVp2MDlMQzRJUXFYMUVWUWIyMEEzZjBaTWlrRlFNeVlYNEs5NzY0OVBNU2JHWUNIb0RBa3c?oc=5"
     },
     {
-      "id": "feed-33d7d1e071",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation - BFM",
-      "title_en": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation - BFM",
-      "body": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation &nbsp;&nbsp; BFM",
-      "body_en": "Hantavirus: la seule Française contaminée au printemps sur le navire de croisière MV Hondius est sortie de réanimation &nbsp;&nbsp; BFM",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWVZoVWdKTXFHN0tDaE5hWUZTOUQ5dzA0d3FkcjVBVlRUeWdhVlJJa3I1TkVaQ3pySFV1ZnBZdU81X2dTblpfbWRpZS10cEVMOV80c0hvaFc5SjhhQVpEaUNITEdHOFJLWUlvSzNBS2tzd0FfV0RTMVhscTlXNVcyUlBienlIZWZMbW5IWnR4dXYzWEM0TnFlckZlREFkOVoySDRGcTNwQXEtR1VTak9wcTdaNDFnanpRQ1dKdkU5VExNN3VpU0xJcVpLaEhYRUU4bTdOaGFWb2FRaksxcmNyV0dpdUhqYzdnOVRwX2xEZjl4WlM5RndwZThn?oc=5"
-    },
-    {
       "id": "feed-d0fd8d68c4",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -379,17 +379,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
     },
     {
-      "id": "feed-d8a1221a0c",
+      "id": "feed-17e3772623",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne - La Montagne",
-      "title_en": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne - La Montagne",
-      "body": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne &nbsp;&nbsp; La Montagne",
-      "body_en": "Hantavirus : un touriste franco-argentin positif après un passage en France, désormais isolé en Espagne &nbsp;&nbsp; La Montagne",
+      "title": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
+      "title_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne - Sud Ouest",
+      "body": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
+      "body_en": "Hantavirus : un touriste ayant transité en France testé positif et isolé en Espagne &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRzdDVmY1RmtndzFpWG1oTnZIbXRVMUZPSFlBY3ppSzZLTThLMGt2ZHlrWmhULWhOQUlqYXlUMDdfQWNqYzBuZGMzRG4tVVplSDBLUERPbDg2b1hGa295SE1EX2xaZ3owOE1Da3g3Q05NM1lDSnlVRVdEOFVETkpfRGp6UEE4M2stemN6MWM4UURGeWJuSnhwNGVSb2swY0c4T25qa1ZYN0xETEhTbkh0TXJOek10dm5tTU5ZRkx4RVhjdS1yOVl1NFpVN1hKTzRaVURua1g0RG95NktnLURhNFhSVWpZSHltRkZia1QwNXEzZw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdm50N0FmdUpxeHg2c3Rqd191UjljQi1naE5QdW04Q1hWdWw1NGQ1cWZORG5FM0V1TFRDWTNWczRTMEJ2MFBaU0ZQWVJsVWpHSnlOY0RacVdzZjJUYVFpS3BGeEJaSHhEMzhOeTFYSmpBSjNZNl9lbjg2QjB2N2V4ZWFoNDRYc2pvY2NhdmV1TnRpckhkTEszM1pCNEtGZXRSd3RvNHBfcTFsSDl6S2FHX29CVU1PaktwZjVtTUlkUDdZX04wYW9pQ0x6NkhNS2Fx?oc=5"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T22:07:56.262437+00:00",
+  "updated_at": "2026-10-21T01:18:23.522477+00:00",
   "items": [
     {
       "id": "feed-3de42fcee7",
@@ -65,19 +65,6 @@
       "body_en": "Of mice and men: Examining how hantavirus leaps from rodent to human &nbsp;&nbsp; Virginia Tech News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5"
-    },
-    {
-      "id": "feed-e7b6b74128",
-      "manual": false,
-      "date": "2026-09-23T07:00:00+00:00",
-      "date_label": "23 septembre 2026",
-      "tag": "media",
-      "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
-      "title_en": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
-      "body": "CDC testing finds no confirmed hantavirus infection in Pine Ridge &nbsp;&nbsp; KOTA Territory News",
-      "body_en": "CDC testing finds no confirmed hantavirus infection in Pine Ridge &nbsp;&nbsp; KOTA Territory News",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmoxM1RvNllOMThUM1BHYTRONThqaWF0VG1JWmF0RVZIRDNORjFraWpHa0NMRXd6LXdfNUJiMTc1YVBNLURuNFdEUGpyWTM1X0VNNE5pWDBwS0pmRFk5dmd2UWh0NHMwRTloLU5udVZPZmtGWl9OSTdJMzdFT2RleXBhM0IzOVJSTDBGZVhfMTlEempkY19OVGE4dkpSd9IBsgFBVV95cUxNM3p3RVR1Ym52WjhjTUhBQW12bTRobmRkOVUxd2x6NW1lSzJMcHF1bWt3OXdCTTBkeElGTDNYa29mdXNnZ1JPajlFZ05WdjdDUHdCb0I1TzltWTFhMW5GOVFFWVFFVm5hSVhnc3FuTlNud21meHRDTHlpdWgwYTgwNzRHazlGcFBvWlpTQUhmT1diNGlEeHhWUGJWLVJWTldqR2YyUHlLYW5JazV4NTc1NE1n?oc=5"
     },
     {
       "id": "feed-1e80e328f7",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne &nbsp;&nbsp; VIDAL",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcWhXU3NqdzhZV1NzWGJ0NTlQYTRyM05UYUVGcWxVeWFJb2lhVURJRTMwVTJ2ZUROS2FqT3B3bGlYSDdoOEdtRV90clEwN3BIT2hWTndoeDZBb2NqcTNmNzNQUUg5YndVZHlvYy1VTG9nbVJzS3hkekZBZ2dLRFF1MzBadHIwMVp2MDlMQzRJUXFYMUVWUWIyMEEzZjBaTWlrRlFNeVlYNEs5NzY0OVBNU2JHWUNIb0RBa3c?oc=5"
+    },
+    {
+      "id": "feed-d0fd8d68c4",
+      "manual": false,
+      "date": "2026-08-06T07:00:00+00:00",
+      "date_label": "6 août 2026",
+      "tag": "media",
+      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
+      "title_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
+      "body": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
+      "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
     }
   ]
 }

@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-22T22:07:17.868277+00:00",
+  "updated_at": "2026-10-23T01:13:56.972863+00:00",
   "items": [
+    {
+      "id": "feed-1e3ccf56eb",
+      "manual": false,
+      "date": "2026-10-22T23:50:03+00:00",
+      "date_label": "22 octobre 2026",
+      "tag": "media",
+      "title": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells - Genetic Engineering and Biotechnology News",
+      "title_en": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells - Genetic Engineering and Biotechnology News",
+      "body": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "body_en": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcXRGMjJnX0ZhOXdrV3lDaVl2cTlwaHBTSndLM2J3R3BuMWRyVTloa2N3UzB2bFJmRHprUzJaSUNDVE9xcnhFU2FpN0lSemZtM3BaeHVXZklnaEFrRmVPWWI5WklWV1hqUl9vMmswZXlheGFQZEoxZDJ5VzB6TWhGVHZLRTlRSTh3b1k2TzRDeE45SEtnU3liblFPc1RVWVRPZVRKVkEycEIwRHRSazZMc2w4YnpZbG1KSWN4MFBXTUZmNHFvVlE?oc=5"
+    },
     {
       "id": "feed-54bffdcab7",
       "manual": false,
@@ -377,19 +390,6 @@
       "body_en": "Sars-CoV-2, mpox, chikungunya, hantavirus, Ebola… Pourquoi les émergences virales se multiplient-elles ? &nbsp;&nbsp; Sud Ouest",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVMtSEs5YXFmT09MZDI0dGxUejkwQVc0SFl2MGlXaFFMdkFNT2psOTU2NEdpcWRHVjdyTVVuaWtwUnc2ZC05aXM0aEpydGgyVTdJZlFSemJyS1Z4TFVBN0ozZEhrVDdXNXBGYUJxWkpPY0ZNcGNTSDI3VGVyZ2dvTU9UU2ZlSmhxMV9pdFZWNkVFemlWRlY2c1JkNWNTZHdadXhZR2QteWFSeXk0bmxlQnRPQW1zeU54Z0VwS3AyWW9nV1JpamZjcldLV3hhdXdyNW1hQ3FBNndKdVFuVWpNQ2MyMVNrUQ?oc=5"
-    },
-    {
-      "id": "feed-21b6a8d375",
-      "manual": false,
-      "date": "2026-08-08T07:00:00+00:00",
-      "date_label": "8 août 2026",
-      "tag": "media",
-      "title": "VIDÉO. Hantavirus : les cas contacts seront isolés à domicile - tv5monde",
-      "title_en": "VIDÉO. Hantavirus : les cas contacts seront isolés à domicile - tv5monde",
-      "body": "VIDÉO. Hantavirus : les cas contacts seront isolés à domicile &nbsp;&nbsp; tv5monde",
-      "body_en": "VIDÉO. Hantavirus : les cas contacts seront isolés à domicile &nbsp;&nbsp; tv5monde",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1Y5aDRiZjJNcW5EdnFPaWJhTHZFNnRqVU83WlZ3RlNqRlhUb0dHR0ZQY2IyZDlOM29xRzZZRkhsUHJmQ3ZBTUY5Rk0zZ3pncDVLSklXOXpnVjJMRWEtN0ZYc0xJZUNDeGpPMHdOTllKMmhUUHBpaTM4OWNwa0xqTldza0lnaHB6WkJzcm1rSU1QdllLNTVjQkFPSGxJWmh5YmNtS3YwNVRDcmVsTVhMQQ?oc=5"
     }
   ]
 }

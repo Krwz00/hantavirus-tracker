@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:48:28.471055+00:00",
+  "updated_at": "2026-10-25T14:50:32.054479+00:00",
   "items": [
     {
       "id": "feed-3de42fcee7",
@@ -15,6 +15,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5"
     },
     {
+      "id": "feed-2694f868a2",
+      "manual": false,
+      "date": "2026-10-23T18:34:45+00:00",
+      "date_label": "23 octobre 2026",
+      "tag": "media",
+      "title": "Andes hantavirus has a secret pocket - C&EN",
+      "title_en": "Andes hantavirus has a secret pocket - C&EN",
+      "body": "Andes hantavirus has a secret pocket &nbsp;&nbsp; C&amp;EN",
+      "body_en": "Andes hantavirus has a secret pocket &nbsp;&nbsp; C&amp;EN",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5"
+    },
+    {
       "id": "feed-1ed673ef83",
       "manual": false,
       "date": "2026-10-21T22:46:06+00:00",
@@ -28,17 +41,30 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMlU0MmtKTXVLOWtHeTlyZEYtSHVMemdBVktNRWkxeTM1NjhHVThlR28tUEZ6UmlpcU1RT3NoaVR5MWJVSzhyVEY2Mi0zV1dSU2F1dDNLLWJmcEs1ZGE4?oc=5"
     },
     {
-      "id": "feed-2694f868a2",
+      "id": "feed-2f4d175b66",
       "manual": false,
-      "date": "2026-10-21T07:00:00+00:00",
+      "date": "2026-10-21T22:39:00+00:00",
       "date_label": "21 octobre 2026",
       "tag": "media",
-      "title": "Andes hantavirus has a secret pocket - C&EN",
-      "title_en": "Andes hantavirus has a secret pocket - C&EN",
-      "body": "Andes hantavirus has a secret pocket &nbsp;&nbsp; C&amp;EN",
-      "body_en": "Andes hantavirus has a secret pocket &nbsp;&nbsp; C&amp;EN",
+      "title": "LSU Health Shreveport researchers unlock how hantavirus infects humans - KTBS 3",
+      "title_en": "LSU Health Shreveport researchers unlock how hantavirus infects humans - KTBS 3",
+      "body": "LSU Health Shreveport researchers unlock how hantavirus infects humans &nbsp;&nbsp; KTBS 3",
+      "body_en": "LSU Health Shreveport researchers unlock how hantavirus infects humans &nbsp;&nbsp; KTBS 3",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON3p5ZVVxYkdQVmdLUVRiTGhhTUxoTDdoaVJVYm52UUJZazZEcURzUE5ZQWFuUGt2dm5MbHNId3RsbTFaYmdBMkpGclhUYmxRdENzLUJvS1ozZzQzN1lOSFRtRkxzSkU0X1ZYSGppMFNtcFdaSHdicU1PR1ROT2lCV0pHUTdNRE5YVExwVWQ2LVJoRWRGczFPT0hYWExBU0JuSnJ2Yk9QQUpKTmJ0ZEpKVVFPai1nZWU0VktVa3l0bVdINFNmaWpBRVM5bzZMY2taSDJEYzRGTU5JSF9fQUNZN0lTUlBsV2otdzBmX0RORWN4d0hReWVR?oc=5"
+    },
+    {
+      "id": "feed-fb72378e37",
+      "manual": false,
+      "date": "2026-10-21T00:00:00+00:00",
+      "date_label": "21 octobre 2026",
+      "tag": "research",
+      "title": "Structural basis for protocadherin-1 recognition by New World hantaviruses",
+      "title_en": "Structural basis for protocadherin-1 recognition by New World hantaviruses",
+      "body": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11184-1 The structure of PCDH1 bound to the ANDV spike defines the structural determinants of hantavirus–receptor recognition.",
+      "body_en": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11184-1 The structure of PCDH1 bound to the ANDV spike defines the structural determinants of hantavirus–receptor recognition.",
+      "source": "Nature — News",
+      "source_url": "https://www.nature.com/articles/s41586-026-11184-1"
     },
     {
       "id": "feed-cbd4563776",
@@ -54,6 +80,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0ZpWjFYVHdhSERqNHVzd3l0MXJlNVdycWhBd1F2eTNIQkh3MmwwaEhuVzNyUGUxTzFadmxQVmhwcHJFU21tWHk4MHd5R3ZKSklKU1FGOGw2Tm5LRmk0MU11Y1hKb3dpaExUaEZUOUZESEk1ekFfSHdrbk41bHZGZmhSalByX2JSSk9xVWhJazllVVBDRXprTGhtVW5BV3dBTi1HdXhhSk5JUmktdjk0?oc=5"
     },
     {
+      "id": "feed-a2f3a7473a",
+      "manual": false,
+      "date": "2026-10-07T07:00:00+00:00",
+      "date_label": "7 octobre 2026",
+      "tag": "media",
+      "title": "Au Sénégal, des chercheurs de l'Institut Pasteur traquent les hantavirus, qui ont fait trois morts au printemps dernier - franceinfo",
+      "title_en": "Au Sénégal, des chercheurs de l'Institut Pasteur traquent les hantavirus, qui ont fait trois morts au printemps dernier - franceinfo",
+      "body": "Au Sénégal, des chercheurs de l'Institut Pasteur traquent les hantavirus, qui ont fait trois morts au printemps dernier &nbsp;&nbsp; franceinfo",
+      "body_en": "Au Sénégal, des chercheurs de l'Institut Pasteur traquent les hantavirus, qui ont fait trois morts au printemps dernier &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSFVXOXpnT0U2UmVxaHJNcEoxNVI3VnMwTUk0Ym43dzJmUm1Oc2JVNGJ3V1UwR2lVTFpFQ1VoaEUwY0FFeEw2ZFpZMGhxdzRmUmxqeHE2YUY3NlFHalloa3ppZWFfNWE2bG9mSEV4d2JHVHhKaXVFMTZKb1RlRWNFWHFXNlpqTUFCU0tHNEh3Y1RMdzFwc295ZWd1VnNRMlRFdkVMaF9DUFZLOTJQNmp6TXN3ZWhGYThnbkpoSFMxenhrX2N3Tmt2RTV5T2JEUjh0T3E0bnFSWDd3TDZkNWxaLUVXZXRpQTRyTFpqTWtiM3VCbXZmd3FYTUNqc044aHpucWRXdm1PQ2gzNHpsMnc?oc=5"
+    },
+    {
       "id": "feed-1ae586c443",
       "manual": false,
       "date": "2026-09-24T07:00:00+00:00",
@@ -65,6 +104,19 @@
       "body_en": "Of mice and men: Examining how hantavirus leaps from rodent to human &nbsp;&nbsp; Virginia Tech News",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5"
+    },
+    {
+      "id": "feed-56ab46f440",
+      "manual": false,
+      "date": "2026-09-22T07:00:00+00:00",
+      "date_label": "22 septembre 2026",
+      "tag": "media",
+      "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - CIDRAP",
+      "title_en": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - CIDRAP",
+      "body": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections &nbsp;&nbsp; CIDRAP",
+      "body_en": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections &nbsp;&nbsp; CIDRAP",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk?oc=5"
     },
     {
       "id": "feed-2153e537cd",
@@ -314,19 +366,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWVZoVWdKTXFHN0tDaE5hWUZTOUQ5dzA0d3FkcjVBVlRUeWdhVlJJa3I1TkVaQ3pySFV1ZnBZdU81X2dTblpfbWRpZS10cEVMOV80c0hvaFc5SjhhQVpEaUNITEdHOFJLWUlvSzNBS2tzd0FfV0RTMVhscTlXNVcyUlBienlIZWZMbW5IWnR4dXYzWEM0TnFlckZlREFkOVoySDRGcTNwQXEtR1VTak9wcTdaNDFnanpRQ1dKdkU5VExNN3VpU0xJcVpLaEhYRUU4bTdOaGFWb2FRaksxcmNyV0dpdUhqYzdnOVRwX2xEZjl4WlM5RndwZThn?oc=5"
     },
     {
-      "id": "feed-9d53329d87",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo",
-      "title_en": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo",
-      "body": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé &nbsp;&nbsp; franceinfo",
-      "body_en": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé &nbsp;&nbsp; franceinfo",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVlTdElUNVRtYWJCdUF2TG93Si1PLTNhTHIwLTJSelpsNWM2SEFRa01yQkRuMEE3ZUJyVW9OeUlsYkdoWkdJckxCWkJfNl81Y08zbFVhWkNRalpVUUpnRE8xa2V5YUhMUy0ta1Utdl8zV3k3TFQ0U0tOTmdBTkVFN0wwdjAtTzRadndOcV8tVTJwVy04LWpZTjY0WEVQdG91akZoZnhKTFQ0TXdSUXNxaE8ya01nMGZDUUVhR1NIWkVmMngxSnlGeVVwcnZsRDcyOFZwejhKRDNKa2lYY3Jib0hFTDVuWDA2aW85dk1mZmtUUUEybjViN25zMXJmb1Z0aW1GMXEtUnc?oc=5"
-    },
-    {
       "id": "feed-0ec1383630",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
@@ -340,56 +379,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGZrVGJqX2ZMaEpaUVQ0dUV2b0YzNDhQN2dJaVRSMmJyZ2djeDFwQjB5a0xNWVdlX29ZZzF1SVV1RE96ejQyVDBKbUVoNEJBelFrZmg4UTZ1WTB4aHZPV3RlSVhoWnBrVjZVVkp1ZHFSZk4zZzhxWmo2dEtMekc5X0pQY000Z2RSUllkTFpkc0txQXVkeDFTZENXLUVPNUx6SmJ0X2ljelB3X09fRTJDZ24zX3MtNFpjVlo5VA?oc=5"
     },
     {
-      "id": "feed-75013e9f13",
+      "id": "feed-9d53329d87",
       "manual": false,
       "date": "2026-08-06T07:00:00+00:00",
       "date_label": "6 août 2026",
       "tag": "media",
-      "title": "Hantavirus : un touriste ayant séjourné en France en juillet, testé positif et isolé en Espagne - Touteleurope.eu",
-      "title_en": "Hantavirus : un touriste ayant séjourné en France en juillet, testé positif et isolé en Espagne - Touteleurope.eu",
-      "body": "Hantavirus : un touriste ayant séjourné en France en juillet, testé positif et isolé en Espagne &nbsp;&nbsp; Touteleurope.eu",
-      "body_en": "Hantavirus : un touriste ayant séjourné en France en juillet, testé positif et isolé en Espagne &nbsp;&nbsp; Touteleurope.eu",
+      "title": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo",
+      "title_en": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo",
+      "body": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé &nbsp;&nbsp; franceinfo",
+      "body_en": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEJxOHNfeVg1ZW9lbFFhcy1GaVFDQThVREtXRnY4dXYxaUI2T3Q0QkQ1UHUwUjJ4N3pKNTJMODNuVExsUnYwTzVsUU1aOVlNS0N6ZndIa21rSUlhaElCRjJKbEpmTDY3QXRYNi00UDEtRkZiU003dWhLX0Z3UFYxMFBWZ3ZyTEtoaUJoa1BibThUa1dzck9TcUltRFJ5NFFNelB1Umhkd2NnYlU1dllyZWtxbVBkUlNiLU96QUhEcTI2aVFNWHJVbg?oc=5"
-    },
-    {
-      "id": "feed-af96b3faf8",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne - VIDAL",
-      "title_en": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne - VIDAL",
-      "body": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne &nbsp;&nbsp; VIDAL",
-      "body_en": "Hantavirus : un touriste ayant transité en France positif et isolé en Espagne &nbsp;&nbsp; VIDAL",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcWhXU3NqdzhZV1NzWGJ0NTlQYTRyM05UYUVGcWxVeWFJb2lhVURJRTMwVTJ2ZUROS2FqT3B3bGlYSDdoOEdtRV90clEwN3BIT2hWTndoeDZBb2NqcTNmNzNQUUg5YndVZHlvYy1VTG9nbVJzS3hkekZBZ2dLRFF1MzBadHIwMVp2MDlMQzRJUXFYMUVWUWIyMEEzZjBaTWlrRlFNeVlYNEs5NzY0OVBNU2JHWUNIb0RBa3c?oc=5"
-    },
-    {
-      "id": "feed-d0fd8d68c4",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
-      "title_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation - franceinfo",
-      "body": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
-      "body_en": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation &nbsp;&nbsp; franceinfo",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUl2S2dmOVFvQmUyWk5ub3NabDBlZlh1by1pUlpBa2w2YzZlSmd3eDRYSV8yWVFHUTFlZEZGSERpSXN1UnY4V25sLUgtT2Rod3JudkVVS1JWZHhTRWtJZHJwT1dqS25KNlNBZlB5NDJMOG9fa1dYdWhZTlFqTWU2MlREQXV0a1FYQWxFV0lsbk50RkxvUFJHSGN0RGZKWTl1NVI0cmNEYlFnNWRSdUI0YWxOcUJGblRNcmxOam1mZGpsWHFET0ExS2RWek5DQTlJU2FUNFVMNmpCY0pGYnY3Q1FWc0xINzg2a0taamN2NDM?oc=5"
-    },
-    {
-      "id": "feed-641e7a374c",
-      "manual": false,
-      "date": "2026-08-06T07:00:00+00:00",
-      "date_label": "6 août 2026",
-      "tag": "media",
-      "title": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet - Libération",
-      "title_en": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet - Libération",
-      "body": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet &nbsp;&nbsp; Libération",
-      "body_en": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet &nbsp;&nbsp; Libération",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeXpjZGs0WDM2c2NZci1KY2Z2dEZmYzdSS1lqN3pQQ19Rci1sNTZnUHVnSmloOERocENSUEFJLUVKaXM4aS1HVlpDdFFvTy03X0lndVhEM0wxRnJlQVN2SzBVQmJaTUt1UVp6OFlUQWdUVXFNZjAtaGJRNnlLWGNSN21jeGxGYlJJVUhCMThKVk5hSG5YaTRnZUl2Um1iVlRzV2VQVGlueTBwMGJHUFlFdlFmbzF0M2JUZUpyWVk3bGQ3TnpsUG85RU5GZkpxXzVQeHgwdkNZOWlCVi1NNlI0UmxyWFViS3dPWjdvbA?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVlTdElUNVRtYWJCdUF2TG93Si1PLTNhTHIwLTJSelpsNWM2SEFRa01yQkRuMEE3ZUJyVW9OeUlsYkdoWkdJckxCWkJfNl81Y08zbFVhWkNRalpVUUpnRE8xa2V5YUhMUy0ta1Utdl8zV3k3TFQ0U0tOTmdBTkVFN0wwdjAtTzRadndOcV8tVTJwVy04LWpZTjY0WEVQdG91akZoZnhKTFQ0TXdSUXNxaE8ya01nMGZDUUVhR1NIWkVmMngxSnlGeVVwcnZsRDcyOFZwejhKRDNKa2lYY3Jib0hFTDVuWDA2aW85dk1mZmtUUUEybjViN25zMXJmb1Z0aW1GMXEtUnc?oc=5"
     }
   ]
 }

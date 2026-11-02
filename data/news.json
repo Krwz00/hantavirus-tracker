@@ -1,31 +1,44 @@
 {
-  "updated_at": "2026-11-02T07:15:59.700010+00:00",
+  "updated_at": "2026-11-02T17:51:00.778229+00:00",
   "items": [
     {
-      "id": "feed-1db9ec50d2",
+      "id": "feed-f92f624a52",
       "manual": false,
-      "date": "2026-10-31T04:01:11+00:00",
-      "date_label": "31 octobre 2026",
+      "date": "2026-11-02T16:48:37+00:00",
+      "date_label": "2 novembre 2026",
       "tag": "media",
-      "title": "Tracking Hantavirus in California Through Sequencing - Infectious Disease Special Edition",
-      "title_en": "Tracking Hantavirus in California Through Sequencing - Infectious Disease Special Edition",
-      "body": "Tracking Hantavirus in California Through Sequencing &nbsp;&nbsp; Infectious Disease Special Edition",
-      "body_en": "Tracking Hantavirus in California Through Sequencing &nbsp;&nbsp; Infectious Disease Special Edition",
+      "title": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
+      "title_en": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
+      "body": "Brazil: São Paulo reports four cases of hantavirus infection so far this year &nbsp;&nbsp; Outbreak News Today",
+      "body_en": "Brazil: São Paulo reports four cases of hantavirus infection so far this year &nbsp;&nbsp; Outbreak News Today",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEU1cS1zWkxxV1NuM2N6UmJ6cXY2akN6bV91ZTBTdU1vSmcxUjRwdk4zMTJINGlucFZSU040cU1HcFpNRkdLZWpNZnJBYUJwU19QWGhVWTUtSTRORkdhbWVDeFAybFlpLXpUZFA2OFMzeF9aMExrTVA4a0tQT2xEYV80dUtUNzNva1F1d1VWNzBEeEszUExvQVRVcGszR2t1WWVCMW1Qcw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEtVSVpkSlk0UHZYVU43VHpvSl9COEdXR3dXYlJSVVM3YXFFS3lBQ3pmZ1EtS1F0U3paM29TNU5uczNoSldRN0hDdXk3OUxnWV9lek0tTjlYVG11TFFKV1I1Ri1SMDZMSUt4V19FTzJwV1hKaGRmcUQ4Ui1jNXVTeml3?oc=5"
     },
     {
-      "id": "feed-cc9ee3da0c",
+      "id": "feed-fd5c18a576",
       "manual": false,
-      "date": "2026-10-29T02:14:07+00:00",
-      "date_label": "29 octobre 2026",
+      "date": "2026-11-02T15:13:00+00:00",
+      "date_label": "2 novembre 2026",
       "tag": "media",
-      "title": "Why WHO sounded the alarm on Ebola but not hantavirus - New Zealand Doctor",
-      "title_en": "Why WHO sounded the alarm on Ebola but not hantavirus - New Zealand Doctor",
-      "body": "Why WHO sounded the alarm on Ebola but not hantavirus &nbsp;&nbsp; New Zealand Doctor",
-      "body_en": "Why WHO sounded the alarm on Ebola but not hantavirus &nbsp;&nbsp; New Zealand Doctor",
+      "title": "WHO chief urges completion of international pandemic treaty amid Ebola and hantavirus threats - Head Topics",
+      "title_en": "WHO chief urges completion of international pandemic treaty amid Ebola and hantavirus threats - Head Topics",
+      "body": "WHO chief urges completion of international pandemic treaty amid Ebola and hantavirus threats &nbsp;&nbsp; Head Topics",
+      "body_en": "WHO chief urges completion of international pandemic treaty amid Ebola and hantavirus threats &nbsp;&nbsp; Head Topics",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS05fdk8xSEQ1elVkYkd1ZDBCeGhlLUVfTkRrRHZENjlVSDRIWm53UFMtQnJuUzdHYXBFUExPOTQwQ3kwR2FiRVdpYmlqY0IxUUpvSDVoLTdxYzNyVXFoa09aMmFyc1hUdTlKdnJwa0FhSFRYV0RpWWZoNHNCWXhwYjVscV9kNTFzQjJXSk9wYUV4UmVjeEtaeW1n?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2REYThxbmE5VzBmd1VsRjJyQk5Va0E0WWJSOUJEeGFtWDAzU3BvUV9WYUgtWVFqbmhOQXh4Qjl4ZUVoTFBYZHd4SS1OcS1OSzRtZ0Y4NUhMYklzTEVZYkRsMV9IY294NXR3YVllaHJ3LTJlRGp3eWxHR0RsTk5qLVc2OGVBUjZZR1ZWRUhXLWZkalFwc1ZCNURhVW5IblFP?oc=5"
+    },
+    {
+      "id": "feed-c8fb525073",
+      "manual": false,
+      "date": "2026-10-26T10:16:53+00:00",
+      "date_label": "26 octobre 2026",
+      "tag": "media",
+      "title": "Des scientifiques révèlent comment le hantavirus mortel Andes se fixe aux cellules humaines, une piste pour de futurs antiviraux | Pasteur.fr - Institut Pasteur",
+      "title_en": "Des scientifiques révèlent comment le hantavirus mortel Andes se fixe aux cellules humaines, une piste pour de futurs antiviraux | Pasteur.fr - Institut Pasteur",
+      "body": "Des scientifiques révèlent comment le hantavirus mortel Andes se fixe aux cellules humaines, une piste pour de futurs antiviraux | Pasteur.fr &nbsp;&nbsp; Institut Pasteur",
+      "body_en": "Des scientifiques révèlent comment le hantavirus mortel Andes se fixe aux cellules humaines, une piste pour de futurs antiviraux | Pasteur.fr &nbsp;&nbsp; Institut Pasteur",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeVAtOWRDRDcyaWs1eHNzc3B6M1UtdXJIcEhGVWlHT004Zmk2MjhjLWdIb1hKQ3FsN1RrODlodTl5ZW1UaG1paXdZUHF4eEFLZGF5UW40ekJ4dFpMLVpqMnptYVEzdUxSUUJLd2JLdVNzSnVhRVQwWDZkVGhnakJ6NC1aMXhCYk8tYk5MREhvSS1jbHoyazZFQTA5cmZKeGhyWnhNNi1qZllDM25LWWk3eVptcm1QVHI5aGZuSmRuZ1doS0g5Ri1Jc3lQMXZoa1ZwZ0w0b0dWdDRmN2J0eUh0TGhjaWlBWl9fUDhONUZTZUljZw?oc=5"
     },
     {
       "id": "feed-2694f868a2",
@@ -65,19 +78,6 @@
       "body_en": "LSU Health Shreveport researchers unlock how hantavirus infects humans | In Case You Missed It &nbsp;&nbsp; KTBS 3",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON3p5ZVVxYkdQVmdLUVRiTGhhTUxoTDdoaVJVYm52UUJZazZEcURzUE5ZQWFuUGt2dm5MbHNId3RsbTFaYmdBMkpGclhUYmxRdENzLUJvS1ozZzQzN1lOSFRtRkxzSkU0X1ZYSGppMFNtcFdaSHdicU1PR1ROT2lCV0pHUTdNRE5YVExwVWQ2LVJoRWRGczFPT0hYWExBU0JuSnJ2Yk9QQUpKTmJ0ZEpKVVFPai1nZWU0VktVa3l0bVdINFNmaWpBRVM5bzZMY2taSDJEYzRGTU5JSF9fQUNZN0lTUlBsV2otdzBmX0RORWN4d0hReWVR?oc=5"
-    },
-    {
-      "id": "feed-5d17549e3b",
-      "manual": false,
-      "date": "2026-10-16T07:00:00+00:00",
-      "date_label": "16 octobre 2026",
-      "tag": "media",
-      "title": "Fièvre, douleurs aux reins : c’est quoi le Puumala, cet hantavirus qui touche l’Avesnois ? - La Voix du Nord",
-      "title_en": "Fièvre, douleurs aux reins : c’est quoi le Puumala, cet hantavirus qui touche l’Avesnois ? - La Voix du Nord",
-      "body": "Fièvre, douleurs aux reins : c’est quoi le Puumala, cet hantavirus qui touche l’Avesnois ? &nbsp;&nbsp; La Voix du Nord",
-      "body_en": "Fièvre, douleurs aux reins : c’est quoi le Puumala, cet hantavirus qui touche l’Avesnois ? &nbsp;&nbsp; La Voix du Nord",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXd5NVNMTFlia0NTRTA5SUxwYlhWS0NuaHFVVDd2Q1dBdFBJU05OeXVjVGREVDZubVlSbEQybnlDZnhhcHVMdGVNY3pvR2ltVGN2OHV2ODljSmItV05sQVphMHlQU1dISXo2U3J2aW1MRFVCNDA5ZnpfanN5T1luakFWVWlTRm5HZkdzYUsyd1FMSHd0VHpQNUlFU0VYelN3d2lOdEFKTHZodHZWMk1EZTNOcVJZeEd1NVJSWkp0cEROYXJqRjF1dE5BNA?oc=5"
     },
     {
       "id": "feed-cbd4563776",

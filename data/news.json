@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T16:51:51.600926+00:00",
+  "updated_at": "2026-11-04T22:25:58.450268+00:00",
   "items": [
     {
       "id": "feed-3de42fcee7",
@@ -54,6 +54,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd292aTdaQk9CRllxODkxWEx1QXp2amV1blNHc29RTktodXFVaWZRSjdkd3FtYXc0M1JsWi1uQjhQaG9WVTNaTUpWZlNfd1k4eUJDUkVyMUQtNGVIcTRqYm1TMHZuX3J6VEF3ZlBFTHVIckNYQkMxeUl3M0t2TEpJbk4weTNqcEx6OXE0SGRSOE13dVYybE56UkZ0QWhzMmJTeGZjd3BlYkNXNU9FMVlNb0FMQU9uWEtJMXY2dURPNGFTZw?oc=5"
     },
     {
+      "id": "feed-f92f624a52",
+      "manual": false,
+      "date": "2026-11-02T16:48:37+00:00",
+      "date_label": "2 novembre 2026",
+      "tag": "media",
+      "title": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
+      "title_en": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
+      "body": "Brazil: São Paulo reports four cases of hantavirus infection so far this year &nbsp;&nbsp; Outbreak News Today",
+      "body_en": "Brazil: São Paulo reports four cases of hantavirus infection so far this year &nbsp;&nbsp; Outbreak News Today",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEtVSVpkSlk0UHZYVU43VHpvSl9COEdXR3dXYlJSVVM3YXFFS3lBQ3pmZ1EtS1F0U3paM29TNU5uczNoSldRN0hDdXk3OUxnWV9lek0tTjlYVG11TFFKV1I1Ri1SMDZMSUt4V19FTzJwV1hKaGRmcUQ4Ui1jNXVTeml3?oc=5"
+    },
+    {
       "id": "feed-fd5c18a576",
       "manual": false,
       "date": "2026-11-02T15:13:00+00:00",
@@ -82,7 +95,7 @@
     {
       "id": "feed-cbd4563776",
       "manual": false,
-      "date": "2026-10-08T01:26:13+00:00",
+      "date": "2026-10-08T07:00:00+00:00",
       "date_label": "8 octobre 2026",
       "tag": "media",
       "title": "What is hantavirus? Symptoms, spread and prevention explained by an expert - The University of Utah",
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus : ce qu'il faut savoir sur cette maladie qui touche en ce moment des Français et d'autres ressortissants européens &nbsp;&nbsp; Touteleurope.eu",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUmM0Qlg3amxRYURPQlBmRVV0UHU2UEZlalNoNnQwVUx4TlNodjNMbDhIb0doQkJ2dW5oZFVaSktrSDRhaHZDVXBDVVAyZ2Rlc0JMMnVHdU10aVZ2X0htc2RSUnk0cktFY0ZNLWZQUkQ1MW52bElkQVk1eUo4d0t0eXlNc2RUMU1zbkhQSjJlUjc0enJqZ29maFhwNTdtMko0X0dYa3dLRlRQWmFLQm83cjZqR1dMaWozbmhOUXMxN2JjMjlkcURSaEJrdGVES2R6ZTVxaWdrRHRrMkI1MGxVeVFTSkJGaHE5UjgtVXBRamdoQQ?oc=5"
-    },
-    {
-      "id": "feed-1bd8152dfa",
-      "manual": false,
-      "date": "2026-05-22T07:00:00+00:00",
-      "date_label": "22 mai 2026",
-      "tag": "media",
-      "title": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? - Ouest-France",
-      "title_en": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? - Ouest-France",
-      "body": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? &nbsp;&nbsp; Ouest-France",
-      "body_en": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? &nbsp;&nbsp; Ouest-France",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTS1VdTVOeTdwZXNaMmZWR05kQmdndG50c0o0M3lfdXp0NTRFYmZVYXU1bExmcHF3TDJrTGE5cXhTRVhnOEZqblFuXzNEbzRaN0NodFpmLXFhMl9wWmV5ZXpLVDRCMnJHTDVIWWRsYUNBMk50LVhucXU3OWJNQ1pWZ1MtYkplR3lYS1ZvVldIcFVnakxYYUFDNlIxUHBfdmplOFJIcTNpYm55RFpIeDNzVHlVUnYwUGRLWF9ERVhURzlSWkJYeGVtMWdodzU1aXJjYVlsYUhaNTM5eEtMUVd2UGdZQld6aWZUelhXVFB3aHNGcGlpMHpzRTBIbDF2WDhIRlY4dU5XVm12UQ?oc=5"
     }
   ]
 }

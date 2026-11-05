@@ -1,11 +1,24 @@
 {
-  "updated_at": "2026-11-05T11:53:27.873447+00:00",
+  "updated_at": "2026-11-05T19:31:39.980715+00:00",
   "items": [
+    {
+      "id": "feed-8065415fc3",
+      "manual": false,
+      "date": "2026-11-05T12:02:04+00:00",
+      "date_label": "5 novembre 2026",
+      "tag": "media",
+      "title": "Study Identifies How Antibodies Block Hantavirus Entry - EMJ",
+      "title_en": "Study Identifies How Antibodies Block Hantavirus Entry - EMJ",
+      "body": "Study Identifies How Antibodies Block Hantavirus Entry &nbsp;&nbsp; EMJ",
+      "body_en": "Study Identifies How Antibodies Block Hantavirus Entry &nbsp;&nbsp; EMJ",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONm54TFhvMlBuaGNXQ1hmbFdzVTA3RG9jRlNOaHVwRnZyRm5BZ0JMY0JwSlpLUXBsZVQ4LTc3UTBiOGQ0bE03OHBZbjk4WXROTVhEZmM0N3dNMFhUMGdBUVBZUkhBaElTa0hvNFFYTTh3c01sVWRCMDd5NDFtNUdTbDU0NUVlX0NwbmctX25vODgzTFdvWkVoM1NlbUNMeTVP?oc=5"
+    },
     {
       "id": "feed-3de42fcee7",
       "manual": false,
-      "date": "2026-11-04T05:12:25+00:00",
-      "date_label": "4 novembre 2026",
+      "date": "2026-11-05T02:21:31+00:00",
+      "date_label": "5 novembre 2026",
       "tag": "media",
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
       "title_en": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
@@ -377,19 +390,6 @@
       "body_en": "Hantavirus : ce qu'il faut savoir sur cette maladie qui touche en ce moment des Français et d'autres ressortissants européens &nbsp;&nbsp; Touteleurope.eu",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUmM0Qlg3amxRYURPQlBmRVV0UHU2UEZlalNoNnQwVUx4TlNodjNMbDhIb0doQkJ2dW5oZFVaSktrSDRhaHZDVXBDVVAyZ2Rlc0JMMnVHdU10aVZ2X0htc2RSUnk0cktFY0ZNLWZQUkQ1MW52bElkQVk1eUo4d0t0eXlNc2RUMU1zbkhQSjJlUjc0enJqZ29maFhwNTdtMko0X0dYa3dLRlRQWmFLQm83cjZqR1dMaWozbmhOUXMxN2JjMjlkcURSaEJrdGVES2R6ZTVxaWdrRHRrMkI1MGxVeVFTSkJGaHE5UjgtVXBRamdoQQ?oc=5"
-    },
-    {
-      "id": "feed-1bd8152dfa",
-      "manual": false,
-      "date": "2026-05-22T07:00:00+00:00",
-      "date_label": "22 mai 2026",
-      "tag": "media",
-      "title": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? - Ouest-France",
-      "title_en": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? - Ouest-France",
-      "body": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? &nbsp;&nbsp; Ouest-France",
-      "body_en": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? &nbsp;&nbsp; Ouest-France",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTS1VdTVOeTdwZXNaMmZWR05kQmdndG50c0o0M3lfdXp0NTRFYmZVYXU1bExmcHF3TDJrTGE5cXhTRVhnOEZqblFuXzNEbzRaN0NodFpmLXFhMl9wWmV5ZXpLVDRCMnJHTDVIWWRsYUNBMk50LVhucXU3OWJNQ1pWZ1MtYkplR3lYS1ZvVldIcFVnakxYYUFDNlIxUHBfdmplOFJIcTNpYm55RFpIeDNzVHlVUnYwUGRLWF9ERVhURzlSWkJYeGVtMWdodzU1aXJjYVlsYUhaNTM5eEtMUVd2UGdZQld6aWZUelhXVFB3aHNGcGlpMHpzRTBIbDF2WDhIRlY4dU5XVm12UQ?oc=5"
     }
   ]
 }

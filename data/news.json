@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:53:39.608960+00:00",
+  "updated_at": "2026-11-07T23:26:28.651811+00:00",
   "items": [
     {
       "id": "feed-0baf77aa79",
@@ -26,19 +26,6 @@
       "body_en": "Russia records hantavirus outbreak: Local media &nbsp;&nbsp; Outbreak News Today",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNTR3a0Q1c2ZsQlBZNXhGYy13YlJtVkU5WVJwZWlDX29YLVVfLUNCd2hfT2V5RDNORTBOdEpXNFlUX2Zsa09aNktNTzNJenk3Mi1YUWIzSUN0TlYzZG5LQUkyRnB6WGRjVXhCdlNwWmJCamhHaUg3WkU0TDVwR2M5dQ?oc=5"
-    },
-    {
-      "id": "feed-f92f624a52",
-      "manual": false,
-      "date": "2026-11-02T16:48:37+00:00",
-      "date_label": "2 novembre 2026",
-      "tag": "media",
-      "title": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
-      "title_en": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
-      "body": "Brazil: São Paulo reports four cases of hantavirus infection so far this year &nbsp;&nbsp; Outbreak News Today",
-      "body_en": "Brazil: São Paulo reports four cases of hantavirus infection so far this year &nbsp;&nbsp; Outbreak News Today",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEtVSVpkSlk0UHZYVU43VHpvSl9COEdXR3dXYlJSVVM3YXFFS3lBQ3pmZ1EtS1F0U3paM29TNU5uczNoSldRN0hDdXk3OUxnWV9lek0tTjlYVG11TFFKV1I1Ri1SMDZMSUt4V19FTzJwV1hKaGRmcUQ4Ui1jNXVTeml3?oc=5"
     },
     {
       "id": "feed-2694f868a2",
@@ -195,19 +182,6 @@
       "body_en": "Hantavirus : le directeur général de l’OMS déclare la fin de l’épisode de hantavirus lié au navire de croisière MV « Hondius » &nbsp;&nbsp; Le Monde.fr",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPR2pVazl1SW9BWjdFdW5qVWNjVDZDTjhKV29OMC0xMG5xTF9tRkh4TkZJaWhVb3dBbU1kWDlCY3B1WGhtMjlHQ2hrS1hHZ1F5aGo3dTBKenRWVE9pSDVBZU1rNmdLaFpydk5qYWJrdnBmRmM4MnpkZWMtVEhSMzZJeXZydUFleDJ3SmFQQkVmb0hLd0RfSnZ2NVJRdWJqWXJURnB3Y3c3RVp1bjY3X0psM2NURXNvaEZJcklWZWdWSDgzN0d3YUJ5emlKNDlZWHlIY3BUeUNBbXJaandXbC03dVdJUktkREY4cXhYMzdOMW5NcGhRdmtJNmRGdGh0RGRWQWtvT2k2b1hkSmF1T1J3eHJ2ZEROazA?oc=5"
-    },
-    {
-      "id": "feed-9a1983a782",
-      "manual": false,
-      "date": "2026-06-29T07:00:00+00:00",
-      "date_label": "29 juin 2026",
-      "tag": "media",
-      "title": "Hantavirus : lancement d’une étude coordonnée impliquant 21 pays - vih.org",
-      "title_en": "Hantavirus : lancement d’une étude coordonnée impliquant 21 pays - vih.org",
-      "body": "Hantavirus : lancement d’une étude coordonnée impliquant 21 pays &nbsp;&nbsp; vih.org",
-      "body_en": "Hantavirus : lancement d’une étude coordonnée impliquant 21 pays &nbsp;&nbsp; vih.org",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjl2N2xxczFXWDNOUmZWbVBBdl9CcVVzNi1DbVRkVFNXTjk1ZmdiZk85cG9XTWJFQzRWN25sbGhKMEVWYm1QUkVRY3NYSHJpMFJUdE5xbWlLNzk3dHJIWnhWWlNpWWlzZHc2MEdkWmx3OXhEVnZabXp4Ni1pMWxueFRVanRSc0F3X2JMdEotQlk2SmFqSDQyY1YwVFpqR3lqSFhNVUIyWldELTg?oc=5"
     },
     {
       "id": "feed-19620e36c3",
@@ -379,6 +353,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTS1VdTVOeTdwZXNaMmZWR05kQmdndG50c0o0M3lfdXp0NTRFYmZVYXU1bExmcHF3TDJrTGE5cXhTRVhnOEZqblFuXzNEbzRaN0NodFpmLXFhMl9wWmV5ZXpLVDRCMnJHTDVIWWRsYUNBMk50LVhucXU3OWJNQ1pWZ1MtYkplR3lYS1ZvVldIcFVnakxYYUFDNlIxUHBfdmplOFJIcTNpYm55RFpIeDNzVHlVUnYwUGRLWF9ERVhURzlSWkJYeGVtMWdodzU1aXJjYVlsYUhaNTM5eEtMUVd2UGdZQld6aWZUelhXVFB3aHNGcGlpMHpzRTBIbDF2WDhIRlY4dU5XVm12UQ?oc=5"
     },
     {
+      "id": "feed-3c715dc69a",
+      "manual": false,
+      "date": "2026-05-21T07:00:00+00:00",
+      "date_label": "21 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus : en Argentine, des scientifiques mènent l'enquête sur l'origine de l'épidémie - franceinfo",
+      "title_en": "Hantavirus : en Argentine, des scientifiques mènent l'enquête sur l'origine de l'épidémie - franceinfo",
+      "body": "Hantavirus : en Argentine, des scientifiques mènent l'enquête sur l'origine de l'épidémie &nbsp;&nbsp; franceinfo",
+      "body_en": "Hantavirus : en Argentine, des scientifiques mènent l'enquête sur l'origine de l'épidémie &nbsp;&nbsp; franceinfo",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbnRELVVZX0JJQ2twUnVrdExubnl1M0FnSUNvdFBhRzVkRG5ZWmUxSmliTXRiMHlYcG9ZUy1uLV9RZmFxRmY0WnlrWXJINE5kSU0xZHdpSDlKV1ZVQjd6MEFROENxS3NXUG5KN2czX3ZHcV91OFRRV3NtWF9GOFNEeUxPRU9JM0lOZDk0Q2FQX0lmUUxpNVZRcnNPb3ZZU2VpRGlYWF9weG5lNjU1bVAzMXBGc3Eta05yakhkMTY4bjctM1BGMjNzWVYtWTBEbEdZZUY3eGhZWkViNFRtTWFhR0tMWk8?oc=5"
+    },
+    {
       "id": "feed-45ebd6c1fe",
       "manual": false,
       "date": "2026-05-21T07:00:00+00:00",
@@ -390,6 +377,19 @@
       "body_en": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5"
+    },
+    {
+      "id": "feed-6e1a4e43ee",
+      "manual": false,
+      "date": "2026-05-20T07:00:00+00:00",
+      "date_label": "20 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus : point de situation et mesures mises en œuvre - Les services de l'État dans le Nord",
+      "title_en": "Hantavirus : point de situation et mesures mises en œuvre - Les services de l'État dans le Nord",
+      "body": "Hantavirus : point de situation et mesures mises en œuvre &nbsp;&nbsp; Les services de l'État dans le Nord",
+      "body_en": "Hantavirus : point de situation et mesures mises en œuvre &nbsp;&nbsp; Les services de l'État dans le Nord",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDhWaUpMLWVpWVFuVWRhdWI4WVdFMmZvc1ZVU2RQNWtadlgxVjh6aUZuOWhoeFZLS2R2cS0tbVBPN3F2OHpEWGVEMFAtQWYxMlF3NExpTElzVFNjMTdZdEFWVUtKMjFhcTBIejQzQkpRdnFGV3Iyd24zZG5fcTZMYWZlRS04a2hzdFl0ZXpzbDlNVXQ4aHZaMTJ6d1VnNDllUXF6V3VR?oc=5"
     }
   ]
 }

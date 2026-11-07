@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:22:00.669189+00:00",
+  "updated_at": "2026-11-07T15:26:04.992432+00:00",
   "items": [
     {
       "id": "feed-0baf77aa79",
@@ -15,30 +15,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTZWcWpxcHRzMGRyNDE4MGlud2VyUEhvOWRWTUU5eEk0eWNDMGVWa25HblpoWDNZazFhcUlXcFIzTEVMcnRybDhON1NEUnFiZVV5LWdXdHNVdW1BWjBBUm5ERnVQdnpYeGl5QzFaTDY1UjFyeUhMa3hOMU0xR2dvZ05tcUFHNlg5V3pmY2tJay13LVFLYVQ3Skhfb2c1MWZkVkk4T0wwbmdqN0dNNVI3Q2gxTW5ZMjVQQUdpV20yQ0RsbnhjTFJRdG5feW9FNGN1TmtOcnZlZG5OalXSAdsBQVVfeXFMTUE2VnFqcXB0czBkcjQxODBpbndlclBIbzlkVk1FOXhJNHljQzBlVmtuR25aaFgzWWsxYXFJV3BSM0xFTHJ0cmw4TjdTRFJxYmVVeS1nV3RzVXVtQVowQVJuREZ1UHZ6WHhpeUMxWkw2NVIxcnlITGt4TjFNMUdnb2dObXFBRzZYOVd6ZmNrSWstdy1RS2FUN0pIX29nNTFmZFZJOE9MMG5najdHTTVSN0NoMU1uWTI1UEFHaVdtMkNEbG54Y0xSUXRuX3lvRTRjdU5rTnJ2ZWRuTmpV?oc=5"
     },
     {
-      "id": "feed-3de42fcee7",
+      "id": "feed-4fcac2c0e9",
       "manual": false,
-      "date": "2026-11-05T23:09:36+00:00",
-      "date_label": "5 novembre 2026",
+      "date": "2026-11-03T14:57:55+00:00",
+      "date_label": "3 novembre 2026",
       "tag": "media",
-      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-      "title_en": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-      "body": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "body_en": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "title": "Russia records hantavirus outbreak: Local media - Outbreak News Today",
+      "title_en": "Russia records hantavirus outbreak: Local media - Outbreak News Today",
+      "body": "Russia records hantavirus outbreak: Local media &nbsp;&nbsp; Outbreak News Today",
+      "body_en": "Russia records hantavirus outbreak: Local media &nbsp;&nbsp; Outbreak News Today",
       "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5"
-    },
-    {
-      "id": "feed-fc97591d43",
-      "manual": false,
-      "date": "2026-11-02T17:30:36+00:00",
-      "date_label": "2 novembre 2026",
-      "tag": "media",
-      "title": "OMS : Ebola et les hantavirus rappellent l'urgence du traité sur les pandémies - وكالة سوا الإخبارية",
-      "title_en": "OMS : Ebola et les hantavirus rappellent l'urgence du traité sur les pandémies - وكالة سوا الإخبارية",
-      "body": "OMS : Ebola et les hantavirus rappellent l'urgence du traité sur les pandémies &nbsp;&nbsp; وكالة سوا الإخبارية",
-      "body_en": "OMS : Ebola et les hantavirus rappellent l'urgence du traité sur les pandémies &nbsp;&nbsp; وكالة سوا الإخبارية",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd292aTdaQk9CRllxODkxWEx1QXp2amV1blNHc29RTktodXFVaWZRSjdkd3FtYXc0M1JsWi1uQjhQaG9WVTNaTUpWZlNfd1k4eUJDUkVyMUQtNGVIcTRqYm1TMHZuX3J6VEF3ZlBFTHVIckNYQkMxeUl3M0t2TEpJbk4weTNqcEx6OXE0SGRSOE13dVYybE56UkZ0QWhzMmJTeGZjd3BlYkNXNU9FMVlNb0FMQU9uWEtJMXY2dURPNGFTZw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNTR3a0Q1c2ZsQlBZNXhGYy13YlJtVkU5WVJwZWlDX29YLVVfLUNCd2hfT2V5RDNORTBOdEpXNFlUX2Zsa09aNktNTzNJenk3Mi1YUWIzSUN0TlYzZG5LQUkyRnB6WGRjVXhCdlNwWmJCamhHaUg3WkU0TDVwR2M5dQ?oc=5"
     },
     {
       "id": "feed-f92f624a52",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? &nbsp;&nbsp; Ouest-France",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTS1VdTVOeTdwZXNaMmZWR05kQmdndG50c0o0M3lfdXp0NTRFYmZVYXU1bExmcHF3TDJrTGE5cXhTRVhnOEZqblFuXzNEbzRaN0NodFpmLXFhMl9wWmV5ZXpLVDRCMnJHTDVIWWRsYUNBMk50LVhucXU3OWJNQ1pWZ1MtYkplR3lYS1ZvVldIcFVnakxYYUFDNlIxUHBfdmplOFJIcTNpYm55RFpIeDNzVHlVUnYwUGRLWF9ERVhURzlSWkJYeGVtMWdodzU1aXJjYVlsYUhaNTM5eEtMUVd2UGdZQld6aWZUelhXVFB3aHNGcGlpMHpzRTBIbDF2WDhIRlY4dU5XVm12UQ?oc=5"
+    },
+    {
+      "id": "feed-45ebd6c1fe",
+      "manual": false,
+      "date": "2026-05-21T07:00:00+00:00",
+      "date_label": "21 mai 2026",
+      "tag": "media",
+      "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
+      "title_en": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
+      "body": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
+      "body_en": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5"
     }
   ]
 }

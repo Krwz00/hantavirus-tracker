@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-11-08T04:39:10.156310+00:00",
+  "updated_at": "2026-11-08T11:42:36.191084+00:00",
   "items": [
-    {
-      "id": "feed-4fcac2c0e9",
-      "manual": false,
-      "date": "2026-11-03T14:57:55+00:00",
-      "date_label": "3 novembre 2026",
-      "tag": "media",
-      "title": "Russia records hantavirus outbreak: Local media - Outbreak News Today",
-      "title_en": "Russia records hantavirus outbreak: Local media - Outbreak News Today",
-      "body": "Russia records hantavirus outbreak: Local media &nbsp;&nbsp; Outbreak News Today",
-      "body_en": "Russia records hantavirus outbreak: Local media &nbsp;&nbsp; Outbreak News Today",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNTR3a0Q1c2ZsQlBZNXhGYy13YlJtVkU5WVJwZWlDX29YLVVfLUNCd2hfT2V5RDNORTBOdEpXNFlUX2Zsa09aNktNTzNJenk3Mi1YUWIzSUN0TlYzZG5LQUkyRnB6WGRjVXhCdlNwWmJCamhHaUg3WkU0TDVwR2M5dQ?oc=5"
-    },
     {
       "id": "feed-2694f868a2",
       "manual": false,
@@ -390,6 +377,19 @@
       "body_en": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; NEJM",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5"
+    },
+    {
+      "id": "feed-32ac0f6a3f",
+      "manual": false,
+      "date": "2026-05-18T07:00:00+00:00",
+      "date_label": "18 mai 2026",
+      "tag": "media",
+      "title": "Hantavirus : comment la recherche se mobilise face à la souche des Andes - Le Monde.fr",
+      "title_en": "Hantavirus : comment la recherche se mobilise face à la souche des Andes - Le Monde.fr",
+      "body": "Hantavirus : comment la recherche se mobilise face à la souche des Andes &nbsp;&nbsp; Le Monde.fr",
+      "body_en": "Hantavirus : comment la recherche se mobilise face à la souche des Andes &nbsp;&nbsp; Le Monde.fr",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNXZ6VEotc1BuQTNMeWNlbmVnekhBYTEzdFRIeC16LUtFMlQtcEJzdmxnd2t5ZGpfY3FnOGRoNzZGU0J6bjhQcjduTERrMy1oYVpyaXhkQ1d1RGVKa3R3eDVIdTdmWWZrbVdaOGlKWFZjRHFVcVZEODhUemgwZUdhVjktRWQtZU5oTWNnUE51R1czdlJLWEtmMmRLaEgwZGxnWW5fdXpEX3NEU2dLXzI2VEFNVHdzd1EzTVhjY3BTblJMYTUxdDZzQkVGdXd5TzJDelJ0eWdMQ00xdw?oc=5"
     }
   ]
 }

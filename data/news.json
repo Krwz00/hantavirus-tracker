@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:08:11.359866+00:00",
+  "updated_at": "2026-11-10T20:14:03.525463+00:00",
   "items": [
     {
       "id": "feed-f4c0339abc",
@@ -17,7 +17,7 @@
     {
       "id": "feed-3de42fcee7",
       "manual": false,
-      "date": "2026-11-08T03:06:08+00:00",
+      "date": "2026-11-08T15:50:22+00:00",
       "date_label": "8 novembre 2026",
       "tag": "media",
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
@@ -52,19 +52,6 @@
       "body_en": "Single amino acid change alters Andes virus protein behavior &nbsp;&nbsp; News-Medical",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUFp3c3d3S1E1anA2OElRRVZ0OG9ma1hmdTg2N3NtUmhlRDl4SERpcFV2U042WHJSdHpjRmMyc1o2Rnh0WUFGYmU4SnNCdEVvVmNYbHJHc2FJenVtWlB6YlBKWGpmemFJNWtHdS1HVmpXNWNUbGNLaVQtanNYWGNmZkxteTZnY1ZPd3R4VWdwci01NTBiZ0V1Q3FZTGtpNndNUzByMHpPNm9Teno1?oc=5"
-    },
-    {
-      "id": "feed-8065415fc3",
-      "manual": false,
-      "date": "2026-11-05T12:02:04+00:00",
-      "date_label": "5 novembre 2026",
-      "tag": "media",
-      "title": "Study Identifies How Antibodies Block Hantavirus Entry - EMJ",
-      "title_en": "Study Identifies How Antibodies Block Hantavirus Entry - EMJ",
-      "body": "Study Identifies How Antibodies Block Hantavirus Entry &nbsp;&nbsp; EMJ",
-      "body_en": "Study Identifies How Antibodies Block Hantavirus Entry &nbsp;&nbsp; EMJ",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONm54TFhvMlBuaGNXQ1hmbFdzVTA3RG9jRlNOaHVwRnZyRm5BZ0JMY0JwSlpLUXBsZVQ4LTc3UTBiOGQ0bE03OHBZbjk4WXROTVhEZmM0N3dNMFhUMGdBUVBZUkhBaElTa0hvNFFYTTh3c01sVWRCMDd5NDFtNUdTbDU0NUVlX0NwbmctX25vODgzTFdvWkVoM1NlbUNMeTVP?oc=5"
     },
     {
       "id": "feed-4fcac2c0e9",
@@ -390,6 +377,19 @@
       "body_en": "Hantavirus : en Argentine, des scientifiques mènent l'enquête sur l'origine de l'épidémie &nbsp;&nbsp; franceinfo",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbnRELVVZX0JJQ2twUnVrdExubnl1M0FnSUNvdFBhRzVkRG5ZWmUxSmliTXRiMHlYcG9ZUy1uLV9RZmFxRmY0WnlrWXJINE5kSU0xZHdpSDlKV1ZVQjd6MEFROENxS3NXUG5KN2czX3ZHcV91OFRRV3NtWF9GOFNEeUxPRU9JM0lOZDk0Q2FQX0lmUUxpNVZRcnNPb3ZZU2VpRGlYWF9weG5lNjU1bVAzMXBGc3Eta05yakhkMTY4bjctM1BGMjNzWVYtWTBEbEdZZUY3eGhZWkViNFRtTWFhR0tMWk8?oc=5"
+    },
+    {
+      "id": "feed-45ebd6c1fe",
+      "manual": false,
+      "date": "2026-05-21T07:00:00+00:00",
+      "date_label": "21 mai 2026",
+      "tag": "media",
+      "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
+      "title_en": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
+      "body": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
+      "body_en": "Questions about hantavirus? We’ve got answers. &nbsp;&nbsp; Tacoma-Pierce County Health Department",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5"
     }
   ]
 }

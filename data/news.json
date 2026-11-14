@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T19:43:13.910415+00:00",
+  "updated_at": "2026-11-14T23:38:59.990267+00:00",
   "items": [
     {
       "id": "feed-558f999f80",
@@ -13,6 +13,19 @@
       "body_en": "Review Identifies COVID-19 Insights to Strengthen Global Hantavirus Outbreak Preparedness &nbsp;&nbsp; Bioengineer.org",
       "source": "Google News (EN)",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkVaQ2dtTlU3Zi10aUtfeFlEOExHcC1ja1JsQUMyUDdwYk05ZzRlSnpTcTdTT0RRR1RzTDFUY1p4dkFNRUJhc28wNmRrOVB0VHJXN3R1MER1Q04ta3BuZm1XcDFSbDdiRDBQenVEUWMtLUxmYWkxSWxCc0RsMmRnR1RQSmVkY2NNT25vUDIwUTdWUTREaWNDdmxXaHFKUXNSVG1pY0cxblQ5T3lBaG1lVHhpTlA?oc=5"
+    },
+    {
+      "id": "feed-1478dfafbe",
+      "manual": false,
+      "date": "2026-11-13T20:37:02+00:00",
+      "date_label": "13 novembre 2026",
+      "tag": "media",
+      "title": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission - Bioengineer.org",
+      "title_en": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission - Bioengineer.org",
+      "body": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission &nbsp;&nbsp; Bioengineer.org",
+      "body_en": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission &nbsp;&nbsp; Bioengineer.org",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmVXcVdWdW0xMjFUS3FFT0JFNmY3MlZUbEQtclYtVEZEcDZmaWtqTGFSR3dIem5IbXNjUWdWbzdkcFRDNHJJVEVxTUR4VTVZUGRrVGFsTEhMbEFhOUFmeFRtbHRkRDRFcFAzQjNRdjJWanRXRU91dlRRY2g0OWppR2dvOUZtTFZmY3dtS3hpa3VRbXFhT0Q2VFFRd2hKcUUydG1YMW42THQ?oc=5"
     },
     {
       "id": "feed-48601971c9",
@@ -184,19 +197,6 @@
       "source_url": "https://www.lemonde.fr/sciences/article/2026/11/12/decrypter-le-genome-du-hantavirus-andes-une-etape-essentielle-pour-retracer-le-parcours-de-l-epidemie_6809156_1650684.html"
     },
     {
-      "id": "feed-108e108b4d",
-      "manual": false,
-      "date": "2026-11-12T19:57:03+00:00",
-      "date_label": "12 novembre 2026",
-      "tag": "media",
-      "title": "Hantavirus: ce que révèle une enquête internationale de chercheurs - TVA Nouvelles",
-      "title_en": "Hantavirus: ce que révèle une enquête internationale de chercheurs - TVA Nouvelles",
-      "body": "Hantavirus: ce que révèle une enquête internationale de chercheurs &nbsp;&nbsp; TVA Nouvelles",
-      "body_en": "Hantavirus: ce que révèle une enquête internationale de chercheurs &nbsp;&nbsp; TVA Nouvelles",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3pmb0FGWnZUNWVjaEU2c3FzUnBLdnctZ190cURTZk5MV1g3YlRuSWlSN2txd09LSlltOTRjYWsyR0o1aFNwc2hXaEdBZzh4MDdnYUg2ZEFmcF91dTRGR0NhQVptejdOMER1cF9fd1FNeUp1V1dNNFZCdXlsVjJLOXUxRmhKbHdVcDlfVWZBWGFSUXFsWUx4RlFJdmJTaUpDSTAtZTNqdw?oc=5"
-    },
-    {
       "id": "feed-4820021a63",
       "manual": false,
       "date": "2026-11-12T19:56:00+00:00",
@@ -327,6 +327,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3Z6UkI2bXU2a3BXN2d2emxyYUI5ZUNIM2VZcVVBR0tYT1d5d3lRSWJZc3EtTkwtaHE3VHcwZ1lnak8wdlgtRGNrSzltVWtlc1hQMkx5QlNoWE1oRGEzdlE2ek84eW1LQmg5RXgyZ3l4ejNiRE5mQnQ3NDNNNm1zSmlaR3dkRjJQRktIVXdsVmNvc01sWnRSMVQtSXRfdFR1MXdURzVaRWRnS0tnU05PaDBoUDRBY184ZjhFaVVB?oc=5"
     },
     {
+      "id": "feed-0baf77aa79",
+      "manual": false,
+      "date": "2026-11-06T23:30:00+00:00",
+      "date_label": "6 novembre 2026",
+      "tag": "media",
+      "title": "Mount Sinai Study Identifies Single Amino Acid Change That Alters Andes Virus Protein Behavior in Human Cells | Newswise - Newswise",
+      "title_en": "Mount Sinai Study Identifies Single Amino Acid Change That Alters Andes Virus Protein Behavior in Human Cells | Newswise - Newswise",
+      "body": "Mount Sinai Study Identifies Single Amino Acid Change That Alters Andes Virus Protein Behavior in Human Cells | Newswise &nbsp;&nbsp; Newswise",
+      "body_en": "Mount Sinai Study Identifies Single Amino Acid Change That Alters Andes Virus Protein Behavior in Human Cells | Newswise &nbsp;&nbsp; Newswise",
+      "source": "Google News (EN)",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTZWcWpxcHRzMGRyNDE4MGlud2VyUEhvOWRWTUU5eEk0eWNDMGVWa25HblpoWDNZazFhcUlXcFIzTEVMcnRybDhON1NEUnFiZVV5LWdXdHNVdW1BWjBBUm5ERnVQdnpYeGl5QzFaTDY1UjFyeUhMa3hOMU0xR2dvZ05tcUFHNlg5V3pmY2tJay13LVFLYVQ3Skhfb2c1MWZkVkk4T0wwbmdqN0dNNVI3Q2gxTW5ZMjVQQUdpV20yQ0RsbnhjTFJRdG5feW9FNGN1TmtOcnZlZG5OalXSAdsBQVVfeXFMTUE2VnFqcXB0czBkcjQxODBpbndlclBIbzlkVk1FOXhJNHljQzBlVmtuR25aaFgzWWsxYXFJV3BSM0xFTHJ0cmw4TjdTRFJxYmVVeS1nV3RzVXVtQVowQVJuREZ1UHZ6WHhpeUMxWkw2NVIxcnlITGt4TjFNMUdnb2dObXFBRzZYOVd6ZmNrSWstdy1RS2FUN0pIX29nNTFmZFZJOE9MMG5najdHTTVSN0NoMU1uWTI1UEFHaVdtMkNEbG54Y0xSUXRuX3lvRTRjdU5rTnJ2ZWRuTmpV?oc=5"
+    },
+    {
       "id": "feed-cbd4563776",
       "manual": false,
       "date": "2026-10-08T07:00:00+00:00",
@@ -377,19 +390,6 @@
       "body_en": "Isolements tardifs, manque de suivi, omerta : la gestion calamiteuse d'un cas d'hantavirus en plein été, en France &nbsp;&nbsp; Radio France",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcVFtNkZ2bWZFZDRJQl9LTHRBdzhjQnNvdDlpZHN3YzlfUEpocjk3NHhPcWpETnFBVFJ4azF0V1J6cWhKa0kxa3ZHbjNNaC00YWVhUkJBRXVvTUVvcllJcXpmR3dXMExlaWY0STRDem55RXByNUh4Vm5WTHlsLWpJXzk2M2hEOE1SYTZaODdMYTlGWDdvQkhBVDJNeXRlbXdETFlNVTd3ZXBLZ3hzckZKdG96Q3pFamdOdDZfU29GVmVFOFFrVEx3M0JVcHRmdTU5U3A2Qm01cEdaMVNhd3JmaDA4d0RmekFldWxHT2dRTEdFX3FiWmNKaGhVZXpRdXNDV2Fvbno0ZXNoLXpzX2xhTGQ2VWZFVE0?oc=5"
-    },
-    {
-      "id": "feed-4bc52c78b6",
-      "manual": false,
-      "date": "2026-08-07T07:00:00+00:00",
-      "date_label": "7 août 2026",
-      "tag": "media",
-      "title": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
-      "title_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire - Santé publique France",
-      "body": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
-      "body_en": "Hantavirus Andes : mise en place des investigations épidémiologiques et du contact tracing suite à la détection d’un cas importé sur le territoire &nbsp;&nbsp; Santé publique France",
-      "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0M1VzIzWWJQMGhCRlFoUkJlTFZXYTktbDJuMDVaTEM0ZmhYcnlKdmVONnZNQXN3dTYwTG82U3hkdFczQW14OTFYbU5IWlhFTG52WS1wVi1yemZvYlB4RjNSTVpCVDVUS2VoNmRaRGU3NXFlVHRPcWxWY1JtNTdkeWZWRHlVX3h0SzhMM1B2cUFMeVlHUE84MHhNd2NCbmdQOGtPVjRfSkFUMjZuSXdiMy1iSlIyVDh4ODVTQWFQNzhDdUVrbjJCUl9kZ0h4dG12T2ExNE0zUG9JS2E0Zm1tak92cw?oc=5"
     }
   ]
 }

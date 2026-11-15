@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-15T19:15:09.697598+00:00",
+  "updated_at": "2026-11-15T23:45:21.525600+00:00",
   "items": [
     {
       "id": "feed-d5207fb1d1",
       "manual": false,
-      "date": "2026-11-15T10:00:00+00:00",
+      "date": "2026-11-15T20:32:00+00:00",
       "date_label": "15 novembre 2026",
       "tag": "media",
       "title": "Isabella Eckerle, virologue: «Il reste des zones d’ombre sur la chaîne de transmission et l’origine de l’hantavirus qui a frappé les passagers du MV Hondius - Le Temps",
@@ -67,6 +67,19 @@
       "source_url": "http://www.lequotidiendumedecin.fr/actu-medicale/hantavirus-sur-le-navire-hondius-origine-et-mode-de-transmission-precises"
     },
     {
+      "id": "feed-ff6cab45cd",
+      "manual": false,
+      "date": "2026-11-13T13:37:10+00:00",
+      "date_label": "13 novembre 2026",
+      "tag": "media",
+      "title": "Hantavirus sur le navire Hondius : origine et mode de transmission précisés - Le Quotidien du Médecin",
+      "title_en": "Hantavirus sur le navire Hondius : origine et mode de transmission précisés - Le Quotidien du Médecin",
+      "body": "Hantavirus sur le navire Hondius : origine et mode de transmission précisés &nbsp;&nbsp; Le Quotidien du Médecin",
+      "body_en": "Hantavirus sur le navire Hondius : origine et mode de transmission précisés &nbsp;&nbsp; Le Quotidien du Médecin",
+      "source": "Google Actualités (FR)",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmlVMXJmVjAzWTk4SkhkdzlVM1lKbHhZdDAtc0dzVHNNZFYyQ0N0LTQwejdGaHdWbDlIYnNHUkstMHNCd1F3NGJUeUZCS3RVU212enlmbEQwWHFtSlJITlBMQmg2NjhIeWsxc3ZuS0pWTHZCb1pHYnVCRGpoeTdmOVlzUldQVmJkU0xoV2dfWlF5Snl4TkxUQ3pyUjh1MUxwWXVMb3k1SmhFd3RGeTA2THl2WEx3WkdNYmdPSWg0ZnA?oc=5"
+    },
+    {
       "id": "feed-4db9c0d83c",
       "manual": false,
       "date": "2026-11-13T12:38:09+00:00",
@@ -80,17 +93,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekF0SjJsRkFQNUstSU9ORFkwTTBrNGtXaVIxM3ZVQ1IzYjU3eXctbTNRUVByYnRpeXVrUktIamZaajhZTmloVFpuZldmTDF6UDMwUldITmxDSjQ5QjBubTRqbE5LT2ZuaV9PVjUzQUt6bWJPbUZHSXFQWlJzWE9sTEs4MFVxa1l2UVFfWEpFNkxjVl9JdEFKWmZ2STI0dXNGRDlvWDBQS2FfM3ppRWVvSXUxZWxUZDNoS0xmUnZNSGtZUlpV?oc=5"
     },
     {
-      "id": "feed-fa7b1e06ca",
+      "id": "feed-131deaa248",
       "manual": false,
-      "date": "2026-11-12T20:10:25+00:00",
-      "date_label": "12 novembre 2026",
+      "date": "2026-11-13T10:22:00+00:00",
+      "date_label": "13 novembre 2026",
       "tag": "media",
-      "title": "Hantavirus : les enseignements d'une enquête de chercheurs internationaux - tv5monde",
-      "title_en": "Hantavirus : les enseignements d'une enquête de chercheurs internationaux - tv5monde",
-      "body": "Hantavirus : les enseignements d'une enquête de chercheurs internationaux &nbsp;&nbsp; tv5monde",
-      "body_en": "Hantavirus : les enseignements d'une enquête de chercheurs internationaux &nbsp;&nbsp; tv5monde",
+      "title": "Hantavirus : une étude écarte la piste d'une mutation favorisant la transmission interhumaine - Whatsupdoc-lemag.fr",
+      "title_en": "Hantavirus : une étude écarte la piste d'une mutation favorisant la transmission interhumaine - Whatsupdoc-lemag.fr",
+      "body": "Hantavirus : une étude écarte la piste d'une mutation favorisant la transmission interhumaine &nbsp;&nbsp; Whatsupdoc-lemag.fr",
+      "body_en": "Hantavirus : une étude écarte la piste d'une mutation favorisant la transmission interhumaine &nbsp;&nbsp; Whatsupdoc-lemag.fr",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUtTdzd5VUl2cnJIOTBLUnItZF9OSnJOS1c2Z2hDbGNFN0FHeVBJX2I0YjlYTjJiZ3Z4SC1jNUpOay00blJBaVZiNUhtaFZBdFJLcXdweFdnc3dCS2pXQVVqZzR1QVFuTE5TNEZfYkxVblVXSGVmZk5Sam1PMkcxNGhsOXZhNzBfZEU2S3JjMTMzWXJWUWduSkFxeHZVNWlwSmowUDJQbHNpVnpMNV9tcEh3THk4dkI3LXdB?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMm54TDBUUHUwa0QycHJ3VXN3MUU2ZDBzX1FrQU52MG9TWlFuLVRhRzZ6VS1RTUNuSE9UZDQyYjRUeExvZUVFaGhLdGtPZ0t4eUJZU2tNUEIyR1dQSjNiazJ1dGZEUGFQU1M3cHZBVmZHZHI3amdIWHc4dUJvUDVydEdEelBNWVctMGFTcUFhbUNlUkxBTENKb05VSU1OSkgzYXp6aHpWVC1KTGxUTzJSa253U3FQeWdiSnZVRXAtQS03SlQtWFMyMHVB?oc=5"
     },
     {
       "id": "feed-8fb1a7a52e",
@@ -132,17 +145,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU25LTmJRblo2UjE5VFZjekRRYWZoUlNFUThqXzBERDdDZTM5S2FfN0xycWlnaDRsejQzZnI0eUxaT2NTQlBkVEtxVi1SUnpXUWhxTU9zcWQwSUtaV1N0WjRKN2JrSmZRZERwU1RrTkRiRGNxWlo2bDlsLWFSQmV5MHBQN0ExR3BkU2NUMF9IdjJCd3I5aXVpWVpUUFA5dDdrV0hBTHR6ZlhiMUllRUQxazVPenVSQkszdUQxOExHU2ZnY2lqZnlrTXVIMkVKNVJ0d2c?oc=5"
     },
     {
-      "id": "feed-307d7c6c5b",
+      "id": "feed-ab4a88489e",
       "manual": false,
-      "date": "2026-11-12T19:00:02+00:00",
+      "date": "2026-11-12T19:01:07+00:00",
       "date_label": "12 novembre 2026",
       "tag": "media",
-      "title": "Des scientifiques confirment la manière dont le hantavirus s'est propagé à bord du «Hondius» - 24 Heures",
-      "title_en": "Des scientifiques confirment la manière dont le hantavirus s'est propagé à bord du «Hondius» - 24 Heures",
-      "body": "Des scientifiques confirment la manière dont le hantavirus s'est propagé à bord du «Hondius» &nbsp;&nbsp; 24 Heures",
-      "body_en": "Des scientifiques confirment la manière dont le hantavirus s'est propagé à bord du «Hondius» &nbsp;&nbsp; 24 Heures",
+      "title": "Hantavirus: une étude confirme la transmission humaine à bord du navire MV Hondius - 20 Minuten",
+      "title_en": "Hantavirus: une étude confirme la transmission humaine à bord du navire MV Hondius - 20 Minuten",
+      "body": "Hantavirus: une étude confirme la transmission humaine à bord du navire MV Hondius &nbsp;&nbsp; 20 Minuten",
+      "body_en": "Hantavirus: une étude confirme la transmission humaine à bord du navire MV Hondius &nbsp;&nbsp; 20 Minuten",
       "source": "Google Actualités (FR)",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZW1hYkZCNDJsVV9QcWZFS3ZIckdGTklUZGNTZjBXY1RKd2J3WjFDLXdBVi1YMXFZdkdhZ09LdlJqb2NHbVpCTjJFY1FlVzZ1TjBjNm5qWUgxX2tjRFF3SnZJZmNrMGRWU0dHbUlqSTJTb3ZmNkhzOWNNZjZCWXpVV0ZGSWJqeC1VVmt3NTlPbVdKWkNNY1hkRw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzFYalZ0UFNVSTVYVWp3Z3h1VWszQTdSVkdOTTJDam0wWnZ2NEdRX09VS1V3VTQ5bUc5eUg1ck5FczItNjNyal9LZklxTENabEdiaVBvazFmNnlBNzhoMG9HRWNoYlZHcTB0WTRHRU5xcURPMmhrWlM3Nnd0SGt6dFg1TXl4QmtiYzZ1YU1NQmYzUVBON3BteUpLSlVfdnZjVm5WQk5LbzBTUHRRUzhPRlJYeDVyMUk?oc=5"
     },
     {
       "id": "feed-9db71ba541",
@@ -377,19 +390,6 @@
       "body_en": "L'épidémie d'hantavirus devrait officiellement prendre fin le 2 juillet, selon l’OMS &nbsp;&nbsp; VIDAL",
       "source": "Google Actualités (FR)",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMlpUUW1hT2lMYUNBVDE0ZG42ZGo5emZKTEl1Q2ZQaEdEaXo0Tm9haWoya3JzcEZwT2ZyZU5DeHlUT0s0ZWdHeENoREdJTkx0RXZ4WlVnN29IQ0U0R3dWcFhjcDVSYktYUmtsTERNd0VEZ2x4YkhTUjRDRnktMDFDUTc0S3pSd3FEOEgzc21uTFM2U1c5T0lWRXFiSkVvM2w0eWlIdWliUTdHNHI1ZmVERVlZUjVzal9WUUhlRUJCeC1Yamhm?oc=5"
-    },
-    {
-      "id": "feed-84337ed829",
-      "manual": false,
-      "date": "2026-06-24T07:00:00+00:00",
-      "date_label": "24 juin 2026",
-      "tag": "media",
-      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
-      "title_en": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
-      "body": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
-      "body_en": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
-      "source": "Google News (EN)",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5"
     }
   ]
 }
